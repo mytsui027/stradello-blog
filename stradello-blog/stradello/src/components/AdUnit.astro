@@ -1,0 +1,59 @@
+---
+// AdUnit.astro — Clean, non-intrusive ad placements for Google AdSense
+// Positions: leaderboard (728x90), rectangle (300x250), in-article, sidebar
+
+import { SITE } from '../config/site';
+
+interface Props {
+  slot: string;
+  format?: 'auto' | 'rectangle' | 'leaderboard' | 'in-article' | 'in-feed';
+  layout?: string;
+  class?: string;
+  label?: boolean; // show "Publicidade" label
+}
+
+const {
+  slot,
+  format = 'auto',
+  layout,
+  class: className,
+  label = true,
+} = Astro.props;
+
+const showAds = SITE.adsense.enabled && SITE.adsense.publisherId;
+---
+
+{showAds ? (
+  <div class:list={['ad-unit not-prose', className]} aria-label="Publicidade">
+    {label && (
+      <p class="text-center text-xs mb-1" style="color: var(--color-text-faint);" aria-hidden="true">
+        Publicidade
+      </p>
+    )}
+    <ins
+      class="adsbygoogle"
+      style="display:block"
+      data-ad-client={SITE.adsense.publisherId}
+      data-ad-slot={slot}
+      data-ad-format={format}
+      data-full-width-responsive="true"
+      data-ad-layout={layout}
+    />
+    <script>
+      try {
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      } catch (e) {}
+    </script>
+  </div>
+) : (
+  <!-- Ad placeholder — shown during development -->
+  <div
+    class:list={['ad-container not-prose text-center', className]}
+    aria-hidden="true"
+    role="presentation"
+  >
+    <span class="text-xs" style="color: var(--color-text-faint);">
+      Espaço publicitário · AdSense não configurado
+    </span>
+  </div>
+)}

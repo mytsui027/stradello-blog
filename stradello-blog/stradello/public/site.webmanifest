@@ -1,0 +1,21 @@
+{
+  "name": "Stradello",
+  "short_name": "Stradello",
+  "description": "Blog de slow travel para introvertidos e viajantes contemplativas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf9f7",
+  "theme_color": "#5d805b",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

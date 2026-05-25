@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { CATEGORIES } from '../../config/site';
+import { getCollection } from 'astro:content';
+import { sortByDate } from '../../utils/helpers';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+
+  return CATEGORIES.map((cat) => {
+    const posts = sortByDate(
+      allPosts.filter((p) =>
+        p.data.category.toLowerCase().replace(/\s+/g, '-') === cat.slug
+      )
+    );
+    return {
+      params: { slug: cat.slug },
+      props: { category: cat, posts },
+    };
+  });
+}
+
+const { category, posts } = Astro.props;
+---
+
+<BaseLayout
+  title={`${category.name} — Categorias`}
+  description={category.description}
+>
+  <section class="section-gap">
+    <div class="container-site">
+      <!-- Back link -->
+      <a
+        href="/categorias"
+        class="inline-flex items-center gap-2 text-sm mb-10 transition-colors hover:text-accent"
+        style="color: var(--color-text-muted);"
+      >
+        ← Todas as categorias
+      </a>
+
+      <!-- Header -->
+      <div class="flex items-start gap-5 mb-12">
+        <div
+          class="w-16 h-16 rounded-2xl flex items-center justify-center text-3xl shrink-0"
+          style="background: var(--color-bg-alt);"
+          aria-hidden="true"
+        >
+          {category.emoji}
+        </div>
+        <div>
+          <p class="section-label mb-1">Categoria</p>
+          <h1 class="section-title mb-2">{category.name}</h1>
+          <p class="text-sm leading-relaxed max-w-xl" style="color: var(--color-text-muted);">
+            {category.description}
+          </p>
+        </div>
+      </div>
+
+      <!-- Posts -->
+      {posts.length > 0 ? (
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {posts.map((post, i) => (
+            <div class="reveal" style={`animation-delay: ${i * 0.08}s;`}>
+              <ArticleCard
+                title={post.data.title}
+                description={post.data.description}
+                slug={post.slug}
+                pubDate={post.data.pubDate}
+                category={post.data.category}
+                categorySlug={category.slug}
+                heroImage={post.data.heroImage as unknown as string}
+                heroImageAlt={post.data.heroImageAlt}
+                author={post.data.author}
+                featured={post.data.featured}
+              />
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div class="text-center py-20 rounded-2xl" style="background: var(--color-bg-alt);">
+          <div class="text-5xl mb-5" aria-hidden="true">{category.emoji}</div>
+          <h2 class="font-display text-xl font-light mb-2" style="color: var(--color-text-muted);">
+            Em breve nesta categoria
+          </h2>
+          <p class="text-sm" style="color: var(--color-text-faint);">
+            Estamos escrevendo artigos sobre {category.name.toLowerCase()}. Fique de olho.
+          </p>
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>

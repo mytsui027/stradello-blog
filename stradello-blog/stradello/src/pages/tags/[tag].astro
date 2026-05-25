@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+import { sortByDate, getAllTags } from '../../utils/helpers';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+  const tags = getAllTags(allPosts);
+
+  return tags.map((tag) => ({
+    params: { tag },
+    props: {
+      tag,
+      posts: sortByDate(allPosts.filter((p) => p.data.tags.includes(tag))),
+    },
+  }));
+}
+
+const { tag, posts } = Astro.props;
+---
+
+<BaseLayout
+  title={`#${tag}`}
+  description={`Artigos com a tag "${tag}" no Stradello — slow travel, viagens contemplativas e destinos tranquilos.`}
+>
+  <section class="section-gap">
+    <div class="container-site">
+      <a href="/blog" class="inline-flex items-center gap-2 text-sm mb-10 transition-colors hover:text-accent" style="color: var(--color-text-muted);">
+        ← Todos os artigos
+      </a>
+
+      <div class="flex items-center gap-3 mb-10">
+        <span class="text-4xl font-display font-light" style="color: var(--color-text-faint);">#</span>
+        <h1 class="section-title">{tag}</h1>
+        <span class="badge badge-stone ml-2">{posts.length} artigo{posts.length !== 1 ? 's' : ''}</span>
+      </div>
+
+      {posts.length > 0 ? (
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {posts.map((post, i) => (
+            <div class="reveal" style={`animation-delay: ${i * 0.08}s;`}>
+              <ArticleCard
+                title={post.data.title}
+                description={post.data.description}
+                slug={post.slug}
+                pubDate={post.data.pubDate}
+                category={post.data.category}
+                categorySlug={post.data.category.toLowerCase().replace(/\s+/g, '-')}
+                heroImage={post.data.heroImage as unknown as string}
+                heroImageAlt={post.data.heroImageAlt}
+                author={post.data.author}
+              />
+            </div>
+          ))}
+        </div>
+      ) : (
+        <p class="text-center py-16" style="color: var(--color-text-muted);">Nenhum artigo encontrado com esta tag.</p>
+      )}
+    </div>
+  </section>
+</BaseLayout>

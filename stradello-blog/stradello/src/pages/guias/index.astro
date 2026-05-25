@@ -1,0 +1,128 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { sortByDate, formatDateShort } from '../../utils/helpers';
+
+const allGuides = await getCollection('guides', ({ data }) => !data.draft);
+const sorted = sortByDate(allGuides);
+---
+
+<BaseLayout
+  title="Guias de Destinos"
+  description="Guias autorais de slow travel para destinos tranquilos — escritos por viajantes que ficaram o tempo suficiente para realmente conhecer cada lugar."
+>
+  <!-- Hero -->
+  <section class="section-gap pb-10">
+    <div class="container-site">
+      <div class="max-w-2xl">
+        <p class="section-label mb-3">Guias de Destinos</p>
+        <h1 class="section-title mb-5" style="font-size: clamp(2.5rem, 1.5rem + 2.5vw, 4.5rem);">
+          Não listas.<br />
+          <em class="not-italic" style="color: var(--color-accent);">Convites.</em>
+        </h1>
+        <p class="text-base leading-relaxed max-w-lg" style="color: var(--color-text-muted);">
+          Nossos guias não são itinerários turísticos. São convites para habitar um lugar com calma, curiosidade e respeito pelo ritmo local. Cada guia é escrito por alguém que ficou o tempo suficiente.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Guides grid or empty state -->
+  <section class="container-site pb-20" aria-label="Lista de guias">
+    {sorted.length > 0 ? (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {sorted.map((guide, i) => (
+          <article
+            class="card group flex flex-col reveal"
+            style={`animation-delay: ${i * 0.09}s;`}
+            itemscope
+            itemtype="https://schema.org/TravelGuide"
+          >
+            <!-- Image placeholder / hero -->
+            <a href={`/guias/${guide.slug}`} class="card-image-wrap" tabindex="-1" aria-hidden="true">
+              {guide.data.heroImage ? (
+                <img
+                  src={guide.data.heroImage as unknown as string}
+                  alt={guide.data.heroImageAlt ?? guide.data.title}
+                  loading="lazy"
+                  decoding="async"
+                  class="w-full h-full object-cover"
+                  width="800"
+                  height="500"
+                />
+              ) : (
+                <div
+                  class="w-full h-full flex items-center justify-center"
+                  style="background: linear-gradient(135deg, var(--color-bg-alt) 0%, color-mix(in srgb, var(--color-accent) 12%, var(--color-bg)) 100%);"
+                >
+                  <span class="text-4xl" aria-hidden="true">🗺️</span>
+                </div>
+              )}
+            </a>
+
+            <div class="flex flex-col flex-1 p-5 md:p-6">
+              <!-- Meta badges -->
+              <div class="flex flex-wrap gap-2 mb-3">
+                <span class="badge-sage">{guide.data.country}</span>
+                {guide.data.duration && <span class="badge badge-stone">{guide.data.duration}</span>}
+                {guide.data.budget && <span class="badge badge-stone">{guide.data.budget}</span>}
+              </div>
+
+              <!-- Title -->
+              <h2
+                class="font-display font-medium text-xl leading-tight mb-2 transition-colors duration-200 group-hover:text-accent"
+                style="color: var(--color-heading); letter-spacing: -0.02em;"
+                itemprop="name"
+              >
+                <a href={`/guias/${guide.slug}`}>{guide.data.title}</a>
+              </h2>
+              <p class="text-sm leading-relaxed mb-4 line-clamp-2 flex-1" style="color: var(--color-text-muted);" itemprop="description">
+                {guide.data.description}
+              </p>
+
+              <!-- Best for tags -->
+              {guide.data.bestFor.length > 0 && (
+                <div class="flex flex-wrap gap-1.5 mb-4">
+                  {guide.data.bestFor.slice(0, 3).map((tag) => (
+                    <span class="text-xs px-2 py-0.5 rounded-full" style="background: var(--color-bg-alt); color: var(--color-text-muted);">
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+              )}
+
+              <!-- Footer meta -->
+              <div class="flex items-center justify-between pt-4" style="border-top: 1px solid var(--color-border-soft);">
+                <span class="text-xs font-medium" style="color: var(--color-accent);">
+                  {guide.data.destination}
+                </span>
+                <time class="text-xs" style="color: var(--color-text-faint);" datetime={guide.data.pubDate.toISOString()}>
+                  {formatDateShort(guide.data.pubDate)}
+                </time>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    ) : (
+      <div class="max-w-lg mx-auto text-center py-24">
+        <div
+          class="w-20 h-20 rounded-2xl flex items-center justify-center mx-auto mb-6 text-4xl"
+          style="background: var(--color-bg-alt);"
+          aria-hidden="true"
+        >
+          🗺️
+        </div>
+        <h2 class="font-display text-2xl font-light mb-3" style="color: var(--color-text-muted);">
+          Guias em construção
+        </h2>
+        <p class="text-sm leading-relaxed mb-8" style="color: var(--color-text-faint);">
+          Estamos escrevendo guias detalhados para destinos tranquilos. São textos que levam tempo — porque cada um merece ser feito com cuidado.
+        </p>
+        <a href="/newsletter" class="btn-accent">
+          Avisem-me quando publicarem
+        </a>
+      </div>
+    )}
+  </section>
+</BaseLayout>
