@@ -1,0 +1,127 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import NewsletterBanner from '../components/NewsletterBanner.astro';
+import { SITE } from '../config/site';
+---
+
+<BaseLayout
+  title="Sobre o Stradello"
+  description="Conheça o Stradello — um blog de slow travel criado para viajantes introvertidos que preferem experiências calmas, autênticas e contemplativas ao turismo convencional."
+>
+  <!-- Hero -->
+  <section class="section-gap">
+    <div class="container-site">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-24 items-center">
+        <div class="stagger-children">
+          <p class="section-label mb-4">Sobre</p>
+          <h1
+            class="section-title mb-6"
+            style="font-size: clamp(2.5rem, 1.5rem + 2.5vw, 4.5rem);"
+          >
+            Uma viagem começa<br />
+            <em class="not-italic" style="color: var(--color-accent);">antes</em> da partida.
+          </h1>
+          <div class="space-y-4 text-base leading-relaxed" style="color: var(--color-text-muted);">
+            <p>
+              O Stradello nasceu de uma percepção simples: a maioria dos blogs de viagem fala para o viajante que quer ver tudo, visitar todos os pontos turísticos e transformar a viagem numa lista de tarefas.
+
+Mas existe outro tipo de viajante — e talvez você seja um deles.
+            </p>
+            <p>
+              Alguém que prefere passar horas numa cafeteria local a correr entre atrações. Que valoriza mais a atmosfera de um lugar do que o roteiro perfeito. Que precisa de silêncio, tempo e presença para realmente absorver uma viagem.
+            </p>
+            <p>
+              Para esse viajante, existe o Stradello.
+            </p>
+          </div>
+        </div>
+
+        <div class="reveal">
+          <div
+            class="rounded-2xl p-12 text-center"
+            style="background: linear-gradient(145deg, var(--color-bg-alt) 0%, color-mix(in srgb, var(--color-accent) 10%, var(--color-bg)) 100%);"
+          >
+            <blockquote class="font-display font-light" style="font-size: clamp(1.25rem, 1rem + 1vw, 1.75rem); color: var(--color-heading); letter-spacing: -0.02em; line-height: 1.3;">
+              "Stradello" é uma palavra italiana para <em>viela</em>, <em>caminho secundário</em>, <em>trilha menos percorrida.</em>
+            </blockquote>
+            <p class="mt-6 text-sm" style="color: var(--color-text-muted);">
+              É exatamente esse o espírito que guia cada artigo publicado aqui.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Divider -->
+  <div class="container-site">
+    <div class="divider" aria-hidden="true"></div>
+  </div>
+
+  <!-- Values -->
+  <section class="section-gap" aria-labelledby="values-heading">
+    <div class="container-site">
+      <div class="max-w-xl mb-12">
+        <p class="section-label mb-3">O que nos guia</p>
+        <h2 id="values-heading" class="section-title">
+          Nossos princípios editoriais
+        </h2>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {[
+          {
+            icon: '🌿',
+            title: 'Autenticidade acima de popularidade',
+            text: 'Não escrevemos sobre destinos porque são populares. Escrevemos porque têm algo genuíno a oferecer — uma história, um ritmo, uma essência que vale a visita.',
+          },
+          {
+            icon: '🐢',
+            title: 'Lentidão como filosofia',
+            text: 'Slow travel não é um estilo de viagem. É uma maneira de estar no mundo. Acreditamos que viajar devagar permite experiências mais profundas e menos cansativas.',
+          },
+          {
+            icon: '🤍',
+            title: 'Respeito pelo introvertido',
+            text: 'Sabemos que viajar também pode ser cansativo. Por isso, buscamos experiências mais tranquilas, acolhedoras e pensadas em quem prefere explorar o mundo sem excesso de estímulos.',
+          },
+          {
+            icon: '📝',
+            title: 'Conteúdo autoral, não genérico',
+            text: 'Nenhum artigo é uma lista superficial. Cada texto é uma experiência narrada, um convite, uma perspectiva honesta — não um compilado de informações turísticas.',
+          },
+          {
+            icon: '🌍',
+            title: 'Turismo consciente',
+            text: 'Privilegiamos o turismo de baixo impacto, hospedagem local e experiências que beneficiam as comunidades visitadas, não apenas as grandes redes.',
+          },
+          {
+            icon: '✂️',
+            title: 'Menos é mais',
+            text: 'Tanto no design quanto no conteúdo, escolhemos a simplicidade. Sem banners, sem listas infinitas, sem ruído — apenas o essencial, com cuidado.',
+          },
+        ].map((item, i) => (
+          <div
+            class="reveal flex gap-5 p-6 rounded-xl border"
+            style={`border-color: var(--color-border-soft); background: var(--color-bg-card); animation-delay: ${i * 0.08}s;`}
+          >
+            <span class="text-2xl shrink-0" aria-hidden="true">{item.icon}</span>
+            <div>
+              <h3 class="font-display font-medium text-lg mb-2" style="color: var(--color-heading); letter-spacing: -0.01em;">
+                {item.title}
+              </h3>
+              <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">{item.text}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Newsletter -->
+  <section class="section-gap" style="background: var(--color-bg-alt);">
+    <div class="container-site">
+      <NewsletterBanner variant="full" />
+    </div>
+  </section>
+</BaseLayout>

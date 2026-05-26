@@ -1,0 +1,112 @@
+---
+interface Props {
+  variant?: 'full' | 'compact' | 'inline';
+}
+
+const { variant = 'full' } = Astro.props;
+---
+
+{variant === 'full' && (
+  <section
+    class="relative overflow-hidden rounded-2xl px-8 py-14 md:px-16 md:py-20 text-center"
+    style="background: var(--color-bg-alt);"
+    aria-labelledby="newsletter-heading"
+  >
+    <!-- Decorative background -->
+    <div class="absolute inset-0 pointer-events-none" aria-hidden="true">
+      <div
+        class="absolute top-0 right-0 w-64 h-64 rounded-full blur-3xl opacity-20"
+        style="background: var(--color-accent); transform: translate(30%, -30%);"
+      />
+      <div
+        class="absolute bottom-0 left-0 w-48 h-48 rounded-full blur-2xl opacity-15"
+        style="background: var(--color-accent); transform: translate(-30%, 30%);"
+      />
+    </div>
+
+    <div class="relative">
+      <p class="section-label mb-4">Newsletter</p>
+      <h2
+        id="newsletter-heading"
+        class="font-display font-light mb-4"
+        style="font-size: clamp(1.75rem, 1rem + 2vw, 2.75rem); color: var(--color-heading); letter-spacing: -0.03em; line-height: 1.1;"
+      >
+        Viajar devagar começa<br />
+        com uma boa carta.
+      </h2>
+      <p class="text-sm leading-relaxed mb-8 mx-auto max-w-md" style="color: var(--color-text-muted);">
+        Destinos quietos, reflexões sobre slow travel e guias autorais enviados com calma — sem spam, sem pressa. Só o essencial.
+      </p>
+
+      <form
+        action="/api/newsletter"
+        method="post"
+        class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto"
+        aria-label="Formulário de inscrição na newsletter"
+      >
+        <label for="newsletter-email" class="sr-only">Seu endereço de e-mail</label>
+        <input
+          id="newsletter-email"
+          type="email"
+          name="email"
+          placeholder="seu@email.com"
+          required
+          class="flex-1 px-5 py-3.5 rounded-full text-sm border outline-none transition-all duration-200 focus:ring-2"
+          style="
+            background: var(--color-bg-card);
+            border-color: var(--color-border);
+            color: var(--color-text);
+            --tw-ring-color: var(--color-accent);
+          "
+          aria-required="true"
+        />
+        <button
+          type="submit"
+          class="btn-accent whitespace-nowrap"
+        >
+          Assinar agora
+        </button>
+      </form>
+      <p class="text-xs mt-4" style="color: var(--color-text-faint);">
+        Sem spam. Cancele quando quiser.
+      </p>
+    </div>
+  </section>
+)}
+
+{variant === 'compact' && (
+  <div
+    class="flex flex-col sm:flex-row items-center gap-5 p-6 rounded-xl border"
+    style="border-color: var(--color-border); background: var(--color-bg-alt);"
+  >
+    <div class="flex-1">
+      <p class="font-display font-medium text-lg" style="color: var(--color-heading); letter-spacing: -0.01em;">
+        Receba destinos quietos na sua caixa de entrada
+      </p>
+      <p class="text-sm mt-1" style="color: var(--color-text-muted);">
+        Guias autorais de slow travel, sem pressa.
+      </p>
+    </div>
+    <a href="/newsletter" class="btn-accent whitespace-nowrap shrink-0">
+      Assinar newsletter
+    </a>
+  </div>
+)}
+
+{variant === 'inline' && (
+  <aside
+    class="my-10 p-7 rounded-xl border-l-4"
+    style="background: var(--color-bg-alt); border-left-color: var(--color-accent);"
+    aria-label="Assine a newsletter"
+  >
+    <p class="font-display font-medium text-xl mb-1" style="color: var(--color-heading);">
+      Gostou? Receba mais.
+    </p>
+    <p class="text-sm mb-4" style="color: var(--color-text-muted);">
+      Nossa newsletter chega devagar, mas chega com intenção.
+    </p>
+    <a href="/newsletter" class="btn-primary text-sm">
+      Assinar gratuitamente →
+    </a>
+  </aside>
+)}

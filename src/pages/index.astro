@@ -1,0 +1,421 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import NewsletterBanner from '../components/NewsletterBanner.astro';
+import AdUnit from '../components/AdUnit.astro';
+import { SITE, CATEGORIES, FEATURED_POSTS_COUNT } from '../config/site';
+import { getCollection } from 'astro:content';
+import { sortByDate } from '../utils/helpers';
+
+// Fetch content
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const sorted = sortByDate(allPosts);
+const featured = sorted.filter((p) => p.data.featured).slice(0, 1);
+const heroPost = featured[0] ?? sorted[0];
+const recentPosts = sorted.filter((p) => p.slug !== heroPost?.slug).slice(0, 6);
+const featuredPosts = sorted.filter((p) => p.data.featured && p.slug !== heroPost?.slug).slice(0, FEATURED_POSTS_COUNT - 1);
+
+// Website Schema
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITE.name,
+  url: SITE.url,
+  description: SITE.description,
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${SITE.url}/busca?q={search_term_string}`,
+    'query-input': 'required name=search_term_string',
+  },
+};
+---
+
+<BaseLayout
+  title={undefined}
+  description={SITE.description}
+  structuredData={websiteSchema}
+>
+  <!-- ═══════════════════════════════════════════
+       HERO — Editorial full-width feature
+  ════════════════════════════════════════════ -->
+  <section
+    class="relative overflow-hidden"
+    aria-labelledby="hero-heading"
+  >
+    <!-- Background texture / mood -->
+    <div
+      class="absolute inset-0 pointer-events-none"
+      style="background: linear-gradient(135deg, color-mix(in srgb, var(--color-accent) 6%, transparent) 0%, transparent 60%);"
+      aria-hidden="true"
+    />
+
+    <div class="container-site py-16 md:py-24 lg:py-28">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
+
+        <!-- Text content -->
+        <div class="stagger-children">
+          <div class="flex items-center gap-3 mb-6">
+            <span class="divider-short" aria-hidden="true"></span>
+            <span class="section-label">Slow Travel · Viagens Contemplativas</span>
+          </div>
+
+          <h1
+            id="hero-heading"
+            class="hero-title mb-6 text-balance"
+          >
+            Viajar sem pressa.<br />
+<em class="not-italic" style="color: var(--color-accent);">Respirar</em> de verdade.
+</h1>
+          <p
+            class="text-lg leading-relaxed mb-8 max-w-lg font-sans""
+            style="color: var(--color-text-muted); font-size: clamp(1rem, 0.9rem + 0.4vw, 1.2rem);"
+          >
+            Destinos quietos, cidades pequenas, cafeterias aconchegantes e natureza que cura. Um blog para viajantes que preferem profundidade ao espetáculo.
+          </p>
+
+          <div class="flex flex-wrap gap-3">
+            <a href="/blog" class="btn-primary">
+              Explorar artigos
+            </a>
+            <a href="/guias" class="btn-outline">
+              Ver guias de destinos
+            </a>
+          </div>
+
+          <!-- Trust signals -->
+          <div class="flex items-center gap-6 mt-10 pt-8" style="border-top: 1px solid var(--color-border-soft);">
+            <div class="text-center">
+              <p class="font-display font-medium text-2xl" style="color: var(--color-heading);">+50</p>
+              <p class="text-xs" style="color: var(--color-text-faint);">Destinos</p>
+            </div>
+            <div class="w-px h-8" style="background: var(--color-border);" aria-hidden="true"></div>
+            <div class="text-center">
+              <p class="font-display font-medium text-2xl" style="color: var(--color-heading);">Autoral</p>
+              <p class="text-xs" style="color: var(--color-text-faint);">Sem genérico</p>
+            </div>
+            <div class="w-px h-8" style="background: var(--color-border);" aria-hidden="true"></div>
+            <div class="text-center">
+              <p class="font-display font-medium text-2xl" style="color: var(--color-heading);">Calmo</p>
+              <p class="text-xs" style="color: var(--color-text-faint);">Sem pressa</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Hero featured post or decorative image -->
+        <div class="reveal">
+          {heroPost ? (
+            <article class="relative">
+              <a href={`/blog/${heroPost.slug}`} class="block group">
+                <!-- Image -->
+                <div
+                  class="img-overlay rounded-2xl overflow-hidden"
+                  style="aspect-ratio: 4/3;"
+                >
+                  {heroPost.data.heroImage ? (
+                    <img
+                      src={heroPost.data.heroImage as unknown as string}
+                      alt={heroPost.data.heroImageAlt ?? heroPost.data.title}
+                      class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                      loading="eager"
+                      fetchpriority="high"
+                      width="800"
+                      height="600"
+                    />
+                  ) : (
+                    <div
+                      class="w-full h-full flex items-center justify-center"
+                      style="background: linear-gradient(135deg, var(--color-bg-alt) 0%, color-mix(in srgb, var(--color-accent) 15%, var(--color-bg)) 100%);"
+                    >
+                      <svg width="60" height="60" viewBox="0 0 28 28" fill="none" aria-hidden="true">
+                        <path d="M14 3C14 3 6 8 6 16C6 20.4183 9.58172 24 14 24C18.4183 24 22 20.4183 22 16C22 8 14 3 14 3Z" fill="var(--color-accent)" opacity="0.4" />
+                      </svg>
+                    </div>
+                  )}
+
+                  <!-- Overlay text -->
+                  <div class="absolute inset-0 flex flex-col justify-end p-6 md:p-8 z-10">
+                    <span class="badge-sage mb-3 w-fit">{heroPost.data.category}</span>
+                    <h2
+                      class="font-display font-medium text-white leading-tight"
+                      style="font-size: clamp(1.25rem, 1rem + 1vw, 1.75rem); letter-spacing: -0.02em;"
+                    >
+                      {heroPost.data.title}
+                    </h2>
+                    <p class="text-sm mt-2 text-white/75 line-clamp-2">
+                      {heroPost.data.description}
+                    </p>
+                  </div>
+                </div>
+              </a>
+            </article>
+          ) : (
+            <!-- Decorative when no posts -->
+            <div
+              class="rounded-2xl aspect-[4/3] flex flex-col items-center justify-center gap-4 text-center p-10"
+              style="background: linear-gradient(135deg, var(--color-bg-alt) 0%, color-mix(in srgb, var(--color-accent) 10%, var(--color-bg)) 100%);"
+            >
+              <svg width="60" height="60" viewBox="0 0 28 28" fill="none" aria-hidden="true">
+                <path d="M14 3C14 3 6 8 6 16C6 20.4183 9.58172 24 14 24C18.4183 24 22 20.4183 22 16C22 8 14 3 14 3Z" fill="var(--color-accent)" opacity="0.5" />
+                <path d="M14 24V12" stroke="var(--color-bg)" stroke-width="1.5" stroke-linecap="round" />
+              </svg>
+              <p class="font-display text-xl font-light" style="color: var(--color-text-muted);">
+                Em construção com calma
+              </p>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       AD — Leaderboard (728×90 equivalent)
+  ════════════════════════════════════════════ -->
+  <div class="container-site">
+    <AdUnit slot="XXXXXXXXXX" format="auto" class="my-4" />
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       CATEGORIES — Visual grid
+  ════════════════════════════════════════════ -->
+  <section
+    class="section-gap"
+    aria-labelledby="categories-heading"
+  >
+    <div class="container-site">
+      <div class="flex items-end justify-between mb-10">
+        <div>
+          <p class="section-label mb-2">Explore por tema</p>
+          <h2 id="categories-heading" class="section-title">
+            Que tipo de<br />viagem é a sua?
+          </h2>
+        </div>
+        <a href="/categorias" class="btn-outline hidden sm:inline-flex">
+          Ver todas →
+        </a>
+      </div>
+
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
+        {CATEGORIES.map((cat, i) => (
+          <a
+            href={`/categorias/${cat.slug}`}
+            class="reveal group flex flex-col items-center gap-3 p-5 rounded-xl border transition-all duration-300 text-center"
+            style={`
+              border-color: var(--color-border-soft);
+              background: var(--color-bg-card);
+              animation-delay: ${i * 0.06}s;
+            `}
+          >
+            <span class="text-2xl transition-transform duration-300 group-hover:scale-125" aria-hidden="true">
+              {cat.emoji}
+            </span>
+            <span
+              class="text-xs font-medium leading-tight transition-colors duration-200 group-hover:text-accent"
+              style="color: var(--color-text-muted);"
+            >
+              {cat.name}
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       RECENT ARTICLES
+  ════════════════════════════════════════════ -->
+  <section
+    class="section-gap"
+    style="background: var(--color-bg-alt);"
+    aria-labelledby="recent-heading"
+  >
+    <div class="container-site">
+      <div class="flex items-end justify-between mb-10">
+        <div>
+          <p class="section-label mb-2">Publicações recentes</p>
+          <h2 id="recent-heading" class="section-title">
+            Últimas histórias
+          </h2>
+        </div>
+        <a href="/blog" class="btn-outline hidden sm:inline-flex">
+          Ver todos →
+        </a>
+      </div>
+
+      {recentPosts.length > 0 ? (
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {recentPosts.map((post, i) => (
+            <div class="reveal" style={`animation-delay: ${i * 0.1}s;`}>
+              <ArticleCard
+                title={post.data.title}
+                description={post.data.description}
+                slug={post.slug}
+                pubDate={post.data.pubDate}
+                category={post.data.category}
+                categorySlug={post.data.category.toLowerCase().replace(/\s+/g, '-')}
+                heroImage={post.data.heroImage as unknown as string}
+                heroImageAlt={post.data.heroImageAlt}
+                author={post.data.author}
+                featured={post.data.featured}
+              />
+            </div>
+          ))}
+        </div>
+      ) : (
+        <div class="text-center py-20">
+          <p class="font-display text-2xl font-light mb-3" style="color: var(--color-text-muted);">
+            Os primeiros artigos estão a caminho
+          </p>
+          <p class="text-sm" style="color: var(--color-text-faint);">
+            Enquanto isso, assine nossa newsletter para ser o primeiro a saber.
+          </p>
+        </div>
+      )}
+
+      <div class="mt-8 text-center sm:hidden">
+        <a href="/blog" class="btn-outline">Ver todos os artigos →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       SLOW TRAVEL MANIFESTO — Editorial section
+  ════════════════════════════════════════════ -->
+  <section
+    class="section-gap overflow-hidden"
+    aria-labelledby="manifesto-heading"
+  >
+    <div class="container-site">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
+
+        <!-- Decorative visual -->
+        <div class="reveal order-2 lg:order-1">
+          <div
+            class="relative rounded-2xl overflow-hidden"
+            style="aspect-ratio: 1;"
+          >
+            <div
+              class="absolute inset-0"
+              style="background: linear-gradient(145deg, color-mix(in srgb, var(--color-accent) 15%, var(--color-bg-alt)) 0%, var(--color-bg-alt) 100%);"
+            />
+            <!-- Decorative quote -->
+            <div class="absolute inset-0 flex items-center justify-center p-12">
+              <blockquote class="text-center">
+                <p
+  class="mb-8 max-w-lg"
+  style="
+    color: var(--color-text-muted);
+    font-size: 1.15rem;
+    line-height: 1.9;
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    letter-spacing: 0;
+  "
+>
+                  "Viajar não precisa ser intenso para ser inesquecível. Alguns lugares foram feitos para desacelerar."
+                </p>
+                <footer class="mt-6 text-sm" style="color: var(--color-text-muted);">
+                  — Stradello
+                </footer>
+              </blockquote>
+            </div>
+
+            <!-- Decorative elements -->
+            <div
+              class="absolute top-6 right-6 w-16 h-16 rounded-full"
+              style="background: var(--color-accent); opacity: 0.12;"
+              aria-hidden="true"
+            />
+            <div
+              class="absolute bottom-8 left-8 w-8 h-8 rounded-full"
+              style="background: var(--color-accent); opacity: 0.20;"
+              aria-hidden="true"
+            />
+          </div>
+        </div>
+
+        <!-- Text -->
+        <div class="order-1 lg:order-2 stagger-children">
+          <span class="section-label block mb-4">Sobre slow travel</span>
+          <h2
+            id="manifesto-heading"
+            class="section-title mb-6"
+          >
+  Por que desacelerar muda a forma de viajar
+</h2>
+
+<div class="space-y-4 text-sm leading-relaxed" style="color: var(--color-text-muted);">
+  <p>
+    Viajar devagar não significa fazer menos. Significa viver melhor cada lugar.
+  </p>
+
+  <p>
+    Trocar a pressa pela presença. O roteiro rígido pela liberdade de descobrir sem expectativa. Trocar a correria dos roteiros turísticos por experiências mais calmas, humanas e memoráveis.
+  </p>
+
+  <p>
+    O Stradello nasceu para quem sente que viajar também pode ser descanso — não apenas movimento.
+  </p>
+
+  <p>
+    Aqui, você vai encontrar destinos tranquilos, experiências mais humanas e viagens que valorizam o silêncio, o tempo e a conexão verdadeira com o lugar.
+  </p>
+          </div>
+          <div class="mt-8">
+            <a href="/sobre" class="btn-outline">
+              Conheça o Stradello →
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       NEWSLETTER — Full CTA
+  ════════════════════════════════════════════ -->
+  <section class="section-gap" aria-labelledby="newsletter-heading">
+    <div class="container-site">
+      <NewsletterBanner variant="full" />
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       GUIDES TEASER
+  ════════════════════════════════════════════ -->
+  <section
+    class="section-gap"
+    style="background: var(--color-bg-alt);"
+    aria-labelledby="guides-heading"
+  >
+    <div class="container-site">
+      <div class="max-w-2xl mx-auto text-center mb-12">
+        <p class="section-label mb-3">Guias de destinos</p>
+        <h2 id="guides-heading" class="section-title mb-4">
+          Não listas. Convites.
+        </h2>
+        <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
+          Nossos guias não são itinerários turísticos. São convites para habitar um lugar — com calma, curiosidade e respeito pelo ritmo local.
+        </p>
+      </div>
+
+      <!-- CTA card -->
+      <div
+        class="max-w-lg mx-auto rounded-2xl p-8 text-center border"
+        style="border-color: var(--color-border); background: var(--color-bg-card);"
+      >
+        <div class="text-4xl mb-4" aria-hidden="true">🗺️</div>
+        <h3 class="font-display text-xl font-medium mb-2" style="color: var(--color-heading);">
+          Guias em construção
+        </h3>
+        <p class="text-sm mb-6" style="color: var(--color-text-muted);">
+          Estamos escrevendo guias detalhados para destinos tranquilos. Assine a newsletter para ser avisado quando publicarmos.
+        </p>
+        <a href="/guias" class="btn-accent">
+          Ver guias disponíveis
+        </a>
+      </div>
+    </div>
+  </section>
+
+</BaseLayout>

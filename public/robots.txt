@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Block draft content
+Disallow: /draft/
+
+# Sitemaps
+Sitemap: https://stradello.com/sitemap-index.xml
+
+# Crawl-delay for bots that respect it
+Crawl-delay: 10

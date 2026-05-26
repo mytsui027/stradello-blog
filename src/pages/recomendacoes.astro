@@ -1,0 +1,173 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const recommendations = [
+ 
+  {
+    category: 'Aplicativos Úteis',
+    emoji: '📱',
+    items: [
+      {
+        name: 'Notion',
+        description: 'Para organizar roteiros, listas e diários de viagem. Funciona offline — essencial para áreas sem sinal.',
+        type: 'App',
+        link: 'https://notion.so',
+        affiliate: false,
+      },
+      {
+        name: 'Maps.me',
+        description: 'Mapas offline detalhados. Indispensável para explorar cidades pequenas sem depender de internet.',
+        type: 'App',
+        link: 'https://maps.me',
+        affiliate: false,
+      },
+      {
+        name: 'Calm',
+        description: 'Meditação e sons ambientes. Ótimo para recarregar após dias de exploração intensa.',
+        type: 'App',
+        link: 'https://calm.com',
+        affiliate: false,
+      },
+    ],
+  },
+  {
+    category: 'Equipamentos de Viagem',
+    emoji: '🎒',
+    items: [
+      {
+        name: 'Kindle Paperwhite',
+        description: 'A melhor companhia de viagem para quem ama ler. Leve, com bateria que dura semanas e sem luz azul excessiva.',
+        type: 'Produto',
+        link: '#',
+        affiliate: true,
+      },
+      {
+        name: 'Fone com cancelamento de ruído',
+        description: 'Para introvertidos, um bom fone é proteção e refúgio. Recomendamos os Sony WH-1000XM5 ou Bose QuietComfort.',
+        type: 'Produto',
+        link: '#',
+        affiliate: true,
+      },
+      {
+        name: 'Mochila de cabine 40L',
+        description: 'Viajar com mochila de cabine muda tudo. Menos tempo esperando, mais liberdade de movimento e sem taxas de bagagem.',
+        type: 'Dica',
+        link: null,
+        affiliate: false,
+      },
+    ],
+  },
+  {
+    category: 'Plataformas de Hospedagem',
+    emoji: '🏡',
+    items: [
+      {
+        name: 'Booking.com',
+        description: 'Para encontrar pousadas locais e pequenos hotéis boutique. Filtre por "café da manhã incluso" e "propriedade pequena".',
+        type: 'Plataforma',
+        link: '#',
+        affiliate: true,
+      },
+      {
+        name: 'Airbnb',
+        description: 'Especialmente útil para estadias longas. Quartos em casas locais oferecem a imersão que hotéis não conseguem.',
+        type: 'Plataforma',
+        link: '#',
+        affiliate: true,
+      },
+      {
+        name: 'Coolstays',
+        description: 'Especializada em acomodações únicas — cabanas, casas na árvore, tendas de glamping. A alternativa para experiências memoráveis.',
+        type: 'Plataforma',
+        link: 'https://coolstays.com',
+        affiliate: false,
+      },
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title="Recomendações"
+  description="Aplicativos, equipamentos e plataformas recomendados pelo Stradello para quem viaja devagar, de forma consciente e autêntica."
+>
+  <section class="section-gap">
+    <div class="container-site">
+      <!-- Header -->
+      <div class="max-w-2xl mb-14">
+        <p class="section-label mb-3">Recomendações</p>
+        <h1 class="section-title mb-5" style="font-size: clamp(2.5rem, 1.5rem + 2.5vw, 4rem);">
+          O que usamos.<br />
+          O que amamos.
+        </h1>
+        <p class="text-base leading-relaxed" style="color: var(--color-text-muted);">
+          Seleção honesta de livros, apps, produtos e plataformas que realmente fazem diferença para quem viaja devagar. Alguns links são de afiliados — isso nos ajuda a manter o blog gratuito.
+        </p>
+
+        <!-- Affiliate disclosure -->
+        <div class="mt-5 p-4 rounded-xl text-sm" style="background: var(--color-bg-alt); color: var(--color-text-muted);">
+          <strong style="color: var(--color-text);">Transparência:</strong> Itens marcados com ✦ são links de afiliados. Você não paga nada a mais — recebemos uma pequena comissão se comprar através deles. Só recomendamos o que realmente usamos ou conhecemos bem.
+        </div>
+      </div>
+
+      <!-- Recommendation sections -->
+      <div class="space-y-16">
+        {recommendations.map((section, si) => (
+          <div class="reveal" style={`animation-delay: ${si * 0.1}s;`}>
+            <!-- Section header -->
+            <div class="flex items-center gap-3 mb-6">
+              <span class="text-2xl" aria-hidden="true">{section.emoji}</span>
+              <h2 class="font-display text-2xl font-medium" style="color: var(--color-heading); letter-spacing: -0.02em;">
+                {section.category}
+              </h2>
+            </div>
+
+            <!-- Items grid -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {section.items.map((item) => (
+                <div
+                  class="group p-5 rounded-xl border transition-all duration-300 hover:shadow-md"
+                  style="border-color: var(--color-border); background: var(--color-bg-card);"
+                >
+                  <!-- Type & affiliate badge -->
+                  <div class="flex items-center justify-between mb-3">
+                    <span class="badge badge-stone">{item.type}</span>
+                    {item.affiliate && (
+                      <span class="text-xs" style="color: var(--color-text-faint);" title="Link de afiliado">✦ Afiliado</span>
+                    )}
+                  </div>
+
+                  <!-- Name -->
+                  <h3 class="font-display font-medium text-base mb-2" style="color: var(--color-heading); letter-spacing: -0.01em;">
+                    {item.name}
+                  </h3>
+
+                  <!-- Description -->
+                  <p class="text-sm leading-relaxed mb-4" style="color: var(--color-text-muted);">
+                    {item.description}
+                  </p>
+
+                  <!-- CTA -->
+                  {item.link && (
+                    <a
+                      href={item.link}
+                      target={item.link.startsWith('http') ? '_blank' : undefined}
+                      rel={item.link.startsWith('http') ? 'noopener noreferrer' + (item.affiliate ? ' sponsored' : '') : undefined}
+                      class="inline-flex items-center gap-1.5 text-sm font-medium transition-colors duration-200"
+                      style="color: var(--color-accent);"
+                    >
+                      Ver mais
+                      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/>
+                      </svg>
+                    </a>
+                  )}
+                </div>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
