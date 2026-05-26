@@ -1,0 +1,292 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import NewsletterBanner from '../components/NewsletterBanner.astro';
+import AdUnit from '../components/AdUnit.astro';
+import { SITE } from '../config/site';
+import { formatDate, formatDateISO, readingTime, generateArticleSchema, generateBreadcrumbSchema } from '../utils/helpers';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+const { data } = post;
+
+const content = post.body;
+const minutes = data.readingTime ?? readingTime(content);
+
+const canonicalUrl = data.canonicalUrl ?? `${SITE.url}/blog/${post.slug}`;
+const ogImage = data.ogImage ?? (data.heroImage as unknown as string) ?? `${SITE.url}/og-default.jpg`;
+
+const articleSchema = generateArticleSchema({
+  title: data.title,
+  description: data.description,
+  url: canonicalUrl,
+  image: ogImage,
+  datePublished: data.pubDate,
+  dateModified: data.updatedDate,
+  author: data.author ?? SITE.author.name,
+  siteName: SITE.name,
+  siteUrl: SITE.url,
+});
+
+const breadcrumbSchema = generateBreadcrumbSchema([
+  { name: 'Início', url: SITE.url },
+  { name: 'Blog', url: `${SITE.url}/blog` },
+  { name: data.category, url: `${SITE.url}/categorias/${data.category.toLowerCase().replace(/\s+/g, '-')}` },
+  { name: data.title, url: canonicalUrl },
+]);
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  ogImage={ogImage}
+  ogType="article"
+  canonicalUrl={canonicalUrl}
+  noindex={data.noindex}
+  structuredData={[articleSchema, breadcrumbSchema]}
+>
+  <!-- Reading progress bar -->
+  <div id="reading-progress" class="reading-progress" role="progressbar" aria-valuenow={0} aria-valuemin={0} aria-valuemax={100} aria-label="Progresso de leitura" />
+
+  <!-- Breadcrumb -->
+  <nav
+    class="container-site pt-4 pb-0"
+    aria-label="Trilha de navegação"
+  >
+    <ol class="flex items-center gap-2 text-xs flex-wrap" style="color: var(--color-text-faint);">
+      <li><a href="/" class="hover:text-muted transition-colors">Início</a></li>
+      <li aria-hidden="true">›</li>
+      <li><a href="/blog" class="hover:text-muted transition-colors">Blog</a></li>
+      <li aria-hidden="true">›</li>
+      <li>
+        <a
+          href={`/categorias/${data.category.toLowerCase().replace(/\s+/g, '-')}`}
+          class="hover:text-muted transition-colors"
+        >
+          {data.category}
+        </a>
+      </li>
+      <li aria-hidden="true">›</li>
+      <li class="line-clamp-1 max-w-48" style="color: var(--color-text-muted);">{data.title}</li>
+    </ol>
+  </nav>
+
+  <article
+    class="pt-10 pb-16"
+    itemscope
+    itemtype="https://schema.org/TravelArticle"
+  >
+    <!-- Article header -->
+    <header class="container-narrow mb-10">
+      <!-- Category & tags -->
+      <div class="flex flex-wrap items-center gap-2 mb-6">
+        <a
+          href={`/categorias/${data.category.toLowerCase().replace(/\s+/g, '-')}`}
+          class="badge-sage"
+        >
+          {data.category}
+        </a>
+        {data.featured && <span class="badge badge-stone">✦ Destaque</span>}
+        {data.tags.slice(0, 2).map((tag) => (
+          <a href={`/tags/${tag}`} class="badge badge-stone hover:opacity-80 transition-opacity">
+            {tag}
+          </a>
+        ))}
+      </div>
+
+      <!-- Title -->
+      <h1
+        class="font-display font-medium mb-5 text-balance"
+        style="font-size: clamp(2rem, 1.2rem + 2.5vw, 3.5rem); color: var(--color-heading); letter-spacing: -0.03em; line-height: 1.1;"
+        itemprop="headline"
+      >
+        {data.title}
+      </h1>
+
+      <!-- Description / Lead -->
+      <p
+        class="text-lg leading-relaxed mb-7"
+        style="color: var(--color-text-muted); font-size: clamp(1rem, 0.9rem + 0.4vw, 1.2rem); font-family: var(--font-serif);"
+        itemprop="description"
+      >
+        {data.description}
+      </p>
+
+      <!-- Author & meta bar -->
+      <div
+        class="flex flex-wrap items-center justify-between gap-4 py-5"
+        style="border-top: 1px solid var(--color-border-soft); border-bottom: 1px solid var(--color-border-soft);"
+      >
+        <!-- Author -->
+        <div class="flex items-center gap-3">
+          <div
+            class="w-9 h-9 rounded-full flex items-center justify-center text-sm font-medium"
+            style="background: var(--color-accent-light); color: var(--color-accent-dark);"
+            aria-hidden="true"
+          >
+            {(data.author ?? SITE.author.name).charAt(0)}
+          </div>
+          <div>
+            <p class="text-sm font-medium" style="color: var(--color-heading);" itemprop="author">
+              {data.author ?? SITE.author.name}
+            </p>
+            <p class="text-xs" style="color: var(--color-text-faint);">
+              <time datetime={formatDateISO(data.pubDate)} itemprop="datePublished">
+                {formatDate(data.pubDate)}
+              </time>
+              {data.updatedDate && (
+                <>
+                  {' '}&middot; Atualizado em{' '}
+                  <time datetime={formatDateISO(data.updatedDate)} itemprop="dateModified">
+                    {formatDate(data.updatedDate)}
+                  </time>
+                </>
+              )}
+            </p>
+          </div>
+        </div>
+
+        <!-- Reading time & share -->
+        <div class="flex items-center gap-4">
+          <span class="text-xs flex items-center gap-1.5" style="color: var(--color-text-faint);">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="10"/>
+              <polyline points="12,6 12,12 16,14"/>
+            </svg>
+            {minutes} min de leitura
+          </span>
+
+          <!-- Share buttons -->
+          <div class="flex items-center gap-2" aria-label="Compartilhar artigo">
+            <button
+              id="share-btn"
+              class="p-1.5 rounded-md transition-colors duration-200 hover:bg-surface-alt"
+              style="color: var(--color-text-faint);"
+              aria-label="Compartilhar este artigo"
+              type="button"
+            >
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+                <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Affiliate disclosure -->
+      {data.hasAffiliateLinks && (
+        <p class="mt-4 text-xs px-4 py-3 rounded-lg" style="background: var(--color-bg-alt); color: var(--color-text-faint);">
+          <strong style="color: var(--color-text-muted);">Divulgação:</strong>{' '}
+          {data.affiliateDisclosure ?? 'Este artigo pode conter links de afiliados. Se você comprar através deles, recebo uma pequena comissão sem custo adicional para você. Isso ajuda a manter o Stradello gratuito.'}
+        </p>
+      )}
+    </header>
+
+    <!-- Hero image -->
+    {data.heroImage && (
+      <div class="container-wide mb-12">
+        <figure class="rounded-2xl overflow-hidden" style="aspect-ratio: 16/7;">
+          <img
+            src={data.heroImage as unknown as string}
+            alt={data.heroImageAlt ?? data.title}
+            class="w-full h-full object-cover"
+            loading="eager"
+            fetchpriority="high"
+            width="1400"
+            height="612"
+            itemprop="image"
+          />
+          {data.heroImageCredit && (
+            <figcaption class="mt-2 text-xs text-center" style="color: var(--color-text-faint);">
+              {data.heroImageCredit}
+            </figcaption>
+          )}
+        </figure>
+      </div>
+    )}
+
+    <!-- Ad — before article body -->
+    <div class="container-narrow mb-8">
+      <AdUnit slot="YYYYYYYYYY" format="auto" />
+    </div>
+
+    <!-- Article body -->
+    <div class="container-narrow">
+      <div class="prose-stradello prose prose-lg dark:prose-invert max-w-none">
+        <slot />
+      </div>
+    </div>
+
+    <!-- Ad — mid-article (in-article format) -->
+    <div class="container-narrow my-10">
+      <AdUnit slot="ZZZZZZZZZZ" format="in-article" layout="in-article" />
+    </div>
+
+    <!-- Tags -->
+    {data.tags.length > 0 && (
+      <div class="container-narrow mt-12 pt-8" style="border-top: 1px solid var(--color-border-soft);">
+        <p class="text-xs font-medium uppercase tracking-widest mb-3" style="color: var(--color-text-faint);">Tags</p>
+        <div class="flex flex-wrap gap-2">
+          {data.tags.map((tag) => (
+            <a href={`/tags/${tag}`} class="badge badge-stone hover:opacity-80 transition-opacity">
+              #{tag}
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Newsletter inline CTA -->
+    <div class="container-narrow mt-12">
+      <NewsletterBanner variant="inline" />
+    </div>
+  </article>
+
+  <!-- Reading progress script -->
+  <script>
+    const progressBar = document.getElementById('reading-progress');
+    const article = document.querySelector('article');
+
+    if (progressBar && article) {
+      const updateProgress = () => {
+        const scrollTop = window.scrollY;
+        const articleTop = article.offsetTop;
+        const articleHeight = article.offsetHeight;
+        const windowHeight = window.innerHeight;
+
+        const progress = Math.min(
+          Math.max((scrollTop - articleTop) / (articleHeight - windowHeight) * 100, 0),
+          100
+        );
+
+        progressBar.style.width = `${progress}%`;
+        progressBar.setAttribute('aria-valuenow', String(Math.round(progress)));
+      };
+
+      window.addEventListener('scroll', updateProgress, { passive: true });
+      updateProgress();
+    }
+
+    // Share API
+    const shareBtn = document.getElementById('share-btn');
+    shareBtn?.addEventListener('click', async () => {
+      if (navigator.share) {
+        try {
+          await navigator.share({
+            title: document.title,
+            url: window.location.href,
+          });
+        } catch (e) {
+          // User cancelled
+        }
+      } else {
+        await navigator.clipboard.writeText(window.location.href);
+        // Could show toast notification here
+      }
+    });
+  </script>
+</BaseLayout>

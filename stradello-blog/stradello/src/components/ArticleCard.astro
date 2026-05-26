@@ -1,0 +1,149 @@
+---
+import { formatDateShort, readingTime } from '../utils/helpers';
+
+interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  pubDate: Date;
+  category: string;
+  categorySlug: string;
+  tags?: string[];
+  heroImage?: string;
+  heroImageAlt?: string;
+  author?: string;
+  featured?: boolean;
+  size?: 'sm' | 'md' | 'lg';
+  collection?: 'blog' | 'guides';
+  content?: string; // for reading time calculation
+}
+
+const {
+  title,
+  description,
+  slug,
+  pubDate,
+  category,
+  categorySlug,
+  heroImage,
+  heroImageAlt = title,
+  author = 'Equipe Stradello',
+  featured = false,
+  size = 'md',
+  collection = 'blog',
+  content = '',
+} = Astro.props;
+
+const href = collection === 'guides' ? `/guias/${slug}` : `/blog/${slug}`;
+const minutes = content ? readingTime(content) : undefined;
+---
+
+<article
+  class:list={[
+    'card group flex flex-col',
+    featured && 'ring-1 ring-sage-200 dark:ring-sage-800',
+  ]}
+  itemscope
+  itemtype="https://schema.org/BlogPosting"
+>
+  <!-- Image -->
+  {heroImage && (
+    <a href={href} class="card-image-wrap" tabindex="-1" aria-hidden="true">
+      <img
+        src={heroImage}
+        alt={heroImageAlt}
+        loading="lazy"
+        decoding="async"
+        itemprop="image"
+        class="w-full h-full object-cover"
+        width="800"
+        height="500"
+      />
+    </a>
+  )}
+
+  {!heroImage && (
+    <a href={href} class="card-image-wrap flex items-center justify-center" style="background: var(--color-bg-alt);" tabindex="-1" aria-hidden="true">
+      <svg width="40" height="40" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="M14 3C14 3 6 8 6 16C6 20.4183 9.58172 24 14 24C18.4183 24 22 20.4183 22 16C22 8 14 3 14 3Z" fill="var(--color-accent-light)" opacity="0.5" />
+      </svg>
+    </a>
+  )}
+
+  <!-- Content -->
+  <div class="flex flex-col flex-1 p-5 md:p-6">
+    <!-- Category badge -->
+    <div class="flex items-center gap-2 mb-3">
+      <a
+        href={`/categorias/${categorySlug}`}
+        class="badge-sage hover:opacity-80 transition-opacity"
+      >
+        {category}
+      </a>
+      {featured && (
+        <span class="badge badge-stone">
+          ✦ Destaque
+        </span>
+      )}
+    </div>
+
+    <!-- Title -->
+    <h3
+      class:list={[
+        'font-display font-medium leading-tight mb-2 transition-colors duration-200 group-hover:text-accent',
+        size === 'lg' ? 'text-2xl md:text-3xl' : size === 'sm' ? 'text-base' : 'text-lg md:text-xl',
+      ]}
+      style="color: var(--color-heading); letter-spacing: -0.02em;"
+      itemprop="headline"
+    >
+      <a href={href} class="hover:text-accent transition-colors">
+        {title}
+      </a>
+    </h3>
+
+    <!-- Description -->
+    {size !== 'sm' && (
+      <p
+        class="text-sm leading-relaxed mb-4 line-clamp-2"
+        style="color: var(--color-text-muted);"
+        itemprop="description"
+      >
+        {description}
+      </p>
+    )}
+
+    <!-- Spacer -->
+    <div class="flex-1" />
+
+    <!-- Meta -->
+    <div class="flex items-center justify-between pt-4 mt-2" style="border-top: 1px solid var(--color-border-soft);">
+      <div class="flex items-center gap-2">
+        <div
+          class="w-6 h-6 rounded-full flex items-center justify-center text-xs font-medium"
+          style="background: var(--color-accent-light); color: var(--color-accent-dark);"
+          aria-hidden="true"
+        >
+          {author.charAt(0)}
+        </div>
+        <span class="text-xs" style="color: var(--color-text-faint);" itemprop="author">
+          {author}
+        </span>
+      </div>
+
+      <div class="flex items-center gap-3 text-xs" style="color: var(--color-text-faint);">
+        <time
+          datetime={pubDate.toISOString()}
+          itemprop="datePublished"
+        >
+          {formatDateShort(pubDate)}
+        </time>
+        {minutes && (
+          <>
+            <span aria-hidden="true">·</span>
+            <span>{minutes} min</span>
+          </>
+        )}
+      </div>
+    </div>
+  </div>
+</article>

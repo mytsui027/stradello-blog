@@ -1,0 +1,72 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { CATEGORIES } from '../../config/site';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+
+const categoriesWithCounts = CATEGORIES.map((cat) => {
+  const count = allPosts.filter((p) =>
+    p.data.category.toLowerCase().replace(/\s+/g, '-') === cat.slug
+  ).length;
+  return { ...cat, count };
+});
+---
+
+<BaseLayout
+  title="Categorias"
+  description="Explore nossos temas: slow travel, viagens solo, destinos tranquilos, glamping, natureza e muito mais para viajantes que preferem experiências calmas e autênticas."
+>
+  <section class="section-gap">
+    <div class="container-site">
+      <!-- Header -->
+      <div class="max-w-2xl mb-14">
+        <p class="section-label mb-3">Temas & Categorias</p>
+        <h1 class="section-title mb-4" style="font-size: clamp(2.5rem, 1.5rem + 2.5vw, 4rem);">
+          Explore por tema.
+        </h1>
+        <p class="text-base leading-relaxed" style="color: var(--color-text-muted);">
+          Do slow travel ao glamping, cada categoria é uma porta para um jeito mais calmo de descobrir o mundo.
+        </p>
+      </div>
+
+      <!-- Category grid -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {categoriesWithCounts.map((cat, i) => (
+          <a
+            href={`/categorias/${cat.slug}`}
+            class="reveal group card flex gap-5 p-6 items-start"
+            style={`animation-delay: ${i * 0.07}s;`}
+          >
+            <!-- Emoji icon -->
+            <div
+              class="shrink-0 w-12 h-12 rounded-xl flex items-center justify-center text-2xl transition-transform duration-300 group-hover:scale-110"
+              style="background: var(--color-bg-alt);"
+              aria-hidden="true"
+            >
+              {cat.emoji}
+            </div>
+
+            <!-- Content -->
+            <div class="flex-1 min-w-0">
+              <div class="flex items-start justify-between gap-2 mb-1.5">
+                <h2
+                  class="font-display font-medium text-lg transition-colors duration-200 group-hover:text-accent"
+                  style="color: var(--color-heading); letter-spacing: -0.01em;"
+                >
+                  {cat.name}
+                </h2>
+                {cat.count > 0 && (
+                  <span class="badge badge-stone shrink-0">{cat.count}</span>
+                )}
+              </div>
+              <p class="text-sm leading-relaxed line-clamp-2" style="color: var(--color-text-muted);">
+                {cat.description}
+              </p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

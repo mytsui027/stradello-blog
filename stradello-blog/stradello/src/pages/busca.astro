@@ -1,0 +1,164 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+import { sortByDate } from '../utils/helpers';
+
+// Get all posts for client-side search index
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const sorted = sortByDate(allPosts);
+
+// Build lightweight search index
+const searchIndex = sorted.map((post) => ({
+  slug: post.slug,
+  title: post.data.title,
+  description: post.data.description,
+  category: post.data.category,
+  tags: post.data.tags,
+  pubDate: post.data.pubDate.toISOString(),
+}));
+---
+
+<BaseLayout
+  title="Busca"
+  description="Encontre artigos sobre slow travel, destinos tranquilos, viagens solo e muito mais no Stradello."
+  noindex={true}
+>
+  <section class="section-gap min-h-[60vh]">
+    <div class="container-site">
+      <!-- Header -->
+      <div class="max-w-2xl mb-10">
+        <p class="section-label mb-3">Busca</p>
+        <h1 class="section-title mb-6" style="font-size: clamp(2rem, 1.5rem + 2vw, 3.5rem);">
+          O que você procura?
+        </h1>
+
+        <!-- Search input -->
+        <div class="relative">
+          <label for="search-input" class="sr-only">Buscar artigos</label>
+          <input
+            id="search-input"
+            type="search"
+            name="q"
+            placeholder="Busque por destino, tema ou palavra-chave..."
+            autocomplete="off"
+            class="w-full px-5 py-4 pl-12 rounded-xl border text-base outline-none transition-all duration-200 focus:ring-2"
+            style="
+              background: var(--color-bg-card);
+              border-color: var(--color-border);
+              color: var(--color-text);
+              --tw-ring-color: var(--color-accent);
+            "
+            aria-label="Campo de busca"
+          />
+          <svg
+            class="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none"
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.8"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            style="color: var(--color-text-faint);"
+            aria-hidden="true"
+          >
+            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+          </svg>
+        </div>
+
+        <!-- Search stats -->
+        <p id="search-stats" class="mt-3 text-sm" style="color: var(--color-text-faint);" aria-live="polite">
+          {sorted.length} artigos disponíveis
+        </p>
+      </div>
+
+      <!-- Results -->
+      <div id="search-results" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Filled by JS -->
+      </div>
+
+      <!-- Empty state -->
+      <div id="empty-state" class="text-center py-16 hidden">
+        <div class="text-5xl mb-5" aria-hidden="true">🔍</div>
+        <h2 class="font-display text-xl font-light mb-2" style="color: var(--color-text-muted);">
+          Nenhum resultado encontrado
+        </h2>
+        <p class="text-sm" style="color: var(--color-text-faint);">
+          Tente palavras diferentes ou explore nossas categorias.
+        </p>
+        <a href="/categorias" class="btn-outline mt-6 inline-flex">Ver categorias</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<script define:vars={{ searchIndex }}>
+  const input = document.getElementById('search-input');
+  const resultsContainer = document.getElementById('search-results');
+  const statsEl = document.getElementById('search-stats');
+  const emptyState = document.getElementById('empty-state');
+
+  // Card template
+  function renderCard(post) {
+    return `
+      <article class="card group flex flex-col">
+        <div class="card-image-wrap flex items-center justify-center" style="background: var(--color-bg-alt); aspect-ratio: 16/10;">
+          <svg width="40" height="40" viewBox="0 0 28 28" fill="none" aria-hidden="true">
+            <path d="M14 3C14 3 6 8 6 16C6 20.4183 9.58172 24 14 24C18.4183 24 22 20.4183 22 16C22 8 14 3 14 3Z" fill="var(--color-accent-light)" opacity="0.5" />
+          </svg>
+        </div>
+        <div class="flex flex-col flex-1 p-5">
+          <div class="mb-3">
+            <span class="badge-sage">${post.category}</span>
+          </div>
+          <h3 class="font-display font-medium text-lg leading-tight mb-2 transition-colors duration-200 group-hover:text-accent" style="color: var(--color-heading); letter-spacing: -0.02em;">
+            <a href="/blog/${post.slug}">${post.title}</a>
+          </h3>
+          <p class="text-sm leading-relaxed mb-4 line-clamp-2" style="color: var(--color-text-muted);">${post.description}</p>
+        </div>
+      </article>
+    `;
+  }
+
+  function search(query) {
+    const q = query.toLowerCase().trim();
+
+    if (!q) {
+      resultsContainer.innerHTML = '';
+      emptyState.classList.add('hidden');
+      statsEl.textContent = `${searchIndex.length} artigos disponíveis`;
+      return;
+    }
+
+    const results = searchIndex.filter((post) => {
+      const text = [post.title, post.description, post.category, ...post.tags].join(' ').toLowerCase();
+      return q.split(' ').every((word) => text.includes(word));
+    });
+
+    if (results.length === 0) {
+      resultsContainer.innerHTML = '';
+      emptyState.classList.remove('hidden');
+      statsEl.textContent = `Nenhum resultado para "${query}"`;
+    } else {
+      emptyState.classList.add('hidden');
+      resultsContainer.innerHTML = results.map(renderCard).join('');
+      statsEl.textContent = `${results.length} resultado${results.length !== 1 ? 's' : ''} para "${query}"`;
+    }
+  }
+
+  // Debounce
+  let timeout;
+  input?.addEventListener('input', (e) => {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => search(e.target.value), 200);
+  });
+
+  // Init from URL param
+  const urlQuery = new URLSearchParams(window.location.search).get('q');
+  if (urlQuery && input) {
+    input.value = urlQuery;
+    search(urlQuery);
+  }
+</script>
