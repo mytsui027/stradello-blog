@@ -1,57 +1,64 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { CATEGORIES, SITE } from '../../config/site';
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Categorias do Stradello',
+  url: `${SITE.url}/categorias`,
+  description:
+    'Explore as categorias editoriais do Stradello e encontre o estilo de viagem que combina com você.',
+};
 ---
 
 <BaseLayout
-  title="Política de Privacidade"
-  description="Política de Privacidade do Stradello."
+  title="Categorias"
+  description="Descubra as categorias do Stradello e encontre destinos e experiências no seu ritmo."
+  canonicalUrl={`${SITE.url}/categorias`}
+  structuredData={collectionSchema}
 >
-  <section class="section-gap">
-    <div class="container-site max-w-3xl">
-      <p class="section-label mb-4">Privacidade</p>
+  <section class="section-gap" aria-labelledby="categories-heading">
+    <div class="container-site">
+      <div class="flex items-end justify-between gap-4 mb-10 md:mb-12">
+        <div>
+          <p class="section-label mb-2">Explore por tema</p>
+          <h1 id="categories-heading" class="section-title text-balance">
+            Que tipo de viagem é a sua?
+          </h1>
+        </div>
+        <a href="/blog" class="btn-outline hidden sm:inline-flex">
+          Ver todas →
+        </a>
+      </div>
 
-      <h1 class="section-title mb-8">
-        Política de Privacidade
-      </h1>
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3 md:gap-4">
+        {CATEGORIES.map((category, index) => (
+          <a
+            href={`/categorias/${category.slug}`}
+            class="reveal group flex flex-col items-center justify-center gap-3 p-5 md:p-6 rounded-xl border transition-all duration-300 text-center"
+            style={`
+              border-color: var(--color-border-soft);
+              background: var(--color-bg-card);
+              animation-delay: ${index * 0.06}s;
+            `}
+            aria-label={`Ver artigos da categoria ${category.name}`}
+          >
+            <span class="text-2xl transition-transform duration-300 group-hover:scale-125" aria-hidden="true">
+              {category.emoji}
+            </span>
+            <span
+              class="text-xs sm:text-sm font-medium leading-tight transition-colors duration-200 group-hover:text-accent"
+              style="color: var(--color-text-muted);"
+            >
+              {category.name}
+            </span>
+          </a>
+        ))}
+      </div>
 
-      <div class="prose prose-neutral dark:prose-invert max-w-none">
-        <p>
-          O Stradello respeita sua privacidade e se compromete a proteger os dados dos visitantes.
-        </p>
-
-        <h2>Coleta de informações</h2>
-        <p>
-          Podemos coletar informações básicas de navegação, como endereço IP, tipo de navegador, páginas visitadas e tempo de acesso.
-        </p>
-
-        <h2>Cookies</h2>
-        <p>
-          Utilizamos cookies para melhorar a experiência de navegação, analisar tráfego e futuramente exibir anúncios personalizados através de parceiros como Google AdSense.
-        </p>
-
-        <h2>Google Analytics</h2>
-        <p>
-          Futuramente, o site poderá utilizar Google Analytics para compreender métricas de acesso e comportamento de navegação.
-        </p>
-
-        <h2>Newsletter</h2>
-        <p>
-          Caso o usuário opte por assinar a newsletter futuramente, o e-mail será utilizado apenas para envio de conteúdos relacionados ao Stradello.
-        </p>
-
-        <h2>Compartilhamento de dados</h2>
-        <p>
-          O Stradello não vende informações pessoais de visitantes.
-        </p>
-
-        <h2>Alterações</h2>
-        <p>
-          Esta política poderá ser atualizada periodicamente.
-        </p>
-
-        <p class="mt-10 text-sm opacity-70">
-          Última atualização: 2026
-        </p>
+      <div class="mt-8 text-center sm:hidden">
+        <a href="/blog" class="btn-outline">Ver todas →</a>
       </div>
     </div>
   </section>
