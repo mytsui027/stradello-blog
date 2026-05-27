@@ -16,7 +16,8 @@ export const SITE = {
   },
   social: {
     instagram: 'https://www.instagram.com/stradello.blog/',
-    pinterest: 'https://br.pinterest.com/stradellocontato',
+    pinterest: 'https://br.pinterest.com/stradelloblog',
+    tiktok: 'https://www.tiktok.com/@stradello?lang=pt-BR',
     twitter: '',
     youtube: '',
   },
