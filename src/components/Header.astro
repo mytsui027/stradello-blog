@@ -121,21 +121,7 @@ const currentPath = Astro.url.pathname;
           </svg>
         </button>
 
-        <!-- Newsletter CTA (desktop) -->
-        <a
-          href="/newsletter"
-          class="hidden lg:inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-sm font-medium border transition-all duration-200"
-          style="border-color: var(--color-border); color: var(--color-text-muted);"
-          onmouseover="this.style.borderColor='var(--color-accent)'; this.style.color='var(--color-accent)'"
-          onmouseout="this.style.borderColor='var(--color-border)'; this.style.color='var(--color-text-muted)'"
-        >
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-            <polyline points="22,6 12,13 2,6"/>
-          </svg>
-          Newsletter
-        </a>
-
+        
         <!-- Mobile menu button -->
         <button
           id="mobile-menu-btn"
@@ -180,11 +166,7 @@ const currentPath = Astro.url.pathname;
           {link.label}
         </a>
       ))}
-      <div class="mt-4 pt-4" style="border-top: 1px solid var(--color-border);">
-        <a href="/newsletter" class="btn-accent w-full justify-center">
-          Assinar Newsletter
-        </a>
-      </div>
+      
     </div>
   </div>
 </header>
