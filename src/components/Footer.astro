@@ -27,35 +27,7 @@ const currentYear = new Date().getFullYear();
           {SITE.tagline} — Um blog de viagens para quem prefere o silêncio ao barulho, o desvio ao caminho principal e a experiência autêntica ao roteiro óbvio.
         </p>
 
-        <!-- Newsletter signup (compact) -->
-        <div class="mb-6">
-          <p class="text-xs font-medium uppercase tracking-widest mb-3" style="color: var(--color-accent);">
-            Newsletter
-          </p>
-          <form
-            action="/newsletter"
-            method="get"
-            class="flex gap-2"
-            aria-label="Assinar newsletter"
-          >
-            <input
-              type="email"
-              name="email"
-              placeholder="seu@email.com"
-              class="flex-1 px-4 py-2.5 rounded-lg text-sm border outline-none transition-colors duration-200 focus:ring-2"
-              style="background: var(--color-bg-card); border-color: var(--color-border); color: var(--color-text); --tw-ring-color: var(--color-accent);"
-              aria-label="Endereço de e-mail"
-            />
-            <button
-              type="submit"
-              class="px-4 py-2.5 rounded-lg text-sm font-medium transition-all duration-200 whitespace-nowrap"
-              style="background: var(--color-accent); color: white;"
-            >
-              Assinar
-            </button>
-          </form>
-        </div>
-
+        
         <!-- Social links -->
         <div class="flex items-center gap-3">
           {SITE.social.instagram && (
