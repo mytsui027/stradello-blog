@@ -1,0 +1,59 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Política de Cookies"
+  description="Saiba como o Stradello usa cookies para melhorar desempenho, preferências e análise de navegação."
+  canonicalUrl={`${Astro.site ?? 'https://stradello.com'}/cookies`}
+>
+  <section class="section-gap">
+    <div class="container-site max-w-3xl">
+      <p class="section-label mb-4">Cookies</p>
+      <h1 class="section-title mb-8">Política de Cookies</h1>
+
+      <div class="prose prose-neutral dark:prose-invert max-w-none">
+        <p>
+          Utilizamos cookies para tornar sua experiência no Stradello mais fluida e útil.
+          Eles ajudam a lembrar preferências, medir desempenho e entender como o conteúdo é
+          consumido para evoluirmos o site de forma responsável.
+        </p>
+
+        <h2>1. O que são cookies</h2>
+        <p>
+          Cookies são pequenos arquivos armazenados no navegador que identificam de forma
+          técnica algumas interações com o site.
+        </p>
+
+        <h2>2. Tipos de cookies utilizados</h2>
+        <p>
+          Podemos utilizar cookies essenciais (funcionamento do site), de desempenho
+          (métricas agregadas) e de preferência (como tema visual), sempre com foco em
+          experiência e estabilidade.
+        </p>
+
+        <h2>3. Ferramentas de terceiros</h2>
+        <p>
+          Eventualmente, ferramentas de análise e parceiros de mídia podem definir cookies
+          próprios, de acordo com suas políticas. Sempre priorizamos integrações confiáveis
+          e alinhadas com boas práticas de privacidade.
+        </p>
+
+        <h2>4. Como gerenciar cookies</h2>
+        <p>
+          Você pode ajustar permissões diretamente no navegador, bloqueando ou removendo
+          cookies quando desejar. Algumas funcionalidades podem ser impactadas caso certos
+          cookies essenciais sejam desativados.
+        </p>
+
+        <h2>5. Atualizações desta política</h2>
+        <p>
+          Esta política pode ser revisada para refletir mudanças técnicas, legais ou
+          operacionais do projeto.
+        </p>
+
+        <p class="mt-10 text-sm opacity-70">Última atualização: maio de 2026.</p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
