@@ -6,11 +6,12 @@ import { sortByDate } from '../utils/helpers';
 export async function GET(context) {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
   const sorted = sortByDate(posts);
+  const site = String(context.site ?? SITE.url).replace(/\/$/, '');
 
   return rss({
     title: SITE.name,
     description: SITE.description,
-    site: SITE.url,
+    site,
     items: sorted.map((post) => ({
       title: post.data.title,
       pubDate: post.data.pubDate,
@@ -25,9 +26,9 @@ export async function GET(context) {
       <webMaster>Equipe Técnica Stradello</webMaster>
       <copyright>© ${new Date().getFullYear()} ${SITE.name}</copyright>
       <image>
-        <url>${SITE.url}/logo.png</url>
+        <url>${site}/logo.png</url>
         <title>${SITE.name}</title>
-        <link>${SITE.url}</link>
+        <link>${site}</link>
       </image>
     `,
   });
