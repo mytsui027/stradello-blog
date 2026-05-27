@@ -1,11 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../config/site';
 ---
 
 <BaseLayout
   title="Política de Cookies"
   description="Saiba como o Stradello usa cookies para melhorar desempenho, preferências e análise de navegação."
-  canonicalUrl={`${Astro.site ?? 'https://stradello.com'}/cookies`}
+  canonicalUrl={`${SITE.url}/cookies`}
 >
   <section class="section-gap">
     <div class="container-site max-w-3xl">

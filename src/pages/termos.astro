@@ -1,11 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../config/site';
 ---
 
 <BaseLayout
   title="Termos de Uso"
   description="Condições de uso do Stradello para navegação, leitura e compartilhamento de conteúdo."
-  canonicalUrl={`${Astro.site ?? 'https://stradello.com'}/termos`}
+  canonicalUrl={`${SITE.url}/termos`}
 >
   <section class="section-gap">
     <div class="container-site max-w-3xl">

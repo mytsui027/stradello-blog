@@ -1,11 +1,12 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../config/site';
 ---
 
 <BaseLayout
   title="Política de Privacidade"
   description="Entenda como o Stradello coleta, usa e protege informações durante sua navegação."
-  canonicalUrl={`${Astro.site ?? 'https://stradello.com'}/privacidade`}
+  canonicalUrl={`${SITE.url}/privacidade`}
 >
   <section class="section-gap">
     <div class="container-site max-w-3xl">

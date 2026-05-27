@@ -10,7 +10,7 @@ export async function GET(context) {
   return rss({
     title: SITE.name,
     description: SITE.description,
-    site: context.site,
+    site: SITE.url,
     items: sorted.map((post) => ({
       title: post.data.title,
       pubDate: post.data.pubDate,
@@ -21,8 +21,8 @@ export async function GET(context) {
     })),
     customData: `
       <language>pt-BR</language>
-      <managingEditor>${SITE.author.email} (${SITE.author.name})</managingEditor>
-      <webMaster>${SITE.author.email}</webMaster>
+      <managingEditor>Equipe Stradello</managingEditor>
+      <webMaster>Equipe Técnica Stradello</webMaster>
       <copyright>© ${new Date().getFullYear()} ${SITE.name}</copyright>
       <image>
         <url>${SITE.url}/logo.png</url>
