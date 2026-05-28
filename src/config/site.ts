@@ -23,7 +23,7 @@ export const SITE = {
   },
   analytics: {
     googleAnalyticsId: '', // GA4 Measurement ID — ex: G-XXXXXXXXXX
-    googleSearchConsole: '', // Verification meta tag content
+  googleSearchConsole: 'PGeQm968HJRPrdK6CeWn_lc7NaBrJuQY0GKyCG6Jo5Y', // Verification meta tag content
   },
   adsense: {
     publisherId: '', // ex: ca-pub-XXXXXXXXXXXXXXXX
