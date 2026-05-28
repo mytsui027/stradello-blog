@@ -6,7 +6,7 @@ export const SITE = {
   name: 'Stradello',
   tagline: 'Viajar devagar. Sentir de verdade.',
   description: 'Blog de viagens slow travel para pessoas introvertidas e viajantes que preferem experiências calmas, autênticas e contemplativas. Destinos tranquilos, cidades pequenas, glamping e turismo alternativo.',
-  url: 'https://stradello-blog.vercel.app',
+  url: 'https://stradello-blog-jwek-bk9lk0vhc-mytsui027s-projects.vercel.app',
   locale: 'pt-BR',
   language: 'pt',
   author: {

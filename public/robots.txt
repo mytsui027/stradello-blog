@@ -5,7 +5,4 @@ Allow: /
 Disallow: /draft/
 
 # Sitemaps
-Sitemap: https://stradello.com/sitemap-index.xml
-
-# Crawl-delay for bots that respect it
-Crawl-delay: 10
+Sitemap: https://stradello-blog-jwek-bk9lk0vhc-mytsui027s-projects.vercel.app/sitemap.xml
