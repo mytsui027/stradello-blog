@@ -80,10 +80,13 @@ const ogImg = ogImage ?? `${SITE.url}/og-default.jpg`;
     <!-- Pinterest -->
     <meta name="pinterest-rich-pin" content="true" />
 
-    <!-- Google Search Console (set in site config) -->
-    {SITE.analytics.googleSearchConsole && (
-      <meta name="google-site-verification" content={SITE.analytics.googleSearchConsole} />
-    )}
+    <!-- Google Search Console -->
+{SITE.analytics.googleSearchConsole && (
+  <meta
+    name="google-site-verification"
+    content={SITE.analytics.googleSearchConsole}
+  />
+)}
 
     <!-- Preconnect to external resources -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
