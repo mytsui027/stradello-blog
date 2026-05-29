@@ -9,6 +9,8 @@ tags:
   - bem-vindo
 featured: true
 draft: false
+heroImage: "/images/bem-vindo-ao-stradello.jpg"
+heroImageAlt: "Pessoa contemplando uma paisagem tranquila durante uma viagem"
 ---
 
 Há uma certa beleza em viajar sem ter que provar nada a ninguém.
