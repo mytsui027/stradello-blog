@@ -1,5 +1,5 @@
 ---
-title: "Como Conhecer Lugares Sem Pressão"
+title: "Como Conhecer Lugares Sem Pressão (e Aproveitar de Verdade)"
 slug: "como-conhecer-lugares-sem-pressao"
 description: "Viajar sem pressão é uma escolha — não um luxo. Descubra como explorar destinos novos no seu próprio ritmo, sem checklist, sem culpa e com muito mais presença."
 pubDate: 2026-05-28
@@ -30,9 +30,9 @@ keywords:
 published: true
 
 # Imagem principal
-heroImage: "/images/como-conhecer-lugares-sem-pressao.jpg"
 heroImageAlt: "Viajante sozinho sentado em escadaria de pedra de cidade histórica, olhando para rua vazia ao entardecer, atmosfera tranquila e dourada"
 heroImageCredit: "Unsplash"
+imageFileName: "como-conhecer-lugares-sem-pressao-slow-travel.jpg"
 imagePrompt: "Editorial travel photography, lone traveler sitting on ancient stone steps in a quiet historic alley, late afternoon golden light, warm amber tones, empty cobblestone street stretching ahead, small local cafe visible in background with soft window light, contemplative and unhurried mood, shallow depth of field, film grain texture, muted warm palette, no crowds, cinematic composition"
 
 # SEO

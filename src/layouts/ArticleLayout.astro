@@ -19,6 +19,8 @@ const minutes = data.readingTime ?? readingTime(content);
 
 const canonicalUrl = data.canonicalUrl ?? `${SITE.url}/blog/${post.slug}`;
 const ogImage = data.ogImage ?? (data.heroImage as unknown as string) ?? `${SITE.url}/og-default.jpg`;
+const metaTitle = (data.metaTitle as string | undefined) ?? data.title;
+const metaDescription = (data.metaDescription as string | undefined) ?? data.description;
 
 const articleSchema = generateArticleSchema({
   title: data.title,
@@ -41,8 +43,8 @@ const breadcrumbSchema = generateBreadcrumbSchema([
 ---
 
 <BaseLayout
-  title={data.title}
-  description={data.description}
+  title={metaTitle}
+  description={metaDescription}
   ogImage={ogImage}
   ogType="article"
   canonicalUrl={canonicalUrl}
