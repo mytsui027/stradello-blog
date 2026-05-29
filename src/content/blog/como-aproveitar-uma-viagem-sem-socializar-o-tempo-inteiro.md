@@ -16,6 +16,7 @@ tags:
 author: "Equipe Stradello"
 featured: false
 draft: false
+heroImage: "/images/como-aproveitar-viagem-sem-socializar-introvertidos.jpg"
 heroImageAlt: "Pessoa sozinha sentada em um banco de praça tranquila, lendo um livro com xícara de café ao lado, em cidade europeia de arquitetura histórica ao fundo"
 heroImageCredit: "Unsplash"
 destination: "Diversas"
@@ -23,7 +24,6 @@ country: "Múltiplos"
 readingTime: 8
 articleType: "TravelArticle"
 hasAffiliateLinks: false
-ogImage: "como-aproveitar-viagem-sem-socializar-introvertidos.jpg"
 ---
 
 Existe um momento específico em toda viagem que ninguém fala abertamente: aquela hora em que você está rodeado de gente, de programas bacanas e de paisagens lindas — e mesmo assim só quer um pouco de silêncio.
@@ -160,5 +160,3 @@ Viajar sendo introvertido não é uma limitação para superar. É uma forma de 
 O silêncio também é um destino. E costuma ser dos mais bonitos.
 
 ---
-
-*Você também viaja assim — no seu ritmo, no seu silêncio? Conta pra gente no [contato](/contato) ou no Instagram [@stradello](https://instagram.com/stradello). A gente adora ouvir essas histórias.*

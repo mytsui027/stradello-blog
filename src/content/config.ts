@@ -11,7 +11,7 @@ const blog = defineCollection({
 
     // Optional
     updatedDate: z.coerce.date().optional(),
-    heroImage: image().optional(),
+    heroImage: z.string().optional(),
     heroImageAlt: z.string().optional(),
     heroImageCredit: z.string().optional(),
     author: z.string().default('Equipe Stradello'),
@@ -56,7 +56,7 @@ const guides = defineCollection({
     updatedDate: z.coerce.date().optional(),
     destination: z.string(),
     country: z.string(),
-    heroImage: image().optional(),
+    heroImage: z.string().optional(),
     heroImageAlt: z.string().optional(),
     tags: z.array(z.string()).default([]),
     draft: z.boolean().default(false),
