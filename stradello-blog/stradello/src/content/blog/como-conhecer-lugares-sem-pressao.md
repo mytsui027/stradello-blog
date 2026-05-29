@@ -191,6 +191,4 @@ Conhecer um lugar sem pressão não significa aproveitar menos. Significa aprove
 
 O inesperado. O silêncio na hora certa. A conversa que você não esperava ter. A virada de rua que leva a algum lugar que vai ficar na sua cabeça por anos.
 
-Essas coisas não cabem em roteiro. Só cabem em margem.
-
 ---
