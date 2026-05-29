@@ -157,7 +157,7 @@ Dizer não para o passeio extra que o guia ofereceu. Não para o jantar coletivo
 
 Viajar com outras pessoas torna isso mais difícil. A pressão de grupo existe mesmo entre amigos bem-intencionados.
 
-Mas você pode ser direto sem ser grosseiro: *"Hoje eu prefiro ficar por aqui. Curtam vocês — me conto tudo depois."*
+Mas você pode ser direto sem ser grosseiro: *"Hoje eu prefiro ficar por aqui. Curtam vocês — me conte tudo depois."*
 
 Quem respeita isso é quem você quer por perto em viagens. Quem não respeita... bem, essa é uma informação útil também.
 
