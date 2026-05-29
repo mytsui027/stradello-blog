@@ -1,0 +1,85 @@
+---
+import { getCollection } from 'astro:content';
+import ArticleCard from './ArticleCard.astro';
+import { readingTime } from '../utils/helpers';
+
+interface Props {
+  currentCategory: string;
+  currentTags: string[];
+  currentSlug: string;
+  excludeId?: string;
+}
+
+const { currentCategory, currentTags, currentSlug, excludeId } = Astro.props;
+
+// Get all published blog posts
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+
+// Filter out current article
+const otherPosts = allPosts.filter(post => post.slug !== currentSlug);
+
+// Calculate related posts based on:
+// 1. Same category (highest priority)
+// 2. Shared tags
+// 3. Random from remaining if needed
+
+const categoryMatches = otherPosts.filter(post => 
+  post.data.category === currentCategory
+);
+
+const tagMatches = otherPosts.filter(post => {
+  const sharedTags = post.data.tags.filter(tag => 
+    currentTags.includes(tag)
+  );
+  return sharedTags.length > 0 && post.data.category !== currentCategory;
+});
+
+// Remove duplicates and prioritize
+const relatedPosts = [
+  ...categoryMatches.slice(0, 2),
+  ...tagMatches.filter(post => 
+    !categoryMatches.includes(post)
+  ).slice(0, 2)
+];
+
+// If we don't have enough, add random posts
+const remainingPosts = otherPosts.filter(post => 
+  !relatedPosts.includes(post)
+).slice(0, 3 - relatedPosts.length);
+
+const finalRelatedPosts = [...relatedPosts, ...remainingPosts].slice(0, 3);
+---
+
+{finalRelatedPosts.length > 0 && (
+  <section class="container-narrow mt-16 pt-12" style="border-top: 1px solid var(--color-border-soft);">
+    <div class="mb-8">
+      <h2 class="font-display font-medium text-2xl md:text-3xl mb-3" style="color: var(--color-heading); letter-spacing: -0.02em; line-height: 1.2;">
+        Continue explorando
+      </h2>
+      <p class="text-sm" style="color: var(--color-text-muted);">
+        Leituras para desacelerar e descobrir novos destinos
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {finalRelatedPosts.map((post, i) => (
+        <div class="reveal" style={`animation-delay: ${i * 0.1}s`}>
+          <ArticleCard
+            title={post.data.title}
+            description={post.data.description}
+            slug={post.slug}
+            pubDate={post.data.pubDate}
+            category={post.data.category}
+            categorySlug={post.data.category.toLowerCase().replace(/\s+/g, '-')}
+            heroImage={post.data.heroImage}
+            heroImageAlt={post.data.heroImageAlt}
+            author={post.data.author}
+            featured={post.data.featured}
+            size="sm"
+            content={post.body}
+          />
+        </div>
+      ))}
+    </div>
+  </section>
+)}

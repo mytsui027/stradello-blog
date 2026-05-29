@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import NewsletterBanner from '../components/NewsletterBanner.astro';
 import AdUnit from '../components/AdUnit.astro';
+import RelatedArticles from '../components/RelatedArticles.astro';
 import { SITE } from '../config/site';
 import { formatDate, formatDateISO, readingTime, generateArticleSchema, generateBreadcrumbSchema } from '../utils/helpers';
 
@@ -75,12 +76,12 @@ const breadcrumbSchema = generateBreadcrumbSchema([
   </nav>
 
   <article
-    class="pt-10 pb-16"
+    class="pt-8 pb-16 md:pt-10 md:pb-20"
     itemscope
     itemtype="https://schema.org/TravelArticle"
   >
     <!-- Article header -->
-    <header class="container-narrow mb-10">
+    <header class="container-narrow mb-8">
       <!-- Category & tags -->
       <div class="flex flex-wrap items-center gap-2 mb-6">
         <a
@@ -100,7 +101,7 @@ const breadcrumbSchema = generateBreadcrumbSchema([
       <!-- Title -->
       <h1
         class="font-display font-medium mb-5 text-balance"
-        style="font-size: clamp(2rem, 1.2rem + 2.5vw, 3.5rem); color: var(--color-heading); letter-spacing: -0.03em; line-height: 1.1;"
+        style="font-size: clamp(1.75rem, 1.1rem + 2.5vw, 3rem); color: var(--color-heading); letter-spacing: -0.03em; line-height: 1.15;"
         itemprop="headline"
       >
         {data.title}
@@ -108,8 +109,8 @@ const breadcrumbSchema = generateBreadcrumbSchema([
 
       <!-- Description / Lead -->
       <p
-        class="text-lg leading-relaxed mb-7"
-        style="color: var(--color-text-muted); font-size: clamp(1rem, 0.9rem + 0.4vw, 1.2rem); font-family: var(--font-serif);"
+        class="text-lg leading-relaxed mb-6"
+        style="color: var(--color-text-muted); font-size: clamp(1rem, 0.9rem + 0.4vw, 1.125rem); font-family: var(--font-serif);"
         itemprop="description"
       >
         {data.description}
@@ -189,7 +190,7 @@ const breadcrumbSchema = generateBreadcrumbSchema([
     <!-- Hero image -->
     {data.heroImage && (
       <div class="container-wide mb-12">
-        <figure class="rounded-2xl overflow-hidden" style="aspect-ratio: 16/7;">
+        <figure class="rounded-2xl overflow-hidden" style="aspect-ratio: 16/9;">
           <img
             src={data.heroImage}
             alt={data.heroImageAlt ?? data.title}
@@ -197,8 +198,9 @@ const breadcrumbSchema = generateBreadcrumbSchema([
             loading="eager"
             fetchpriority="high"
             width="1400"
-            height="612"
+            height="788"
             itemprop="image"
+            style="object-position: center;"
           />
           {data.heroImageCredit && (
             <figcaption class="mt-2 text-xs text-center" style="color: var(--color-text-faint);">
@@ -216,7 +218,7 @@ const breadcrumbSchema = generateBreadcrumbSchema([
 
     <!-- Article body -->
     <div class="container-narrow">
-      <div class="prose-stradello prose prose-lg dark:prose-invert max-w-none">
+      <div class="prose-stradello prose dark:prose-invert max-w-none">
         <slot />
       </div>
     </div>
@@ -244,6 +246,13 @@ const breadcrumbSchema = generateBreadcrumbSchema([
     <div class="container-narrow mt-12">
       <NewsletterBanner variant="inline" />
     </div>
+
+    <!-- Related articles -->
+    <RelatedArticles
+      currentCategory={data.category}
+      currentTags={data.tags}
+      currentSlug={post.slug}
+    />
   </article>
 
   <!-- Reading progress script -->
