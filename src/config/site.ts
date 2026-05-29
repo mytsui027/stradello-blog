@@ -47,7 +47,7 @@ export const CATEGORIES = [
     color: 'stone',
   },
   {
-    slug: 'Lugares para Desacelerar',
+    slug: 'lugares-para-desacelerar',
     name: 'Lugares para Desacelerar',
     description: 'Lugares que respiram em ritmo próprio — cidades pequenas, vilas costeiras, aldeias serranas e refúgios naturais.',
     emoji: '🌿',
@@ -75,7 +75,7 @@ export const CATEGORIES = [
     color: 'cream',
   },
   {
-    slug: 'introvertidos',
+    slug: 'para-introvertidos',
     name: 'Para Introvertidos',
     description: 'Estratégias, destinos e experiências pensadas para quem recarrega as energias na tranquilidade.',
     emoji: '🤍',
