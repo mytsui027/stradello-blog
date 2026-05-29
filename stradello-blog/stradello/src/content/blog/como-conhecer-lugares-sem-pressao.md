@@ -194,4 +194,3 @@ O inesperado. O silêncio na hora certa. A conversa que você não esperava ter.
 Essas coisas não cabem em roteiro. Só cabem em margem.
 
 ---
-
