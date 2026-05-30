@@ -22,7 +22,7 @@ export const SITE = {
     youtube: '',
   },
   analytics: {
-    googleAnalyticsId: '', // GA4 Measurement ID — ex: G-XXXXXXXXXX
+    googleAnalyticsId: 'G-5176X7WV66', // GA4 Measurement ID — ex: G-XXXXXXXXXX
   googleSearchConsole: 'kiYpbLTiBywZ16lUhgbkPRM3lBNVsJ-R-yczrQcfv_M', // Verification meta tag content
   },
   adsense: {
