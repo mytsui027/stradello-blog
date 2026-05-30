@@ -148,7 +148,7 @@ const currentPath = Astro.url.pathname;
   <!-- Mobile Menu -->
   <div
     id="mobile-menu"
-    class="hidden md:hidden border-t"
+    class="hidden md:hidden border-t relative z-50"
     style="border-color: var(--color-border); background: var(--color-bg);"
   >
     <div class="container-site py-6 flex flex-col gap-1">
@@ -156,17 +156,18 @@ const currentPath = Astro.url.pathname;
         <a
           href={link.href}
           class:list={[
-            'px-3 py-3 rounded-lg text-base font-medium transition-colors duration-200',
+            'px-3 py-3 rounded-lg text-base font-medium transition-colors duration-200 block',
             currentPath === link.href
               ? 'text-accent bg-surface-alt'
               : 'text-muted hover:text-heading hover:bg-surface-alt',
           ]}
+          style="pointer-events: auto;"
           aria-current={currentPath === link.href ? 'page' : undefined}
         >
           {link.label}
         </a>
       ))}
-      
+
     </div>
   </div>
 </header>
@@ -210,17 +211,6 @@ const currentPath = Astro.url.pathname;
     mobileMenuBtn.setAttribute('aria-expanded', String(isOpen));
     iconMenu?.classList.toggle('hidden', !!isOpen);
     iconClose?.classList.toggle('hidden', !isOpen);
-  });
-
-  // Close mobile menu when clicking a link
-  const mobileMenuLinks = mobileMenu?.querySelectorAll('a');
-  mobileMenuLinks?.forEach((link) => {
-    link.addEventListener('click', () => {
-      mobileMenu?.classList.add('hidden');
-      mobileMenuBtn?.setAttribute('aria-expanded', 'false');
-      iconMenu?.classList.remove('hidden');
-      iconClose?.classList.add('hidden');
-    });
   });
 
   // Dark mode toggle
