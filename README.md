@@ -174,7 +174,7 @@ Edite `src/config/site.ts`:
 ```typescript
 export const SITE = {
   name: 'Stradello',
-  url: 'https://stradello.com',        // ← seu domínio
+  url: 'https://stradello.com.br',        // ← seu domínio
   author: {
     email: 'stradello.contato@gmail.com',        // ← seu e-mail
   },

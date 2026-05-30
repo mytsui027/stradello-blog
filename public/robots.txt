@@ -5,4 +5,4 @@ Allow: /
 Disallow: /draft/
 
 # Sitemaps
-Sitemap: https://stradello-blog-jwek-bk9lk0vhc-mytsui027s-projects.vercel.app/sitemap.xml
+Sitemap: https://stradello.com.br/sitemap.xml
