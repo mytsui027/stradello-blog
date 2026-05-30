@@ -6,7 +6,7 @@ export const SITE = {
   name: 'Stradello',
   tagline: 'Viajar devagar. Sentir de verdade.',
   description: 'Blog de viagens slow travel para pessoas introvertidas e viajantes que preferem experiências calmas, autênticas e contemplativas. Destinos tranquilos, cidades pequenas, glamping e turismo alternativo.',
-  url: 'https://stradello.com.br',
+  url: import.meta.env.PUBLIC_SITE_URL || 'https://stradello.com.br',
   locale: 'pt-BR',
   language: 'pt',
   author: {
@@ -22,12 +22,12 @@ export const SITE = {
     youtube: '',
   },
   analytics: {
-    googleAnalyticsId: 'G-5176X7WV66', // GA4 Measurement ID — ex: G-XXXXXXXXXX
-  googleSearchConsole: 'kiYpbLTiBywZ16lUhgbkPRM3lBNVsJ-R-yczrQcfv_M', // Verification meta tag content
+    googleAnalyticsId: import.meta.env.PUBLIC_GA_ID || 'G-5176X7WV66',
+    googleSearchConsole: import.meta.env.PUBLIC_GSC_VERIFICATION || 'kiYpbLTiBywZ16lUhgbkPRM3lBNVsJ-R-yczrQcfv_M',
   },
   adsense: {
-    publisherId: '', // ex: ca-pub-XXXXXXXXXXXXXXX
-    enabled: false, // Set true when approved
+    publisherId: import.meta.env.PUBLIC_ADSENSE_PUBLISHER_ID || '',
+    enabled: import.meta.env.PUBLIC_ADSENSE_ENABLED === 'true',
   },
 } as const;
 
