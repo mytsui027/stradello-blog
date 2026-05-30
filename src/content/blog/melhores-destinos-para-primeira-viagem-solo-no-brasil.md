@@ -222,24 +222,6 @@ A melhor viagem não é a mais famosa.
 
 É a que combina com o momento que você está vivendo.
 
-## Imagem SEO
-
-### Descrição da imagem
-
-Pessoa viajando sozinha observando uma paisagem montanhosa durante o pôr do sol, transmitindo liberdade, tranquilidade e contemplação.
-
-### ALT text
-
-Viajante solo observando paisagem tranquila durante pôr do sol em destino de slow travel.
-
-### Nome do arquivo
-
-melhores-destinos-para-primeira-viagem-solo-no-brasil.jpg
-
-### Prompt visual
-
-Pessoa viajando sozinha em um mirante natural ao pôr do sol, montanhas ao fundo, atmosfera tranquila, tons quentes, sensação de liberdade, slow travel, fotografia realista, alta qualidade, composição acolhedora, ambiente calmo e inspirador.
-
 A primeira viagem solo não precisa ser um teste de coragem.
 
 Ela pode ser simplesmente uma oportunidade de desacelerar.
