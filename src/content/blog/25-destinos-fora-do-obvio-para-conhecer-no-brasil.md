@@ -10,7 +10,7 @@ tags:
   - natureza no Brasil
   - slow travel
   - ecoturismo
-heroImage: 25-destinos-fora-do-obio-para-conhecer-no-brasil.jpg
+heroImage: "/assets/blog/25-destinos-fora-do-obio-para-conhecer-no-brasil.jpg"
 heroImageAlt: Paisagem tranquila com montanhas, rios e natureza preservada no Brasil
 author: Stradello
 featured: true
