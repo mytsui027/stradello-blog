@@ -13,7 +13,7 @@ tags:
 heroImage: "/assets/blog/25-destinos-fora-do-obio-para-conhecer-no-brasil.jpg"
 heroImageAlt: Paisagem tranquila com montanhas, rios e natureza preservada no Brasil
 author: Stradello
-featured: true
+featured: false
 ---
 
 # 25 destinos fora do óbvio para conhecer no Brasil
@@ -32,17 +32,23 @@ A seguir, uma seleção de 25 destinos fora do óbvio que revelam um Brasil meno
 
 Um dos cenários mais surreais do Nordeste. Formações rochosas, pinturas rupestres e um clima quase lunar fazem do Vale do Catimbau um destino de contemplação.
 
+![Vale do Catimbau](/assets/blog/vale do catimbau.jpeg)
+
 ---
 
 ## 2. Vila Bela da Santíssima Trindade (MT)
 
 Cachoeiras cristalinas e trilhas em meio ao cerrado. Um destino forte para quem busca natureza intacta e pouca movimentação turística.
 
+![Vila Bela da Santíssima Trindade](/assets/blog/Vila Bela da Santíssima Trindade (MT).jpg)
+
 ---
 
 ## 3. Cavernas do Peruaçu (MG)
 
 Um dos conjuntos de cavernas mais impressionantes do Brasil, com grutas gigantes e arte rupestre preservada.
+
+![Cavernas do Peruaçu](/assets/blog/Cavernas do Peruaçu (MG).jpeg)
 
 ---
 
@@ -56,6 +62,8 @@ Entre dunas, rios e mar, Tutóia conecta os Pequenos Lençóis Maranhenses ao De
 
 Região ainda pouco explorada, com cachoeiras, serras e áreas naturais que surpreendem pela diversidade.
 
+![Chapada das Emas](/assets/blog/Chapada das Emas (GO).jpg)
+
 ---
 
 ## 6. Serra da Ibiapaba (CE)
@@ -68,11 +76,15 @@ Clima ameno, cachoeiras e cidades históricas fazem da Ibiapaba um refúgio tran
 
 Famosa pelos monólitos gigantes, a cidade tem paisagens únicas que mudam completamente a percepção do sertão.
 
+![Quixadá](/assets/blog/Quixadá (CE).jpg)
+
 ---
 
 ## 8. Cânions do Viana e Serra das Confusões (PI)
 
 Um dos cenários mais dramáticos do Nordeste, com paredões enormes e trilhas em meio à caatinga preservada.
+
+![Cânions do Viana e Serra das Confusões](/assets/blog/Cânions do Viana e Serra das Confusões (PI).jpg)
 
 ---
 
@@ -86,11 +98,15 @@ Cidade histórica na Chapada Diamantina, com arquitetura colonial e acesso a tri
 
 A cidade mais alta do Nordeste, conhecida pelo clima frio e pela produção de cafés especiais.
 
+![Piatã](/assets/blog/Piatã (BA).jpg)
+
 ---
 
 ## 11. Morro do Chapéu (BA)
 
 Cavernas, cachoeiras e formações geológicas fazem desse destino uma das surpresas da Chapada Diamantina.
+
+![Morro do Chapéu](/assets/blog/Morro do Chapéu (BA).jpg)
 
 ---
 
@@ -104,6 +120,8 @@ Um dos maiores complexos de cavernas da América Latina, com rios subterrâneos 
 
 Montanhas de granito espalhadas pela paisagem criam um cenário único no Espírito Santo.
 
+![Pancas](/assets/blog/Pancas (ES).jpeg)
+
 ---
 
 ## 14. Serra do Amolar (MS)
@@ -116,17 +134,23 @@ Uma área isolada no Pantanal, onde natureza e biodiversidade convivem em estado
 
 Uma península tranquila, acessível por barco, ideal para quem busca silêncio e mar calmo.
 
+![Galinhos](/assets/blog/Galinhos (RN).jpg)
+
 ---
 
 ## 16. Serra do Divisor (AC)
 
 Um dos pontos mais isolados da Amazônia brasileira, com biodiversidade intensa e natureza preservada.
 
+![Serra do Divisor](/assets/blog/Serra do Divisor (AC).jpeg)
+
 ---
 
 ## 17. FLONA do Amapá (AP)
 
 Floresta nacional remota, acessível apenas por longos trajetos de barco e estrada.
+
+![FLONA do Amapá](/assets/blog/FLONA do Amapá (AP).jpeg)
 
 ---
 
@@ -140,11 +164,15 @@ Cachoeiras volumosas e formações naturais dentro de áreas indígenas tornam o
 
 Formações rochosas curiosas que lembram paisagens de outro planeta.
 
+![Capadócia Nordestina](/assets/blog/Capadócia Nordestina (PI).jpeg)
+
 ---
 
 ## 20. Cânion do Rio Poti (PI)
 
 Passeios de barco entre paredões rochosos revelam um dos cenários mais bonitos do estado.
+
+![Cânion do Rio Poti](/assets/blog/Cânion do Rio Poti (PI).png)
 
 ---
 
@@ -158,11 +186,15 @@ Formações rochosas com formatos curiosos e sítios arqueológicos em meio à n
 
 Uma das regiões mais diversas do Brasil em cachoeiras, rios e paisagens ainda pouco exploradas.
 
+![Serras Gerais](/assets/blog/Serras Gerais (TO).jpg)
+
 ---
 
 ## 23. Brejo Paraibano (PB)
 
 Região de cidades históricas e engenhos de cachaça em meio ao clima serrano.
+
+![Brejo Paraibano](/assets/blog/Brejo Paraibano (PB).jpg)
 
 ---
 
@@ -170,11 +202,15 @@ Região de cidades históricas e engenhos de cachaça em meio ao clima serrano.
 
 Cachoeiras impressionantes e dolinas escondidas fazem da cidade um destino surpreendente próximo de Brasília.
 
+![Formosa](/assets/blog/Formosa (GO).jpg)
+
 ---
 
 ## 25. Cariri Cearense (CE)
 
 Região rica em cultura, fósseis e tradições, com forte identidade histórica e natural.
+
+![Cariri Cearense](/assets/blog/Cariri Cearense (CE).jpg)
 
 ---
 
