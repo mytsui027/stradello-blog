@@ -45,13 +45,13 @@ export async function GET() {
     })),
     ...posts.map(post => ({
       url: `${SITE.url}/blog/${post.slug}`,
-      lastmod: post.data.updatedDate || post.data.pubDate,
+      lastmod: new Date(post.data.updatedDate || post.data.pubDate).toISOString(),
       changefreq: 'monthly',
       priority: post.data.featured ? 0.9 : 0.6,
     })),
     ...guides.map(guide => ({
       url: `${SITE.url}/guias/${guide.slug}`,
-      lastmod: guide.data.updatedDate || guide.data.pubDate,
+      lastmod: new Date(guide.data.updatedDate || guide.data.pubDate).toISOString(),
       changefreq: 'monthly',
       priority: guide.data.featured ? 0.9 : 0.6,
     })),
