@@ -80,7 +80,7 @@ Clima ameno, cachoeiras e cidades históricas fazem da Ibiapaba um refúgio tran
 
 Famosa pelos monólitos gigantes, a cidade tem paisagens únicas que mudam completamente a percepção do sertão.
 
-![Quixadá](/assets/blog/quixada-ce.jpg.jpg)
+![Quixadá](/assets/blog/quixada-ce.jpg)
 
 ---
 
