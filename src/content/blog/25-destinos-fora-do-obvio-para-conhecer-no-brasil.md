@@ -32,7 +32,7 @@ A seguir, uma seleção de 25 destinos fora do óbvio que revelam um Brasil meno
 
 Um dos cenários mais surreais do Nordeste. Formações rochosas, pinturas rupestres e um clima quase lunar fazem do Vale do Catimbau um destino de contemplação.
 
-![Vale do Catimbau](/assets/blog/vale do catimbau.jpeg)
+![Vale do Catimbau](/assets/blog/vale-do-catimbau-pe.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ Um dos cenários mais surreais do Nordeste. Formações rochosas, pinturas rupes
 
 Cachoeiras cristalinas e trilhas em meio ao cerrado. Um destino forte para quem busca natureza intacta e pouca movimentação turística.
 
-![Vila Bela da Santíssima Trindade](/assets/blog/Vila Bela da Santíssima Trindade (MT).jpg)
+![Vila Bela da Santíssima Trindade](/assets/blog/vila-bela-da-santisima-trindade-mt.jpg)
 
 ---
 
@@ -48,7 +48,7 @@ Cachoeiras cristalinas e trilhas em meio ao cerrado. Um destino forte para quem 
 
 Um dos conjuntos de cavernas mais impressionantes do Brasil, com grutas gigantes e arte rupestre preservada.
 
-![Cavernas do Peruaçu](/assets/blog/Cavernas do Peruaçu (MG).jpeg)
+![Cavernas do Peruaçu](/assets/blog/cavernas-do-peruacu-mg.jpg)
 
 ---
 
@@ -56,13 +56,15 @@ Um dos conjuntos de cavernas mais impressionantes do Brasil, com grutas gigantes
 
 Entre dunas, rios e mar, Tutóia conecta os Pequenos Lençóis Maranhenses ao Delta do Parnaíba.
 
+![Tutóia](/assets/blog/tutoia-ma.jpg)
+
 ---
 
 ## 5. Chapada das Emas (GO)
 
 Região ainda pouco explorada, com cachoeiras, serras e áreas naturais que surpreendem pela diversidade.
 
-![Chapada das Emas](/assets/blog/Chapada das Emas (GO).jpg)
+![Chapada das Emas](/assets/blog/chapada-das-emas-go.jpg)
 
 ---
 
@@ -70,13 +72,15 @@ Região ainda pouco explorada, com cachoeiras, serras e áreas naturais que surp
 
 Clima ameno, cachoeiras e cidades históricas fazem da Ibiapaba um refúgio tranquilo no sertão cearense.
 
+![Serra da Ibiapaba](/assets/blog/serra-da-ibiapaba-ce.jpg.jpg)
+
 ---
 
 ## 7. Quixadá (CE)
 
 Famosa pelos monólitos gigantes, a cidade tem paisagens únicas que mudam completamente a percepção do sertão.
 
-![Quixadá](/assets/blog/Quixadá (CE).jpg)
+![Quixadá](/assets/blog/quixada-ce.jpg.jpg)
 
 ---
 
@@ -84,7 +88,7 @@ Famosa pelos monólitos gigantes, a cidade tem paisagens únicas que mudam compl
 
 Um dos cenários mais dramáticos do Nordeste, com paredões enormes e trilhas em meio à caatinga preservada.
 
-![Cânions do Viana e Serra das Confusões](/assets/blog/Cânions do Viana e Serra das Confusões (PI).jpg)
+![Cânions do Viana e Serra das Confusões](/assets/blog/canions-do-viana e-serra-das-confusoes-pi.jpg)
 
 ---
 
@@ -92,13 +96,15 @@ Um dos cenários mais dramáticos do Nordeste, com paredões enormes e trilhas e
 
 Cidade histórica na Chapada Diamantina, com arquitetura colonial e acesso a trilhas em serras impressionantes.
 
+![Rio de Contas](/assets/blog/rio-de-contas-ba.jpg)
+
 ---
 
 ## 10. Piatã (BA)
 
 A cidade mais alta do Nordeste, conhecida pelo clima frio e pela produção de cafés especiais.
 
-![Piatã](/assets/blog/Piatã (BA).jpg)
+![Piatã](/assets/blog/piata-ba.jpg)
 
 ---
 
@@ -106,7 +112,7 @@ A cidade mais alta do Nordeste, conhecida pelo clima frio e pela produção de c
 
 Cavernas, cachoeiras e formações geológicas fazem desse destino uma das surpresas da Chapada Diamantina.
 
-![Morro do Chapéu](/assets/blog/Morro do Chapéu (BA).jpg)
+![Morro do Chapéu](/assets/blog/morro-do-chapeu-ba.jpg)
 
 ---
 
@@ -114,13 +120,15 @@ Cavernas, cachoeiras e formações geológicas fazem desse destino uma das surpr
 
 Um dos maiores complexos de cavernas da América Latina, com rios subterrâneos e formações impressionantes.
 
+![Terra Ronca](/assets/blog/terra-ronca-go.jpg)
+
 ---
 
 ## 13. Pancas (ES)
 
 Montanhas de granito espalhadas pela paisagem criam um cenário único no Espírito Santo.
 
-![Pancas](/assets/blog/Pancas (ES).jpeg)
+![Pancas](/assets/blog/pancas-es.jpg)
 
 ---
 
@@ -128,13 +136,15 @@ Montanhas de granito espalhadas pela paisagem criam um cenário único no Espír
 
 Uma área isolada no Pantanal, onde natureza e biodiversidade convivem em estado quase intocado.
 
+![Serra do Amolar](/assets/blog/serra-do-amolar-ms.jpg)
+
 ---
 
 ## 15. Galinhos (RN)
 
 Uma península tranquila, acessível por barco, ideal para quem busca silêncio e mar calmo.
 
-![Galinhos](/assets/blog/Galinhos (RN).jpg)
+![Galinhos](/assets/blog/galinhos-rn.jpg)
 
 ---
 
@@ -142,7 +152,7 @@ Uma península tranquila, acessível por barco, ideal para quem busca silêncio 
 
 Um dos pontos mais isolados da Amazônia brasileira, com biodiversidade intensa e natureza preservada.
 
-![Serra do Divisor](/assets/blog/Serra do Divisor (AC).jpeg)
+![Serra do Divisor](/assets/blog/serra-do-divisor-ac.jpg)
 
 ---
 
@@ -150,7 +160,7 @@ Um dos pontos mais isolados da Amazônia brasileira, com biodiversidade intensa 
 
 Floresta nacional remota, acessível apenas por longos trajetos de barco e estrada.
 
-![FLONA do Amapá](/assets/blog/FLONA do Amapá (AP).jpeg)
+![FLONA do Amapá](/assets/blog/flona-do-amapa- ap.jpg)
 
 ---
 
@@ -158,13 +168,15 @@ Floresta nacional remota, acessível apenas por longos trajetos de barco e estra
 
 Cachoeiras volumosas e formações naturais dentro de áreas indígenas tornam o destino ainda mais autêntico.
 
+![Campo Novo do Parecis](/assets/blog/campo-novo-do-parecis-mt.jpg)
+
 ---
 
 ## 19. Capadócia Nordestina (PI)
 
 Formações rochosas curiosas que lembram paisagens de outro planeta.
 
-![Capadócia Nordestina](/assets/blog/Capadócia Nordestina (PI).jpeg)
+![Capadócia Nordestina](/assets/blog/capadocia-ordestina-pi.jpg)
 
 ---
 
@@ -172,7 +184,7 @@ Formações rochosas curiosas que lembram paisagens de outro planeta.
 
 Passeios de barco entre paredões rochosos revelam um dos cenários mais bonitos do estado.
 
-![Cânion do Rio Poti](/assets/blog/Cânion do Rio Poti (PI).png)
+![Cânion do Rio Poti](/assets/blog/canion-do-rio-poti-pi.jpg)
 
 ---
 
@@ -180,13 +192,15 @@ Passeios de barco entre paredões rochosos revelam um dos cenários mais bonitos
 
 Formações rochosas com formatos curiosos e sítios arqueológicos em meio à natureza.
 
+![Parque Nacional Sete Cidades](/assets/blog/parque-nacional-sete -cidades-pi.jpg)
+
 ---
 
 ## 22. Serras Gerais (TO)
 
 Uma das regiões mais diversas do Brasil em cachoeiras, rios e paisagens ainda pouco exploradas.
 
-![Serras Gerais](/assets/blog/Serras Gerais (TO).jpg)
+![Serras Gerais](/assets/blog/serras-gerais-to.jpg)
 
 ---
 
@@ -194,7 +208,7 @@ Uma das regiões mais diversas do Brasil em cachoeiras, rios e paisagens ainda p
 
 Região de cidades históricas e engenhos de cachaça em meio ao clima serrano.
 
-![Brejo Paraibano](/assets/blog/Brejo Paraibano (PB).jpg)
+![Brejo Paraibano](/assets/blog/brejo-paraibano-pb.jpg)
 
 ---
 
@@ -202,7 +216,7 @@ Região de cidades históricas e engenhos de cachaça em meio ao clima serrano.
 
 Cachoeiras impressionantes e dolinas escondidas fazem da cidade um destino surpreendente próximo de Brasília.
 
-![Formosa](/assets/blog/Formosa (GO).jpg)
+![Formosa](/assets/blog/formosa-go.jpg)
 
 ---
 
@@ -210,7 +224,7 @@ Cachoeiras impressionantes e dolinas escondidas fazem da cidade um destino surpr
 
 Região rica em cultura, fósseis e tradições, com forte identidade histórica e natural.
 
-![Cariri Cearense](/assets/blog/Cariri Cearense (CE).jpg)
+![Cariri Cearense](/assets/blog/cariri-cearense-ce.jpg)
 
 ---
 
