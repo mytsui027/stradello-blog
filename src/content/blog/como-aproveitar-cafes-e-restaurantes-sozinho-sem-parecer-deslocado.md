@@ -3,7 +3,7 @@ title: "Como Aproveitar Cafés e Restaurantes Sozinho(a) Sem Parecer Deslocado(a
 slug: "como-aproveitar-cafes-e-restaurantes-sozinho-sem-parecer-deslocado"
 description: "Descubra como aproveitar cafés e restaurantes sozinho com mais conforto, confiança e tranquilidade durante viagens e momentos de desaceleração."
 pubDate: 2026-06-01T00:00:00.000Z
-category: "Cafeterias & Livrarias"
+category: "Cafeterias e Livrarias"
 tags:
   - viagem solo
   - cafeterias
