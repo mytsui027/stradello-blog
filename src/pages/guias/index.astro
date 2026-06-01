@@ -4,7 +4,9 @@ import { getCollection } from 'astro:content';
 import { sortByDate, formatDateShort } from '../../utils/helpers';
 
 const allGuides = await getCollection('guides', ({ data }) => !data.draft);
-const sorted = sortByDate(allGuides);
+const blogGuides = await getCollection('blog', ({ data }) => !data.draft && data.category === 'Guias de Destinos');
+const allItems = [...allGuides, ...blogGuides];
+const sorted = sortByDate(allItems);
 ---
 
 <BaseLayout
@@ -31,7 +33,10 @@ const sorted = sortByDate(allGuides);
   <section class="container-site pb-20" aria-label="Lista de guias">
     {sorted.length > 0 ? (
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {sorted.map((guide, i) => (
+        {sorted.map((item, i) => {
+          const isBlog = item.collection === 'blog';
+          const link = isBlog ? `/blog/${item.slug}` : `/guias/${item.slug}`;
+          return (
           <article
             class="card group flex flex-col reveal"
             style={`animation-delay: ${i * 0.09}s;`}
@@ -39,11 +44,11 @@ const sorted = sortByDate(allGuides);
             itemtype="https://schema.org/TravelGuide"
           >
             <!-- Image placeholder / hero -->
-            <a href={`/guias/${guide.slug}`} class="card-image-wrap" tabindex="-1" aria-hidden="true">
-              {guide.data.heroImage ? (
+            <a href={link} class="card-image-wrap" tabindex="-1" aria-hidden="true">
+              {item.data.heroImage ? (
                 <img
-                  src={guide.data.heroImage as unknown as string}
-                  alt={guide.data.heroImageAlt ?? guide.data.title}
+                  src={item.data.heroImage as unknown as string}
+                  alt={item.data.heroImageAlt ?? item.data.title}
                   loading="lazy"
                   decoding="async"
                   class="w-full h-full object-cover"
@@ -63,9 +68,10 @@ const sorted = sortByDate(allGuides);
             <div class="flex flex-col flex-1 p-5 md:p-6">
               <!-- Meta badges -->
               <div class="flex flex-wrap gap-2 mb-3">
-                <span class="badge-sage">{guide.data.country}</span>
-                {guide.data.duration && <span class="badge badge-stone">{guide.data.duration}</span>}
-                {guide.data.budget && <span class="badge badge-stone">{guide.data.budget}</span>}
+                {!isBlog && item.data.country && <span class="badge-sage">{item.data.country}</span>}
+                {!isBlog && item.data.duration && <span class="badge badge-stone">{item.data.duration}</span>}
+                {!isBlog && item.data.budget && <span class="badge badge-stone">{item.data.budget}</span>}
+                {isBlog && <span class="badge-sage">Brasil</span>}
               </div>
 
               <!-- Title -->
@@ -74,16 +80,16 @@ const sorted = sortByDate(allGuides);
                 style="color: var(--color-heading); letter-spacing: -0.02em;"
                 itemprop="name"
               >
-                <a href={`/guias/${guide.slug}`}>{guide.data.title}</a>
+                <a href={link}>{item.data.title}</a>
               </h2>
               <p class="text-sm leading-relaxed mb-4 line-clamp-2 flex-1" style="color: var(--color-text-muted);" itemprop="description">
-                {guide.data.description}
+                {item.data.description}
               </p>
 
               <!-- Best for tags -->
-              {guide.data.bestFor.length > 0 && (
+              {!isBlog && item.data.bestFor && item.data.bestFor.length > 0 && (
                 <div class="flex flex-wrap gap-1.5 mb-4">
-                  {guide.data.bestFor.slice(0, 3).map((tag) => (
+                  {item.data.bestFor.slice(0, 3).map((tag) => (
                     <span class="text-xs px-2 py-0.5 rounded-full" style="background: var(--color-bg-alt); color: var(--color-text-muted);">
                       {tag}
                     </span>
@@ -94,15 +100,15 @@ const sorted = sortByDate(allGuides);
               <!-- Footer meta -->
               <div class="flex items-center justify-between pt-4" style="border-top: 1px solid var(--color-border-soft);">
                 <span class="text-xs font-medium" style="color: var(--color-accent);">
-                  {guide.data.destination}
+                  {!isBlog ? item.data.destination : 'Brasil'}
                 </span>
-                <time class="text-xs" style="color: var(--color-text-faint);" datetime={guide.data.pubDate.toISOString()}>
-                  {formatDateShort(guide.data.pubDate)}
+                <time class="text-xs" style="color: var(--color-text-faint);" datetime={item.data.pubDate.toISOString()}>
+                  {formatDateShort(item.data.pubDate)}
                 </time>
               </div>
             </div>
           </article>
-        ))}
+        )})}
       </div>
     ) : (
       <div class="max-w-lg mx-auto text-center py-24">
