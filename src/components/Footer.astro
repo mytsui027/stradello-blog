@@ -5,10 +5,14 @@ const currentYear = new Date().getFullYear();
 const FOOTER_BLOG_CATEGORY_SLUGS = [
   'viagens-solo',
   'slow-travel',
-  'Lugares para Desacelerar',
+  'lugares-para-desacelerar',
   'natureza',
   'glamping',
   'cafeterias-e-livrarias',
+  'para-introvertidos',
+  'experiencias-locais',
+  'guias-de-destinos',
+  'lugares-para-trabalhar-com-calma',
 ] as const;
 const footerBlogCategories = CATEGORIES.filter((category) =>
   FOOTER_BLOG_CATEGORY_SLUGS.includes(category.slug as (typeof FOOTER_BLOG_CATEGORY_SLUGS)[number])
