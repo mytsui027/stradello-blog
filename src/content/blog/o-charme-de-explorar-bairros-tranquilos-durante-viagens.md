@@ -3,7 +3,7 @@ title: "O Charme de Explorar Bairros Tranquilos Durante Viagens"
 slug: "o-charme-de-explorar-bairros-tranquilos-durante-viagens"
 description: "Descubra por que explorar bairros tranquilos pode transformar suas viagens em experiências mais autênticas, leves e memoráveis."
 pubDate: 2026-06-02T00:00:00.000Z
-category: "Experiências Locais"
+category: "Experiencias Locais"
 tags:
   - Slow Travel
   - Experiências Locais

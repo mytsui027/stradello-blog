@@ -3,7 +3,7 @@ title: "Como Entender a Alma de Uma Cidade Observando Suas Igrejas e Monumentos"
 slug: "como-entender-a-alma-de-uma-cidade-observando-suas-igrejas-e-monumentos"
 description: "Descubra como igrejas, praças e monumentos revelam a história, os costumes e a verdadeira identidade de uma cidade."
 pubDate: 2026-06-02T00:00:00.000Z
-category: "Experiências Locais"
+category: "Experiencias Locais"
 tags:
   - Slow Travel
   - Experiências Locais

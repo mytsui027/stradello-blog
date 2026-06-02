@@ -3,7 +3,7 @@ title: "Como Conhecer a Cultura Local Sem Fazer Turismo Corrido"
 slug: "como-conhecer-a-cultura-local-sem-fazer-turismo-corrido"
 description: "Descubra como mergulhar na cultura local de forma autêntica, desacelerando o ritmo da viagem e criando experiências mais significativas."
 pubDate: 2026-06-01T00:00:00.000Z
-category: "Experiências Locais"
+category: "Experiencias Locais"
 tags:
   - Slow Travel
   - Cultura Local
