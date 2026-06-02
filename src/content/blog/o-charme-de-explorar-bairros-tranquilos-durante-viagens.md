@@ -237,6 +237,8 @@ A arquitetura das casas.
 
 As pessoas conversando na calçada.
 
+As igrejas locais.
+
 São elementos simples.
 
 Mas que muitas vezes permanecem na memória por mais tempo do que atrações famosas.
