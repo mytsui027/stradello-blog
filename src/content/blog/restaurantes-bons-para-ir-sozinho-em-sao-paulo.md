@@ -1,5 +1,5 @@
 ---
-title: "Restaurantes Bons Para Ir Sozinho(a) em São Paulo: Lugares Onde Você Pode Aproveitar Sua Própria Companhia"
+title: "Restaurantes Bons Para Ir Sozinho em São Paulo"
 slug: "restaurantes-bons-para-ir-sozinho-em-sao-paulo"
 description: "Descubra restaurantes acolhedores em São Paulo para quem gosta de aproveitar uma refeição sozinho, sem pressa e sem desconforto."
 pubDate: 2026-06-03T00:00:00.000Z
