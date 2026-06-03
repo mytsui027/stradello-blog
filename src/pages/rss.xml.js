@@ -26,7 +26,7 @@ export async function GET(context) {
       <webMaster>Equipe Técnica Stradello</webMaster>
       <copyright>© ${new Date().getFullYear()} ${SITE.name}</copyright>
       <image>
-        <url>${site}/logo.png</url>
+        <url>${site}/logo.svg</url>
         <title>${SITE.name}</title>
         <link>${site}</link>
       </image>
