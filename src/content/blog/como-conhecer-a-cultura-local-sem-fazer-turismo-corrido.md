@@ -14,7 +14,7 @@ tags:
   - Viagem Sem Pressa
 heroImage: "/assets/blog/como-conhecer-a-cultura-local-sem-fazer-turismo-corrido.jpg"
 heroImageAlt: "Viajante observando a rotina local em uma pequena praÃ§a durante uma viagem tranquila"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 

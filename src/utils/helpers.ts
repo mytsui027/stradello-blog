@@ -144,6 +144,30 @@ export function generateArticleSchema({
   siteName: string;
   siteUrl: string;
 }) {
+  // Enhanced author schema for Cléber Lima
+  const authorSchema = author === 'Cléber Lima | Stradello' || author === 'Cléber Lima'
+    ? {
+        '@type': 'Person',
+        name: 'Cléber Lima',
+        description: 'Bacharel em Turismo e criador do Stradello',
+        url: `${siteUrl}/autor/cleber-lima`,
+        image: `${siteUrl}/cleber-lima-criador-stradello.jpg`,
+        jobTitle: 'Criador do Stradello',
+        alumniOf: 'Bacharelado em Turismo',
+        knowsAbout: [
+          'Turismo',
+          'Viagens Solo',
+          'Slow Travel',
+          'Experiências Locais',
+          'Turismo de Natureza',
+          'Planejamento de Viagens'
+        ]
+      }
+    : {
+        '@type': 'Person',
+        name: author,
+      };
+
   return {
     '@context': 'https://schema.org',
     '@type': 'TravelArticle',
@@ -152,17 +176,14 @@ export function generateArticleSchema({
     url,
     datePublished: datePublished.toISOString(),
     dateModified: (dateModified ?? datePublished).toISOString(),
-    author: {
-      '@type': 'Person',
-      name: author,
-    },
+    author: authorSchema,
     publisher: {
       '@type': 'Organization',
       name: siteName,
       url: siteUrl,
       logo: {
         '@type': 'ImageObject',
-        url: `${siteUrl}/logo.png`,
+        url: `${siteUrl}/logo.svg`,
       },
     },
     ...(image && {

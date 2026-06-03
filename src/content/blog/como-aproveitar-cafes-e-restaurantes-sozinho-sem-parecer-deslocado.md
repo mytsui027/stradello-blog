@@ -15,7 +15,7 @@ tags:
   - viajar sozinho
 heroImage: "/assets/blog/como-aproveitar-cafes-e-restaurantes-sozinho-sem-parecer-deslocado.jpg"
 heroImageAlt: "Pessoa sentada sozinha em uma cafeteria aconchegante lendo um livro próximo à janela."
-author: "Equipe Stradello"
+author: "Cl�ber Lima | Stradello"
 featured: false
 ---
 

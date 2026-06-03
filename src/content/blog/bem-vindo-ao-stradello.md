@@ -3,7 +3,7 @@ title: "Bem-vindo ao Stradello"
 description: "Um espaço para quem viaja sem pressa, observa detalhes e busca experiências mais tranquilas e significativas."
 pubDate: 2026-05-28
 category: "Slow Travel"
-author: "Equipe Stradello"
+author: "Cl�ber Lima | Stradello"
 tags:
   - slow travel
   - bem-vindo

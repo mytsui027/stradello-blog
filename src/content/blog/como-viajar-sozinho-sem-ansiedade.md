@@ -15,7 +15,7 @@ tags:
   - autoconhecimento
 heroImage: "/assets/blog/como-viajar-sozinho-sem-ansiedade.jpg"
 heroImageAlt: "Pessoa observando uma paisagem tranquila durante uma viagem solo em meio Ã  natureza."
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 

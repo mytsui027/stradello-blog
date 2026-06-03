@@ -15,7 +15,7 @@ tags:
   - Porto
 heroImage: "/assets/blog/por-que-portugal-e-um-dos-destinos-mais-faceis-pra-brasileiros.jpg"
 heroImageAlt: "Viajante observando uma rua histÃ³rica de Portugal em ritmo tranquilo durante sua primeira viagem internacional"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 

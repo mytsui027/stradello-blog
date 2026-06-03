@@ -15,7 +15,7 @@ tags:
   - turismo leve
 heroImage: "/assets/blog/como-aproveitar-uma-viagem-sem-precisar-estar-animado-o-tempo-inteiro.jpg"
 heroImageAlt: "Pessoa observando uma paisagem tranquila durante uma viagem sem pressa"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 

@@ -14,7 +14,7 @@ tags:
   - lugares para desacelerar
 heroImage: "/assets/blog/como-encontrar-lugares-tranquilos-mesmo-em-destinos-famosos.jpg"
 heroImageAlt: "Viajante observando uma rua tranquila em um destino turístico famoso durante o início da manhã"
-author: "Equipe Stradello"
+author: "Cl�ber Lima | Stradello"
 featured: false
 ---
 

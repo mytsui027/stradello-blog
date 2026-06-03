@@ -1,0 +1,159 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { SITE } from '../../config/site';
+import { formatDate, readingTime } from '../../utils/helpers';
+
+// Get all published blog posts by this author
+const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.author === 'Cléber Lima | Stradello');
+const sortedPosts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const authorName = 'Cléber Lima';
+const authorTitle = 'Bacharel em Turismo e criador do Stradello';
+const authorBio = `Bacharel em Turismo desde 2017, apaixonado por viagens, experiências autênticas e pela descoberta de lugares que costumam passar despercebidos pelos roteiros tradicionais.
+
+Ao longo dos anos, desenvolvi um olhar voltado para o turismo mais humano, tranquilo e significativo. Sempre acreditei que viajar não precisa ser uma corrida para marcar atrações em uma lista, mas uma oportunidade de desacelerar, observar, aprender e criar conexões genuínas com os lugares visitados.
+
+Minha trajetória profissional e acadêmica me levou a explorar diferentes áreas relacionadas ao turismo, comportamento do viajante, tecnologia, análise de dados e experiência do usuário. Essa combinação de conhecimentos influencia diretamente a forma como pesquiso, escrevo e compartilho conteúdo aqui no Stradello.
+
+O Stradello nasceu da vontade de mostrar que existem outras formas de viajar. Formas mais leves, menos apressadas e mais alinhadas com quem busca tranquilidade, introspecção, natureza, cultura local e experiências verdadeiras.
+
+Neste espaço, compartilho guias, reflexões, roteiros, destinos, cafeterias, livrarias, experiências locais e lugares para desacelerar, sempre com foco em viagens conscientes e experiências que valorizam qualidade acima da quantidade.
+
+Meu objetivo é ajudar viajantes a descobrirem que nem sempre é preciso ir mais longe, gastar mais ou fazer mais para viver uma viagem memorável.
+
+Porque, muitas vezes, os melhores momentos acontecem justamente quando deixamos de correr e começamos a observar.`;
+
+const authorImage = '/cleber-lima-criador-stradello.jpg';
+const authorUrl = `${SITE.url}/autor/cleber-lima`;
+
+// Person Schema for author
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: authorName,
+  description: authorTitle,
+  url: authorUrl,
+  image: `${SITE.url}${authorImage}`,
+  jobTitle: 'Criador do Stradello',
+  alumniOf: 'Bacharelado em Turismo',
+  knowsAbout: [
+    'Turismo',
+    'Viagens Solo',
+    'Slow Travel',
+    'Experiências Locais',
+    'Turismo de Natureza',
+    'Planejamento de Viagens'
+  ],
+  sameAs: Object.values(SITE.social).filter(Boolean)
+};
+---
+
+<BaseLayout
+  title={`${authorName} - ${SITE.name}`}
+  description={`${authorTitle}. ${authorBio.slice(0, 150)}...`}
+  ogImage={authorImage}
+  ogType="profile"
+  structuredData={personSchema}
+>
+  <!-- Hero -->
+  <section class="section-gap">
+    <div class="container-site">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-16 items-start">
+        
+        <!-- Author Info -->
+        <div class="lg:col-span-1">
+          <div class="sticky top-8">
+            <div class="rounded-2xl overflow-hidden mb-6" style="aspect-ratio: 1/1;">
+              <img
+                src={authorImage}
+                alt={authorName}
+                class="w-full h-full object-cover"
+                width="400"
+                height="400"
+                loading="eager"
+                fetchpriority="high"
+              />
+            </div>
+            
+            <p class="section-label mb-2">Sobre o autor</p>
+            <h1 class="font-display font-medium text-3xl mb-3" style="color: var(--color-heading); letter-spacing: -0.02em;">
+              {authorName}
+            </h1>
+            <p class="text-sm mb-6" style="color: var(--color-accent);">
+              {authorTitle}
+            </p>
+            
+            <div class="space-y-4 text-sm leading-relaxed" style="color: var(--color-text-muted);">
+              <p>
+                Bacharel em Turismo desde 2017, apaixonado por viagens, experiências autênticas e pela descoberta de lugares que costumam passar despercebidos pelos roteiros tradicionais.
+              </p>
+              <p>
+                Sempre acreditei que viajar não precisa ser uma corrida para marcar atrações em uma lista, mas uma oportunidade de desacelerar, observar, aprender e criar conexões genuínas com os lugares visitados.
+              </p>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Full Bio & Articles -->
+        <div class="lg:col-span-2 space-y-16">
+          
+          <!-- Full Biography -->
+          <div>
+            <h2 class="font-display font-medium text-2xl mb-6" style="color: var(--color-heading); letter-spacing: -0.02em;">
+              Minha trajetória
+            </h2>
+            <div class="prose-stradello prose dark:prose-invert max-w-none space-y-4" style="color: var(--color-text-muted);">
+              <p>
+                Minha trajetória profissional e acadêmica me levou a explorar diferentes áreas relacionadas ao turismo, comportamento do viajante, tecnologia, análise de dados e experiência do usuário. Essa combinação de conhecimentos influencia diretamente a forma como pesquiso, escrevo e compartilho conteúdo aqui no Stradello.
+              </p>
+              <p>
+                O Stradello nasceu da vontade de mostrar que existem outras formas de viajar. Formas mais leves, menos apressadas e mais alinhadas com quem busca tranquilidade, introspecção, natureza, cultura local e experiências verdadeiras.
+              </p>
+              <p>
+                Neste espaço, compartilho guias, reflexões, roteiros, destinos, cafeterias, livrarias, experiências locais e lugares para desacelerar, sempre com foco em viagens conscientes e experiências que valorizam qualidade acima da quantidade.
+              </p>
+              <p>
+                Meu objetivo é ajudar viajantes a descobrirem que nem sempre é preciso ir mais longe, gastar mais ou fazer mais para viver uma viagem memorável.
+              </p>
+              <p>
+                Porque, muitas vezes, os melhores momentos acontecem justamente quando deixamos de correr e começamos a observar.
+              </p>
+            </div>
+          </div>
+          
+          <!-- Articles by Author -->
+          {sortedPosts.length > 0 && (
+            <div>
+              <h2 class="font-display font-medium text-2xl mb-6" style="color: var(--color-heading); letter-spacing: -0.02em;">
+                Artigos publicados ({sortedPosts.length})
+              </h2>
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {sortedPosts.map((post, i) => (
+                  <div class="reveal" style={`animation-delay: ${i * 0.05}s`}>
+                    <ArticleCard
+                      title={post.data.title}
+                      description={post.data.description}
+                      slug={post.slug}
+                      pubDate={post.data.pubDate}
+                      category={post.data.category}
+                      categorySlug={post.data.category.toLowerCase().replace(/\s+/g, '-')}
+                      heroImage={post.data.heroImage}
+                      heroImageAlt={post.data.heroImageAlt}
+                      author={post.data.author}
+                      featured={post.data.featured}
+                      size="sm"
+                      content={post.body}
+                    />
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+          
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

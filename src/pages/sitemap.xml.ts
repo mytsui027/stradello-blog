@@ -13,6 +13,7 @@ export async function GET() {
     '/guias',
     '/sobre',
     '/contato',
+    '/autor/cleber-lima',
   ];
   
   // Páginas de categorias

@@ -15,7 +15,7 @@ tags:
   - viagens conscientes
 heroImage: "/assets/blog/destinos-brasileiros-e-internacionais-ideais-para-quem-ama-natureza-e-calma.jpg"
 heroImageAlt: "Viajante observando montanhas e natureza em um destino tranquilo cercado por verde"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 

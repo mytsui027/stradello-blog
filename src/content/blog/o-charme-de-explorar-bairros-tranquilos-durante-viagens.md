@@ -15,7 +15,7 @@ tags:
   - Turismo AutÃªntico
 heroImage: "/assets/blog/o-charme-de-explorar-bairros-tranquilos-durante-viagens.jpg"
 heroImageAlt: "Viajante explorando um bairro tranquilo durante uma viagem em ritmo slow travel"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 

@@ -15,7 +15,7 @@ tags:
   - Bem-estar
 heroImage: "/assets/blog/por-que-correr-menos-transforma-completamente-uma-viagem.jpg"
 heroImageAlt: "Pessoa explorando uma cidade tranquilamente durante uma viagem em ritmo slow travel"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 

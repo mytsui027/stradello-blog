@@ -14,7 +14,7 @@ tags:
   - viagens tranquilas
 heroImage: "/assets/blog/workation-como-trabalhar-remotamente-sem-transformar-a-viagem-em-estresse.jpg"
 heroImageAlt: "Pessoa trabalhando remotamente em um ambiente tranquilo cercado pela natureza durante uma viagem"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 

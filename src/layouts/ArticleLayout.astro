@@ -4,6 +4,7 @@ import BaseLayout from './BaseLayout.astro';
 import NewsletterBanner from '../components/NewsletterBanner.astro';
 import AdUnit from '../components/AdUnit.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
+import AuthorBlock from '../components/AuthorBlock.astro';
 import { SITE } from '../config/site';
 import { formatDate, formatDateISO, readingTime, generateArticleSchema, generateBreadcrumbSchema } from '../utils/helpers';
 
@@ -248,6 +249,9 @@ const breadcrumbSchema = generateBreadcrumbSchema([
     <div class="container-narrow mt-12">
       <NewsletterBanner variant="inline" />
     </div>
+
+    <!-- Author block -->
+    <AuthorBlock />
 
     <!-- Related articles -->
     <RelatedArticles

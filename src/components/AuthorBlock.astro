@@ -1,0 +1,57 @@
+---
+const authorName = 'Cléber Lima';
+const authorTitle = 'Bacharel em Turismo e criador do Stradello';
+const authorBio = 'Bacharel em Turismo desde 2017, apaixonado por viagens, experiências autênticas e pela descoberta de lugares que costumam passar despercebidos pelos roteiros tradicionais.';
+const authorImage = '/cleber-lima-criador-stradello.jpg';
+const authorUrl = '/autor/cleber-lima';
+---
+
+<section class="container-narrow mt-16 pt-12 pb-8" style="border-top: 1px solid var(--color-border-soft);">
+  <div class="flex flex-col md:flex-row gap-6 items-start">
+    
+    <!-- Author Photo -->
+    <div class="shrink-0">
+      <div class="rounded-full overflow-hidden" style="width: 80px; height: 80px;">
+        <img
+          src={authorImage}
+          alt={authorName}
+          class="w-full h-full object-cover"
+          width="80"
+          height="80"
+          loading="lazy"
+        />
+      </div>
+    </div>
+    
+    <!-- Author Info -->
+    <div class="flex-1 space-y-3">
+      <div>
+        <p class="text-xs font-medium uppercase tracking-widest mb-1" style="color: var(--color-accent);">
+          Sobre o autor
+        </p>
+        <h3 class="font-display font-medium text-xl" style="color: var(--color-heading); letter-spacing: -0.02em;">
+          {authorName}
+        </h3>
+        <p class="text-sm" style="color: var(--color-accent);">
+          {authorTitle}
+        </p>
+      </div>
+      
+      <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
+        {authorBio}
+      </p>
+      
+      <a
+        href={authorUrl}
+        class="inline-flex items-center gap-2 text-sm font-medium transition-colors duration-200"
+        style="color: var(--color-accent);"
+      >
+        Conheça o autor
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M5 12h14"/><path d="M12 5l7 7-7 7"/>
+        </svg>
+      </a>
+    </div>
+    
+  </div>
+</section>

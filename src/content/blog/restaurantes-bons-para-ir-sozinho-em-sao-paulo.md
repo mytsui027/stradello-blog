@@ -13,7 +13,7 @@ tags:
   - gastronomia
 heroImage: "/assets/blog/restaurantes-bons-para-ir-sozinho-em-sao-paulo.jpg"
 heroImageAlt: "Pessoa almoçando sozinha em restaurante aconchegante em São Paulo"
-author: "Equipe Stradello"
+author: "Cl�ber Lima | Stradello"
 featured: false
 ---
 

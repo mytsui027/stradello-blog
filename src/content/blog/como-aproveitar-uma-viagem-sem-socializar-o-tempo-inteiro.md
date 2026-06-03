@@ -13,7 +13,7 @@ tags:
   - viajar sozinho
   - desacelerar
   - bem-estar em viagem
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 draft: false
 heroImage: "/images/como-aproveitar-viagem-sem-socializar-introvertidos.jpg"

@@ -15,7 +15,7 @@ tags:
   - Ecoturismo
 heroImage: "/assets/blog/diferenca-entre-camping-chale-e-glamping-qual-escolher.jpg"
 heroImageAlt: "Camping, chalÃ© e glamping em ambiente natural mostrando diferentes formas de hospedagem para quem busca contato com a natureza"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 

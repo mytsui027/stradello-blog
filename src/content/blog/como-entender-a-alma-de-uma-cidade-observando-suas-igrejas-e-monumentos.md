@@ -15,7 +15,7 @@ tags:
   - Lugares para Desacelerar
 heroImage: "/assets/blog/como-entender-a-alma-de-uma-cidade-observando-suas-igrejas-e-monumentos.jpg"
 heroImageAlt: "Viajante observando uma igreja histórica em uma praça tranquila durante uma viagem cultural"
-author: "Equipe Stradello"
+author: "Cl�ber Lima | Stradello"
 featured: false
 ---
 

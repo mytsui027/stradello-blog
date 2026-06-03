@@ -17,7 +17,7 @@ tags:
   - Destinos para Desacelerar
 heroImage: "/assets/blog/guia-completo-de-viagem-para-desacelerar-em-monte-verde-mg.jpg"
 heroImageAlt: "Viajante observando as montanhas e a natureza de Monte Verde durante uma viagem tranquila na Serra da Mantiqueira"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 

@@ -12,7 +12,7 @@ tags:
   - ecoturismo
 heroImage: "/assets/blog/25-destinos-fora-do-obio-para-conhecer-no-brasil.jpg"
 heroImageAlt: Paisagem tranquila com montanhas, rios e natureza preservada no Brasil
-author: Stradello
+author: "Cléber Lima | Stradello"
 featured: false
 ---
 
