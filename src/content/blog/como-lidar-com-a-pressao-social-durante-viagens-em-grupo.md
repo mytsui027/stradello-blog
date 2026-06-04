@@ -13,7 +13,7 @@ tags:
   - "turismo consciente"
   - "pressão social"
   - "viagens tranquilas"
-heroImage: "/assets/blog/como-lidar-com-a-pressao-social-durante-viagens-em-grupo.jpg"
+heroImage: "/assets/blog/como-lidar-com-a-pressao-social-durante-viagens-em-grupo-v2.jpg"
 heroImageAlt: "Pessoa observando uma paisagem natural em silêncio durante uma viagem em grupo, valorizando momentos de calma e introspecção"
 author: "Cléber Lima | Stradello"
 draft: false
