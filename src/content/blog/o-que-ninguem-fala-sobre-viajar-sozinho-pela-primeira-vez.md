@@ -13,7 +13,7 @@ tags:
   - "autoconhecimento"
   - "experiências locais"
   - "turismo consciente"
-heroImage: "/assets/blog/o-que-ninguem-fala-sobre-viajar-sozinho-pela-primeira-vez.jpg"
+heroImage: "/assets/blog/o-que-ninguem-fala-sobre-viajar-sozinho-pela-primeira-vez-v2.jpg"
 heroImageAlt: "Pessoa observando uma paisagem durante sua primeira viagem sozinha"
 author: "Cléber Lima | Stradello"
 draft: false
