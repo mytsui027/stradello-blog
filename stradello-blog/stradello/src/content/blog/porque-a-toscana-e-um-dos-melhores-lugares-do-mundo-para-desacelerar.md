@@ -2,15 +2,24 @@
 title: "Por que a Toscana é um dos melhores lugares do mundo para desacelerar"
 slug: "porque-a-toscana-e-um-dos-melhores-lugares-do-mundo-para-desacelerar"
 description: "Descubra por que a Toscana é um dos melhores destinos para slow travel, com vilarejos tranquilos, paisagens cinematográficas e experiências autênticas."
-date: "2026-06-05T16:40:00.000Z"
-category: ["Slow Travel", "Lugares para Desacelerar"]
+date: "2026-06-05"
+category: "Slow Travel"
 tags: ["Toscana", "Slow Travel", "Itália", "Desacelerar", "Viagem Solo", "Natureza", "Introvertidos"]
 image: "/images/porque-a-toscana-e-um-dos-melhores-lugares-do-mundo-para-desacelerar.jpg"
 alt: "Paisagem tranquila da Toscana com colinas verdes, ciprestes e vilarejo medieval ao fundo em um dia ensolarado"
 excerpt: "A Toscana convida você a parar. Entre colinas onduladas, vilarejos medievais e vinhedos infinitos, esta região italiana é o destino perfeito para quem busca desacelerar e vivenciar o slow travel."
-keywords: "Toscana, slow travel, desacelerar, Itália, viagem tranquila, vilarejos toscanos, lugares para desacelerar, viagem solo, introvertidos, natureza"
+keywords:
+  - Toscana
+  - slow travel
+  - desacelerar
+  - Itália
+  - viagem tranquila
+  - vilarejos toscanos
+  - lugares para desacelerar
+  - viagem solo
+  - introvertidos
+  - natureza
 author: "Cléber Lima | Stradello"
-published: true
 ---
 
 # Por que a Toscana é um dos melhores lugares do mundo para desacelerar
