@@ -14,7 +14,7 @@ tags:
   - introvertidos
   - lugares para desacelerar
   - vilarejos toscanos
-image: "/images/porque-a-toscana-e-um-dos-mmelhores-lugares-do-mundo-para-desacelerar.jpg"
+image: "/assets/porque-a-toscana-e-um-dos-mmelhores-lugares-do-mundo-para-desacelerar.jpg"
 alt: "Paisagem tranquila da Toscana com colinas verdes, ciprestes e vilarejo medieval ao fundo em um dia ensolarado"
 excerpt: "A Toscana convida você a parar. Entre colinas ondulantes, vilarejos medievais e vinhedos infinitos, esta região italiana é o destino perfeito para quem busca desacelerar e vivenciar o slow travel."
 keywords:
