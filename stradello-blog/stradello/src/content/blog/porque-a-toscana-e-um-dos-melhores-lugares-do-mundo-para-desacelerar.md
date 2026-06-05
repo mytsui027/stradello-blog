@@ -18,7 +18,6 @@ tags:
 author: "Cléber Lima | Stradello"
 featured: false
 draft: false
-heroImage: "/assets/porque-a-toscana-e-um-dos-mmelhores-lugares-do-mundo-para-desacelerar.jpg"
 heroImageAlt: "Paisagem tranquila da Toscana com colinas verdes, ciprestes e vilarejo medieval ao fundo em um dia ensolarado"
 heroImageCredit: "Unsplash"
 destination: "Toscana"
@@ -26,6 +25,10 @@ country: "Itália"
 readingTime: 8
 articleType: "TravelArticle"
 hasAffiliateLinks: false
+
+# Imagem principal
+imageFileName: "porque-a-toscana-e-um-dos-mmelhores-lugares-do-mundo-para-desacelerar.jpg"
+imagePrompt: "Editorial travel photography, serene Tuscan landscape with rolling green hills extending to infinity, classic Italian cypress trees lining a country road, medieval hilltop village with terracotta roofs in the distance, soft golden late afternoon light, peaceful and contemplative mood, cinematic composition, warm earthy tones, no people in frame"
 ---
 
 # Por que a Toscana é um dos melhores lugares do mundo para desacelerar
