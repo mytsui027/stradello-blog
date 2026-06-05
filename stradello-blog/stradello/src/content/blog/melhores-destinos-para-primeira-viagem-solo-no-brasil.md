@@ -1,9 +1,8 @@
-``md
 ---
 title: "Melhores destinos para primeira viagem solo no Brasil: lugares tranquilos para começar com confiança"
 slug: "melhores-destinos-para-primeira-viagem-solo-no-brasil"
 description: "Descubra destinos acolhedores, seguros e tranquilos para fazer sua primeira viagem solo sem pressão e com mais confiança."
-date: "2026-05-30"
+pubDate: 2026-05-30
 category: "Viagens Solo"
 tags:
   - viagem solo
@@ -13,17 +12,20 @@ tags:
   - viagens para introvertidos
   - turismo consciente
   - destinos brasileiros
-image: "/images/melhores-destinos-para-primeira-viagem-solo.no.brasil.jpg"
-alt: "Pessoa viajando sozinha observando uma paisagem tranquila durante o pôr do sol"
-excerpt: "Uma seleção de destinos acolhedores para quem deseja fazer a primeira viagem solo com mais tranquilidade, segurança e liberdade."
-keywords:
-  - melhores destinos para primeira viagem solo
-  - viagem solo brasil
-  - viajar sozinho pela primeira vez
-  - destinos tranquilos
-  - slow travel
 author: "Stradello"
-published: true
+featured: false
+draft: false
+heroImageAlt: "Pessoa viajando sozinha observando uma paisagem tranquila durante o pôr do sol"
+heroImageCredit: "Unsplash"
+destination: "Brasil"
+country: "Brasil"
+readingTime: 8
+articleType: "TravelArticle"
+hasAffiliateLinks: false
+
+# Imagem principal
+imageFileName: "melhores-destinos-para-primeira-viagem-solo.no.brasil.jpg"
+imagePrompt: "Editorial travel photography, solo traveler observing a tranquil landscape during sunset, peaceful contemplation, warm golden light, sense of freedom and confidence, cinematic composition"
 ---
 
 # Melhores destinos para primeira viagem solo: lugares tranquilos para começar com confiança
