@@ -1,9 +1,8 @@
-```md id="9n2lqe"
 ---
 title: "Roteiro leve de 3 dias para quem quer descansar de verdade"
 slug: "roteiro-leve-3-dias-para-descansar-de-verdade"
 description: "Um roteiro tranquilo de 3 dias para desacelerar, descansar a mente e aproveitar uma viagem sem correria."
-date: "2026-05-29"
+pubDate: 2026-05-29
 category: "Lugares para Desacelerar"
 tags:
   - slow travel
@@ -13,17 +12,20 @@ tags:
   - natureza
   - viagem leve
   - lugares calmos
-image: "roteiro-leve-3-dias-para-descansar-de-verdade.jpg"
-alt: "Pessoa observando uma paisagem tranquila durante uma viagem slow travel"
-excerpt: "Nem toda viagem precisa ser intensa. Este roteiro leve de 3 dias é para quem quer descansar de verdade e desacelerar sem culpa."
-keywords:
-  - roteiro leve
-  - viagem tranquila
-  - slow travel brasil
-  - descanso mental viagem
-  - roteiro para desacelerar
 author: "Stradello"
-published: true
+featured: false
+draft: false
+heroImageAlt: "Pessoa observando uma paisagem tranquila durante uma viagem slow travel"
+heroImageCredit: "Unsplash"
+destination: "Diversos"
+country: "Múltiplos"
+readingTime: 8
+articleType: "TravelArticle"
+hasAffiliateLinks: false
+
+# Imagem principal
+imageFileName: "roteiro-leve-3-dias-para-descansar-de-verdade.jpg"
+imagePrompt: "Editorial travel photography, person observing a tranquil landscape during slow travel, peaceful contemplation, soft natural light, sense of rest and relaxation, minimalist composition"
 ---
 
 # Roteiro leve de 3 dias para quem quer descansar de verdade
