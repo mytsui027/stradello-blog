@@ -25,14 +25,6 @@ country: "Itália"
 readingTime: 8
 articleType: "TravelArticle"
 hasAffiliateLinks: false
-
-# SEO avançado
-metaTitle: "Por que a Toscana é um dos melhores lugares para desacelerar | Stradello"
-metaDescription: "Descubra por que a Toscana é um dos melhores destinos para slow travel, com vilarejos tranquilos, paisagens cinematográficas e experiências autênticas na Itália."
-
-# Imagem principal
-imageFileName: "porque-a-toscana-e-um-dos-mmelhores-lugares-do-mundo-para-desacelerar.jpg"
-imagePrompt: "Editorial travel photography, serene Tuscan landscape with rolling green hills extending to infinity, classic Italian cypress trees lining a country road, medieval hilltop village with terracotta roofs in the distance, soft golden late afternoon light, peaceful and contemplative mood, cinematic composition, warm earthy tones, no people in frame"
 ---
 
 # Por que a Toscana é um dos melhores lugares do mundo para desacelerar
