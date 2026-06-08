@@ -17,6 +17,7 @@ tags:
 author: "Equipe Stradello"
 featured: false
 draft: false
+heroImage: "/assets/blog/como-aproveitar-viagem-sem-socializar-introvertidos.jpg"
 heroImageAlt: "Pessoa sozinha sentada em um banco de praça tranquila, lendo um livro com xícara de café ao lado, em cidade europeia de arquitetura histórica ao fundo"
 heroImageCredit: "Unsplash"
 destination: "Diversas"
@@ -24,14 +25,6 @@ country: "Múltiplos"
 readingTime: 8
 articleType: "TravelArticle"
 hasAffiliateLinks: false
-
-# SEO avançado
-metaTitle: "Como Viajar Sem Socializar o Tempo Todo | Stradello"
-metaDescription: "Guia para introvertidos que querem aproveitar viagens com calma, sem pressão social. Estratégias reais para recarregar as energias enquanto explora novos destinos."
-
-# Imagem principal
-imageFileName: "como-aproveitar-viagem-sem-socializar-introvertidos.jpg"
-imagePrompt: "Editorial travel photography, a person sitting alone on a quiet stone bench in a small European plaza, reading a book with a ceramic coffee cup beside them, soft warm morning light, blurred old architecture in background, calm and contemplative mood, film grain, muted earthy tones, no people in background"
 ---
 
 Existe um momento específico em toda viagem que ninguém fala abertamente: aquela hora em que você está rodeado de gente, de programas bacanas e de paisagens lindas — e mesmo assim só quer um pouco de silêncio.

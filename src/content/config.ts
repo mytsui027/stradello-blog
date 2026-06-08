@@ -67,6 +67,8 @@ const guides = defineCollection({
     travelStyle: z.array(z.string()).default([]),
     bestFor: z.array(z.string()).default([]),
     difficulty: z.enum(['tranquilo', 'moderado', 'ativo']).optional(),
+    canonicalUrl: z.string().url().optional(),
+    noindex: z.boolean().default(false),
   }),
 });
 

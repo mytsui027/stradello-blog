@@ -19,7 +19,13 @@ const content = post.body;
 const minutes = data.readingTime ?? readingTime(content);
 
 const canonicalUrl = data.canonicalUrl ?? `${SITE.url}/blog/${post.slug}`;
-const ogImage = data.ogImage ?? (data.heroImage as unknown as string) ?? `${SITE.url}/og-default.jpg`;
+
+// Convert heroImage to absolute URL if it's a relative path
+const heroImageUrl = data.heroImage 
+  ? (data.heroImage.startsWith('/') ? `${SITE.url}${data.heroImage}` : data.heroImage)
+  : null;
+
+const ogImage = data.ogImage ?? heroImageUrl ?? `${SITE.url}/og-default.jpg`;
 const metaTitle = (data.metaTitle as string | undefined) ?? data.title;
 const metaDescription = (data.metaDescription as string | undefined) ?? data.description;
 

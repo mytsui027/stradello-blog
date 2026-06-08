@@ -15,6 +15,7 @@ tags:
 author: "Stradello"
 featured: false
 draft: false
+heroImage: "/assets/blog/melhores-destinos-para-primeira-viagem-solo-no-brasil.jpg"
 heroImageAlt: "Pessoa viajando sozinha observando uma paisagem tranquila durante o pôr do sol"
 heroImageCredit: "Unsplash"
 destination: "Brasil"
@@ -22,10 +23,6 @@ country: "Brasil"
 readingTime: 8
 articleType: "TravelArticle"
 hasAffiliateLinks: false
-
-# Imagem principal
-imageFileName: "melhores-destinos-para-primeira-viagem-solo.no.brasil.jpg"
-imagePrompt: "Editorial travel photography, solo traveler observing a tranquil landscape during sunset, peaceful contemplation, warm golden light, sense of freedom and confidence, cinematic composition"
 ---
 
 # Melhores destinos para primeira viagem solo: lugares tranquilos para começar com confiança

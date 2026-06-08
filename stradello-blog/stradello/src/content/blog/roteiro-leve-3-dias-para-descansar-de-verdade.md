@@ -15,6 +15,7 @@ tags:
 author: "Stradello"
 featured: false
 draft: false
+heroImage: "/assets/blog/roteiro-leve-3-dias-para-descansar-de-verdade.jpg"
 heroImageAlt: "Pessoa observando uma paisagem tranquila durante uma viagem slow travel"
 heroImageCredit: "Unsplash"
 destination: "Diversos"
@@ -22,10 +23,6 @@ country: "Múltiplos"
 readingTime: 8
 articleType: "TravelArticle"
 hasAffiliateLinks: false
-
-# Imagem principal
-imageFileName: "roteiro-leve-3-dias-para-descansar-de-verdade.jpg"
-imagePrompt: "Editorial travel photography, person observing a tranquil landscape during slow travel, peaceful contemplation, soft natural light, sense of rest and relaxation, minimalist composition"
 ---
 
 # Roteiro leve de 3 dias para quem quer descansar de verdade

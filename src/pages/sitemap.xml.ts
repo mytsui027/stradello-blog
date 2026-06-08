@@ -2,8 +2,8 @@ import { getCollection } from 'astro:content';
 import { SITE } from '../config/site';
 
 export async function GET() {
-  const posts = await getCollection('blog');
-  const guides = await getCollection('guides');
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  const guides = await getCollection('guides', ({ data }) => !data.draft);
   
   // Páginas estáticas principais
   const staticPages = [
@@ -14,21 +14,15 @@ export async function GET() {
     '/sobre',
     '/contato',
     '/autor/cleber-lima',
+    '/recomendacoes',
+    '/newsletter',
+    '/privacidade',
+    '/termos',
   ];
   
-  // Páginas de categorias
-  const categoryPages = [
-    '/categorias/viagens-solo',
-    '/categorias/slow-travel',
-    '/categorias/lugares-para-desacelerar',
-    '/categorias/natureza',
-    '/categorias/glamping',
-    '/categorias/cafeterias-e-livrarias',
-    '/categorias/introvertidos',
-    '/categorias/experiencias-locais',
-    '/categorias/guias-de-destinos',
-    '/categorias/lugares-para-trabalhar-com-calma',
-  ];
+  // Páginas de categorias - geradas dinamicamente a partir dos posts
+  const categorySlugs = new Set(posts.map(post => post.data.category.toLowerCase().replace(/\s+/g, '-')));
+  const categoryPages = Array.from(categorySlugs).map(slug => `/categorias/${slug}`);
   
   // Combinar todas as URLs
   const allUrls = [
@@ -45,13 +39,13 @@ export async function GET() {
       priority: 0.7,
     })),
     ...posts.map(post => ({
-      url: `${SITE.url}/blog/${post.slug}`,
+      url: post.data.canonicalUrl || `${SITE.url}/blog/${post.slug}`,
       lastmod: new Date(post.data.updatedDate || post.data.pubDate).toISOString(),
       changefreq: 'monthly',
       priority: post.data.featured ? 0.9 : 0.6,
     })),
     ...guides.map(guide => ({
-      url: `${SITE.url}/guias/${guide.slug}`,
+      url: guide.data.canonicalUrl || `${SITE.url}/guias/${guide.slug}`,
       lastmod: new Date(guide.data.updatedDate || guide.data.pubDate).toISOString(),
       changefreq: 'monthly',
       priority: guide.data.featured ? 0.9 : 0.6,
