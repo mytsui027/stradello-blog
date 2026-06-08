@@ -18,7 +18,7 @@ const remarkRemoveDuplicateH1 = () => {
 };
 
 export default defineConfig({
-	site: 'https://stradello.com.br',
+	site: 'https://www.stradello.com.br',
 	integrations: [tailwind()],
 	markdown: {
 		remarkPlugins: [remarkRemoveDuplicateH1],
