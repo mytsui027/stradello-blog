@@ -5,21 +5,21 @@
 export const SITE = {
   name: 'Stradello',
   tagline: 'Viajar devagar. Sentir de verdade.',
-  description: 'Blog de viagens slow travel para pessoas introvertidas e viajantes que preferem experiências calmas, autênticas e contemplativas. Destinos tranquilos, cidades pequenas, glamping e turismo alternativo.',
+  description: 'Blog sobre slow travel, viagens solo, natureza, destinos tranquilos, experiências locais e formas mais conscientes de explorar o mundo.',
   url: import.meta.env.PUBLIC_SITE_URL || 'https://stradello.com.br',
   locale: 'pt-BR',
   language: 'pt',
   author: {
-    name: 'Equipe Stradello',
+    name: 'Cléber Lima | Stradello',
     email: 'stradello.contato@gmail.com',
-    bio: 'Somos viajantes que preferem o silêncio ao barulho, o desvio ao caminho principal, a experiência à atração.',
+    bio: 'Bacharel em Turismo e criador do Stradello. Compartilho experiências sobre slow travel, destinos tranquilos, natureza, viagens solo e formas mais conscientes de explorar o mundo.',
   },
   social: {
     instagram: 'https://www.instagram.com/stradello.blog/',
     pinterest: 'https://br.pinterest.com/stradelloblog',
     tiktok: 'https://www.tiktok.com/@stradello?lang=pt-BR',
     twitter: '',
-    youtube: '',
+    youtube: 'https://www.youtube.com/@Stradello',
   },
   analytics: {
     googleAnalyticsId: import.meta.env.PUBLIC_GA_ID || 'G-5176X7WV66',
@@ -32,6 +32,13 @@ export const SITE = {
 } as const;
 
 export const CATEGORIES = [
+  {
+    slug: 'apresentacao',
+    name: 'Apresentação',
+    description: 'Conheça o Stradello — um blog de slow travel criado para viajantes introvertidos que preferem experiências calmas, autênticas e contemplativas.',
+    emoji: '👋',
+    color: 'sage',
+  },
   {
     slug: 'viagens-solo',
     name: 'Viagens Solo',

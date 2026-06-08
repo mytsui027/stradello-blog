@@ -22,8 +22,8 @@ export async function GET(context) {
     })),
     customData: `
       <language>pt-BR</language>
-      <managingEditor>Equipe Stradello</managingEditor>
-      <webMaster>Equipe Técnica Stradello</webMaster>
+      <managingEditor>${SITE.author.email} (${SITE.author.name})</managingEditor>
+      <webMaster>${SITE.author.email} (${SITE.author.name})</webMaster>
       <copyright>© ${new Date().getFullYear()} ${SITE.name}</copyright>
       <image>
         <url>${site}/logo.svg</url>

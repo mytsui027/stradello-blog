@@ -47,7 +47,7 @@ const ogImg = ogImage ?? `${SITE.url}/og-default.jpg`;
     <meta name="title" content={pageTitle} />
     <meta name="description" content={description} />
     <meta name="author" content={SITE.author.name} />
-    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow'} />
+    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large'} />
     <meta name="theme-color" content="#5d805b" />
 
     <!-- Canonical -->
@@ -114,7 +114,13 @@ const ogImg = ogImage ?? `${SITE.url}/og-default.jpg`;
       "description": SITE.description,
       "founder": "Cléber Lima",
       "foundingDate": "2026",
-      "sameAs": Object.values(SITE.social).filter(Boolean),
+      "sameAs": [
+        SITE.social.instagram,
+        SITE.social.pinterest,
+        SITE.social.tiktok,
+        SITE.social.youtube,
+        "https://www.linkedin.com/company/stradello"
+      ].filter(Boolean),
       "logo": {
         "@type": "ImageObject",
         "url": `${SITE.url}/logo.svg`
