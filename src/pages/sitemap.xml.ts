@@ -1,5 +1,6 @@
 import { getCollection } from 'astro:content';
 import { SITE } from '../config/site';
+import { slugify } from '../utils/helpers';
 
 export async function GET() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -21,7 +22,7 @@ export async function GET() {
   ];
   
   // Páginas de categorias - geradas dinamicamente a partir dos posts
-  const categorySlugs = new Set(posts.map(post => post.data.category.toLowerCase().replace(/\s+/g, '-')));
+  const categorySlugs = new Set(posts.map(post => slugify(post.data.category)));
   const categoryPages = Array.from(categorySlugs).map(slug => `/categorias/${slug}`);
   
   // Combinar todas as URLs

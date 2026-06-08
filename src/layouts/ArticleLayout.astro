@@ -6,7 +6,7 @@ import AdUnit from '../components/AdUnit.astro';
 import RelatedArticles from '../components/RelatedArticles.astro';
 import AuthorBlock from '../components/AuthorBlock.astro';
 import { SITE } from '../config/site';
-import { formatDate, formatDateISO, readingTime, generateArticleSchema, generateBreadcrumbSchema } from '../utils/helpers';
+import { formatDate, formatDateISO, readingTime, generateArticleSchema, generateBreadcrumbSchema, slugify } from '../utils/helpers';
 
 interface Props {
   post: CollectionEntry<'blog'>;
@@ -44,7 +44,7 @@ const articleSchema = generateArticleSchema({
 const breadcrumbSchema = generateBreadcrumbSchema([
   { name: 'Início', url: SITE.url },
   { name: 'Blog', url: `${SITE.url}/blog` },
-  { name: data.category, url: `${SITE.url}/categorias/${data.category.toLowerCase().replace(/\s+/g, '-')}` },
+  { name: data.category, url: `${SITE.url}/categorias/${slugify(data.category)}` },
   { name: data.title, url: canonicalUrl },
 ]);
 ---
@@ -73,7 +73,7 @@ const breadcrumbSchema = generateBreadcrumbSchema([
       <li aria-hidden="true">›</li>
       <li>
         <a
-          href={`/categorias/${data.category.toLowerCase().replace(/\s+/g, '-')}`}
+          href={`/categorias/${slugify(data.category)}`}
           class="hover:text-muted transition-colors"
         >
           {data.category}
@@ -94,7 +94,7 @@ const breadcrumbSchema = generateBreadcrumbSchema([
       <!-- Category & tags -->
       <div class="flex flex-wrap items-center gap-2 mb-6">
         <a
-          href={`/categorias/${data.category.toLowerCase().replace(/\s+/g, '-')}`}
+          href={`/categorias/${slugify(data.category)}`}
           class="badge-sage"
         >
           {data.category}

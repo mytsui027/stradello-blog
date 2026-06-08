@@ -11,7 +11,7 @@ tags:
   - natureza
   - viagem leve
   - lugares calmos
-heroImage: "/assets/blog/roteiro-leve-3-dias-para-descansar-de-verdade.jpg"
+heroImage: "/images/roteiro-leve-3-dias-para-descansar-de-verdade.jpg"
 heroImageAlt: "Pessoa observando uma paisagem tranquila durante uma viagem slow travel"
 author: "Cléber Lima | Stradello"
 draft: false

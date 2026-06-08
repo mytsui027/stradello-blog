@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { SITE } from '../../config/site';
-import { formatDate, readingTime } from '../../utils/helpers';
+import { formatDate, readingTime, slugify } from '../../utils/helpers';
 
 // Get all published blog posts by this author
 const allPosts = await getCollection('blog', ({ data }) => !data.draft && data.author === 'Cléber Lima | Stradello');
@@ -138,7 +138,7 @@ const personSchema = {
                       slug={post.slug}
                       pubDate={post.data.pubDate}
                       category={post.data.category}
-                      categorySlug={post.data.category.toLowerCase().replace(/\s+/g, '-')}
+                      categorySlug={slugify(post.data.category)}
                       heroImage={post.data.heroImage}
                       heroImageAlt={post.data.heroImageAlt}
                       author={post.data.author}

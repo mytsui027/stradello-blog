@@ -38,6 +38,7 @@ export const CATEGORIES = [
     description: 'Conheça o Stradello — um blog de slow travel criado para viajantes introvertidos que preferem experiências calmas, autênticas e contemplativas.',
     emoji: '👋',
     color: 'sage',
+    image: '/images/bem-vindo-ao-stradello.jpg',
   },
   {
     slug: 'viagens-solo',

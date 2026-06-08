@@ -2,7 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
-import { sortByDate } from '../../utils/helpers';
+import { sortByDate, slugify } from '../../utils/helpers';
 import { SITE, POSTS_PER_PAGE } from '../../config/site';
 
 export async function getStaticPaths() {
@@ -59,7 +59,7 @@ const description = 'Artigos sobre slow travel, viagens solo, destinos tranquilo
               slug={post.slug}
               pubDate={post.data.pubDate}
               category={post.data.category}
-              categorySlug={post.data.category.toLowerCase().replace(/\s+/g, '-')}
+              categorySlug={slugify(post.data.category)}
               heroImage={post.data.heroImage as unknown as string}
               heroImageAlt={post.data.heroImageAlt}
               author={post.data.author}

@@ -14,7 +14,7 @@ const blog = defineCollection({
     heroImage: z.string().optional(),
     heroImageAlt: z.string().optional(),
     heroImageCredit: z.string().optional(),
-    author: z.string().default('Equipe Stradello'),
+    author: z.string().default('Cléber Lima | Stradello'),
     tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
     draft: z.boolean().default(false),
@@ -61,7 +61,7 @@ const guides = defineCollection({
     tags: z.array(z.string()).default([]),
     draft: z.boolean().default(false),
     featured: z.boolean().default(false),
-    author: z.string().default('Equipe Stradello'),
+    author: z.string().default('Cléber Lima | Stradello'),
     duration: z.string().optional(), // '3-5 dias', '1 semana'
     budget: z.enum(['econômico', 'moderado', 'confortável', 'luxo']).optional(),
     travelStyle: z.array(z.string()).default([]),

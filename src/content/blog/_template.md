@@ -7,7 +7,7 @@ title: "Título do artigo (máx. 100 caracteres)"
 description: "Resumo editorial para cards e SEO (máx. 200 caracteres)."
 pubDate: 2026-05-27
 category: "Slow Travel"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 tags:
   - slow travel
   - destinos quietos

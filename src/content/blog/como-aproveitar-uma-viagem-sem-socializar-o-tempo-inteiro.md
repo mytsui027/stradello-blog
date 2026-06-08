@@ -16,7 +16,7 @@ tags:
 author: "Cléber Lima | Stradello"
 featured: false
 draft: false
-heroImage: "/assets/blog/como-aproveitar-viagem-sem-socializar-introvertidos.jpg"
+heroImage: "/images/como-aproveitar-viagem-sem-socializar-introvertidos.jpg"
 heroImageAlt: "Pessoa sozinha sentada em um banco de praça tranquila, lendo um livro com xícara de café ao lado, em cidade europeia de arquitetura histórica ao fundo"
 heroImageCredit: "Unsplash"
 destination: "Diversas"

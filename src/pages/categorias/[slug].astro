@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { CATEGORIES } from '../../config/site';
 import { getCollection } from 'astro:content';
-import { sortByDate } from '../../utils/helpers';
+import { sortByDate, slugify } from '../../utils/helpers';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog', ({ data }) => !data.draft);
@@ -11,7 +11,7 @@ export async function getStaticPaths() {
   return CATEGORIES.map((cat) => {
     const posts = sortByDate(
       allPosts.filter((p) =>
-        p.data.category.toLowerCase().replace(/\s+/g, '-') === cat.slug
+        slugify(p.data.category) === cat.slug
       )
     );
     return {
@@ -38,6 +38,18 @@ const { category, posts } = Astro.props;
       >
         ← Todas as categorias
       </a>
+
+      <!-- Category Banner -->
+      {category.image && (
+        <div class="mb-12 rounded-2xl overflow-hidden" style="aspect-ratio: 16/6;">
+          <img
+            src={category.image}
+            alt={category.name}
+            class="w-full h-full object-cover"
+            loading="eager"
+          />
+        </div>
+      )}
 
       <!-- Header -->
       <div class="flex items-start gap-5 mb-12">

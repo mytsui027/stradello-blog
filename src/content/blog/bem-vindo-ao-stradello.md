@@ -9,7 +9,7 @@ tags:
   - bem-vindo
 featured: true
 draft: false
-heroImage: "/assets/blog/bem-vindo-ao-stradello.jpg"
+heroImage: "/images/bem-vindo-ao-stradello.jpg"
 heroImageAlt: "Pessoa contemplando uma paisagem tranquila durante uma viagem"
 ---
 

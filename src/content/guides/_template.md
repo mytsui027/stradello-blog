@@ -8,7 +8,7 @@ tags:
   - destino
 heroImage: "/assets/blog/"
 heroImageAlt: "Descrição da imagem"
-author: "Equipe Stradello"
+author: "Cléber Lima | Stradello"
 featured: false
 draft: true
 ---
