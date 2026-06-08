@@ -11,7 +11,7 @@ tags:
   - viagens para introvertidos
   - turismo consciente
   - destinos brasileiros
-heroImage: "/images/melhores-destinos-para-primeira-viagem-solo-no-brasil.jpg"
+heroImage: "/assets/blog/melhores-destinos-para-primeira-viagem-solo-no-brasil.jpg"
 heroImageAlt: "Pessoa viajando sozinha observando uma paisagem tranquila durante o pôr do sol"
 author: "Cléber Lima | Stradello"
 draft: false

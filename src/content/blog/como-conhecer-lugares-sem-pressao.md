@@ -11,7 +11,7 @@ tags:
   - lugares calmos
   - experiências locais
   - introvertidos
-heroImage: "/images/como-conhecer-lugares-sem-pressao.jpg"
+heroImage: "/assets/blog/como-conhecer-lugares-sem-pressao.jpg"
 heroImageAlt: "Pessoa caminhando calmamente por uma rua tranquila durante uma viagem solo"
 author: "Cléber Lima | Stradello"
 draft: false
