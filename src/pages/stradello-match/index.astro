@@ -48,7 +48,7 @@ const faqSchema = {
       name: 'Quais destinos estão incluídos?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'Atualmente temos mais de 20 destinos brasileiros selecionados, incluindo Monte Verde, Visconde de Mauá, Chapada dos Veadeiros, Lençóis Maranhenses, Fernando de Noronha e muitos outros.',
+        text: 'Atualmente temos mais de 160 destinos brasileiros selecionados, incluindo Monte Verde, Visconde de Mauá, Chapada dos Veadeiros, Lençóis Maranhenses, Fernando de Noronha, Gramado, Florianópolis e muitos outros.',
       },
     },
   ],
@@ -100,7 +100,7 @@ const structuredData = [breadcrumbSchema, faqSchema];
         <!-- Trust signals -->
         <div class="flex items-center justify-center gap-8 mt-10 pt-8" style="border-top: 1px solid var(--color-border-soft);">
           <div class="text-center">
-            <p class="font-display font-medium text-2xl" style="color: var(--color-heading);">20+</p>
+            <p class="font-display font-medium text-2xl" style="color: var(--color-heading);">160+</p>
             <p class="text-xs" style="color: var(--color-text-faint);">Destinos</p>
           </div>
           <div class="w-px h-8" style="background: var(--color-border);" aria-hidden="true"></div>
@@ -174,19 +174,16 @@ const structuredData = [breadcrumbSchema, faqSchema];
     <div class="container-site">
       <div class="flex items-end justify-between mb-10">
         <div>
-          <p class="section-label mb-3">Destinos em destaque</p>
+          <p class="section-label mb-3">Todos os destinos</p>
           <h2 class="section-title">
-            Conheça alguns<br />dos nossos destinos
+            Conheça todos<br />os nossos destinos
           </h2>
         </div>
-        <a href="/stradello-match/alternativas" class="btn-outline hidden sm:inline-flex">
-          Ver todos →
-        </a>
       </div>
 
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {allDestinations.slice(0, 6).map((destination, index) => (
-          <div class="reveal" style={`animation-delay: ${index * 0.1}s;`}>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        {allDestinations.map((destination, index) => (
+          <div class="reveal" style={`animation-delay: ${index * 0.05}s;`}>
             <DestinationCard
               slug={destination.slug}
               nome={destination.nome}
@@ -198,12 +195,6 @@ const structuredData = [breadcrumbSchema, faqSchema];
             />
           </div>
         ))}
-      </div>
-
-      <div class="mt-8 text-center sm:hidden">
-        <a href="/stradello-match/alternativas" class="btn-outline">
-          Ver todos os destinos →
-        </a>
       </div>
     </div>
   </section>
@@ -239,7 +230,7 @@ const structuredData = [breadcrumbSchema, faqSchema];
               Quais destinos estão incluídos?
             </h3>
             <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-              Atualmente temos mais de 20 destinos brasileiros selecionados, incluindo Monte Verde, Visconde de Mauá, Chapada dos Veadeiros, Lençóis Maranhenses, Fernando de Noronha e muitos outros.
+              Atualmente temos mais de 160 destinos brasileiros selecionados, incluindo Monte Verde, Visconde de Mauá, Chapada dos Veadeiros, Lençóis Maranhenses, Fernando de Noronha, Gramado, Florianópolis e muitos outros.
             </p>
           </div>
         </div>

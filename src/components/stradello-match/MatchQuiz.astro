@@ -7,17 +7,16 @@ import { quizQuestions, type QuizResponses } from '../../utils/matchAlgorithm';
 
 interface Props {
   currentQuestion?: number;
-  responses?: QuizResponses;
 }
 
-const { currentQuestion = 0, responses = {} } = Astro.props;
+const { currentQuestion = 0 } = Astro.props;
 
 const question = quizQuestions[currentQuestion];
 const progress = ((currentQuestion + 1) / quizQuestions.length) * 100;
 const isLastQuestion = currentQuestion === quizQuestions.length - 1;
 ---
 
-<div class="max-w-2xl mx-auto">
+<div class="max-w-2xl mx-auto" id="quiz-container">
   <!-- Progress bar -->
   <div class="mb-8">
     <div class="flex items-center justify-between mb-2">
@@ -42,42 +41,39 @@ const isLastQuestion = currentQuestion === quizQuestions.length - 1;
       {question.question}
     </h2>
 
-    <!-- Options -->
-    <div class="space-y-3">
-      {question.options.map((option, index) => {
-        const isSelected = responses[question.id] === option.value;
-        return (
-          <button
-            type="button"
-            data-question={question.id}
-            data-value={option.value}
-            data-next={isLastQuestion ? 'results' : currentQuestion + 1}
-            class:list={[
-              'w-full text-left px-5 py-4 rounded-xl border transition-all duration-200 text-base',
-              'hover:border-accent hover:bg-surface-alt',
-              isSelected ? 'border-accent bg-surface-alt' : '',
-            ]}
-            style={`border-color: ${isSelected ? 'var(--color-accent)' : 'var(--color-border)'};`}
-          >
-            <div class="flex items-center gap-3">
-              <!-- Radio indicator -->
-              <div class="w-5 h-5 rounded-full border flex items-center justify-center transition-all duration-200"
-                style={`border-color: ${isSelected ? 'var(--color-accent)' : 'var(--color-border)'};`}
-              >
-                {isSelected && (
-                  <div class="w-3 h-3 rounded-full" style="background: var(--color-accent);"></div>
-                )}
-              </div>
+    <!-- Options form -->
+    <form id="quiz-form" data-question-id={question.id} data-current-question={currentQuestion} data-is-last={isLastQuestion}>
+      <div class="space-y-3">
+        {question.options.map((option, index) => (
+          <label class="block cursor-pointer">
+            <input
+              type="radio"
+              name={question.id}
+              value={option.value}
+              class="sr-only peer"
+              required
+            />
+            <div class="w-full text-left px-5 py-4 rounded-xl border transition-all duration-200 text-base peer-checked:border-accent peer-checked:bg-surface-alt hover:border-accent hover:bg-surface-alt"
+              style="border-color: var(--color-border);"
+            >
+              <div class="flex items-center gap-3">
+                <!-- Radio indicator -->
+                <div class="w-5 h-5 rounded-full border flex items-center justify-center transition-all duration-200 peer-checked:border-accent"
+                  style="border-color: var(--color-border);"
+                >
+                  <div class="w-3 h-3 rounded-full opacity-0 peer-checked:opacity-100 transition-opacity duration-200" style="background: var(--color-accent);"></div>
+                </div>
 
-              <!-- Option label -->
-              <span class="font-medium" style="color: var(--color-text);">
-                {option.label}
-              </span>
+                <!-- Option label -->
+                <span class="font-medium" style="color: var(--color-text);">
+                  {option.label}
+                </span>
+              </div>
             </div>
-          </button>
-        );
-      })}
-    </div>
+          </label>
+        ))}
+      </div>
+    </form>
   </div>
 
   <!-- Navigation -->
@@ -85,6 +81,7 @@ const isLastQuestion = currentQuestion === quizQuestions.length - 1;
     {currentQuestion > 0 && (
       <button
         type="button"
+        id="prev-button"
         data-prev={currentQuestion - 1}
         class="px-5 py-2.5 rounded-lg border transition-all duration-200 text-sm font-medium"
         style="border-color: var(--color-border); color: var(--color-text-muted);"
@@ -95,39 +92,89 @@ const isLastQuestion = currentQuestion === quizQuestions.length - 1;
 
     <div class="flex-1"></div>
 
-    <p class="text-xs" style="color: var(--color-text-faint);">
-      {isLastQuestion ? 'Última pergunta' : 'Próximo →'}
-    </p>
+    <button
+      type="submit"
+      form="quiz-form"
+      id="next-button"
+      class="px-6 py-2.5 rounded-lg btn-primary text-sm font-medium"
+    >
+      {isLastQuestion ? 'Ver meus destinos →' : 'Próximo →'}
+    </button>
   </div>
 </div>
 
 <script>
-  // Quiz navigation logic
-  const buttons = document.querySelectorAll('button[data-question]');
-  const prevButton = document.querySelector('button[data-prev]');
+  // Quiz state management
+  const STORAGE_KEY = 'stradello-match-responses';
 
-  buttons.forEach((button) => {
-    button.addEventListener('click', () => {
-      const questionId = button.getAttribute('data-question');
-      const value = button.getAttribute('data-value');
-      const nextStep = button.getAttribute('data-next');
+  function getResponses() {
+    try {
+      const stored = localStorage.getItem(STORAGE_KEY);
+      return stored ? JSON.parse(stored) : {};
+    } catch (e) {
+      console.error('Error reading from localStorage:', e);
+      return {};
+    }
+  }
 
-      // Store response
-      const responses = JSON.parse(sessionStorage.getItem('stradello-match-responses') || '{}');
+  function saveResponses(responses) {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(responses));
+    } catch (e) {
+      console.error('Error saving to localStorage:', e);
+    }
+  }
+
+  function clearResponses() {
+    try {
+      localStorage.removeItem(STORAGE_KEY);
+    } catch (e) {
+      console.error('Error clearing localStorage:', e);
+    }
+  }
+
+  // Initialize quiz
+  document.addEventListener('DOMContentLoaded', () => {
+    const form = document.getElementById('quiz-form');
+    const prevButton = document.getElementById('prev-button');
+    const currentQuestion = parseInt(form.dataset.currentQuestion);
+    const isLast = form.dataset.isLast === 'true';
+    const questionId = form.dataset.questionId;
+
+    // Load saved response for this question
+    const responses = getResponses();
+    if (responses[questionId]) {
+      const radio = form.querySelector(`input[name="${questionId}"][value="${responses[questionId]}"]`);
+      if (radio) {
+        radio.checked = true;
+      }
+    }
+
+    // Form submission
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      
+      const selected = form.querySelector(`input[name="${questionId}"]:checked`);
+      if (!selected) {
+        alert('Por favor, selecione uma opção para continuar.');
+        return;
+      }
+
+      const value = selected.value;
       responses[questionId] = value;
-      sessionStorage.setItem('stradello-match-responses', JSON.stringify(responses));
+      saveResponses(responses);
 
-      // Navigate
-      if (nextStep === 'results') {
+      if (isLast) {
         window.location.href = '/stradello-match/alternativas';
       } else {
-        window.location.href = `/stradello-match/quiz?question=${nextStep}`;
+        window.location.href = `/stradello-match/quiz?question=${currentQuestion + 1}`;
       }
     });
-  });
 
-  prevButton?.addEventListener('click', () => {
-    const prevQuestion = prevButton.getAttribute('data-prev');
-    window.location.href = `/stradello-match/quiz?question=${prevQuestion}`;
+    // Previous button
+    prevButton?.addEventListener('click', () => {
+      const prevQuestion = prevButton.dataset.prev;
+      window.location.href = `/stradello-match/quiz?question=${prevQuestion}`;
+    });
   });
 </script>
