@@ -6,9 +6,22 @@
     "pais": "Brasil",
     "descricao": "Vila serrana com clima europeu, cafeterias aconchegantes, trilhas tranquilas e atmosfera perfeita para desacelerar.",
     "imagem": "/assets/blog/monte-verde.jpg",
-    "categorias": ["serra", "natureza", "cafes", "tranquilidade", "frio"],
-    "similares": ["goncalves", "sao-bento-do-sapucai", "campos-do-jordao"],
-    "alternativas": ["campos-do-jordao", "goncalves"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "goncalves",
+      "sao-bento-do-sapucai",
+      "campos-do-jordao"
+    ],
+    "alternativas": [
+      "campos-do-jordao",
+      "goncalves"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 10,
@@ -34,9 +47,22 @@
     "pais": "Brasil",
     "descricao": "Refúgio na serra com cachoeiras, pousadas rústicas, gastronomia artesanal e vibe de montanha autêntica.",
     "imagem": "/assets/blog/visconde-de-maua.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["penedo", "resende", "itatiaia"],
-    "alternativas": ["penedo", "campos-do-jordao"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "penedo",
+      "resende",
+      "itatiaia"
+    ],
+    "alternativas": [
+      "penedo",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -62,9 +88,22 @@
     "pais": "Brasil",
     "descricao": "Cidade histórica aos pés do Pico do Lobo, com arquitetura preservada, trilhas e clima serrano convidativo.",
     "imagem": "/assets/blog/sao-bento-do-sapucai.jpg",
-    "categorias": ["serra", "cidade-historica", "natureza", "tranquilidade", "frio"],
-    "similares": ["monte-verde", "goncalves", "campos-do-jordao"],
-    "alternativas": ["monte-verde", "campos-do-jordao"],
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "natureza",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "monte-verde",
+      "goncalves",
+      "campos-do-jordao"
+    ],
+    "alternativas": [
+      "monte-verde",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -90,9 +129,22 @@
     "pais": "Brasil",
     "descricao": "Vila finlandesa no Brasil, com arquitetura nórdica, clima de montanha, gastronomia e cultura únicas.",
     "imagem": "/assets/blog/penedo.jpg",
-    "categorias": ["serra", "cidade-historica", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["visconde-de-maua", "resende", "itaperuna"],
-    "alternativas": ["visconde-de-maua", "campos-do-jordao"],
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "visconde-de-maua",
+      "resende",
+      "itaperuna"
+    ],
+    "alternativas": [
+      "visconde-de-maua",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -118,9 +170,22 @@
     "pais": "Brasil",
     "descricao": "A cidade mais fria do Brasil, com cânions, cachoeiras congeladas, gastronomia e paisagens de tirar o fôlego.",
     "imagem": "/assets/blog/urubici.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["sao-joaquim", "lages", "grao-para"],
-    "alternativas": ["campos-do-jordao", "monte-verde"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "sao-joaquim",
+      "lages",
+      "grao-para"
+    ],
+    "alternativas": [
+      "campos-do-jordao",
+      "monte-verde"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -146,9 +211,22 @@
     "pais": "Brasil",
     "descricao": "Região serrana com vilas charmosas, trilhas, pico mais alto de Minas e atmosfera de montanha autêntica.",
     "imagem": "/assets/blog/serra-da-mantiqueira.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["monte-verde", "goncalves", "itamonte"],
-    "alternativas": ["campos-do-jordao", "monte-verde"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "monte-verde",
+      "goncalves",
+      "itamonte"
+    ],
+    "alternativas": [
+      "campos-do-jordao",
+      "monte-verde"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -174,9 +252,22 @@
     "pais": "Brasil",
     "descricao": "Santuário de cristais, cachoeiras cristalinas, energia mística e paisagens que parecem de outro planeta.",
     "imagem": "/assets/blog/chapada-dos-veadeiros.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["jalapao", "emas-nacional-park", "cavalcante"],
-    "alternativas": ["jalapao", "lencois-maranhenses"],
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "jalapao",
+      "emas-nacional-park",
+      "cavalcante"
+    ],
+    "alternativas": [
+      "jalapao",
+      "lencois-maranhenses"
+    ],
     "pontuacoes": {
       "solo": 9,
       "casal": 8,
@@ -202,9 +293,22 @@
     "pais": "Brasil",
     "descricao": "Deserto de águas cristalinas, dunas de arela, cachoeiras e fervedos num cenário de beleza selvagem.",
     "imagem": "/assets/blog/jalapao.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["chapada-dos-veadeiros", "lencois-maranhenses", "palmas"],
-    "alternativas": ["chapada-dos-veadeiros", "lencois-maranhenses"],
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "chapada-dos-veadeiros",
+      "lencois-maranhenses",
+      "palmas"
+    ],
+    "alternativas": [
+      "chapada-dos-veadeiros",
+      "lencois-maranhenses"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 8,
@@ -230,9 +334,22 @@
     "pais": "Brasil",
     "descricao": "Caribe brasileiro na Amazônia, com praias de água doce, ilhas, cultura local e atmosfera paradisíaca.",
     "imagem": "/assets/blog/alter-do-chao.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["santarem", "belem", "marajo"],
-    "alternativas": ["fernando-de-noronha", "lencois-maranhenses"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "santarem",
+      "belem",
+      "marajo"
+    ],
+    "alternativas": [
+      "fernando-de-noronha",
+      "lencois-maranhenses"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -258,9 +375,22 @@
     "pais": "Brasil",
     "descricao": "Região com influência europeia, vilas charmosas, gastronomia, vinícolas e paisagens de conto de fadas.",
     "imagem": "/assets/blog/vale-europeu.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["gramado", "penha", "blumenau"],
-    "alternativas": ["gramado", "campos-do-jordao"],
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "gramado",
+      "penha",
+      "blumenau"
+    ],
+    "alternativas": [
+      "gramado",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 10,
@@ -286,9 +416,22 @@
     "pais": "Brasil",
     "descricao": "Cidade imperial com arquitetura histórica, museus, clima serrano e cultura rica em cada esquina.",
     "imagem": "/assets/blog/petropolis.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["teresopolis", "nova-friburgo", "vassouras"],
-    "alternativas": ["campos-do-jordao", "paraty"],
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "teresopolis",
+      "nova-friburgo",
+      "vassouras"
+    ],
+    "alternativas": [
+      "campos-do-jordao",
+      "paraty"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -313,10 +456,23 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Cidade histórica colonial, praias, ilhas, cultura caiçara e atmosfera atemporal entre mar e serra.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "cidade-historica", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["trindade", "ilha-grande", "anhanguera"],
-    "alternativas": ["alter-do-chao", "fernando-de-noronha"],
+    "imagem": "/assets/blog/paraty.jpg",
+    "categorias": [
+      "praia",
+      "cidade-historica",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "trindade",
+      "ilha-grande",
+      "anhanguera"
+    ],
+    "alternativas": [
+      "alter-do-chao",
+      "fernando-de-noronha"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -342,9 +498,22 @@
     "pais": "Brasil",
     "descricao": "Vila serrana com cerâmica artesanal, trilhas, clima de montanha e vibe de interior autêntica.",
     "imagem": "/assets/blog/cunha.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["paraty", "sao-luiz-do-paraitinga", "taubate"],
-    "alternativas": ["monte-verde", "sao-bento-do-sapucai"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "paraty",
+      "sao-luiz-do-paraitinga",
+      "taubate"
+    ],
+    "alternativas": [
+      "monte-verde",
+      "sao-bento-do-sapucai"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -370,9 +539,22 @@
     "pais": "Brasil",
     "descricao": "Vila serrana com influência alemã, gastronomia, trilhas, clima ameno e paisagens de montanha.",
     "imagem": "/assets/blog/domingos-martins.jpg",
-    "categorias": ["serra", "natureza", "cafes", "tranquilidade", "frio"],
-    "similares": ["venda-nova-do-imigrante", "vargem-alta", "afonso-claudio"],
-    "alternativas": ["vale-europeu", "monte-verde"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "venda-nova-do-imigrante",
+      "vargem-alta",
+      "afonso-claudio"
+    ],
+    "alternativas": [
+      "vale-europeu",
+      "monte-verde"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -398,9 +580,22 @@
     "pais": "Brasil",
     "descricao": "Vila serrana com pousadas de charme, trilhas, gastronomia e vista para o Pico dos Príncipes.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "cafes", "tranquilidade", "frio"],
-    "similares": ["monte-verde", "sao-bento-do-sapucai", "itamonte"],
-    "alternativas": ["monte-verde", "campos-do-jordao"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "monte-verde",
+      "sao-bento-do-sapucai",
+      "itamonte"
+    ],
+    "alternativas": [
+      "monte-verde",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 10,
@@ -425,10 +620,23 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Cidade serrana com influência europeia, gastronomia, chocolates, clima frio e charme inconfundível.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["canela", "vale-europeu", "carlos-barbosa"],
-    "alternativas": ["campos-do-jordao", "monte-verde"],
+    "imagem": "/assets/blog/gramado.jpg",
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "canela",
+      "vale-europeu",
+      "carlos-barbosa"
+    ],
+    "alternativas": [
+      "campos-do-jordao",
+      "monte-verde"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -453,10 +661,23 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Estância suíça brasileira com clima frio, gastronomia, arquitetura alpina e vibe de montanha sofisticada.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["sao-bento-do-sapucai", "monte-verde", "pindamonhangaba"],
-    "alternativas": ["monte-verde", "gramado"],
+    "imagem": "/assets/blog/campos-do-jordao.jpg",
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "sao-bento-do-sapucai",
+      "monte-verde",
+      "pindamonhangaba"
+    ],
+    "alternativas": [
+      "monte-verde",
+      "gramado"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -481,10 +702,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Portão de entrada para os cânions do Lago de Furnas, com paisagens dramáticas, cachoeiras e aventuras.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["sao-jose-do-barreiro", "passa-quatro", "alfenas"],
-    "alternativas": ["chapada-dos-veadeiros", "jalapao"],
+    "imagem": "/assets/blog/capitolio.jpg",
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "sao-jose-do-barreiro",
+      "passa-quatro",
+      "alfenas"
+    ],
+    "alternativas": [
+      "chapada-dos-veadeiros",
+      "jalapao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -509,10 +743,23 @@
     "estado": "Maranhão",
     "pais": "Brasil",
     "descricao": "Deserto de areia branca com lagoas cristalinas, paisagens surrealistas e experiência de natureza única.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["jalapao", "delta-do-parnaiba", "barreirinhas"],
-    "alternativas": ["jalapao", "alter-do-chao"],
+    "imagem": "/assets/blog/lencois-maranhenses.jpg",
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "jalapao",
+      "delta-do-parnaiba",
+      "barreirinhas"
+    ],
+    "alternativas": [
+      "jalapao",
+      "alter-do-chao"
+    ],
     "pontuacoes": {
       "solo": 9,
       "casal": 8,
@@ -537,10 +784,23 @@
     "estado": "Pernambuco",
     "pais": "Brasil",
     "descricao": "Arquipélago preservado com praias paradisíacas, vida marinha, natureza intocada e experiência única.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["alter-do-chao", "maragogi", "porto-de-galinhas"],
-    "alternativas": ["alter-do-chao", "paraty"],
+    "imagem": "/assets/blog/fernando-de-noronha.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "alter-do-chao",
+      "maragogi",
+      "porto-de-galinhas"
+    ],
+    "alternativas": [
+      "alter-do-chao",
+      "paraty"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -565,10 +825,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Vila serrana tranquila próxima ao Pico da Bandeira, com pousadas de charme, trilhas e gastronomia mineira.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["monte-verde", "goncalves", "baependi"],
-    "alternativas": ["monte-verde", "sao-bento-do-sapucai"],
+    "imagem": "/assets/blog/Itamonte.jpeg",
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "monte-verde",
+      "goncalves",
+      "baependi"
+    ],
+    "alternativas": [
+      "monte-verde",
+      "sao-bento-do-sapucai"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -593,10 +866,23 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Cidade serrana com cachoeiras, arquitetura alemã, chocolates e paisagens da serra gaúcha.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "cafes", "tranquilidade", "frio"],
-    "similares": ["gramado", "vale-europeu", "nova-petropolis"],
-    "alternativas": ["gramado", "campos-do-jordao"],
+    "imagem": "/assets/blog/canela.jpg",
+    "categorias": [
+      "serra",
+      "natureza",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "gramado",
+      "vale-europeu",
+      "nova-petropolis"
+    ],
+    "alternativas": [
+      "gramado",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -621,10 +907,23 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Cidade imperial com influência alemã, jardins, cultura e clima serrano acolhedor.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["gramado", "canela", "petropolis"],
-    "alternativas": ["gramado", "petropolis"],
+    "imagem": "/assets/blog/nova-petropolis.jpg",
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "gramado",
+      "canela",
+      "petropolis"
+    ],
+    "alternativas": [
+      "gramado",
+      "petropolis"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -649,10 +948,23 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade mais fria de Santa Catarina, com neve no inverno, vinícolas e paisagens serranas.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["urubici", "lages", "lauro-muller"],
-    "alternativas": ["urubici", "campos-do-jordao"],
+    "imagem": "/assets/blog/sao-joaquim.jpg",
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "urubici",
+      "lages",
+      "lauro-muller"
+    ],
+    "alternativas": [
+      "urubici",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -677,10 +989,23 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Portal da serra catarinense, com cânions, gastronomia, cultura e clima serrano marcante.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["urubici", "sao-joaquim", "correia-pinto"],
-    "alternativas": ["urubici", "campos-do-jordao"],
+    "imagem": "/assets/blog/lages.jpg",
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "urubici",
+      "sao-joaquim",
+      "correia-pinto"
+    ],
+    "alternativas": [
+      "urubici",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -705,10 +1030,23 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade com influência alemã, cervejarias, cultura, arquitetura enxaimel e festas tradicionais.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["vale-europeu", "pomerode", "jaragua-do-sul"],
-    "alternativas": ["vale-europeu", "gramado"],
+    "imagem": "/assets/blog/blumenau.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "vale-europeu",
+      "pomerode",
+      "jaragua-do-sul"
+    ],
+    "alternativas": [
+      "vale-europeu",
+      "gramado"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -733,10 +1071,23 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade mais alemã do Brasil, com arquitetura enxaimel, cultura pomerana e gastronomia autêntica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["blumenau", "vale-europeu", "timbo"],
-    "alternativas": ["blumenau", "vale-europeu"],
+    "imagem": "/assets/blog/pomerode.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "blumenau",
+      "vale-europeu",
+      "timbo"
+    ],
+    "alternativas": [
+      "blumenau",
+      "vale-europeu"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -761,10 +1112,23 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Cidade serrana com trilhas, cachoeiras, clima ameno e acesso fácil do Rio.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["petropolis", "nova-friburgo", "vassouras"],
-    "alternativas": ["petropolis", "campos-do-jordao"],
+    "imagem": "/assets/blog/teresopolis.jpg",
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "petropolis",
+      "nova-friburgo",
+      "vassouras"
+    ],
+    "alternativas": [
+      "petropolis",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -789,10 +1153,23 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Cidade serrana com suíços, trilhas, cachoeiras, gastronomia e clima de montanha.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["petropolis", "teresopolis", "bom-jardim"],
-    "alternativas": ["petropolis", "campos-do-jordao"],
+    "imagem": "/assets/blog/nova-friburgo.jpg",
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "petropolis",
+      "teresopolis",
+      "bom-jardim"
+    ],
+    "alternativas": [
+      "petropolis",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -817,10 +1194,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Cidade histórica colonial, pousadas de charme, gastronomia mineira e arquitetura barroca preservada.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["sao-joao-del-rei", "ouro-preto", "congonhas"],
-    "alternativas": ["sao-joao-del-rei", "ouro-preto"],
+    "imagem": "/assets/blog/tiradentes.jpeg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "sao-joao-del-rei",
+      "ouro-preto",
+      "congonhas"
+    ],
+    "alternativas": [
+      "sao-joao-del-rei",
+      "ouro-preto"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -845,10 +1235,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Cidade histórica com igrejas barrocas, cultura, gastronomia e atmosfera colonial autêntica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["tiradentes", "ouro-preto", "congonhas"],
-    "alternativas": ["tiradentes", "ouro-preto"],
+    "imagem": "/assets/blog/sao-joao-del-rei.jpeg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "tiradentes",
+      "ouro-preto",
+      "congonhas"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "ouro-preto"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -873,10 +1276,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Cidade histórica UNESCO, arquitetura barroca, cultura, gastronomia e paisagens serranas.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["tiradentes", "sao-joao-del-rei", "mariana"],
-    "alternativas": ["tiradentes", "sao-joao-del-rei"],
+    "imagem": "/assets/blog/ouro-preto.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "tiradentes",
+      "sao-joao-del-rei",
+      "mariana"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -901,10 +1317,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Primeira vila de Minas, história colonial, minas, gastronomia e acesso a Ouro Preto.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["ouro-preto", "tiradentes", "sao-joao-del-rei"],
-    "alternativas": ["ouro-preto", "tiradentes"],
+    "imagem": "/assets/blog/mariana.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "ouro-preto",
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
+    "alternativas": [
+      "ouro-preto",
+      "tiradentes"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -929,10 +1358,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Cidade histórica com Aleijadinho, arte barroca, cultura e gastronomia mineira.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["tiradentes", "sao-joao-del-rei", "ouro-preto"],
-    "alternativas": ["tiradentes", "sao-joao-del-rei"],
+    "imagem": "/assets/blog/congonhas.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "tiradentes",
+      "sao-joao-del-rei",
+      "ouro-preto"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -957,10 +1399,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Cidade histórica colonial, diamantes, cultura, gastronomia e paisagens do vale do Jequitinhonha.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["tiradentes", "serro", "sabara"],
-    "alternativas": ["tiradentes", "sao-joao-del-rei"],
+    "imagem": "/assets/blog/diamantina.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "tiradentes",
+      "serro",
+      "sabara"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -985,10 +1440,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Cidade histórica com queijo minas, cultura colonial, trilhas e gastronomia autêntica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["diamantina", "tiradentes", "conceicao-do-mato-dentro"],
-    "alternativas": ["diamantina", "tiradentes"],
+    "imagem": "/assets/blog/serro.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "diamantina",
+      "tiradentes",
+      "conceicao-do-mato-dentro"
+    ],
+    "alternativas": [
+      "diamantina",
+      "tiradentes"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -1013,10 +1481,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Cidade histórica próxima a BH, com cultura colonial, gastronomia e arquitetura barroca.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["ouro-preto", "mariana", "congonhas"],
-    "alternativas": ["ouro-preto", "tiradentes"],
+    "imagem": "/assets/blog/sabara.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "ouro-preto",
+      "mariana",
+      "congonhas"
+    ],
+    "alternativas": [
+      "ouro-preto",
+      "tiradentes"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -1042,9 +1523,22 @@
     "pais": "Brasil",
     "descricao": "Estância hidromineral com águas, parques, gastronomia e clima serrano relaxante.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "cafes", "tranquilidade", "frio"],
-    "similares": ["caxambu", "lambari", "poços-de-caldas"],
-    "alternativas": ["caxambu", "campos-do-jordao"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "caxambu",
+      "lambari",
+      "poços-de-caldas"
+    ],
+    "alternativas": [
+      "caxambu",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -1069,10 +1563,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Estância hidromineral histórica com palácio, águas, parques e gastronomia mineira.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["sao-lourenco", "lambari", "poços-de-caldas"],
-    "alternativas": ["sao-lourenco", "campos-do-jordao"],
+    "imagem": "/assets/blog/caxambu.jpg",
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "sao-lourenco",
+      "lambari",
+      "poços-de-caldas"
+    ],
+    "alternativas": [
+      "sao-lourenco",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -1097,10 +1604,23 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Estância hidromineral com águas, parques, gastronomia e clima serrano acolhedor.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "cafes", "tranquilidade", "frio"],
-    "similares": ["sao-lourenco", "caxambu", "poços-de-caldas"],
-    "alternativas": ["sao-lourenco", "campos-do-jordao"],
+    "imagem": "/assets/blog/lambari.jpeg",
+    "categorias": [
+      "serra",
+      "natureza",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "sao-lourenco",
+      "caxambu",
+      "poços-de-caldas"
+    ],
+    "alternativas": [
+      "sao-lourenco",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -1126,9 +1646,22 @@
     "pais": "Brasil",
     "descricao": "Estância hidromineral com águas termais, cultura, gastronomia e arquitetura histórica.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["sao-lourenco", "caxambu", "lambari"],
-    "alternativas": ["sao-lourenco", "campos-do-jordao"],
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "sao-lourenco",
+      "caxambu",
+      "lambari"
+    ],
+    "alternativas": [
+      "sao-lourenco",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -1154,9 +1687,22 @@
     "pais": "Brasil",
     "descricao": "Estância suíça brasileira com clima frio, gastronomia, arquitetura alpina e vibe de montanha sofisticada.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["sao-bento-do-sapucai", "monte-verde", "pindamonhangaba"],
-    "alternativas": ["monte-verde", "gramado"],
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "sao-bento-do-sapucai",
+      "monte-verde",
+      "pindamonhangaba"
+    ],
+    "alternativas": [
+      "monte-verde",
+      "gramado"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -1181,10 +1727,23 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Cidade serrana com trilhas, cachoeiras, cultura e acesso fácil a Campos do Jordão.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["campos-do-jordao", "taubate", "sao-bento-do-sapucai"],
-    "alternativas": ["campos-do-jordao", "monte-verde"],
+    "imagem": "/assets/blog/Pindamonhangaba.jpg",
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "campos-do-jordao",
+      "taubate",
+      "sao-bento-do-sapucai"
+    ],
+    "alternativas": [
+      "campos-do-jordao",
+      "monte-verde"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -1210,9 +1769,22 @@
     "pais": "Brasil",
     "descricao": "Cidade histórica religiosa, com cultura, gastronomia e acesso às serras.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["areias", "pindamonhangaba", "taubate"],
-    "alternativas": ["sao-bento-do-sapucai", "campos-do-jordao"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "areias",
+      "pindamonhangaba",
+      "taubate"
+    ],
+    "alternativas": [
+      "sao-bento-do-sapucai",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 7,
@@ -1237,10 +1809,23 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Vila serrana tranquila com pousadas, trilhas e clima de montanha.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["guaratingueta", "sao-bento-do-sapucai", "pindamonhangaba"],
-    "alternativas": ["monte-verde", "campos-do-jordao"],
+    "imagem": "/assets/blog/areias.jpg",
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "guaratingueta",
+      "sao-bento-do-sapucai",
+      "pindamonhangaba"
+    ],
+    "alternativas": [
+      "monte-verde",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -1266,9 +1851,22 @@
     "pais": "Brasil",
     "descricao": "Cidade histórica colonial com cultura, gastronomia e arquitetura preservada.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["cunha", "paraty", "taubate"],
-    "alternativas": ["tiradentes", "sao-joao-del-rei"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "cunha",
+      "paraty",
+      "taubate"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -1293,10 +1891,23 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Cidade imperial com casarões, cultura, gastronomia e história do café.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["petropolis", "valenca", "barra-mansa"],
-    "alternativas": ["petropolis", "tiradentes"],
+    "imagem": "/assets/blog/Vassouras.jpeg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "petropolis",
+      "valenca",
+      "barra-mansa"
+    ],
+    "alternativas": [
+      "petropolis",
+      "tiradentes"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -1321,10 +1932,23 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Cidade serrana com cultura, gastronomia e acesso a Visconde de Mauá.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["visconde-de-maua", "penedo", "itaperuna"],
-    "alternativas": ["visconde-de-maua", "campos-do-jordao"],
+    "imagem": "/assets/blog/Resende.png",
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "visconde-de-maua",
+      "penedo",
+      "itaperuna"
+    ],
+    "alternativas": [
+      "visconde-de-maua",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -1349,10 +1973,23 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas, cachoeiras e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["paraty", "ilha-grande", "paty-do-alferes"],
-    "alternativas": ["paraty", "alter-do-chao"],
+    "imagem": "/assets/blog/Trindade.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "paraty",
+      "ilha-grande",
+      "paty-do-alferes"
+    ],
+    "alternativas": [
+      "paraty",
+      "alter-do-chao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -1378,9 +2015,22 @@
     "pais": "Brasil",
     "descricao": "Ilha preservada com praias, trilhas, natureza intocada e vibe de paraíso.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["paraty", "trindade", "abraao"],
-    "alternativas": ["fernando-de-noronha", "alter-do-chao"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "paraty",
+      "trindade",
+      "abraao"
+    ],
+    "alternativas": [
+      "fernando-de-noronha",
+      "alter-do-chao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 10,
@@ -1406,9 +2056,22 @@
     "pais": "Brasil",
     "descricao": "Península com praias, gastronomia, cultura e vibe sofisticada.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["cabo-frio", "arraial-do-cabo", "macae"],
-    "alternativas": ["paraty", "fernando-de-noronha"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "cabo-frio",
+      "arraial-do-cabo",
+      "macae"
+    ],
+    "alternativas": [
+      "paraty",
+      "fernando-de-noronha"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 10,
@@ -1434,9 +2097,22 @@
     "pais": "Brasil",
     "descricao": "Cidade litorânea com praias, dunas, história e cultura.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["buzios", "arraial-do-cabo", "araruama"],
-    "alternativas": ["buzios", "paraty"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "buzios",
+      "arraial-do-cabo",
+      "araruama"
+    ],
+    "alternativas": [
+      "buzios",
+      "paraty"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -1462,9 +2138,22 @@
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias cristalinas, mergulho e natureza preservada.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["buzios", "cabo-frio", "macae"],
-    "alternativas": ["buzios", "paraty"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "buzios",
+      "cabo-frio",
+      "macae"
+    ],
+    "alternativas": [
+      "buzios",
+      "paraty"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -1490,9 +2179,22 @@
     "pais": "Brasil",
     "descricao": "Vila serrana com influência italiana, gastronomia, trilhas e cultura.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "cafes", "tranquilidade", "frio"],
-    "similares": ["domingos-martins", "vargem-alta", "afonso-claudio"],
-    "alternativas": ["domingos-martins", "vale-europeu"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "domingos-martins",
+      "vargem-alta",
+      "afonso-claudio"
+    ],
+    "alternativas": [
+      "domingos-martins",
+      "vale-europeu"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -1518,9 +2220,22 @@
     "pais": "Brasil",
     "descricao": "Vila serrana com trilhas, cachoeiras, gastronomia e clima ameno.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["domingos-martins", "venda-nova-do-imigrante", "castelo"],
-    "alternativas": ["domingos-martins", "campos-do-jordao"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "domingos-martins",
+      "venda-nova-do-imigrante",
+      "castelo"
+    ],
+    "alternativas": [
+      "domingos-martins",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -1546,9 +2261,22 @@
     "pais": "Brasil",
     "descricao": "Vila serrana com trilhas, cachoeiras, cultura e gastronomia capixaba.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["domingos-martins", "venda-nova-do-imigrante", "venda-nova"],
-    "alternativas": ["domingos-martins", "campos-do-jordao"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "domingos-martins",
+      "venda-nova-do-imigrante",
+      "venda-nova"
+    ],
+    "alternativas": [
+      "domingos-martins",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -1573,10 +2301,23 @@
     "estado": "Espírito Santo",
     "pais": "Brasil",
     "descricao": "Cidade serrana com trilhas, cachoeiras, cultura e paisagens da serra.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["vargem-alta", "domingos-martins", "venda-nova-do-imigrante"],
-    "alternativas": ["domingos-martins", "campos-do-jordao"],
+    "imagem": "/assets/blog/Castelo.jpg",
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "vargem-alta",
+      "domingos-martins",
+      "venda-nova-do-imigrante"
+    ],
+    "alternativas": [
+      "domingos-martins",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -1602,9 +2343,22 @@
     "pais": "Brasil",
     "descricao": "Vila pomerana com cultura, gastronomia, trilhas e clima serrano.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["venda-nova-do-imigrante", "domingos-martins", "afonso-claudio"],
-    "alternativas": ["domingos-martins", "vale-europeu"],
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "venda-nova-do-imigrante",
+      "domingos-martins",
+      "afonso-claudio"
+    ],
+    "alternativas": [
+      "domingos-martins",
+      "vale-europeu"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -1630,9 +2384,22 @@
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia, trilhas e arquitetura preservada.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["santa-teresa", "venda-nova-do-imigrante", "domingos-martins"],
-    "alternativas": ["tiradentes", "sao-joao-del-rei"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "santa-teresa",
+      "venda-nova-do-imigrante",
+      "domingos-martins"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -1658,9 +2425,22 @@
     "pais": "Brasil",
     "descricao": "Vila serrana com trilhas, cachoeiras, cultura e vibe de interior autêntica.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["santa-leopoldina", "domingos-martins", "venda-nova-do-imigrante"],
-    "alternativas": ["domingos-martins", "campos-do-jordao"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "santa-leopoldina",
+      "domingos-martins",
+      "venda-nova-do-imigrante"
+    ],
+    "alternativas": [
+      "domingos-martins",
+      "campos-do-jordao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -1685,10 +2465,23 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Cidade do interior com cultura, gastronomia e acesso a serras.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["penedo", "resende", "campos-dos-goytacazes"],
-    "alternativas": ["penedo", "visconde-de-maua"],
+    "imagem": "/assets/blog/Itaperuna.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "penedo",
+      "resende",
+      "campos-dos-goytacazes"
+    ],
+    "alternativas": [
+      "penedo",
+      "visconde-de-maua"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 7,
@@ -1713,10 +2506,23 @@
     "estado": "Alagoas",
     "pais": "Brasil",
     "descricao": "Caribe brasileiro com piscinas naturais, praias cristalinas e resorts all-inclusive.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["porto-de-galinhas", "maceio", "japaratinga"],
-    "alternativas": ["fernando-de-noronha", "alter-do-chao"],
+    "imagem": "/assets/blog/Maragogi.jpeg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "porto-de-galinhas",
+      "maceio",
+      "japaratinga"
+    ],
+    "alternativas": [
+      "fernando-de-noronha",
+      "alter-do-chao"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 10,
@@ -1742,9 +2548,22 @@
     "pais": "Brasil",
     "descricao": "Praia paradisíaca com piscinas naturais, cultura e gastronomia pernambucana.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["maragogi", "recife", "olinda"],
-    "alternativas": ["fernando-de-noronha", "maragogi"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "maragogi",
+      "recife",
+      "olinda"
+    ],
+    "alternativas": [
+      "fernando-de-noronha",
+      "maragogi"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 10,
@@ -1769,10 +2588,23 @@
     "estado": "Pernambuco",
     "pais": "Brasil",
     "descricao": "Cidade histórica colonial, cultura, gastronomia e arquitetura colorida.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["recife", "porto-de-galinhas", "igarassu"],
-    "alternativas": ["tiradentes", "sao-joao-del-rei"],
+    "imagem": "/assets/blog/Olinda.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "recife",
+      "porto-de-galinhas",
+      "igarassu"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -1797,10 +2629,23 @@
     "estado": "Pernambuco",
     "pais": "Brasil",
     "descricao": "Capital cultural com praias, história, gastronomia e vibe urbana.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["olinda", "porto-de-galinhas", "boa-viagem"],
-    "alternativas": ["olinda", "maceio"],
+    "imagem": "/assets/blog/Recife.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "olinda",
+      "porto-de-galinhas",
+      "boa-viagem"
+    ],
+    "alternativas": [
+      "olinda",
+      "maceio"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -1826,9 +2671,22 @@
     "pais": "Brasil",
     "descricao": "Capital com praias paradisíacas, cultura, gastronomia e resorts.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["maragogi", "porto-de-galinhas", "japaratinga"],
-    "alternativas": ["porto-de-galinhas", "fernando-de-noronha"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "maragogi",
+      "porto-de-galinhas",
+      "japaratinga"
+    ],
+    "alternativas": [
+      "porto-de-galinhas",
+      "fernando-de-noronha"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -1853,10 +2711,23 @@
     "estado": "Alagoas",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias desertas, trilhas e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["maragogi", "porto-de-galinhas", "maragogi"],
-    "alternativas": ["alter-do-chao", "trindade"],
+    "imagem": "/assets/blog/Japaratinga.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "maragogi",
+      "porto-de-galinhas",
+      "maragogi"
+    ],
+    "alternativas": [
+      "alter-do-chao",
+      "trindade"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -1882,9 +2753,22 @@
     "pais": "Brasil",
     "descricao": "Cidade amazônica com praias fluviais, cultura e acesso a Alter do Chão.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["alter-do-chao", "belem", "obidos"],
-    "alternativas": ["alter-do-chao", "manaus"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "alter-do-chao",
+      "belem",
+      "obidos"
+    ],
+    "alternativas": [
+      "alter-do-chao",
+      "manaus"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -1910,9 +2794,22 @@
     "pais": "Brasil",
     "descricao": "Capital amazônica com cultura, gastronomia, mercados e história.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["santarem", "alter-do-chao", "marajo"],
-    "alternativas": ["santarem", "manaus"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "santarem",
+      "alter-do-chao",
+      "marajo"
+    ],
+    "alternativas": [
+      "santarem",
+      "manaus"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -1937,10 +2834,23 @@
     "estado": "Amazonas",
     "pais": "Brasil",
     "descricao": "Capital da Amazônia com cultura, gastronomia, teatro e acesso à floresta.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["parintins", "itacoatiara", "presidente-figueiredo"],
-    "alternativas": ["belem", "santarem"],
+    "imagem": "/assets/blog/Manaus.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "parintins",
+      "itacoatiara",
+      "presidente-figueiredo"
+    ],
+    "alternativas": [
+      "belem",
+      "santarem"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 7,
@@ -1965,10 +2875,23 @@
     "estado": "Amazonas",
     "pais": "Brasil",
     "descricao": "Ilha amazônica com cultura boi-bumbá, folclore e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["manaus", "itacoatiara", "coari"],
-    "alternativas": ["manaus", "belem"],
+    "imagem": "/assets/blog/Parintins.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "manaus",
+      "itacoatiara",
+      "coari"
+    ],
+    "alternativas": [
+      "manaus",
+      "belem"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 7,
@@ -1994,9 +2917,22 @@
     "pais": "Brasil",
     "descricao": "Cachoeiras, cavernas, natureza amazônica e ecoturismo.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["manaus", "itacoatiara", "rio-preto-da-eva"],
-    "alternativas": ["jalapao", "chapada-dos-veadeiros"],
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "manaus",
+      "itacoatiara",
+      "rio-preto-da-eva"
+    ],
+    "alternativas": [
+      "jalapao",
+      "chapada-dos-veadeiros"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 8,
@@ -2022,9 +2958,22 @@
     "pais": "Brasil",
     "descricao": "Natureza amazônica, trilhas, cachoeiras e ecoturismo.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["presidente-figueiredo", "manaus", "itacoatiara"],
-    "alternativas": ["presidente-figueiredo", "jalapao"],
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "presidente-figueiredo",
+      "manaus",
+      "itacoatiara"
+    ],
+    "alternativas": [
+      "presidente-figueiredo",
+      "jalapao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 7,
@@ -2049,10 +2998,23 @@
     "estado": "Amazonas",
     "pais": "Brasil",
     "descricao": "Cidade amazônica com cultura, gastronomia e acesso à floresta.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["manaus", "parintins", "presidente-figueiredo"],
-    "alternativas": ["manaus", "belem"],
+    "imagem": "/assets/blog/Itacoatiara.jpeg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "manaus",
+      "parintins",
+      "presidente-figueiredo"
+    ],
+    "alternativas": [
+      "manaus",
+      "belem"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 7,
@@ -2077,10 +3039,23 @@
     "estado": "Mato Grosso do Sul",
     "pais": "Brasil",
     "descricao": "Capital do ecoturismo com águas cristalinas, cavernas e natureza preservada.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["jardim", "bodoquena", "miranda"],
-    "alternativas": ["jalapao", "chapada-dos-veadeiros"],
+    "imagem": "/assets/blog/Bonito.jpg",
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "jardim",
+      "bodoquena",
+      "miranda"
+    ],
+    "alternativas": [
+      "jalapao",
+      "chapada-dos-veadeiros"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -2105,10 +3080,23 @@
     "estado": "Mato Grosso do Sul",
     "pais": "Brasil",
     "descricao": "Portal de Bonito com cavernas, trilhas e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["bonito", "bodoquena", "miranda"],
-    "alternativas": ["bonito", "jalapao"],
+    "imagem": "/assets/blog/Jardim.jpg",
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "bonito",
+      "bodoquena",
+      "miranda"
+    ],
+    "alternativas": [
+      "bonito",
+      "jalapao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -2133,10 +3121,23 @@
     "estado": "Mato Grosso do Sul",
     "pais": "Brasil",
     "descricao": "Serra com trilhas, cavernas, águas cristalinas e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["bonito", "jardim", "miranda"],
-    "alternativas": ["bonito", "jalapao"],
+    "imagem": "/assets/blog/Bodoquena.jpeg",
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "bonito",
+      "jardim",
+      "miranda"
+    ],
+    "alternativas": [
+      "bonito",
+      "jalapao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 8,
@@ -2161,10 +3162,23 @@
     "estado": "Mato Grosso do Sul",
     "pais": "Brasil",
     "descricao": "Pantanal com natureza, fauna, pesca e ecoturismo.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["bonito", "corumba", "aquidauana"],
-    "alternativas": ["bonito", "jalapao"],
+    "imagem": "/assets/blog/Miranda.jpg",
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "bonito",
+      "corumba",
+      "aquidauana"
+    ],
+    "alternativas": [
+      "bonito",
+      "jalapao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -2190,9 +3204,22 @@
     "pais": "Brasil",
     "descricao": "Capital do Pantanal com natureza, fauna, pesca e cultura.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["miranda", "aquidauana", "ladario"],
-    "alternativas": ["bonito", "jalapao"],
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "miranda",
+      "aquidauana",
+      "ladario"
+    ],
+    "alternativas": [
+      "bonito",
+      "jalapao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -2217,10 +3244,23 @@
     "estado": "Mato Grosso do Sul",
     "pais": "Brasil",
     "descricao": "Pantanal com natureza, fauna, pesca e cultura local.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["corumba", "miranda", "ladario"],
-    "alternativas": ["bonito", "jalapao"],
+    "imagem": "/assets/blog/Aquidauana.jpg",
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "corumba",
+      "miranda",
+      "ladario"
+    ],
+    "alternativas": [
+      "bonito",
+      "jalapao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 7,
@@ -2246,9 +3286,22 @@
     "pais": "Brasil",
     "descricao": "Serra com cânions, cachoeiras, cavernas, trilhas e paisagens deslumbrantes.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["lençóis", "mucuge", "palmeiras"],
-    "alternativas": ["chapada-dos-veadeiros", "jalapao"],
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "lençóis",
+      "mucuge",
+      "palmeiras"
+    ],
+    "alternativas": [
+      "chapada-dos-veadeiros",
+      "jalapao"
+    ],
     "pontuacoes": {
       "solo": 9,
       "casal": 8,
@@ -2274,9 +3327,22 @@
     "pais": "Brasil",
     "descricao": "Vila histórica com arquitetura colonial, cachoeiras e acesso à Chapada Diamantina.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["chapada-diamantina", "mucuge", "palmeiras"],
-    "alternativas": ["tiradentes", "chapada-diamantina"],
+    "categorias": [
+      "cidade-historica",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "chapada-diamantina",
+      "mucuge",
+      "palmeiras"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "chapada-diamantina"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -2302,9 +3368,22 @@
     "pais": "Brasil",
     "descricao": "Vila histórica com arquitetura colonial, cachoeiras e acesso à Chapada Diamantina.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["lençóis", "chapada-diamantina", "palmeiras"],
-    "alternativas": ["tiradentes", "chapada-diamantina"],
+    "categorias": [
+      "cidade-historica",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "lençóis",
+      "chapada-diamantina",
+      "palmeiras"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "chapada-diamantina"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -2329,10 +3408,23 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila histórica com arquitetura colonial, cachoeiras e acesso à Chapada Diamantina.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["lençóis", "chapada-diamantina", "mucuge"],
-    "alternativas": ["tiradentes", "chapada-diamantina"],
+    "imagem": "/assets/blog/Palmeiras.jpg",
+    "categorias": [
+      "cidade-historica",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "lençóis",
+      "chapada-diamantina",
+      "mucuge"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "chapada-diamantina"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -2358,9 +3450,22 @@
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas, surf e vibe rústica.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["prado", "camamu", "ilheus"],
-    "alternativas": ["trindade", "paraty"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "prado",
+      "camamu",
+      "ilheus"
+    ],
+    "alternativas": [
+      "trindade",
+      "paraty"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -2385,10 +3490,23 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias desertas, trilhas e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["itacare", "camamu", "cumuruxatiba"],
-    "alternativas": ["itacare", "trindade"],
+    "imagem": "/assets/blog/Prado.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "itacare",
+      "camamu",
+      "cumuruxatiba"
+    ],
+    "alternativas": [
+      "itacare",
+      "trindade"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -2413,10 +3531,23 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas e cultura local.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["itacare", "prado", "ilheus"],
-    "alternativas": ["itacare", "trindade"],
+    "imagem": "/assets/blog/Camamu.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "itacare",
+      "prado",
+      "ilheus"
+    ],
+    "alternativas": [
+      "itacare",
+      "trindade"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -2442,9 +3573,22 @@
     "pais": "Brasil",
     "descricao": "Cidade litorânea com praias, cultura, gastronomia e história.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "cidade-historica", "cafes", "tranquilidade", "calor"],
-    "similares": ["itacare", "camamu", "itabuna"],
-    "alternativas": ["itacare", "porto-seguro"],
+    "categorias": [
+      "praia",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "calor"
+    ],
+    "similares": [
+      "itacare",
+      "camamu",
+      "itabuna"
+    ],
+    "alternativas": [
+      "itacare",
+      "porto-seguro"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -2470,9 +3614,22 @@
     "pais": "Brasil",
     "descricao": "Cidade histórica com praias, cultura, descobrimento e resorts.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "cidade-historica", "cafes", "tranquilidade", "calor"],
-    "similares": ["trancoso", "arraial-dajuda", "corumbau"],
-    "alternativas": ["itacare", "paraty"],
+    "categorias": [
+      "praia",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "calor"
+    ],
+    "similares": [
+      "trancoso",
+      "arraial-dajuda",
+      "corumbau"
+    ],
+    "alternativas": [
+      "itacare",
+      "paraty"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -2497,10 +3654,23 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila histórica com praias paradisíacas, quadrado e vibe sofisticada.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "cidade-historica", "cafes", "tranquilidade", "calor"],
-    "similares": ["porto-seguro", "arraial-dajuda", "corumbau"],
-    "alternativas": ["paraty", "fernando-de-noronha"],
+    "imagem": "/assets/blog/Trancoso.jpg",
+    "categorias": [
+      "praia",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "calor"
+    ],
+    "similares": [
+      "porto-seguro",
+      "arraial-dajuda",
+      "corumbau"
+    ],
+    "alternativas": [
+      "paraty",
+      "fernando-de-noronha"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 10,
@@ -2526,9 +3696,22 @@
     "pais": "Brasil",
     "descricao": "Vila com praias, cultura, gastronomia e vibe rústica.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "cidade-historica", "cafes", "tranquilidade", "calor"],
-    "similares": ["trancoso", "porto-seguro", "corumbau"],
-    "alternativas": ["trancoso", "itacare"],
+    "categorias": [
+      "praia",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "calor"
+    ],
+    "similares": [
+      "trancoso",
+      "porto-seguro",
+      "corumbau"
+    ],
+    "alternativas": [
+      "trancoso",
+      "itacare"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -2553,10 +3736,23 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Praia deserta com recifes, trilhas e natureza preservada.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["trancoso", "porto-seguro", "caraiva"],
-    "alternativas": ["trancoso", "alter-do-chao"],
+    "imagem": "/assets/blog/Corumbau.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "trancoso",
+      "porto-seguro",
+      "caraiva"
+    ],
+    "alternativas": [
+      "trancoso",
+      "alter-do-chao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 10,
@@ -2582,9 +3778,22 @@
     "pais": "Brasil",
     "descricao": "Vila de pescadores sem carros, praias, trilhas e vibe rústica.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["corumbau", "trancoso", "porto-seguro"],
-    "alternativas": ["trancoso", "alter-do-chao"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "corumbau",
+      "trancoso",
+      "porto-seguro"
+    ],
+    "alternativas": [
+      "trancoso",
+      "alter-do-chao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 10,
@@ -2610,9 +3819,22 @@
     "pais": "Brasil",
     "descricao": "Vila sem carros com praias, cultura, gastronomia e vibe festiva.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "cidade-historica", "cafes", "tranquilidade", "calor"],
-    "similares": ["boipeba", "valença", "salvador"],
-    "alternativas": ["itacare", "trancoso"],
+    "categorias": [
+      "praia",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "calor"
+    ],
+    "similares": [
+      "boipeba",
+      "valença",
+      "salvador"
+    ],
+    "alternativas": [
+      "itacare",
+      "trancoso"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -2637,10 +3859,23 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Ilha sem carros com praias, trilhas, manguezal e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["morro-de-sao-paulo", "valença", "salvador"],
-    "alternativas": ["itacare", "alter-do-chao"],
+    "imagem": "/assets/blog/Boipeba.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "morro-de-sao-paulo",
+      "valença",
+      "salvador"
+    ],
+    "alternativas": [
+      "itacare",
+      "alter-do-chao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 10,
@@ -2665,10 +3900,23 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Capital histórica com cultura, gastronomia, praias e vibe urbana.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["morro-de-sao-paulo", "boipeba", "cachoeira"],
-    "alternativas": ["olinda", "recife"],
+    "imagem": "/assets/blog/Salvador.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "morro-de-sao-paulo",
+      "boipeba",
+      "cachoeira"
+    ],
+    "alternativas": [
+      "olinda",
+      "recife"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -2693,10 +3941,23 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Cidade histórica com cultura, gastronomia, cachoeiras e arquitetura colonial.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["sao-felix", "salvador", "feira-de-santana"],
-    "alternativas": ["tiradentes", "sao-joao-del-rei"],
+    "imagem": "/assets/blog/Cachoeira.jpeg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "sao-felix",
+      "salvador",
+      "feira-de-santana"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -2722,9 +3983,22 @@
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia, cachoeiras e arquitetura colonial.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["cachoeira", "salvador", "feira-de-santana"],
-    "alternativas": ["tiradentes", "cachoeira"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "cachoeira",
+      "salvador",
+      "feira-de-santana"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "cachoeira"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -2750,9 +4024,22 @@
     "pais": "Brasil",
     "descricao": "Cidade do interior com cultura, gastronomia e acesso a Salvador.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["cachoeira", "salvador", "alagoinhas"],
-    "alternativas": ["salvador", "cachoeira"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "cachoeira",
+      "salvador",
+      "alagoinhas"
+    ],
+    "alternativas": [
+      "salvador",
+      "cachoeira"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 7,
@@ -2778,9 +4065,22 @@
     "pais": "Brasil",
     "descricao": "Ilha com praias, cultura, gastronomia, natureza e vibe cosmopolita.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "cidade-historica", "cafes", "tranquilidade", "natureza"],
-    "similares": ["palhoca", "sao-jose", "biguacu"],
-    "alternativas": ["paraty", "ilha-grande"],
+    "categorias": [
+      "praia",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "natureza"
+    ],
+    "similares": [
+      "palhoca",
+      "sao-jose",
+      "biguacu"
+    ],
+    "alternativas": [
+      "paraty",
+      "ilha-grande"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -2806,9 +4106,22 @@
     "pais": "Brasil",
     "descricao": "Cidade litorânea com praias, cultura e acesso a Florianópolis.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "cidade-historica", "cafes", "tranquilidade", "natureza"],
-    "similares": ["florianopolis", "sao-jose", "biguacu"],
-    "alternativas": ["florianopolis", "ilha-grande"],
+    "categorias": [
+      "praia",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "natureza"
+    ],
+    "similares": [
+      "florianopolis",
+      "sao-jose",
+      "biguacu"
+    ],
+    "alternativas": [
+      "florianopolis",
+      "ilha-grande"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -2834,9 +4147,22 @@
     "pais": "Brasil",
     "descricao": "Cidade litorânea com praias, cultura e acesso a Florianópolis.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "cidade-historica", "cafes", "tranquilidade", "natureza"],
-    "similares": ["florianopolis", "palhoca", "biguacu"],
-    "alternativas": ["florianopolis", "ilha-grande"],
+    "categorias": [
+      "praia",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "natureza"
+    ],
+    "similares": [
+      "florianopolis",
+      "palhoca",
+      "biguacu"
+    ],
+    "alternativas": [
+      "florianopolis",
+      "ilha-grande"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -2862,9 +4188,22 @@
     "pais": "Brasil",
     "descricao": "Cidade do interior com cultura, gastronomia e acesso a Florianópolis.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["florianopolis", "palhoca", "sao-jose"],
-    "alternativas": ["florianopolis", "blumenau"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "florianopolis",
+      "palhoca",
+      "sao-jose"
+    ],
+    "alternativas": [
+      "florianopolis",
+      "blumenau"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 7,
@@ -2889,10 +4228,23 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas, surf e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["florianopolis", "imbituba", "laguna"],
-    "alternativas": ["itacare", "ilha-grande"],
+    "imagem": "/assets/blog/Garopaba.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "florianopolis",
+      "imbituba",
+      "laguna"
+    ],
+    "alternativas": [
+      "itacare",
+      "ilha-grande"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -2917,10 +4269,23 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas e cultura local.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["garopaba", "florianopolis", "laguna"],
-    "alternativas": ["itacare", "trindade"],
+    "imagem": "/assets/blog/Imbituba.jpeg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "garopaba",
+      "florianopolis",
+      "laguna"
+    ],
+    "alternativas": [
+      "itacare",
+      "trindade"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -2945,10 +4310,23 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade histórica com praias, cultura, gastronomia e arquitetura colonial.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "praia", "cafes", "tranquilidade", "experiencias-locais"],
-    "similares": ["garopaba", "imbituba", "turvo"],
-    "alternativas": ["paraty", "ilha-grande"],
+    "imagem": "/assets/blog/Laguna.jpg",
+    "categorias": [
+      "cidade-historica",
+      "praia",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "garopaba",
+      "imbituba",
+      "turvo"
+    ],
+    "alternativas": [
+      "paraty",
+      "ilha-grande"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -2973,10 +4351,23 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["laguna", "garopaba", "imbituba"],
-    "alternativas": ["trindade", "itacare"],
+    "imagem": "/assets/blog/Turvo.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "laguna",
+      "garopaba",
+      "imbituba"
+    ],
+    "alternativas": [
+      "trindade",
+      "itacare"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -3001,10 +4392,23 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade princesa com cultura, gastronomia, dança e arquitetura histórica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["jaragua-do-sul", "blumenau", "sao-francisco-do-sul"],
-    "alternativas": ["blumenau", "curitiba"],
+    "imagem": "/assets/blog/Joinville.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "jaragua-do-sul",
+      "blumenau",
+      "sao-francisco-do-sul"
+    ],
+    "alternativas": [
+      "blumenau",
+      "curitiba"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 8,
@@ -3030,9 +4434,22 @@
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia, feiras e arquitetura histórica.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["joinville", "blumenau", "sao-bento-do-sul"],
-    "alternativas": ["blumenau", "joinville"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "joinville",
+      "blumenau",
+      "sao-bento-do-sul"
+    ],
+    "alternativas": [
+      "blumenau",
+      "joinville"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 7,
@@ -3058,9 +4475,22 @@
     "pais": "Brasil",
     "descricao": "Cidade com cultura alemã, gastronomia, trilhas e arquitetura histórica.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["jaragua-do-sul", "blumenau", "rio-negrinho"],
-    "alternativas": ["blumenau", "vale-europeu"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "jaragua-do-sul",
+      "blumenau",
+      "rio-negrinho"
+    ],
+    "alternativas": [
+      "blumenau",
+      "vale-europeu"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -3086,9 +4516,22 @@
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia, trilhas e acesso à serra.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["sao-bento-do-sul", "jaragua-do-sul", "blumenau"],
-    "alternativas": ["blumenau", "vale-europeu"],
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "sao-bento-do-sul",
+      "jaragua-do-sul",
+      "blumenau"
+    ],
+    "alternativas": [
+      "blumenau",
+      "vale-europeu"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 7,
@@ -3113,10 +4556,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Capital ecológica com parques, cultura, gastronomia e planejamento urbano.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["joinville", "sao-jose-dos-pinhais", "colombo"],
-    "alternativas": ["blumenau", "florianopolis"],
+    "imagem": "/assets/blog/Curitiba.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "joinville",
+      "sao-jose-dos-pinhais",
+      "colombo"
+    ],
+    "alternativas": [
+      "blumenau",
+      "florianopolis"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 8,
@@ -3142,9 +4598,22 @@
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia e acesso a Curitiba.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["curitiba", "colombo", "araucaria"],
-    "alternativas": ["curitiba", "joinville"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "curitiba",
+      "colombo",
+      "araucaria"
+    ],
+    "alternativas": [
+      "curitiba",
+      "joinville"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 7,
@@ -3169,10 +4638,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade com influência polonesa, gastronomia, cultura e trilhas.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["curitiba", "sao-jose-dos-pinhais", "araucaria"],
-    "alternativas": ["curitiba", "blumenau"],
+    "imagem": "/assets/blog/Colombo.jpeg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "curitiba",
+      "sao-jose-dos-pinhais",
+      "araucaria"
+    ],
+    "alternativas": [
+      "curitiba",
+      "blumenau"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -3198,9 +4680,22 @@
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia e acesso a Curitiba.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["curitiba", "colombo", "sao-jose-dos-pinhais"],
-    "alternativas": ["curitiba", "joinville"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "curitiba",
+      "colombo",
+      "sao-jose-dos-pinhais"
+    ],
+    "alternativas": [
+      "curitiba",
+      "joinville"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 7,
@@ -3225,10 +4720,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia, trilhas e arquitetura colonial.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["curitiba", "paranagua", "antonina"],
-    "alternativas": ["tiradentes", "sao-joao-del-rei"],
+    "imagem": "/assets/blog/Morretes.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "curitiba",
+      "paranagua",
+      "antonina"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -3254,9 +4762,22 @@
     "pais": "Brasil",
     "descricao": "Cidade histórica com porto, cultura, gastronomia e arquitetura colonial.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "praia", "cafes", "tranquilidade", "experiencias-locais"],
-    "similares": ["morretes", "antonina", "matinhos"],
-    "alternativas": ["paraty", "ilha-grande"],
+    "categorias": [
+      "cidade-historica",
+      "praia",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "morretes",
+      "antonina",
+      "matinhos"
+    ],
+    "alternativas": [
+      "paraty",
+      "ilha-grande"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -3281,10 +4802,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia, trilhas e arquitetura colonial.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["morretes", "paranagua", "guaratuba"],
-    "alternativas": ["tiradentes", "paranagua"],
+    "imagem": "/assets/blog/Antonina.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "morretes",
+      "paranagua",
+      "guaratuba"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "paranagua"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -3309,10 +4843,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["paranagua", "guaratuba", "caioba"],
-    "alternativas": ["itacare", "trindade"],
+    "imagem": "/assets/blog/Matinhos.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "paranagua",
+      "guaratuba",
+      "caioba"
+    ],
+    "alternativas": [
+      "itacare",
+      "trindade"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -3337,10 +4884,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas e cultura local.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["matinhos", "paranagua", "antonina"],
-    "alternativas": ["itacare", "trindade"],
+    "imagem": "/assets/blog/Guaratuba.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "matinhos",
+      "paranagua",
+      "antonina"
+    ],
+    "alternativas": [
+      "itacare",
+      "trindade"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -3365,10 +4925,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias desertas, trilhas e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["matinhos", "guaratuba", "paranagua"],
-    "alternativas": ["trindade", "alter-do-chao"],
+    "imagem": "/assets/blog/Caioba.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "matinhos",
+      "guaratuba",
+      "paranagua"
+    ],
+    "alternativas": [
+      "trindade",
+      "alter-do-chao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -3394,9 +4967,22 @@
     "pais": "Brasil",
     "descricao": "Cataratas do Iguaçu, natureza, cultura e turismo internacional.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "cultura"],
-    "similares": ["puerto-iguazu", "ciudad-del-este", "iguacu-national-park"],
-    "alternativas": ["jalapao", "chapada-dos-veadeiros"],
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "cultura"
+    ],
+    "similares": [
+      "puerto-iguazu",
+      "ciudad-del-este",
+      "iguacu-national-park"
+    ],
+    "alternativas": [
+      "jalapao",
+      "chapada-dos-veadeiros"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 10,
@@ -3422,9 +5008,22 @@
     "pais": "Argentina",
     "descricao": "Cataratas do Iguaçu, natureza, cultura e turismo internacional.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "cultura"],
-    "similares": ["foz-do-iguacu", "ciudad-del-este", "iguazu-national-park"],
-    "alternativas": ["foz-do-iguacu", "jalapao"],
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "cultura"
+    ],
+    "similares": [
+      "foz-do-iguacu",
+      "ciudad-del-este",
+      "iguazu-national-park"
+    ],
+    "alternativas": [
+      "foz-do-iguacu",
+      "jalapao"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 10,
@@ -3450,9 +5049,22 @@
     "pais": "Paraguai",
     "descricao": "Cidade comercial com compras, cultura e acesso às cataratas.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["foz-do-iguacu", "puerto-iguazu", "iguazu-national-park"],
-    "alternativas": ["foz-do-iguacu", "curitiba"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "foz-do-iguacu",
+      "puerto-iguazu",
+      "iguazu-national-park"
+    ],
+    "alternativas": [
+      "foz-do-iguacu",
+      "curitiba"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 7,
@@ -3478,9 +5090,22 @@
     "pais": "Brasil",
     "descricao": "Cataratas do Iguaçu, natureza, trilhas e ecoturismo.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["natureza", "tranquilidade", "experiencias-locais", "calor", "camping"],
-    "similares": ["foz-do-iguacu", "puerto-iguazu", "ciudad-del-este"],
-    "alternativas": ["jalapao", "chapada-dos-veadeiros"],
+    "categorias": [
+      "natureza",
+      "tranquilidade",
+      "experiencias-locais",
+      "calor",
+      "camping"
+    ],
+    "similares": [
+      "foz-do-iguacu",
+      "puerto-iguazu",
+      "ciudad-del-este"
+    ],
+    "alternativas": [
+      "jalapao",
+      "chapada-dos-veadeiros"
+    ],
     "pontuacoes": {
       "solo": 9,
       "casal": 10,
@@ -3505,10 +5130,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade do interior com cultura, gastronomia e acesso a Foz do Iguaçu.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["foz-do-iguacu", "guarapuava", "pato-branco"],
-    "alternativas": ["foz-do-iguacu", "curitiba"],
+    "imagem": "/assets/blog/Cascavel.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "foz-do-iguacu",
+      "guarapuava",
+      "pato-branco"
+    ],
+    "alternativas": [
+      "foz-do-iguacu",
+      "curitiba"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 7,
@@ -3533,10 +5171,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade serrana com cultura, gastronomia, trilhas e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["cascavel", "pato-branco", "laranjal"],
-    "alternativas": ["palmas", "lages"],
+    "imagem": "/assets/blog/Guarapuava.jpg",
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "cascavel",
+      "pato-branco",
+      "laranjal"
+    ],
+    "alternativas": [
+      "palmas",
+      "lages"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -3562,9 +5213,22 @@
     "pais": "Brasil",
     "descricao": "Cidade do interior com cultura, gastronomia e acesso à serra.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["cascavel", "guarapuava", "francisco-beltrao"],
-    "alternativas": ["guarapuava", "cascavel"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "cascavel",
+      "guarapuava",
+      "francisco-beltrao"
+    ],
+    "alternativas": [
+      "guarapuava",
+      "cascavel"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 7,
@@ -3590,9 +5254,22 @@
     "pais": "Brasil",
     "descricao": "Cidade do interior com cultura, gastronomia e acesso à serra.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["pato-branco", "guarapuava", "cascavel"],
-    "alternativas": ["guarapuava", "cascavel"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "pato-branco",
+      "guarapuava",
+      "cascavel"
+    ],
+    "alternativas": [
+      "guarapuava",
+      "cascavel"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 7,
@@ -3617,10 +5294,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia, parques e vibe urbana.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["maringa", "ponta-grossa", "apucarana"],
-    "alternativas": ["curitiba", "maringa"],
+    "imagem": "/assets/blog/Londrina.jpeg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "maringa",
+      "ponta-grossa",
+      "apucarana"
+    ],
+    "alternativas": [
+      "curitiba",
+      "maringa"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 8,
@@ -3646,9 +5336,22 @@
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia, parques e vibe urbana.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["londrina", "ponta-grossa", "apucarana"],
-    "alternativas": ["curitiba", "londrina"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "londrina",
+      "ponta-grossa",
+      "apucarana"
+    ],
+    "alternativas": [
+      "curitiba",
+      "londrina"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 8,
@@ -3674,9 +5377,22 @@
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia, parques e acesso à serra.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["londrina", "maringa", "castro"],
-    "alternativas": ["curitiba", "londrina"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "londrina",
+      "maringa",
+      "castro"
+    ],
+    "alternativas": [
+      "curitiba",
+      "londrina"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 8,
@@ -3701,10 +5417,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade histórica com cultura, gastronomia, trilhas e arquitetura colonial.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["ponta-grossa", "carambei", "palmeira"],
-    "alternativas": ["tiradentes", "sao-joao-del-rei"],
+    "imagem": "/assets/blog/Castro.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "ponta-grossa",
+      "carambei",
+      "palmeira"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -3730,9 +5459,22 @@
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia e arquitetura colonial.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["castro", "ponta-grossa", "palmeira"],
-    "alternativas": ["tiradentes", "castro"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "castro",
+      "ponta-grossa",
+      "palmeira"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "castro"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -3757,10 +5499,23 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia e acesso à serra.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["castro", "carambei", "ponta-grossa"],
-    "alternativas": ["castro", "tiradentes"],
+    "imagem": "/assets/blog/Palmeira.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "castro",
+      "carambei",
+      "ponta-grossa"
+    ],
+    "alternativas": [
+      "castro",
+      "tiradentes"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -3786,9 +5541,22 @@
     "pais": "Brasil",
     "descricao": "Capital com cultura, gastronomia, parques e vibe urbana.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["gramado", "canela", "nova-petropolis"],
-    "alternativas": ["curitiba", "florianopolis"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "gramado",
+      "canela",
+      "nova-petropolis"
+    ],
+    "alternativas": [
+      "curitiba",
+      "florianopolis"
+    ],
     "pontuacoes": {
       "solo": 5,
       "casal": 8,
@@ -3808,99 +5576,28 @@
     }
   },
   {
-    "slug": "gramado",
-    "nome": "Gramado",
-    "estado": "Rio Grande do Sul",
-    "pais": "Brasil",
-    "descricao": "Vila serrana com clima europeu, gastronomia, cultura e paisagens.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["canela", "nova-petropolis", "campos-do-jordao"],
-    "alternativas": ["campos-do-jordao", "monte-verde"],
-    "pontuacoes": {
-      "solo": 7,
-      "casal": 10,
-      "familia": 9,
-      "natureza": 8,
-      "cafes": 10,
-      "tranquilidade": 8,
-      "frio": 10,
-      "calor": 0,
-      "glamping": 8,
-      "camping": 5,
-      "experienciasLocais": 10,
-      "workation": 7,
-      "economico": 5,
-      "medio": 8,
-      "premium": 10
-    }
-  },
-  {
-    "slug": "canela",
-    "nome": "Canela",
-    "estado": "Rio Grande do Sul",
-    "pais": "Brasil",
-    "descricao": "Vila serrana com clima europeu, gastronomia, cultura e paisagens.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["gramado", "nova-petropolis", "campos-do-jordao"],
-    "alternativas": ["campos-do-jordao", "monte-verde"],
-    "pontuacoes": {
-      "solo": 7,
-      "casal": 10,
-      "familia": 9,
-      "natureza": 8,
-      "cafes": 10,
-      "tranquilidade": 8,
-      "frio": 10,
-      "calor": 0,
-      "glamping": 8,
-      "camping": 5,
-      "experienciasLocais": 10,
-      "workation": 7,
-      "economico": 5,
-      "medio": 8,
-      "premium": 10
-    }
-  },
-  {
-    "slug": "nova-petropolis",
-    "nome": "Nova Petrópolis",
-    "estado": "Rio Grande do Sul",
-    "pais": "Brasil",
-    "descricao": "Vila serrana com cultura alemã, gastronomia, trilhas e paisagens.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["gramado", "canela", "sao-francisco-de-paula"],
-    "alternativas": ["campos-do-jordao", "vale-europeu"],
-    "pontuacoes": {
-      "solo": 7,
-      "casal": 9,
-      "familia": 9,
-      "natureza": 8,
-      "cafes": 9,
-      "tranquilidade": 8,
-      "frio": 10,
-      "calor": 0,
-      "glamping": 7,
-      "camping": 5,
-      "experienciasLocais": 9,
-      "workation": 7,
-      "economico": 6,
-      "medio": 8,
-      "premium": 9
-    }
-  },
-  {
     "slug": "sao-francisco-de-paula",
     "nome": "São Francisco de Paula",
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Vila serrana com cultura, gastronomia, trilhas e natureza.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["gramado", "canela", "nova-petropolis"],
-    "alternativas": ["campos-do-jordao", "lages"],
+    "categorias": [
+      "serra",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "frio"
+    ],
+    "similares": [
+      "gramado",
+      "canela",
+      "nova-petropolis"
+    ],
+    "alternativas": [
+      "campos-do-jordao",
+      "lages"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -3926,9 +5623,22 @@
     "pais": "Brasil",
     "descricao": "Cidade com cultura italiana, gastronomia, vinícolas e arquitetura histórica.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["bento-goncalves", "garibaldi", "flores-da-cunha"],
-    "alternativas": ["vale-europeu", "blumenau"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "bento-goncalves",
+      "garibaldi",
+      "flores-da-cunha"
+    ],
+    "alternativas": [
+      "vale-europeu",
+      "blumenau"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -3954,9 +5664,22 @@
     "pais": "Brasil",
     "descricao": "Capital do vinho com cultura italiana, gastronomia, vinícolas e paisagens.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["caxias-do-sul", "garibaldi", "flores-da-cunha"],
-    "alternativas": ["vale-europeu", "blumenau"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "caxias-do-sul",
+      "garibaldi",
+      "flores-da-cunha"
+    ],
+    "alternativas": [
+      "vale-europeu",
+      "blumenau"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 10,
@@ -3981,10 +5704,23 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Vila com cultura italiana, gastronomia, vinícolas e paisagens.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["bento-goncalves", "caxias-do-sul", "flores-da-cunha"],
-    "alternativas": ["vale-europeu", "blumenau"],
+    "imagem": "/assets/blog/Garibaldi.jpeg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "bento-goncalves",
+      "caxias-do-sul",
+      "flores-da-cunha"
+    ],
+    "alternativas": [
+      "vale-europeu",
+      "blumenau"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -4010,9 +5746,22 @@
     "pais": "Brasil",
     "descricao": "Vila com cultura italiana, gastronomia, vinícolas e paisagens.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["bento-goncalves", "caxias-do-sul", "garibaldi"],
-    "alternativas": ["vale-europeu", "blumenau"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "bento-goncalves",
+      "caxias-do-sul",
+      "garibaldi"
+    ],
+    "alternativas": [
+      "vale-europeu",
+      "blumenau"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -4037,10 +5786,23 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Cidade histórica com cultura, gastronomia, arquitetura colonial e charque.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["rio-grande", "bagé", "sao-lourenco-do-sul"],
-    "alternativas": ["tiradentes", "sao-joao-del-rei"],
+    "imagem": "/assets/blog/Pelotas.jpg",
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "rio-grande",
+      "bagé",
+      "sao-lourenco-do-sul"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "sao-joao-del-rei"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -4066,9 +5828,22 @@
     "pais": "Brasil",
     "descricao": "Cidade histórica com porto, cultura, gastronomia e praias.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "praia", "cafes", "tranquilidade", "experiencias-locais"],
-    "similares": ["pelotas", "sao-lourenco-do-sul", "cassino"],
-    "alternativas": ["paraty", "ilha-grande"],
+    "categorias": [
+      "cidade-historica",
+      "praia",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "pelotas",
+      "sao-lourenco-do-sul",
+      "cassino"
+    ],
+    "alternativas": [
+      "paraty",
+      "ilha-grande"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
@@ -4094,9 +5869,22 @@
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia, trilhas e arquitetura colonial.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["pelotas", "rio-grande", "camaqua"],
-    "alternativas": ["tiradentes", "paranagua"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "pelotas",
+      "rio-grande",
+      "camaqua"
+    ],
+    "alternativas": [
+      "tiradentes",
+      "paranagua"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 8,
@@ -4121,10 +5909,23 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Praia mais longa do mundo, cultura, gastronomia e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["rio-grande", "pelotas", "sao-lourenco-do-sul"],
-    "alternativas": ["itacare", "trindade"],
+    "imagem": "/assets/blog/Cassino.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "rio-grande",
+      "pelotas",
+      "sao-lourenco-do-sul"
+    ],
+    "alternativas": [
+      "itacare",
+      "trindade"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -4149,10 +5950,23 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Praia com falésias, trilhas, natureza e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["capao-da-canoa", "tramandai", "arroio-do-sal"],
-    "alternativas": ["itacare", "trindade"],
+    "imagem": "/assets/blog/Torres.png",
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "capao-da-canoa",
+      "tramandai",
+      "arroio-do-sal"
+    ],
+    "alternativas": [
+      "itacare",
+      "trindade"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -4178,9 +5992,22 @@
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas e vibe rústica.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["torres", "tramandai", "arroio-do-sal"],
-    "alternativas": ["trindade", "itacare"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "torres",
+      "tramandai",
+      "arroio-do-sal"
+    ],
+    "alternativas": [
+      "trindade",
+      "itacare"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -4206,9 +6033,22 @@
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, cultura e gastronomia.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "cidade-historica", "cafes", "tranquilidade", "experiencias-locais"],
-    "similares": ["torres", "capao-da-canoa", "arroio-do-sal"],
-    "alternativas": ["itacare", "ilha-grande"],
+    "categorias": [
+      "praia",
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "torres",
+      "capao-da-canoa",
+      "arroio-do-sal"
+    ],
+    "alternativas": [
+      "itacare",
+      "ilha-grande"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 9,
@@ -4234,9 +6074,22 @@
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas e vibe rústica.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["praia", "natureza", "tranquilidade", "calor", "experiencias-locais"],
-    "similares": ["torres", "capao-da-canoa", "tramandai"],
-    "alternativas": ["trindade", "alter-do-chao"],
+    "categorias": [
+      "praia",
+      "natureza",
+      "tranquilidade",
+      "calor",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "torres",
+      "capao-da-canoa",
+      "tramandai"
+    ],
+    "alternativas": [
+      "trindade",
+      "alter-do-chao"
+    ],
     "pontuacoes": {
       "solo": 7,
       "casal": 9,
@@ -4256,99 +6109,28 @@
     }
   },
   {
-    "slug": "lages",
-    "nome": "Lages",
-    "estado": "Santa Catarina",
-    "pais": "Brasil",
-    "descricao": "Cidade serrana com cultura, gastronomia, trilhas e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "cidade-historica", "cafes", "tranquilidade", "frio"],
-    "similares": ["sao-joaquim", "urubici", "bom-jardim-da-serra"],
-    "alternativas": ["campos-do-jordao", "palmas"],
-    "pontuacoes": {
-      "solo": 6,
-      "casal": 8,
-      "familia": 8,
-      "natureza": 8,
-      "cafes": 8,
-      "tranquilidade": 8,
-      "frio": 10,
-      "calor": 0,
-      "glamping": 6,
-      "camping": 6,
-      "experienciasLocais": 9,
-      "workation": 7,
-      "economico": 7,
-      "medio": 8,
-      "premium": 8
-    }
-  },
-  {
-    "slug": "sao-joaquim",
-    "nome": "São Joaquim",
-    "estado": "Santa Catarina",
-    "pais": "Brasil",
-    "descricao": "Cidade mais fria do Brasil, neve, trilhas e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["lages", "urubici", "bom-jardim-da-serra"],
-    "alternativas": ["campos-do-jordao", "palmas"],
-    "pontuacoes": {
-      "solo": 7,
-      "casal": 8,
-      "familia": 7,
-      "natureza": 9,
-      "cafes": 7,
-      "tranquilidade": 9,
-      "frio": 10,
-      "calor": 0,
-      "glamping": 7,
-      "camping": 7,
-      "experienciasLocais": 10,
-      "workation": 6,
-      "economico": 6,
-      "medio": 7,
-      "premium": 8
-    }
-  },
-  {
-    "slug": "urubici",
-    "nome": "Urubici",
-    "estado": "Santa Catarina",
-    "pais": "Brasil",
-    "descricao": "Vila serrana com neve, trilhas, cachoeiras e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["sao-joaquim", "lages", "bom-jardim-da-serra"],
-    "alternativas": ["campos-do-jordao", "palmas"],
-    "pontuacoes": {
-      "solo": 8,
-      "casal": 9,
-      "familia": 7,
-      "natureza": 10,
-      "cafes": 6,
-      "tranquilidade": 10,
-      "frio": 10,
-      "calor": 0,
-      "glamping": 8,
-      "camping": 9,
-      "experienciasLocais": 10,
-      "workation": 5,
-      "economico": 6,
-      "medio": 7,
-      "premium": 8
-    }
-  },
-  {
     "slug": "bom-jardim-da-serra",
     "nome": "Bom Jardim da Serra",
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Vila serrana com trilhas, cachoeiras, neve e natureza.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["serra", "natureza", "tranquilidade", "frio", "experiencias-locais"],
-    "similares": ["urubici", "sao-joaquim", "lages"],
-    "alternativas": ["campos-do-jordao", "palmas"],
+    "categorias": [
+      "serra",
+      "natureza",
+      "tranquilidade",
+      "frio",
+      "experiencias-locais"
+    ],
+    "similares": [
+      "urubici",
+      "sao-joaquim",
+      "lages"
+    ],
+    "alternativas": [
+      "campos-do-jordao",
+      "palmas"
+    ],
     "pontuacoes": {
       "solo": 8,
       "casal": 9,
@@ -4368,71 +6150,28 @@
     }
   },
   {
-    "slug": "blumenau",
-    "nome": "Blumenau",
-    "estado": "Santa Catarina",
-    "pais": "Brasil",
-    "descricao": "Cidade com cultura alemã, gastronomia, cerveja e arquitetura histórica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["pomerode", "timbo", "gaspar"],
-    "alternativas": ["vale-europeu", "gramado"],
-    "pontuacoes": {
-      "solo": 6,
-      "casal": 9,
-      "familia": 9,
-      "natureza": 6,
-      "cafes": 10,
-      "tranquilidade": 6,
-      "frio": 5,
-      "calor": 5,
-      "glamping": 4,
-      "camping": 3,
-      "experienciasLocais": 10,
-      "workation": 8,
-      "economico": 7,
-      "medio": 8,
-      "premium": 9
-    }
-  },
-  {
-    "slug": "pomerode",
-    "nome": "Pomerode",
-    "estado": "Santa Catarina",
-    "pais": "Brasil",
-    "descricao": "Vila mais alemã do Brasil, cultura, gastronomia e arquitetura colonial.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["blumenau", "timbo", "gaspar"],
-    "alternativas": ["vale-europeu", "gramado"],
-    "pontuacoes": {
-      "solo": 6,
-      "casal": 9,
-      "familia": 9,
-      "natureza": 6,
-      "cafes": 9,
-      "tranquilidade": 7,
-      "frio": 5,
-      "calor": 5,
-      "glamping": 5,
-      "camping": 4,
-      "experienciasLocais": 10,
-      "workation": 7,
-      "economico": 7,
-      "medio": 8,
-      "premium": 9
-    }
-  },
-  {
     "slug": "timbo",
     "nome": "Timbó",
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Vila com cultura alemã, gastronomia, trilhas e natureza.",
     "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
-    "categorias": ["cidade-historica", "cafes", "tranquilidade", "experiencias-locais", "cultura"],
-    "similares": ["blumenau", "pomerode", "gaspar"],
-    "alternativas": ["blumenau", "vale-europeu"],
+    "categorias": [
+      "cidade-historica",
+      "cafes",
+      "tranquilidade",
+      "experiencias-locais",
+      "cultura"
+    ],
+    "similares": [
+      "blumenau",
+      "pomerode",
+      "gaspar"
+    ],
+    "alternativas": [
+      "blumenau",
+      "vale-europeu"
+    ],
     "pontuacoes": {
       "solo": 6,
       "casal": 8,
