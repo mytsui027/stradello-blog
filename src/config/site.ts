@@ -117,6 +117,7 @@ export const NAV_LINKS = [
   { href: '/blog',       label: 'Blog' },
   { href: '/categorias', label: 'Categorias' },
   { href: '/guias',      label: 'Guias' },
+  { href: '/stradello-match', label: 'Stradello Match' },
   { href: '/recomendacoes', label: 'Recomendações' },
   { href: '/sobre',      label: 'Sobre' },
 ] as const;

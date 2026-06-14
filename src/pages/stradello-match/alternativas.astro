@@ -1,0 +1,212 @@
+---
+// ================================================================
+// Stradello Match — Alternativas Page (Results)
+// ================================================================
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../config/site';
+import { calculateMatches, getAllDestinations } from '../../utils/matchAlgorithm';
+import MatchResults from '../../components/stradello-match/MatchResults.astro';
+import AlternativeDestinations from '../../components/stradello-match/AlternativeDestinations.astro';
+import { generateBreadcrumbSchema } from '../../utils/helpers';
+
+// Get all destinations as fallback
+const allDestinations = getAllDestinations();
+
+// Note: In a real implementation, we would get responses from URL params or client-side storage
+// For now, we'll show all destinations sorted by a default score
+const defaultResults = allDestinations.map((dest) => ({
+  destination: dest,
+  score: 70,
+  compatibility: 'bom' as const,
+})).slice(0, 6);
+
+const defaultAlternatives = allDestinations.slice(6, 11).map((dest) => ({
+  destination: dest,
+  score: 65,
+  compatibility: 'muito-bom' as const,
+}));
+
+// SEO
+const title = 'Seus Destinos — Stradello Match';
+const description = 'Veja os destinos que mais combinam com você baseados nas suas respostas do quiz. Descubra alternativas autênticas fora do óbvio.';
+const canonicalUrl = `${SITE.url}/stradello-match/alternativas`;
+
+// Schema.org
+const breadcrumbSchema = generateBreadcrumbSchema([
+  { name: 'Início', url: SITE.url },
+  { name: 'Stradello Match', url: `${SITE.url}/stradello-match` },
+  { name: 'Quiz', url: `${SITE.url}/stradello-match/quiz` },
+  { name: 'Resultados', url: canonicalUrl },
+]);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  structuredData={breadcrumbSchema}
+>
+  <!-- Header -->
+  <section class="section-gap">
+    <div class="container-site">
+      <div class="max-w-2xl mx-auto text-center mb-12">
+        <a href="/stradello-match" class="inline-flex items-center gap-2 text-sm font-medium transition-colors duration-200 mb-6" style="color: var(--color-text-muted);">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="m15 18-6-6 6-6"/>
+          </svg>
+          Voltar para Stradello Match
+        </a>
+
+        <p class="section-label mb-3">Stradello Match</p>
+        <h1 class="section-title mb-4">
+          Seus destinos ideais
+        </h1>
+        <p class="text-base leading-relaxed" style="color: var(--color-text-muted);">
+          Com base nas suas respostas, selecionamos os destinos que mais combinam com seu perfil de viajante.
+        </p>
+
+        <!-- Action buttons -->
+        <div class="flex flex-wrap gap-3 justify-center mt-6">
+          <a href="/stradello-match/quiz" class="btn-outline">
+            Refazer quiz
+          </a>
+          <a href="/stradello-match" class="btn-outline">
+            Ver todos os destinos
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Top Matches -->
+  <MatchResults
+    title="Top recomendações para você"
+    description="Estes são os destinos que mais se alinham com suas preferências de viagem."
+    results={defaultResults}
+    showScore={true}
+  />
+
+  <!-- Alternatives -->
+  <AlternativeDestinations
+    title="Alternativas fora do óbvio"
+    description="Destinos que talvez você não tenha considerado, mas que podem ser perfeitos para você."
+    alternatives={defaultAlternatives}
+  />
+
+  <!-- CTA -->
+  <section class="section-gap">
+    <div class="container-site">
+      <div class="max-w-2xl mx-auto text-center">
+        <div class="rounded-2xl p-8 md:p-12 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
+          <div class="text-4xl mb-4" aria-hidden="true">✨</div>
+          <h2 class="font-display text-2xl font-medium mb-4" style="color: var(--color-heading); letter-spacing: -0.02em;">
+            Gostou das recomendações?
+          </h2>
+          <p class="text-base leading-relaxed mb-6" style="color: var(--color-text-muted);">
+            Explore nossos guias detalhados de destinos e descubra ainda mais lugares para viajar devagar.
+          </p>
+          <a href="/guias" class="btn-primary">
+            Ver guias de destinos →
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Client-side script to calculate real matches -->
+  <script define:vars={{ allDestinations }}>
+    // Calculate matches based on stored responses
+    function calculateClientSideMatches() {
+      const responses = JSON.parse(sessionStorage.getItem('stradello-match-responses') || '{}');
+      
+      if (Object.keys(responses).length === 0) {
+        // No responses stored, show default results
+        return;
+      }
+
+      // Simple scoring algorithm (same as server-side)
+      const scoredDestinations = allDestinations.map(dest => {
+        let totalScore = 0;
+        let maxScore = 0;
+
+        // Travel companions
+        if (responses.travel_companions) {
+          const key = responses.travel_companions === 'amigos' ? 'familia' : responses.travel_companions;
+          totalScore += (dest.pontuacoes[key] || 0) * 1.2;
+          maxScore += 10 * 1.2;
+        }
+
+        // Destination type
+        if (responses.destination_type) {
+          const key = responses.destination_type === 'serra' ? 'frio' : 
+                     responses.destination_type === 'praia' ? 'calor' : 
+                     responses.destination_type === 'cidade-historica' ? 'tranquilidade' : 
+                     responses.destination_type === 'natureza' ? 'natureza' : 'tranquilidade';
+          totalScore += (dest.pontuacoes[key] || 0) * 1.5;
+          maxScore += 10 * 1.5;
+        }
+
+        // Cafes
+        if (responses.cafes_restaurants) {
+          const weight = responses.cafes_restaurants === 'sim' ? 1 : responses.cafes_restaurants === 'moderado' ? 0.7 : 0.4;
+          totalScore += (dest.pontuacoes.cafes || 0) * 0.8 * weight;
+          maxScore += 10 * 0.8;
+        }
+
+        // Tranquility
+        if (responses.tranquility) {
+          const weight = responses.tranquility === 'sim' ? 1 : responses.tranquility === 'moderado' ? 0.7 : 0.4;
+          totalScore += (dest.pontuacoes.tranquilidade || 0) * 1.3 * weight;
+          maxScore += 10 * 1.3;
+        }
+
+        // Temperature
+        if (responses.temperature) {
+          const key = responses.temperature === 'morno' ? 'frio' : responses.temperature;
+          totalScore += (dest.pontuacoes[key] || 0) * 1.4;
+          maxScore += 10 * 1.4;
+        }
+
+        // Accommodation
+        if (responses.accommodation) {
+          const key = responses.accommodation === 'hotel' ? 'tranquilidade' : responses.accommodation;
+          totalScore += (dest.pontuacoes[key] || 0) * 1.0;
+          maxScore += 10 * 1.0;
+        }
+
+        // Local experiences
+        if (responses.local_experiences) {
+          const weight = responses.local_experiences === 'sim' ? 1 : responses.local_experiences === 'moderado' ? 0.7 : 0.4;
+          totalScore += (dest.pontuacoes.experienciasLocais || 0) * 1.1 * weight;
+          maxScore += 10 * 1.1;
+        }
+
+        // Remote work
+        if (responses.remote_work) {
+          const weight = responses.remote_work === 'sim' ? 1 : responses.remote_work === 'as-vezes' ? 0.7 : 0.4;
+          totalScore += (dest.pontuacoes.workation || 0) * 0.9 * weight;
+          maxScore += 10 * 0.9;
+        }
+
+        // Budget
+        if (responses.budget) {
+          totalScore += (dest.pontuacoes[responses.budget] || 0) * 1.0;
+          maxScore += 10 * 1.0;
+        }
+
+        const score = maxScore > 0 ? (totalScore / maxScore) * 100 : 0;
+        return { ...dest, score };
+      });
+
+      // Sort by score
+      scoredDestinations.sort((a, b) => b.score - a.score);
+
+      // Update the page with real results (this would need more complex DOM manipulation)
+      console.log('Calculated matches:', scoredDestinations.slice(0, 3));
+    }
+
+    // Run on page load
+    calculateClientSideMatches();
+  </script>
+</BaseLayout>

@@ -1,0 +1,269 @@
+---
+// ================================================================
+// Stradello Match — Landing Page
+// ================================================================
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../config/site';
+import { getAllDestinations } from '../../utils/matchAlgorithm';
+import DestinationCard from '../../components/stradello-match/DestinationCard.astro';
+import { generateBreadcrumbSchema } from '../../utils/helpers';
+
+// Fetch all destinations
+const allDestinations = getAllDestinations();
+
+// SEO
+const title = 'Stradello Match';
+const description = 'Descubra destinos que combinam com você e encontre alternativas autênticas fora do óbvio. Sistema de recomendação de viagens baseado no seu perfil.';
+const canonicalUrl = `${SITE.url}/stradello-match`;
+
+// Schema.org
+const breadcrumbSchema = generateBreadcrumbSchema([
+  { name: 'Início', url: SITE.url },
+  { name: 'Stradello Match', url: canonicalUrl },
+]);
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Como funciona o Stradello Match?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'O Stradello Match é um quiz simples de 9 perguntas sobre suas preferências de viagem. Com base nas suas respostas, nosso algoritmo recomenda destinos que mais combinam com seu perfil.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'O Stradello Match é gratuito?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Sim, o Stradello Match é 100% gratuito. Não usamos IA externa nem APIs pagas. Tudo é calculado localmente no seu navegador.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Quais destinos estão incluídos?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Atualmente temos mais de 20 destinos brasileiros selecionados, incluindo Monte Verde, Visconde de Mauá, Chapada dos Veadeiros, Lençóis Maranhenses, Fernando de Noronha e muitos outros.',
+      },
+    },
+  ],
+};
+
+const structuredData = [breadcrumbSchema, faqSchema];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  structuredData={structuredData}
+>
+  <!-- Hero Section -->
+  <section class="relative overflow-hidden section-gap">
+    <div
+      class="absolute inset-0 pointer-events-none"
+      style="background: linear-gradient(135deg, color-mix(in srgb, var(--color-accent) 6%, transparent) 0%, transparent 60%);"
+      aria-hidden="true"
+    />
+
+    <div class="container-site">
+      <div class="max-w-3xl mx-auto text-center stagger-children">
+        <div class="flex items-center justify-center gap-3 mb-6">
+          <span class="divider-short" aria-hidden="true"></span>
+          <span class="section-label">Stradello Match</span>
+          <span class="divider-short" aria-hidden="true"></span>
+        </div>
+
+        <h1 class="hero-title mb-6 text-balance">
+          Descubra destinos que<br />
+          <em class="not-italic" style="color: var(--color-accent);">combinam com você</em>
+        </h1>
+
+        <p class="text-lg leading-relaxed mb-8" style="color: var(--color-text-muted);">
+          Encontre alternativas autênticas fora do óbvio. Responda a um quiz simples e receba recomendações personalizadas baseadas no seu perfil de viajante.
+        </p>
+
+        <div class="flex flex-wrap gap-3 justify-center">
+          <a href="/stradello-match/quiz" class="btn-primary">
+            Começar quiz →
+          </a>
+          <a href="/stradello-match/alternativas" class="btn-outline">
+            Ver todos os destinos
+          </a>
+        </div>
+
+        <!-- Trust signals -->
+        <div class="flex items-center justify-center gap-8 mt-10 pt-8" style="border-top: 1px solid var(--color-border-soft);">
+          <div class="text-center">
+            <p class="font-display font-medium text-2xl" style="color: var(--color-heading);">20+</p>
+            <p class="text-xs" style="color: var(--color-text-faint);">Destinos</p>
+          </div>
+          <div class="w-px h-8" style="background: var(--color-border);" aria-hidden="true"></div>
+          <div class="text-center">
+            <p class="font-display font-medium text-2xl" style="color: var(--color-heading);">100%</p>
+            <p class="text-xs" style="color: var(--color-text-faint);">Gratuito</p>
+          </div>
+          <div class="w-px h-8" style="background: var(--color-border);" aria-hidden="true"></div>
+          <div class="text-center">
+            <p class="font-display font-medium text-2xl" style="color: var(--color-heading);">Sem IA</p>
+            <p class="text-xs" style="color: var(--color-text-faint);">Algoritmo local</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How it works -->
+  <section class="section-gap" style="background: var(--color-bg-alt);">
+    <div class="container-site">
+      <div class="max-w-2xl mx-auto text-center mb-12">
+        <p class="section-label mb-3">Como funciona</p>
+        <h2 class="section-title mb-4">Simples e rápido</h2>
+        <p class="text-base leading-relaxed" style="color: var(--color-text-muted);">
+          Três passos para descobrir seu próximo destino ideal.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="reveal text-center" style="animation-delay: 0.1s;">
+          <div class="w-16 h-16 rounded-full mx-auto mb-4 flex items-center justify-center text-2xl" style="background: var(--color-bg-card); border: 2px solid var(--color-border);">
+            1
+          </div>
+          <h3 class="font-display font-semibold text-lg mb-2" style="color: var(--color-heading);">
+            Responda ao quiz
+          </h3>
+          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
+            9 perguntas simples sobre suas preferências de viagem, companhia, clima e orçamento.
+          </p>
+        </div>
+
+        <div class="reveal text-center" style="animation-delay: 0.2s;">
+          <div class="w-16 h-16 rounded-full mx-auto mb-4 flex items-center justify-center text-2xl" style="background: var(--color-bg-card); border: 2px solid var(--color-border);">
+            2
+          </div>
+          <h3 class="font-display font-semibold text-lg mb-2" style="color: var(--color-heading);">
+            Receba recomendações
+          </h3>
+          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
+            Nosso algoritmo calcula os destinos mais compatíveis com seu perfil em segundos.
+          </p>
+        </div>
+
+        <div class="reveal text-center" style="animation-delay: 0.3s;">
+          <div class="w-16 h-16 rounded-full mx-auto mb-4 flex items-center justify-center text-2xl" style="background: var(--color-bg-card); border: 2px solid var(--color-border);">
+            3
+          </div>
+          <h3 class="font-display font-semibold text-lg mb-2" style="color: var(--color-heading);">
+            Explore alternativas
+          </h3>
+          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
+            Descubra destinos fora do óbvio que você talvez nunca tenha considerado.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured destinations preview -->
+  <section class="section-gap">
+    <div class="container-site">
+      <div class="flex items-end justify-between mb-10">
+        <div>
+          <p class="section-label mb-3">Destinos em destaque</p>
+          <h2 class="section-title">
+            Conheça alguns<br />dos nossos destinos
+          </h2>
+        </div>
+        <a href="/stradello-match/alternativas" class="btn-outline hidden sm:inline-flex">
+          Ver todos →
+        </a>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {allDestinations.slice(0, 6).map((destination, index) => (
+          <div class="reveal" style={`animation-delay: ${index * 0.1}s;`}>
+            <DestinationCard
+              slug={destination.slug}
+              nome={destination.nome}
+              estado={destination.estado}
+              pais={destination.pais}
+              descricao={destination.descricao}
+              imagem={destination.imagem}
+              showScore={false}
+            />
+          </div>
+        ))}
+      </div>
+
+      <div class="mt-8 text-center sm:hidden">
+        <a href="/stradello-match/alternativas" class="btn-outline">
+          Ver todos os destinos →
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section class="section-gap" style="background: var(--color-bg-alt);">
+    <div class="container-site">
+      <div class="max-w-2xl mx-auto">
+        <p class="section-label mb-3">Perguntas frequentes</p>
+        <h2 class="section-title mb-8">Dúvidas comuns</h2>
+
+        <div class="space-y-4">
+          <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
+            <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
+              Como funciona o Stradello Match?
+            </h3>
+            <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
+              O Stradello Match é um quiz simples de 9 perguntas sobre suas preferências de viagem. Com base nas suas respostas, nosso algoritmo recomenda destinos que mais combinam com seu perfil.
+            </p>
+          </div>
+
+          <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
+            <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
+              O Stradello Match é gratuito?
+            </h3>
+            <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
+              Sim, o Stradello Match é 100% gratuito. Não usamos IA externa nem APIs pagas. Tudo é calculado localmente no seu navegador.
+            </p>
+          </div>
+
+          <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
+            <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
+              Quais destinos estão incluídos?
+            </h3>
+            <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
+              Atualmente temos mais de 20 destinos brasileiros selecionados, incluindo Monte Verde, Visconde de Mauá, Chapada dos Veadeiros, Lençóis Maranhenses, Fernando de Noronha e muitos outros.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="section-gap">
+    <div class="container-site">
+      <div class="max-w-2xl mx-auto text-center">
+        <div class="rounded-2xl p-8 md:p-12 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
+          <div class="text-4xl mb-4" aria-hidden="true">🧭</div>
+          <h2 class="font-display text-2xl font-medium mb-4" style="color: var(--color-heading); letter-spacing: -0.02em;">
+            Pronto para descobrir seu destino ideal?
+          </h2>
+          <p class="text-base leading-relaxed mb-6" style="color: var(--color-text-muted);">
+            Responda ao quiz em menos de 2 minutos e receba recomendações personalizadas.
+          </p>
+          <a href="/stradello-match/quiz" class="btn-primary">
+            Começar quiz agora →
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

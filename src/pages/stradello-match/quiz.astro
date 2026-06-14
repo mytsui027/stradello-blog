@@ -1,0 +1,66 @@
+---
+// ================================================================
+// Stradello Match — Quiz Page
+// ================================================================
+
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../config/site';
+import { quizQuestions, type QuizResponses } from '../../utils/matchAlgorithm';
+import MatchQuiz from '../../components/stradello-match/MatchQuiz.astro';
+import { generateBreadcrumbSchema } from '../../utils/helpers';
+
+// Get current question from URL params
+const { question: questionParam } = Astro.url.searchParams;
+const currentQuestion = questionParam ? parseInt(questionParam) : 0;
+
+// Validate question index
+const validQuestion = Math.max(0, Math.min(currentQuestion, quizQuestions.length - 1));
+
+// Get stored responses
+const responses: QuizResponses = {};
+// Note: Responses are stored in sessionStorage on the client side
+
+// SEO
+const title = 'Quiz — Stradello Match';
+const description = 'Responda a 9 perguntas simples sobre suas preferências de viagem e descubra destinos que combinam com você.';
+const canonicalUrl = `${SITE.url}/stradello-match/quiz`;
+
+// Schema.org
+const breadcrumbSchema = generateBreadcrumbSchema([
+  { name: 'Início', url: SITE.url },
+  { name: 'Stradello Match', url: `${SITE.url}/stradello-match` },
+  { name: 'Quiz', url: canonicalUrl },
+]);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalUrl={canonicalUrl}
+  structuredData={breadcrumbSchema}
+>
+  <section class="section-gap">
+    <div class="container-site">
+      <!-- Header -->
+      <div class="max-w-2xl mx-auto mb-12 text-center">
+        <a href="/stradello-match" class="inline-flex items-center gap-2 text-sm font-medium transition-colors duration-200 mb-6" style="color: var(--color-text-muted);">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="m15 18-6-6 6-6"/>
+          </svg>
+          Voltar para Stradello Match
+        </a>
+
+        <p class="section-label mb-3">Stradello Match</p>
+        <h1 class="section-title mb-4">
+          Descubra seu destino ideal
+        </h1>
+        <p class="text-base leading-relaxed" style="color: var(--color-text-muted);">
+          Responda às perguntas abaixo para recebermos recomendações personalizadas.
+        </p>
+      </div>
+
+      <!-- Quiz Component -->
+      <MatchQuiz currentQuestion={validQuestion} responses={responses} />
+    </div>
+  </section>
+</BaseLayout>
