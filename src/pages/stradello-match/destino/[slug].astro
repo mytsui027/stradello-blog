@@ -187,40 +187,31 @@ const structuredData = [breadcrumbSchema, touristDestinationSchema];
           Por que {destination.nome}?
         </h2>
         <p class="text-base leading-relaxed" style="color: var(--color-text-muted);">
-          Este destino se destaca por suas características únicas que combinam com viajantes que buscam experiências autênticas e tranquilas.
+          Este destino se destaca por suas características únicas que combinam com viajantes que buscam experiências autênticas.
         </p>
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🌿</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Natureza preservada
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Paisagens naturais intocadas e oportunidades para conexão com o ambiente.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🏺</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Cultura local
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Experiências autênticas com a cultura e tradições da região.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🧘</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Tranquilidade
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Ambiente calmo, perfeito para desacelerar e recarregar as energias.
-          </p>
-        </div>
+        {destination.uniqueReasons && destination.uniqueReasons.length > 0 ? (
+          destination.uniqueReasons.map((reason, index) => (
+            <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
+              <div class="text-2xl mb-3" aria-hidden="true">
+                {index === 0 && '✨'}
+                {index === 1 && '🌟'}
+                {index === 2 && '💎'}
+                {index === 3 && '🎯'}
+                {index === 4 && '🏆'}
+              </div>
+              <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
+                {reason}
+              </h3>
+            </div>
+          ))
+        ) : (
+          <div class="col-span-full text-center py-8" style="color: var(--color-text-muted);">
+            Informações sobre este destino em breve.
+          </div>
+        )}
       </div>
     </div>
   </section>
@@ -238,242 +229,35 @@ const structuredData = [breadcrumbSchema, touristDestinationSchema];
         </p>
       </div>
 
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🌸</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Primavera
-          </h3>
-          <p class="text-sm leading-relaxed mb-3" style="color: var(--color-text-muted);">
-            Clima ameno e floração. Ideal para trilhas e atividades ao ar livre.
-          </p>
-          <span class="text-xs px-2 py-1 rounded-full" style="background: var(--color-bg-alt); color: var(--color-accent);">
-            Set - Nov
-          </span>
+      {destination.seasonTitle && destination.seasonDescription && destination.seasonPeriod ? (
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div class="rounded-xl p-6 border md:col-span-2 lg:col-span-4" style="border-color: var(--color-border); background: var(--color-bg-card);">
+            <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+              <div>
+                <div class="text-2xl mb-3" aria-hidden="true">📅</div>
+                <h3 class="font-display font-semibold text-lg mb-2" style="color: var(--color-heading);">
+                  {destination.seasonTitle}
+                </h3>
+                <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
+                  {destination.seasonDescription}
+                </p>
+              </div>
+              <div class="flex-shrink-0">
+                <span class="text-sm px-4 py-2 rounded-full font-medium" style="background: var(--color-bg-alt); color: var(--color-accent);">
+                  {destination.seasonPeriod}
+                </span>
+              </div>
+            </div>
+          </div>
         </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">☀️</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Verão
-          </h3>
-          <p class="text-sm leading-relaxed mb-3" style="color: var(--color-text-muted);">
-            Temperaturas altas e dias longos. Perfeito para praias e atividades aquáticas.
-          </p>
-          <span class="text-xs px-2 py-1 rounded-full" style="background: var(--color-bg-alt); color: var(--color-accent);">
-            Dez - Fev
-          </span>
+      ) : (
+        <div class="text-center py-8" style="color: var(--color-text-muted);">
+          Informações sobre a melhor época para visitar em breve.
         </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🍂</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Outono
-          </h3>
-          <p class="text-sm leading-relaxed mb-3" style="color: var(--color-text-muted);">
-            Clima agradável e paisagens coloridas. Excelente para turismo cultural.
-          </p>
-          <span class="text-xs px-2 py-1 rounded-full" style="background: var(--color-bg-alt); color: var(--color-accent);">
-            Mar - Mai
-          </span>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">❄️</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Inverno
-          </h3>
-          <p class="text-sm leading-relaxed mb-3" style="color: var(--color-text-muted);">
-            Temperaturas baixas e neve em algumas regiões. Ideal para cozy vibes.
-          </p>
-          <span class="text-xs px-2 py-1 rounded-full" style="background: var(--color-bg-alt); color: var(--color-accent);">
-            Jun - Ago
-          </span>
-        </div>
-      </div>
+      )}
     </div>
   </section>
 
-  <!-- What to do -->
-  <section class="section-gap" style="background: var(--color-bg-alt);">
-    <div class="container-site">
-      <div class="max-w-2xl mb-12">
-        <p class="section-label mb-3">Experiências</p>
-        <h2 class="section-title mb-4">
-          O que fazer em {destination.nome}
-        </h2>
-        <p class="text-base leading-relaxed" style="color: var(--color-text-muted);">
-          Descubra as principais atividades e experiências que tornam este destino especial.
-        </p>
-      </div>
-
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🥾</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Trilhas e natureza
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Explore trilhas com paisagens deslumbrantes e conexão com a natureza local.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">☕</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Cafés e gastronomia
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Experimente a culinária local em restaurantes e cafeterias aconchegantes.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🏛️</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Cultura e história
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Visite museus, igrejas históricas e descubra a cultura da região.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🏊</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Praias e águas
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Desfrute de praias, cachoeiras, rios ou piscinas naturais.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🛍️</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Compras e artesanato
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Explore lojas locais e leve para casa produtos artesanais únicos.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🎭</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Eventos locais
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Participe de festivais, feiras e eventos culturais da região.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Where to stay -->
-  <section class="section-gap">
-    <div class="container-site">
-      <div class="max-w-2xl mb-12">
-        <p class="section-label mb-3">Hospedagem</p>
-        <h2 class="section-title mb-4">
-          Onde se hospedar
-        </h2>
-        <p class="text-base leading-relaxed" style="color: var(--color-text-muted);">
-          Opções de acomodação para diferentes estilos e orçamentos.
-        </p>
-      </div>
-
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🏠</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Pousadas charmosas
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Hospedagens com atendimento personalizado e ambiente aconchegante.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">⛺</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Glamping e camping
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Experiência imersiva na natureza com conforto e aventura.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🏨</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Hotéis e resorts
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Estruturas completas com serviços e comodidades premium.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Practical information -->
-  <section class="section-gap" style="background: var(--color-bg-alt);">
-    <div class="container-site">
-      <div class="max-w-2xl mb-12">
-        <p class="section-label mb-3">Informações práticas</p>
-        <h2 class="section-title mb-4">
-          Dicas locais
-        </h2>
-        <p class="text-base leading-relaxed" style="color: var(--color-text-muted);">
-          Informações essenciais para planejar sua viagem com tranquilidade.
-        </p>
-      </div>
-
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">✈️</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Como chegar
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Acesso por carro, ônibus ou avião dependendo da localização.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">💳</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Orçamento
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Opções para todos os bolsos, do econômico ao premium.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">📱</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Conectividade
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Wi-Fi disponível na maioria das hospedagens e estabelecimentos.
-          </p>
-        </div>
-
-        <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
-          <div class="text-2xl mb-3" aria-hidden="true">🗣️</div>
-          <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
-            Idioma
-          </h3>
-          <p class="text-sm leading-relaxed" style="color: var(--color-text-muted);">
-            Português é o idioma oficial, com fácil comunicação.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- Similar destinations -->
   {similarDestinations.length > 0 && (
