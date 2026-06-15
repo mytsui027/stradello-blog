@@ -5,12 +5,7 @@
 
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { SITE } from '../../config/site';
-import { getAllDestinations } from '../../utils/matchAlgorithm';
-import DestinationCard from '../../components/stradello-match/DestinationCard.astro';
 import { generateBreadcrumbSchema } from '../../utils/helpers';
-
-// Fetch all destinations
-const allDestinations = getAllDestinations();
 
 // SEO
 const title = 'Stradello Match';
@@ -92,9 +87,6 @@ const structuredData = [breadcrumbSchema, faqSchema];
           <a href="/stradello-match/quiz" class="btn-primary">
             Começar quiz →
           </a>
-          <a href="/stradello-match/alternativas" class="btn-outline">
-            Ver todos os destinos
-          </a>
         </div>
 
         <!-- Trust signals -->
@@ -165,36 +157,6 @@ const structuredData = [breadcrumbSchema, faqSchema];
             Descubra destinos fora do óbvio que você talvez nunca tenha considerado.
           </p>
         </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Featured destinations preview -->
-  <section class="section-gap">
-    <div class="container-site">
-      <div class="flex items-end justify-between mb-10">
-        <div>
-          <p class="section-label mb-3">Todos os destinos</p>
-          <h2 class="section-title">
-            Conheça todos<br />os nossos destinos
-          </h2>
-        </div>
-      </div>
-
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        {allDestinations.map((destination, index) => (
-          <div class="reveal" style={`animation-delay: ${index * 0.05}s;`}>
-            <DestinationCard
-              slug={destination.slug}
-              nome={destination.nome}
-              estado={destination.estado}
-              pais={destination.pais}
-              descricao={destination.descricao}
-              imagem={destination.imagem}
-              showScore={false}
-            />
-          </div>
-        ))}
       </div>
     </div>
   </section>

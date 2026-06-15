@@ -8,7 +8,9 @@ import { SITE } from '../../config/site';
 import { calculateMatches, getAllDestinations } from '../../utils/matchAlgorithm';
 import MatchResults from '../../components/stradello-match/MatchResults.astro';
 import AlternativeDestinations from '../../components/stradello-match/AlternativeDestinations.astro';
+import DestinationCard from '../../components/stradello-match/DestinationCard.astro';
 import { generateBreadcrumbSchema } from '../../utils/helpers';
+import { getCollection } from 'astro:content';
 
 // Get all destinations as fallback
 const allDestinations = getAllDestinations();
@@ -19,13 +21,29 @@ const defaultResults = allDestinations.map((dest) => ({
   destination: dest,
   score: 70,
   compatibility: 'bom' as const,
-})).slice(0, 6);
+})).slice(0, 3);
 
-const defaultAlternatives = allDestinations.slice(6, 11).map((dest) => ({
+const defaultAlternatives = allDestinations.slice(3, 8).map((dest) => ({
   destination: dest,
   score: 65,
   compatibility: 'muito-bom' as const,
 }));
+
+// Get similar destinations (based on top match)
+const topMatch = defaultResults[0]?.destination;
+const similarDestinations = topMatch?.similares 
+  ? allDestinations.filter((d) => topMatch.similares.includes(d.slug)).slice(0, 3)
+  : allDestinations.slice(8, 11);
+
+// Get related blog posts
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const relatedPosts = allPosts
+  .filter((post) => {
+    const postCategory = post.data.category?.toLowerCase() || '';
+    const relevantCategories = ['slow travel', 'natureza', 'viagens solo', 'lugares para desacelerar', 'experiências locais'];
+    return relevantCategories.some((cat) => postCategory.includes(cat));
+  })
+  .slice(0, 3);
 
 // SEO
 const title = 'Seus Destinos — Stradello Match';
@@ -63,16 +81,13 @@ const breadcrumbSchema = generateBreadcrumbSchema([
           Seus destinos ideais
         </h1>
         <p class="text-base leading-relaxed" style="color: var(--color-text-muted);">
-          Com base nas suas respostas, selecionamos os destinos que mais combinam com seu perfil de viajante.
+          Encontramos destinos que combinam com seu estilo de viagem.
         </p>
 
         <!-- Action buttons -->
         <div class="flex flex-wrap gap-3 justify-center mt-6">
           <a href="/stradello-match/quiz" class="btn-outline">
             Refazer quiz
-          </a>
-          <a href="/stradello-match" class="btn-outline">
-            Ver todos os destinos
           </a>
         </div>
       </div>
@@ -93,6 +108,97 @@ const breadcrumbSchema = generateBreadcrumbSchema([
     description="Destinos que talvez você não tenha considerado, mas que podem ser perfeitos para você."
     alternatives={defaultAlternatives}
   />
+
+  <!-- Similar destinations -->
+  {similarDestinations.length > 0 && (
+    <section class="section-gap">
+      <div class="container-site">
+        <div class="flex items-end justify-between mb-10">
+          <div>
+            <p class="section-label mb-3">Destinos semelhantes</p>
+            <h2 class="section-title">
+              Você também pode gostar
+            </h2>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {similarDestinations.map((dest, index) => (
+            <div class="reveal" style={`animation-delay: ${index * 0.1}s;`}>
+              <DestinationCard
+                slug={dest.slug}
+                nome={dest.nome}
+                estado={dest.estado}
+                pais={dest.pais}
+                descricao={dest.descricao}
+                imagem={dest.imagem}
+                showScore={false}
+              />
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Related blog posts -->
+  {relatedPosts.length > 0 && (
+    <section class="section-gap" style="background: var(--color-bg-alt);">
+      <div class="container-site">
+        <div class="flex items-end justify-between mb-10">
+          <div>
+            <p class="section-label mb-3">Conteúdo relacionado</p>
+            <h2 class="section-title">
+              Artigos do Stradello
+            </h2>
+          </div>
+          <a href="/blog" class="btn-outline hidden sm:inline-flex">
+            Ver todos →
+          </a>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {relatedPosts.map((post, index) => (
+            <div class="reveal" style={`animation-delay: ${index * 0.1}s;`}>
+              <a href={`/blog/${post.slug}`} class="block group">
+                <article class="rounded-xl overflow-hidden border transition-all duration-300 hover:shadow-lg" style="border-color: var(--color-border); background: var(--color-bg-card);">
+                  {post.data.heroImage && (
+                    <div class="aspect-[4/3] overflow-hidden">
+                      <img
+                        src={post.data.heroImage as unknown as string}
+                        alt={post.data.heroImageAlt || post.data.title}
+                        class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                        loading="lazy"
+                        width="400"
+                        height="300"
+                      />
+                    </div>
+                  )}
+                  <div class="p-5">
+                    <span class="text-xs mb-2 block" style="color: var(--color-text-faint);">
+                      {post.data.category}
+                    </span>
+                    <h3 class="font-display font-semibold text-base mb-2 leading-tight" style="color: var(--color-heading);">
+                      {post.data.title}
+                    </h3>
+                    <p class="text-sm leading-relaxed line-clamp-2" style="color: var(--color-text-muted);">
+                      {post.data.description}
+                    </p>
+                  </div>
+                </article>
+              </a>
+            </div>
+          ))}
+        </div>
+
+        <div class="mt-8 text-center sm:hidden">
+          <a href="/blog" class="btn-outline">
+            Ver todos os artigos →
+          </a>
+        </div>
+      </div>
+    </section>
+  )}
 
   <!-- CTA -->
   <section class="section-gap">
