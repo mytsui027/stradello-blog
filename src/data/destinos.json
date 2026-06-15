@@ -5,7 +5,7 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Vila serrana com clima europeu, cafeterias aconchegantes, trilhas tranquilas e atmosfera perfeita para desacelerar.",
-    "imagem": "/assets/blog/monte-verde.jpg",
+    "imagem": "/assets/blog/monteverde.jpg",
     "categorias": [
       "serra",
       "natureza",
@@ -87,7 +87,7 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Cidade histórica aos pés do Pico do Lobo, com arquitetura preservada, trilhas e clima serrano convidativo.",
-    "imagem": "/assets/blog/sao-bento-do-sapucai.jpg",
+    "imagem": "",
     "categorias": [
       "serra",
       "cidade-historica",
@@ -333,7 +333,7 @@
     "estado": "Pará",
     "pais": "Brasil",
     "descricao": "Caribe brasileiro na Amazônia, com praias de água doce, ilhas, cultura local e atmosfera paradisíaca.",
-    "imagem": "/assets/blog/alter-do-chao.jpg",
+    "imagem": "",
     "categorias": [
       "praia",
       "natureza",
@@ -497,7 +497,7 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Vila serrana com cerâmica artesanal, trilhas, clima de montanha e vibe de interior autêntica.",
-    "imagem": "/assets/blog/cunha.jpg",
+    "imagem": "",
     "categorias": [
       "serra",
       "natureza",
@@ -579,7 +579,7 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Vila serrana com pousadas de charme, trilhas, gastronomia e vista para o Pico dos Príncipes.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/gonçalves.jpg",
     "categorias": [
       "serra",
       "natureza",
@@ -661,7 +661,7 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Estância suíça brasileira com clima frio, gastronomia, arquitetura alpina e vibe de montanha sofisticada.",
-    "imagem": "/assets/blog/campos-do-jordao.jpg",
+    "imagem": "/assets/blog/campos do jordão.jpg",
     "categorias": [
       "serra",
       "cidade-historica",
@@ -948,7 +948,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade mais fria de Santa Catarina, com neve no inverno, vinícolas e paisagens serranas.",
-    "imagem": "/assets/blog/sao-joaquim.jpg",
+    "imagem": "/assets/blog/São Joaquim.jpg",
     "categorias": [
       "serra",
       "natureza",
@@ -1522,7 +1522,7 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Estância hidromineral com águas, parques, gastronomia e clima serrano relaxante.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "",
     "categorias": [
       "serra",
       "natureza",
@@ -1645,7 +1645,7 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Estância hidromineral com águas termais, cultura, gastronomia e arquitetura histórica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/poços-de-caldas.jpg",
     "categorias": [
       "serra",
       "cidade-historica",
@@ -1686,7 +1686,7 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Estância suíça brasileira com clima frio, gastronomia, arquitetura alpina e vibe de montanha sofisticada.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/campos do jordão.jpg",
     "categorias": [
       "serra",
       "cidade-historica",
@@ -1768,7 +1768,7 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Cidade histórica religiosa, com cultura, gastronomia e acesso às serras.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Guaratinguetá.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -1850,7 +1850,7 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Cidade histórica colonial com cultura, gastronomia e arquitetura preservada.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/São Luiz do Paraitinga.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -2014,7 +2014,7 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Ilha preservada com praias, trilhas, natureza intocada e vibe de paraíso.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Ilha Grande.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -2055,7 +2055,7 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Península com praias, gastronomia, cultura e vibe sofisticada.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Búzios.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -2096,7 +2096,7 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Cidade litorânea com praias, dunas, história e cultura.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Cabo Frio.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -2137,7 +2137,7 @@
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias cristalinas, mergulho e natureza preservada.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Arraial do Cabo.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -2178,7 +2178,7 @@
     "estado": "Espírito Santo",
     "pais": "Brasil",
     "descricao": "Vila serrana com influência italiana, gastronomia, trilhas e cultura.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/venda nova do imigrante.jpg",
     "categorias": [
       "serra",
       "natureza",
@@ -2219,7 +2219,7 @@
     "estado": "Espírito Santo",
     "pais": "Brasil",
     "descricao": "Vila serrana com trilhas, cachoeiras, gastronomia e clima ameno.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Vargem Alta.jpg",
     "categorias": [
       "serra",
       "natureza",
@@ -2260,7 +2260,7 @@
     "estado": "Espírito Santo",
     "pais": "Brasil",
     "descricao": "Vila serrana com trilhas, cachoeiras, cultura e gastronomia capixaba.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Afonso Cláudio.jpg",
     "categorias": [
       "serra",
       "natureza",
@@ -2342,7 +2342,7 @@
     "estado": "Espírito Santo",
     "pais": "Brasil",
     "descricao": "Vila pomerana com cultura, gastronomia, trilhas e clima serrano.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Santa Maria de Jetibá.jpg",
     "categorias": [
       "serra",
       "cidade-historica",
@@ -2383,7 +2383,7 @@
     "estado": "Espírito Santo",
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia, trilhas e arquitetura preservada.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Santa Leopoldina.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -2424,7 +2424,7 @@
     "estado": "Espírito Santo",
     "pais": "Brasil",
     "descricao": "Vila serrana com trilhas, cachoeiras, cultura e vibe de interior autêntica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Santa Teresa.jpg",
     "categorias": [
       "serra",
       "natureza",
@@ -2547,7 +2547,7 @@
     "estado": "Pernambuco",
     "pais": "Brasil",
     "descricao": "Praia paradisíaca com piscinas naturais, cultura e gastronomia pernambucana.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Porto de Galinhas.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -2670,7 +2670,7 @@
     "estado": "Alagoas",
     "pais": "Brasil",
     "descricao": "Capital com praias paradisíacas, cultura, gastronomia e resorts.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Maceió.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -2752,7 +2752,7 @@
     "estado": "Pará",
     "pais": "Brasil",
     "descricao": "Cidade amazônica com praias fluviais, cultura e acesso a Alter do Chão.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Santarém.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -2793,7 +2793,7 @@
     "estado": "Pará",
     "pais": "Brasil",
     "descricao": "Capital amazônica com cultura, gastronomia, mercados e história.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Belém.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -2916,7 +2916,7 @@
     "estado": "Amazonas",
     "pais": "Brasil",
     "descricao": "Cachoeiras, cavernas, natureza amazônica e ecoturismo.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Presidente Figueiredo.jpg",
     "categorias": [
       "natureza",
       "tranquilidade",
@@ -2957,7 +2957,7 @@
     "estado": "Amazonas",
     "pais": "Brasil",
     "descricao": "Natureza amazônica, trilhas, cachoeiras e ecoturismo.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Rio Preto da Eva.jpg",
     "categorias": [
       "natureza",
       "tranquilidade",
@@ -3203,7 +3203,7 @@
     "estado": "Mato Grosso do Sul",
     "pais": "Brasil",
     "descricao": "Capital do Pantanal com natureza, fauna, pesca e cultura.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Corumbá.jpg",
     "categorias": [
       "natureza",
       "tranquilidade",
@@ -3285,7 +3285,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Serra com cânions, cachoeiras, cavernas, trilhas e paisagens deslumbrantes.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Chapada Diamantina.jpg",
     "categorias": [
       "natureza",
       "tranquilidade",
@@ -3326,7 +3326,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila histórica com arquitetura colonial, cachoeiras e acesso à Chapada Diamantina.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/lencois-maranhenses.jpg",
     "categorias": [
       "cidade-historica",
       "natureza",
@@ -3367,7 +3367,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila histórica com arquitetura colonial, cachoeiras e acesso à Chapada Diamantina.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Mucugê.jpeg",
     "categorias": [
       "cidade-historica",
       "natureza",
@@ -3449,7 +3449,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas, surf e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Itacaré.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -3572,7 +3572,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Cidade litorânea com praias, cultura, gastronomia e história.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Ilhéus.jpg",
     "categorias": [
       "praia",
       "cidade-historica",
@@ -3613,7 +3613,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Cidade histórica com praias, cultura, descobrimento e resorts.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Porto Seguro.jpg",
     "categorias": [
       "praia",
       "cidade-historica",
@@ -3695,7 +3695,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila com praias, cultura, gastronomia e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Arraial d'Ajuda.jpeg",
     "categorias": [
       "praia",
       "cidade-historica",
@@ -3777,7 +3777,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila de pescadores sem carros, praias, trilhas e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Caraíva.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -3818,7 +3818,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila sem carros com praias, cultura, gastronomia e vibe festiva.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Morro de São Paulo.jpg",
     "categorias": [
       "praia",
       "cidade-historica",
@@ -3982,7 +3982,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia, cachoeiras e arquitetura colonial.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/São Félix.JPG",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -4023,7 +4023,7 @@
     "estado": "Bahia",
     "pais": "Brasil",
     "descricao": "Cidade do interior com cultura, gastronomia e acesso a Salvador.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Feira de Santana.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -4064,7 +4064,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Ilha com praias, cultura, gastronomia, natureza e vibe cosmopolita.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Florianópolis.jpg",
     "categorias": [
       "praia",
       "cidade-historica",
@@ -4105,7 +4105,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade litorânea com praias, cultura e acesso a Florianópolis.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Palhoça.jpg",
     "categorias": [
       "praia",
       "cidade-historica",
@@ -4146,7 +4146,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade litorânea com praias, cultura e acesso a Florianópolis.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "",
     "categorias": [
       "praia",
       "cidade-historica",
@@ -4187,7 +4187,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade do interior com cultura, gastronomia e acesso a Florianópolis.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Biguaçu.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -4433,7 +4433,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia, feiras e arquitetura histórica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Jaraguá do Sul.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -4474,7 +4474,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade com cultura alemã, gastronomia, trilhas e arquitetura histórica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/São Bento do Sul.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -4515,7 +4515,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia, trilhas e acesso à serra.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Rio Negrinho.jpg",
     "categorias": [
       "serra",
       "cidade-historica",
@@ -4597,7 +4597,7 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia e acesso a Curitiba.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/São José dos Pinhais.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -4679,7 +4679,7 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia e acesso a Curitiba.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Araucária.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -4761,7 +4761,7 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade histórica com porto, cultura, gastronomia e arquitetura colonial.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Paranaguá.jpg",
     "categorias": [
       "cidade-historica",
       "praia",
@@ -4966,7 +4966,7 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cataratas do Iguaçu, natureza, cultura e turismo internacional.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Foz do Iguaçu.jpg",
     "categorias": [
       "natureza",
       "tranquilidade",
@@ -5007,7 +5007,7 @@
     "estado": "Misiones",
     "pais": "Argentina",
     "descricao": "Cataratas do Iguaçu, natureza, cultura e turismo internacional.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Puerto Iguazú.jpg",
     "categorias": [
       "natureza",
       "tranquilidade",
@@ -5048,7 +5048,7 @@
     "estado": "Alto Paraná",
     "pais": "Paraguai",
     "descricao": "Cidade comercial com compras, cultura e acesso às cataratas.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Ciudad del Este.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5089,7 +5089,7 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cataratas do Iguaçu, natureza, trilhas e ecoturismo.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Parque Nacional do Iguaçu.jpg",
     "categorias": [
       "natureza",
       "tranquilidade",
@@ -5212,7 +5212,7 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade do interior com cultura, gastronomia e acesso à serra.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Pato Branco.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5253,7 +5253,7 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade do interior com cultura, gastronomia e acesso à serra.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Francisco Beltrão.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5335,7 +5335,7 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia, parques e vibe urbana.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Maringá.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5376,7 +5376,7 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Cidade com cultura, gastronomia, parques e acesso à serra.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Ponta Grossa.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5458,7 +5458,7 @@
     "estado": "Paraná",
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia e arquitetura colonial.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Carambeí.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5540,7 +5540,7 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Capital com cultura, gastronomia, parques e vibe urbana.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Porto Alegre.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5581,7 +5581,7 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Vila serrana com cultura, gastronomia, trilhas e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/São Francisco de Paula.jpg",
     "categorias": [
       "serra",
       "cidade-historica",
@@ -5622,7 +5622,7 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Cidade com cultura italiana, gastronomia, vinícolas e arquitetura histórica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Caxias do Sul.jpeg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5663,7 +5663,7 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Capital do vinho com cultura italiana, gastronomia, vinícolas e paisagens.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Bento Gonçalves.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5745,7 +5745,7 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Vila com cultura italiana, gastronomia, vinícolas e paisagens.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Flores da Cunha.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5827,7 +5827,7 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Cidade histórica com porto, cultura, gastronomia e praias.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Rio Grande.jpeg",
     "categorias": [
       "cidade-historica",
       "praia",
@@ -5868,7 +5868,7 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Vila histórica com cultura, gastronomia, trilhas e arquitetura colonial.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/São Lourenço do Sul.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
@@ -5991,7 +5991,7 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Capão da Canoa.jpeg",
     "categorias": [
       "praia",
       "natureza",
@@ -6032,7 +6032,7 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, cultura e gastronomia.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Tramandaí.jpg",
     "categorias": [
       "praia",
       "cidade-historica",
@@ -6073,7 +6073,7 @@
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
     "descricao": "Vila de pescadores com praias, trilhas e vibe rústica.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Arroio do Sal.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -6114,7 +6114,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Vila serrana com trilhas, cachoeiras, neve e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Bom Jardim da Serra.jpg",
     "categorias": [
       "serra",
       "natureza",
@@ -6155,7 +6155,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Vila com cultura alemã, gastronomia, trilhas e natureza.",
-    "imagem": "/assets/blog/bem-vindo-ao-stradello.jpg",
+    "imagem": "/assets/blog/Timbó.jpg",
     "categorias": [
       "cidade-historica",
       "cafes",
