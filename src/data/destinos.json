@@ -11,7 +11,10 @@
       "natureza",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "goncalves",
@@ -48,7 +51,30 @@
       "Trilhas em araucárias",
       "Hospedagens charmosas",
       "Vibe europeia"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cafés aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Trilhas em araucárias",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "🏆"
+      },
+      {
+        "text": "Vibe europeia",
+        "icon": "🇪🇺"
+      }
+    ],
+    "atmosfera": "Monte Verde combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
   },
   {
     "slug": "visconde-de-maua",
@@ -62,7 +88,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "penedo",
@@ -98,7 +127,26 @@
       "Trilhas com vistas panorâmicas",
       "Trilhas e cachoeiras",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Trilhas com vistas panorâmicas",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Visconde de Mauá combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
   },
   {
     "slug": "sao-bento-do-sapucai",
@@ -112,7 +160,10 @@
       "cidade-historica",
       "natureza",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "monte-verde",
@@ -149,7 +200,30 @@
       "Museus e igrejas",
       "Patrimônio histórico",
       "Natureza preservada"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Fogueiras e vinho",
+        "icon": "🍷"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "São Bento do Sapucaí combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
   },
   {
     "slug": "penedo",
@@ -163,7 +237,10 @@
       "cidade-historica",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "visconde-de-maua",
@@ -199,7 +276,26 @@
       "Hospedagens charmosas",
       "Festividades culturais",
       "Cultura e arte"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cafés aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "⭐"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      }
+    ],
+    "atmosfera": "Penedo oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
   },
   {
     "slug": "urubici",
@@ -213,7 +309,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "sao-joaquim",
@@ -249,7 +348,26 @@
       "Gastronomia de montanha",
       "Natureza preservada",
       "Trilhas e cachoeiras"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      }
+    ],
+    "atmosfera": "Urubici combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
   },
   {
     "slug": "serra-da-mantiqueira",
@@ -263,7 +381,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "monte-verde",
@@ -299,7 +420,26 @@
       "Gastronomia de montanha",
       "Natureza preservada",
       "Trilhas e cachoeiras"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Trilhas com vistas panorâmicas",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      }
+    ],
+    "atmosfera": "Serra da Mantiqueira combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
   },
   {
     "slug": "chapada-dos-veadeiros",
@@ -313,7 +453,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "jalapao",
@@ -347,7 +490,18 @@
     "uniqueReasons": [
       "Paisagens únicas",
       "Contato com a natureza"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Paisagens únicas",
+        "icon": "🌟"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Chapada dos Veadeiros combina trilhas, cachoeiras e a beleza crua do ambiente natural."
   },
   {
     "slug": "jalapao",
@@ -361,7 +515,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "chapada-dos-veadeiros",
@@ -398,7 +555,30 @@
       "Dunas e formações rochosas",
       "Aventuras off-road",
       "Cerrado preservado"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Fervedouros naturais",
+        "icon": "🥇"
+      },
+      {
+        "text": "Cachoeiras cristalinas",
+        "icon": "💧"
+      },
+      {
+        "text": "Dunas e formações rochosas",
+        "icon": "🏜️"
+      },
+      {
+        "text": "Aventuras off-road",
+        "icon": "🎒"
+      },
+      {
+        "text": "Cerrado preservado",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Jalapão oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
   },
   {
     "slug": "alter-do-chao",
@@ -412,7 +592,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "santarem",
@@ -449,7 +632,30 @@
       "Cultura amazônica",
       "Tapajós cristalino",
       "Vila de pescadores"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Praias fluviais",
+        "icon": "🏖️"
+      },
+      {
+        "text": "Ilha do Amor",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Cultura amazônica",
+        "icon": "🏺"
+      },
+      {
+        "text": "Tapajós cristalino",
+        "icon": "🌈"
+      },
+      {
+        "text": "Vila de pescadores",
+        "icon": "🎣"
+      }
+    ],
+    "atmosfera": "Alter do Chão oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "vale-europeu",
@@ -463,7 +669,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "gramado",
@@ -500,7 +709,30 @@
       "Cultura e arte",
       "Patrimônio histórico",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Trilhas com vistas panorâmicas",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Vale Europeu é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
   },
   {
     "slug": "petropolis",
@@ -514,7 +746,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "teresopolis",
@@ -551,7 +786,30 @@
       "Cultura e arte",
       "Patrimônio histórico",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "✨"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Petrópolis é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
   },
   {
     "slug": "paraty",
@@ -565,7 +823,10 @@
       "cidade-historica",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "trindade",
@@ -602,7 +863,30 @@
       "Praias escondidas",
       "Cultura e arte",
       "Arquitetura preservada"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Centro histórico colonial",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Passeios de barco",
+        "icon": "🛥️"
+      },
+      {
+        "text": "Praias escondidas",
+        "icon": "🏖️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Arquitetura preservada",
+        "icon": "🏛️"
+      }
+    ],
+    "atmosfera": "Paraty é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "cunha",
@@ -616,7 +900,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "paraty",
@@ -652,7 +939,26 @@
       "Hospedagens charmosas",
       "Ecoturismo",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "🎪"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Cunha oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
   },
   {
     "slug": "domingos-martins",
@@ -666,7 +972,10 @@
       "natureza",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "venda-nova-do-imigrante",
@@ -703,7 +1012,30 @@
       "Clima ameno",
       "Turismo tranquilo",
       "Produtos locais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia regional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Montanhas capixabas",
+        "icon": "🏔️"
+      },
+      {
+        "text": "Clima ameno",
+        "icon": "💎"
+      },
+      {
+        "text": "Turismo tranquilo",
+        "icon": "🧘"
+      },
+      {
+        "text": "Produtos locais",
+        "icon": "⚓"
+      }
+    ],
+    "atmosfera": "Domingos Martins combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
   },
   {
     "slug": "goncalves",
@@ -717,7 +1049,10 @@
       "natureza",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "monte-verde",
@@ -754,7 +1089,30 @@
       "Ecoturismo",
       "Observação de fauna",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "🌈"
+      },
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Gonçalves é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
   },
   {
     "slug": "gramado",
@@ -768,7 +1126,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "canela",
@@ -805,7 +1166,30 @@
       "Gastronomia italiana",
       "Eventos natalinos",
       "Hidromel e chocolates"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Clima europeu",
+        "icon": "🇪🇺"
+      },
+      {
+        "text": "Neve no inverno",
+        "icon": "❄️"
+      },
+      {
+        "text": "Gastronomia italiana",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Eventos natalinos",
+        "icon": "🎭"
+      },
+      {
+        "text": "Hidromel e chocolates",
+        "icon": "🍫"
+      }
+    ],
+    "atmosfera": "Gramado combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
   },
   {
     "slug": "campos-do-jordao",
@@ -819,7 +1203,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "sao-bento-do-sapucai",
@@ -856,7 +1243,30 @@
       "Cultura e arte",
       "Patrimônio histórico",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "💫"
+      },
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🌈"
+      }
+    ],
+    "atmosfera": "Campos do Jordão oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
   },
   {
     "slug": "capitolio",
@@ -870,7 +1280,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "sao-jose-do-barreiro",
@@ -904,7 +1317,18 @@
     "uniqueReasons": [
       "Aventuras ao ar livre",
       "Paisagens únicas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "🏆"
+      }
+    ],
+    "atmosfera": "Capitólio é para quem busca conexão profunda com a natureza e paisagens originais."
   },
   {
     "slug": "lencois-maranhenses",
@@ -918,7 +1342,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "jalapao",
@@ -955,7 +1382,30 @@
       "Paisagens cinematográficas",
       "Passeios em 4x4",
       "Lençóis de areia"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Lagoas cristalinas",
+        "icon": "🎪"
+      },
+      {
+        "text": "Dunas brancas",
+        "icon": "🏜️"
+      },
+      {
+        "text": "Paisagens cinematográficas",
+        "icon": "🎬"
+      },
+      {
+        "text": "Passeios em 4x4",
+        "icon": "🚶"
+      },
+      {
+        "text": "Lençóis de areia",
+        "icon": "🏖️"
+      }
+    ],
+    "atmosfera": "Lençóis Maranhenses oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
   },
   {
     "slug": "fernando-de-noronha",
@@ -969,7 +1419,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "alter-do-chao",
@@ -1006,7 +1459,30 @@
       "Pôr do sol inesquecível",
       "Mergulho e snorkeling",
       "Reserva ambiental"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Vida marinha excepcional",
+        "icon": "🌊"
+      },
+      {
+        "text": "Praias preservadas",
+        "icon": "🏖️"
+      },
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Mergulho e snorkeling",
+        "icon": "🤿"
+      },
+      {
+        "text": "Reserva ambiental",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Fernando de Noronha oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "itamonte",
@@ -1020,7 +1496,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "monte-verde",
@@ -1056,7 +1535,26 @@
       "Clima serrano romântico",
       "Natureza preservada",
       "Paisagens únicas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "🌈"
+      },
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "💎"
+      }
+    ],
+    "atmosfera": "Itamonte é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
   },
   {
     "slug": "canela",
@@ -1070,7 +1568,10 @@
       "natureza",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "gramado",
@@ -1107,7 +1608,30 @@
       "Natureza preservada",
       "Paisagens únicas",
       "Vibe relax"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Fogueiras e vinho",
+        "icon": "🍷"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "🌈"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🎪"
+      }
+    ],
+    "atmosfera": "Canela oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
   },
   {
     "slug": "nova-petropolis",
@@ -1121,7 +1645,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "gramado",
@@ -1158,7 +1685,30 @@
       "Patrimônio histórico",
       "Arquitetura colonial preservada",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Cafés aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Nova Petrópolis combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
   },
   {
     "slug": "sao-joaquim",
@@ -1172,7 +1722,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "urubici",
@@ -1208,7 +1761,26 @@
       "Hospedagens charmosas",
       "Observação de fauna",
       "Aventuras ao ar livre"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Fogueiras e vinho",
+        "icon": "🍷"
+      },
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "🔥"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      }
+    ],
+    "atmosfera": "São Joaquim combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
   },
   {
     "slug": "lages",
@@ -1222,7 +1794,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "urubici",
@@ -1259,7 +1834,30 @@
       "Museus e igrejas",
       "Arquitetura colonial preservada",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Trilhas com vistas panorâmicas",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Lages é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
   },
   {
     "slug": "blumenau",
@@ -1273,7 +1871,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "vale-europeu",
@@ -1309,7 +1910,26 @@
       "Museus e igrejas",
       "Vibe relax",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🌟"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Blumenau oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "pomerode",
@@ -1323,7 +1943,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "blumenau",
@@ -1359,7 +1982,26 @@
       "Gastronomia tradicional",
       "Brunchs e sobremesas",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🔥"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🔥"
+      }
+    ],
+    "atmosfera": "Pomerode é ideal para quem quer se perder em ruas de pedra e histórias antigas."
   },
   {
     "slug": "teresopolis",
@@ -1373,7 +2015,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "petropolis",
@@ -1409,7 +2054,26 @@
       "Fogueiras e vinho",
       "Ecoturismo",
       "Natureza preservada"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "💫"
+      },
+      {
+        "text": "Fogueiras e vinho",
+        "icon": "🍷"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Teresópolis é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
   },
   {
     "slug": "nova-friburgo",
@@ -1423,7 +2087,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "petropolis",
@@ -1459,7 +2126,26 @@
       "Fogueiras e vinho",
       "Ecoturismo",
       "Aventuras ao ar livre"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "🔥"
+      },
+      {
+        "text": "Fogueiras e vinho",
+        "icon": "🍷"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      }
+    ],
+    "atmosfera": "Nova Friburgo oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
   },
   {
     "slug": "tiradentes",
@@ -1473,7 +2159,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "sao-joao-del-rei",
@@ -1509,7 +2198,26 @@
       "Arquitetura colonial preservada",
       "Brunchs e sobremesas",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "⭐"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Tiradentes oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "sao-joao-del-rei",
@@ -1523,7 +2231,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "tiradentes",
@@ -1559,7 +2270,26 @@
       "Arquitetura colonial preservada",
       "Vibe relax",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🎪"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🔥"
+      }
+    ],
+    "atmosfera": "São João del-Rei é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "ouro-preto",
@@ -1573,7 +2303,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "tiradentes",
@@ -1609,7 +2342,26 @@
       "Centro histórico",
       "Vibe relax",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🌈"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "💎"
+      }
+    ],
+    "atmosfera": "Ouro Preto oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "mariana",
@@ -1623,7 +2375,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "ouro-preto",
@@ -1659,7 +2414,26 @@
       "Gastronomia tradicional",
       "Ambientes charmosos",
       "Vibe relax"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🎪"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🌟"
+      }
+    ],
+    "atmosfera": "Mariana oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "congonhas",
@@ -1673,7 +2447,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "tiradentes",
@@ -1709,7 +2486,26 @@
       "Centro histórico",
       "Workation friendly",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Congonhas é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "diamantina",
@@ -1723,7 +2519,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "tiradentes",
@@ -1759,7 +2558,26 @@
       "Centro histórico",
       "Ambientes charmosos",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🌟"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Diamantina é ideal para quem quer se perder em ruas de pedra e histórias antigas."
   },
   {
     "slug": "serro",
@@ -1773,7 +2591,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "diamantina",
@@ -1809,7 +2630,26 @@
       "Centro histórico",
       "Workation friendly",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "✨"
+      }
+    ],
+    "atmosfera": "Serro é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "sabara",
@@ -1823,7 +2663,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "ouro-preto",
@@ -1859,7 +2702,26 @@
       "Festividades culturais",
       "Brunchs e sobremesas",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🌈"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Sabará é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "sao-lourenco",
@@ -1873,7 +2735,10 @@
       "natureza",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "caxambu",
@@ -1910,7 +2775,30 @@
       "Observação de fauna",
       "Ecoturismo",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Atmosfera europeia",
+        "icon": "🇪🇺"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "✨"
+      }
+    ],
+    "atmosfera": "São Lourenço oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
   },
   {
     "slug": "caxambu",
@@ -1924,7 +2812,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "sao-lourenco",
@@ -1961,7 +2852,30 @@
       "Gastronomia tradicional",
       "Museus e igrejas",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cafés aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "✨"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🏆"
+      }
+    ],
+    "atmosfera": "Caxambu é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
   },
   {
     "slug": "lambari",
@@ -1975,7 +2889,10 @@
       "natureza",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "sao-lourenco",
@@ -2012,7 +2929,30 @@
       "Observação de fauna",
       "Paisagens únicas",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Cafés aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "💎"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Lambari oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
   },
   {
     "slug": "pocos-de-caldas",
@@ -2026,7 +2966,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "sao-lourenco",
@@ -2063,7 +3006,30 @@
       "Arquitetura colonial preservada",
       "Gastronomia tradicional",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cafés aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Poços de Caldas é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
   },
   {
     "slug": "campos-do-jordao-sp",
@@ -2077,7 +3043,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "sao-bento-do-sapucai",
@@ -2114,7 +3083,30 @@
       "Patrimônio histórico",
       "Museus e igrejas",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Campos do Jordão é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
   },
   {
     "slug": "pindamonhangaba",
@@ -2128,7 +3120,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "campos-do-jordao",
@@ -2164,7 +3159,26 @@
       "Hospedagens charmosas",
       "Observação de fauna",
       "Aventuras ao ar livre"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "🎯"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      }
+    ],
+    "atmosfera": "Pindamonhangaba é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
   },
   {
     "slug": "guaratingueta",
@@ -2178,7 +3192,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "areias",
@@ -2214,7 +3231,26 @@
       "Arquitetura colonial preservada",
       "Ambientes charmosos",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "⭐"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🌟"
+      }
+    ],
+    "atmosfera": "Guaratinguetá oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "areias",
@@ -2228,7 +3264,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "guaratingueta",
@@ -2264,7 +3303,26 @@
       "Clima serrano romântico",
       "Trilhas e cachoeiras",
       "Natureza preservada"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "🌈"
+      },
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Areias é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
   },
   {
     "slug": "sao-luiz-do-paraitinga",
@@ -2278,7 +3336,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "cunha",
@@ -2314,7 +3375,26 @@
       "Centro histórico",
       "Cultura do café",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "São Luiz do Paraitinga é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "vassouras",
@@ -2328,7 +3408,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "petropolis",
@@ -2364,7 +3447,26 @@
       "Arquitetura colonial preservada",
       "Ambientes charmosos",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🌈"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Vassouras combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "resende",
@@ -2378,7 +3480,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "visconde-de-maua",
@@ -2415,7 +3520,30 @@
       "Gastronomia tradicional",
       "Cultura e arte",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "🏆"
+      },
+      {
+        "text": "Fogueiras e vinho",
+        "icon": "🍷"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Resende oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
   },
   {
     "slug": "trindade",
@@ -2429,7 +3557,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "paraty",
@@ -2465,7 +3596,26 @@
       "Esportes aquáticos",
       "Observação de fauna",
       "Aventuras ao ar livre"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      }
+    ],
+    "atmosfera": "Trindade é para quem ama o mar, brisa salgada e dias inteiros de sol."
   },
   {
     "slug": "ilha-grande",
@@ -2479,7 +3629,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "paraty",
@@ -2515,7 +3668,26 @@
       "Vida marinha",
       "Contato com a natureza",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Ilha Grande oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "buzios",
@@ -2529,7 +3701,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "cabo-frio",
@@ -2565,7 +3740,26 @@
       "Vida marinha",
       "Paisagens únicas",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "✨"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Búzios é para quem ama o mar, brisa salgada e dias inteiros de sol."
   },
   {
     "slug": "cabo-frio",
@@ -2579,7 +3773,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "buzios",
@@ -2615,7 +3812,26 @@
       "Vida marinha",
       "Paisagens únicas",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Ilhas e baías",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "✨"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Cabo Frio é para quem ama o mar, brisa salgada e dias inteiros de sol."
   },
   {
     "slug": "arraial-do-cabo",
@@ -2629,7 +3845,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "buzios",
@@ -2665,7 +3884,26 @@
       "Vida marinha",
       "Observação de fauna",
       "Paisagens únicas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Ilhas e baías",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "⭐"
+      }
+    ],
+    "atmosfera": "Arraial do Cabo é para quem ama o mar, brisa salgada e dias inteiros de sol."
   },
   {
     "slug": "venda-nova-do-imigrante",
@@ -2679,7 +3917,10 @@
       "natureza",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "domingos-martins",
@@ -2716,7 +3957,30 @@
       "Ecoturismo",
       "Contato com a natureza",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Hospedagens charmosas",
+        "icon": "🌟"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🎯"
+      }
+    ],
+    "atmosfera": "Venda Nova do Imigrante é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
   },
   {
     "slug": "vargem-alta",
@@ -2730,7 +3994,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "domingos-martins",
@@ -2766,7 +4033,26 @@
       "Fogueiras e vinho",
       "Trilhas e cachoeiras",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cafés aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Fogueiras e vinho",
+        "icon": "🍷"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Vargem Alta oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
   },
   {
     "slug": "afonso-claudio",
@@ -2780,7 +4066,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "domingos-martins",
@@ -2816,7 +4105,26 @@
       "Trilhas com vistas panorâmicas",
       "Paisagens únicas",
       "Natureza preservada"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Atmosfera europeia",
+        "icon": "🇪🇺"
+      },
+      {
+        "text": "Trilhas com vistas panorâmicas",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "✨"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Afonso Cláudio é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
   },
   {
     "slug": "castelo",
@@ -2830,7 +4138,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "vargem-alta",
@@ -2866,7 +4177,26 @@
       "Trilhas com vistas panorâmicas",
       "Paisagens únicas",
       "Aventuras ao ar livre"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Atmosfera europeia",
+        "icon": "🇪🇺"
+      },
+      {
+        "text": "Trilhas com vistas panorâmicas",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "✨"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      }
+    ],
+    "atmosfera": "Castelo é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
   },
   {
     "slug": "santa-maria-de-jetiba",
@@ -2880,7 +4210,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "venda-nova-do-imigrante",
@@ -2917,7 +4250,30 @@
       "Gastronomia tradicional",
       "Cultura e arte",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Cafés aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Santa Maria de Jetibá é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
   },
   {
     "slug": "santa-leopoldina",
@@ -2931,7 +4287,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "santa-teresa",
@@ -2967,7 +4326,26 @@
       "Gastronomia tradicional",
       "Brunchs e sobremesas",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "⭐"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🔥"
+      }
+    ],
+    "atmosfera": "Santa Leopoldina combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "santa-teresa",
@@ -2981,7 +4359,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "santa-leopoldina",
@@ -3017,7 +4398,26 @@
       "Fogueiras e vinho",
       "Contato com a natureza",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Trilhas com vistas panorâmicas",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Fogueiras e vinho",
+        "icon": "🍷"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Santa Teresa é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
   },
   {
     "slug": "itaperuna",
@@ -3031,7 +4431,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "penedo",
@@ -3067,7 +4470,26 @@
       "Museus e igrejas",
       "Cultura do café",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Itaperuna é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "maragogi",
@@ -3081,7 +4503,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "porto-de-galinhas",
@@ -3117,7 +4542,26 @@
       "Esportes aquáticos",
       "Contato com a natureza",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Águas cristalinas",
+        "icon": "💫"
+      },
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Maragogi oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "porto-de-galinhas",
@@ -3131,7 +4575,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "maragogi",
@@ -3167,7 +4614,26 @@
       "Esportes aquáticos",
       "Natureza preservada",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Águas cristalinas",
+        "icon": "⭐"
+      },
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Porto de Galinhas é para quem ama o mar, brisa salgada e dias inteiros de sol."
   },
   {
     "slug": "olinda",
@@ -3181,7 +4647,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "recife",
@@ -3217,7 +4686,26 @@
       "Cultura e arte",
       "Brunchs e sobremesas",
       "Vibe relax"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "⭐"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🏆"
+      }
+    ],
+    "atmosfera": "Olinda é ideal para quem quer se perder em ruas de pedra e histórias antigas."
   },
   {
     "slug": "recife",
@@ -3231,7 +4719,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "olinda",
@@ -3267,7 +4758,26 @@
       "Museus e igrejas",
       "Brunchs e sobremesas",
       "Vibe relax"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🎪"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🌈"
+      }
+    ],
+    "atmosfera": "Recife é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "maceio",
@@ -3281,7 +4791,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "maragogi",
@@ -3317,7 +4830,26 @@
       "Surf e mergulho",
       "Paisagens únicas",
       "Trilhas e cachoeiras"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Águas cristalinas",
+        "icon": "🏆"
+      },
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "⭐"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      }
+    ],
+    "atmosfera": "Maceió é para quem ama o mar, brisa salgada e dias inteiros de sol."
   },
   {
     "slug": "japaratinga",
@@ -3331,7 +4863,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "maragogi",
@@ -3367,7 +4902,26 @@
       "Surf e mergulho",
       "Paisagens únicas",
       "Contato com a natureza"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Águas cristalinas",
+        "icon": "🏆"
+      },
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "🎯"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Japaratinga oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "santarem",
@@ -3381,7 +4935,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "alter-do-chao",
@@ -3417,7 +4974,26 @@
       "Águas cristalinas",
       "Aventuras ao ar livre",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Águas cristalinas",
+        "icon": "🔥"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Santarém combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
   },
   {
     "slug": "belem",
@@ -3431,7 +5007,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "santarem",
@@ -3467,7 +5046,26 @@
       "Centro histórico",
       "Vibe relax",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "✨"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🎯"
+      }
+    ],
+    "atmosfera": "Belém oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "manaus",
@@ -3481,7 +5079,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "parintins",
@@ -3517,7 +5118,26 @@
       "Patrimônio histórico",
       "Workation friendly",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "💫"
+      }
+    ],
+    "atmosfera": "Manaus é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "parintins",
@@ -3531,7 +5151,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "manaus",
@@ -3567,7 +5190,26 @@
       "Patrimônio histórico",
       "Vibe relax",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🏆"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🎪"
+      }
+    ],
+    "atmosfera": "Parintins é ideal para quem quer se perder em ruas de pedra e histórias antigas."
   },
   {
     "slug": "presidente-figueiredo",
@@ -3581,7 +5223,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "manaus",
@@ -3615,7 +5260,18 @@
     "uniqueReasons": [
       "Contato com a natureza",
       "Natureza preservada"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Presidente Figueiredo combina trilhas, cachoeiras e a beleza crua do ambiente natural."
   },
   {
     "slug": "rio-preto-da-eva",
@@ -3629,7 +5285,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "presidente-figueiredo",
@@ -3663,7 +5322,18 @@
     "uniqueReasons": [
       "Natureza preservada",
       "Trilhas e cachoeiras"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      }
+    ],
+    "atmosfera": "Rio Preto da Eva combina trilhas, cachoeiras e a beleza crua do ambiente natural."
   },
   {
     "slug": "itacoatiara",
@@ -3677,7 +5347,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "manaus",
@@ -3713,7 +5386,26 @@
       "Patrimônio histórico",
       "Cultura do café",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Itacoatiara é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "bonito",
@@ -3727,7 +5419,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "jardim",
@@ -3761,7 +5456,18 @@
     "uniqueReasons": [
       "Natureza preservada",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Bonito é ideal para quem quer se desconectar e mergulhar em paisagens preservadas."
   },
   {
     "slug": "jardim",
@@ -3775,7 +5481,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "bonito",
@@ -3809,7 +5518,18 @@
     "uniqueReasons": [
       "Paisagens únicas",
       "Trilhas e cachoeiras"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Paisagens únicas",
+        "icon": "🌟"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      }
+    ],
+    "atmosfera": "Jardim oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
   },
   {
     "slug": "bodoquena",
@@ -3823,7 +5543,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "bonito",
@@ -3857,7 +5580,18 @@
     "uniqueReasons": [
       "Paisagens únicas",
       "Trilhas e cachoeiras"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Paisagens únicas",
+        "icon": "🔥"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      }
+    ],
+    "atmosfera": "Bodoquena é para quem busca conexão profunda com a natureza e paisagens originais."
   },
   {
     "slug": "miranda",
@@ -3871,7 +5605,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "bonito",
@@ -3905,7 +5642,18 @@
     "uniqueReasons": [
       "Ecoturismo",
       "Aventuras ao ar livre"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      }
+    ],
+    "atmosfera": "Miranda oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
   },
   {
     "slug": "corumba",
@@ -3919,7 +5667,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "miranda",
@@ -3953,7 +5704,18 @@
     "uniqueReasons": [
       "Aventuras ao ar livre",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Corumbá é para quem busca conexão profunda com a natureza e paisagens originais."
   },
   {
     "slug": "aquidauana",
@@ -3967,7 +5729,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "corumba",
@@ -4001,7 +5766,18 @@
     "uniqueReasons": [
       "Aventuras ao ar livre",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Aquidauana oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
   },
   {
     "slug": "chapada-diamantina",
@@ -4015,7 +5791,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "lençóis",
@@ -4049,7 +5828,18 @@
     "uniqueReasons": [
       "Contato com a natureza",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Chapada Diamantina é para quem busca conexão profunda com a natureza e paisagens originais."
   },
   {
     "slug": "lencois-ba",
@@ -4063,7 +5853,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "chapada-diamantina",
@@ -4099,7 +5892,26 @@
       "Festividades culturais",
       "Ecoturismo",
       "Contato com a natureza"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Lençóis é para quem busca conexão profunda com a natureza e paisagens originais."
   },
   {
     "slug": "mucuge",
@@ -4113,7 +5925,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "lençóis",
@@ -4149,7 +5964,26 @@
       "Patrimônio histórico",
       "Observação de fauna",
       "Trilhas e cachoeiras"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      }
+    ],
+    "atmosfera": "Mucugê oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
   },
   {
     "slug": "palmeiras",
@@ -4163,7 +5997,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "lençóis",
@@ -4199,7 +6036,26 @@
       "Cultura e arte",
       "Contato com a natureza",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Palmeiras é para quem busca conexão profunda com a natureza e paisagens originais."
   },
   {
     "slug": "itacare",
@@ -4213,7 +6069,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "prado",
@@ -4249,7 +6108,26 @@
       "Praias paradisíacas",
       "Contato com a natureza",
       "Aventuras ao ar livre"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Ilhas e baías",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Praias paradisíacas",
+        "icon": "🏖️"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      }
+    ],
+    "atmosfera": "Itacaré oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "prado",
@@ -4263,7 +6141,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "itacare",
@@ -4299,7 +6180,26 @@
       "Águas cristalinas",
       "Aventuras ao ar livre",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Águas cristalinas",
+        "icon": "🌟"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Prado é para quem ama o mar, brisa salgada e dias inteiros de sol."
   },
   {
     "slug": "camamu",
@@ -4313,7 +6213,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "itacare",
@@ -4349,7 +6252,26 @@
       "Vida marinha",
       "Aventuras ao ar livre",
       "Contato com a natureza"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Camamu é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "ilheus",
@@ -4363,7 +6285,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "calor"
+      "calor",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "itacare",
@@ -4400,7 +6325,30 @@
       "Centro histórico",
       "Gastronomia tradicional",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Praias paradisíacas",
+        "icon": "🏖️"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🌈"
+      }
+    ],
+    "atmosfera": "Ilhéus é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "porto-seguro",
@@ -4414,7 +6362,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "calor"
+      "calor",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "trancoso",
@@ -4451,7 +6402,30 @@
       "Arquitetura colonial preservada",
       "Cultura e arte",
       "Vibe relax"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Praias paradisíacas",
+        "icon": "🏖️"
+      },
+      {
+        "text": "Ilhas e baías",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🎪"
+      }
+    ],
+    "atmosfera": "Porto Seguro é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "trancoso",
@@ -4465,7 +6439,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "calor"
+      "calor",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "porto-seguro",
@@ -4502,7 +6479,30 @@
       "Patrimônio histórico",
       "Arquitetura colonial preservada",
       "Vibe relax"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "💎"
+      }
+    ],
+    "atmosfera": "Trancoso é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "arraial-dajuda",
@@ -4516,7 +6516,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "calor"
+      "calor",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "trancoso",
@@ -4553,7 +6556,30 @@
       "Arquitetura colonial preservada",
       "Gastronomia tradicional",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Arraial d'Ajuda é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "corumbau",
@@ -4567,7 +6593,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "trancoso",
@@ -4603,7 +6632,26 @@
       "Surf e mergulho",
       "Paisagens únicas",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Águas cristalinas",
+        "icon": "🏆"
+      },
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "🎯"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Corumbau oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "caraiva",
@@ -4617,7 +6665,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "corumbau",
@@ -4653,7 +6704,26 @@
       "Pôr do sol inesquecível",
       "Aventuras ao ar livre",
       "Paisagens únicas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Ilhas e baías",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "💎"
+      }
+    ],
+    "atmosfera": "Caraíva combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
   },
   {
     "slug": "morro-de-sao-paulo",
@@ -4667,7 +6737,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "calor"
+      "calor",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "boipeba",
@@ -4704,7 +6777,30 @@
       "Museus e igrejas",
       "Festividades culturais",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Águas cristalinas",
+        "icon": "🎯"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Morro de São Paulo oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "boipeba",
@@ -4718,7 +6814,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "morro-de-sao-paulo",
@@ -4754,7 +6853,26 @@
       "Águas cristalinas",
       "Contato com a natureza",
       "Aventuras ao ar livre"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Águas cristalinas",
+        "icon": "🌈"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      }
+    ],
+    "atmosfera": "Boipeba combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
   },
   {
     "slug": "salvador",
@@ -4768,7 +6886,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "morro-de-sao-paulo",
@@ -4804,7 +6925,26 @@
       "Gastronomia tradicional",
       "Workation friendly",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🌟"
+      }
+    ],
+    "atmosfera": "Salvador é ideal para quem quer se perder em ruas de pedra e histórias antigas."
   },
   {
     "slug": "cachoeira",
@@ -4818,7 +6958,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "sao-felix",
@@ -4854,7 +6997,26 @@
       "Gastronomia tradicional",
       "Vibe relax",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🎯"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Cachoeira combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "sao-felix",
@@ -4868,7 +7030,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "cachoeira",
@@ -4904,7 +7069,26 @@
       "Festividades culturais",
       "Workation friendly",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "São Félix é ideal para quem quer se perder em ruas de pedra e histórias antigas."
   },
   {
     "slug": "feira-de-santana",
@@ -4918,7 +7102,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "cachoeira",
@@ -4954,7 +7141,26 @@
       "Festividades culturais",
       "Vibe relax",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "✨"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Feira de Santana é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "florianopolis",
@@ -4968,7 +7174,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "natureza"
+      "natureza",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "palhoca",
@@ -5005,7 +7214,30 @@
       "Museus e igrejas",
       "Centro histórico",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Florianópolis oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "palhoca",
@@ -5019,7 +7251,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "natureza"
+      "natureza",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "florianopolis",
@@ -5056,7 +7291,30 @@
       "Festividades culturais",
       "Centro histórico",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Palhoça combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
   },
   {
     "slug": "sao-jose-sc",
@@ -5070,7 +7328,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "natureza"
+      "natureza",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "florianopolis",
@@ -5107,7 +7368,30 @@
       "Centro histórico",
       "Patrimônio histórico",
       "Vibe relax"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "✨"
+      }
+    ],
+    "atmosfera": "São José é para quem ama o mar, brisa salgada e dias inteiros de sol."
   },
   {
     "slug": "biguacu",
@@ -5121,7 +7405,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "florianopolis",
@@ -5157,7 +7444,26 @@
       "Festividades culturais",
       "Vibe relax",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "💎"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Biguaçu é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "garopaba",
@@ -5171,7 +7477,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "florianopolis",
@@ -5207,7 +7516,26 @@
       "Águas cristalinas",
       "Natureza preservada",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Ilhas e baías",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Águas cristalinas",
+        "icon": "✨"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Garopaba combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
   },
   {
     "slug": "imbituba",
@@ -5221,7 +7549,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "garopaba",
@@ -5257,7 +7588,26 @@
       "Águas cristalinas",
       "Trilhas e cachoeiras",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Águas cristalinas",
+        "icon": "🔥"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Imbituba é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "laguna",
@@ -5271,7 +7621,10 @@
       "praia",
       "cafes",
       "tranquilidade",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "garopaba",
@@ -5308,7 +7661,30 @@
       "Águas cristalinas",
       "Vida marinha",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Águas cristalinas",
+        "icon": "💫"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Laguna é para quem ama o mar, brisa salgada e dias inteiros de sol."
   },
   {
     "slug": "turvo",
@@ -5322,7 +7698,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "laguna",
@@ -5358,7 +7737,26 @@
       "Vida marinha",
       "Contato com a natureza",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Águas cristalinas",
+        "icon": "💎"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Turvo combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
   },
   {
     "slug": "joinville",
@@ -5372,7 +7770,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "jaragua-do-sul",
@@ -5408,7 +7809,26 @@
       "Gastronomia tradicional",
       "Vibe relax",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🎯"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🌟"
+      }
+    ],
+    "atmosfera": "Joinville oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "jaragua-do-sul",
@@ -5422,7 +7842,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "joinville",
@@ -5458,7 +7881,26 @@
       "Gastronomia tradicional",
       "Cafés especiais",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🔥"
+      }
+    ],
+    "atmosfera": "Jaraguá do Sul oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "sao-bento-do-sul",
@@ -5472,7 +7914,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "jaragua-do-sul",
@@ -5508,7 +7953,26 @@
       "Cultura e arte",
       "Cafeterias aconchegantes",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "✨"
+      }
+    ],
+    "atmosfera": "São Bento do Sul oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "rio-negrinho",
@@ -5522,7 +7986,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "sao-bento-do-sul",
@@ -5559,7 +8026,30 @@
       "Arquitetura colonial preservada",
       "Cultura e arte",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cafés aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "💎"
+      }
+    ],
+    "atmosfera": "Rio Negrinho oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
   },
   {
     "slug": "curitiba",
@@ -5573,7 +8063,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "joinville",
@@ -5609,7 +8102,26 @@
       "Centro histórico",
       "Brunchs e sobremesas",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "💎"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Curitiba combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "sao-jose-dos-pinhais",
@@ -5623,7 +8135,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "curitiba",
@@ -5659,7 +8174,26 @@
       "Cultura e arte",
       "Brunchs e sobremesas",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🏆"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "São José dos Pinhais é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "colombo",
@@ -5673,7 +8207,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "curitiba",
@@ -5709,7 +8246,26 @@
       "Gastronomia tradicional",
       "Brunchs e sobremesas",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🔥"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Colombo é ideal para quem quer se perder em ruas de pedra e histórias antigas."
   },
   {
     "slug": "araucaria",
@@ -5723,7 +8279,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "curitiba",
@@ -5759,7 +8318,26 @@
       "Centro histórico",
       "Cafeterias aconchegantes",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🏆"
+      }
+    ],
+    "atmosfera": "Araucária combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "morretes",
@@ -5773,7 +8351,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "curitiba",
@@ -5809,7 +8390,26 @@
       "Centro histórico",
       "Cafeterias aconchegantes",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "⭐"
+      }
+    ],
+    "atmosfera": "Morretes oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "paranagua",
@@ -5823,7 +8423,10 @@
       "praia",
       "cafes",
       "tranquilidade",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "morretes",
@@ -5860,7 +8463,30 @@
       "Ilhas e baías",
       "Esportes aquáticos",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Ilhas e baías",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🎪"
+      }
+    ],
+    "atmosfera": "Paranaguá é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "antonina",
@@ -5874,7 +8500,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "morretes",
@@ -5910,7 +8539,26 @@
       "Arquitetura colonial preservada",
       "Cafeterias aconchegantes",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Antonina combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "matinhos",
@@ -5924,7 +8572,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "paranagua",
@@ -5960,7 +8611,26 @@
       "Esportes aquáticos",
       "Aventuras ao ar livre",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Matinhos combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
   },
   {
     "slug": "guaratuba",
@@ -5974,7 +8644,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "matinhos",
@@ -6010,7 +8683,26 @@
       "Surf e mergulho",
       "Contato com a natureza",
       "Aventuras ao ar livre"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Surf e mergulho",
+        "icon": "🤿"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      }
+    ],
+    "atmosfera": "Guaratuba é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "caioba",
@@ -6024,7 +8716,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "matinhos",
@@ -6060,7 +8755,26 @@
       "Vida marinha",
       "Paisagens únicas",
       "Trilhas e cachoeiras"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Praias paradisíacas",
+        "icon": "🏖️"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "🏆"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      }
+    ],
+    "atmosfera": "Caioba é para quem ama o mar, brisa salgada e dias inteiros de sol."
   },
   {
     "slug": "foz-do-iguacu",
@@ -6074,7 +8788,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "cultura"
+      "cultura",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "puerto-iguazu",
@@ -6108,7 +8825,18 @@
     "uniqueReasons": [
       "Aventuras ao ar livre",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Foz do Iguaçu combina trilhas, cachoeiras e a beleza crua do ambiente natural."
   },
   {
     "slug": "puerto-iguazu",
@@ -6122,7 +8850,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "cultura"
+      "cultura",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "foz-do-iguacu",
@@ -6156,7 +8887,18 @@
     "uniqueReasons": [
       "Paisagens únicas",
       "Trilhas e cachoeiras"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Paisagens únicas",
+        "icon": "🌟"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      }
+    ],
+    "atmosfera": "Puerto Iguazú é para quem busca conexão profunda com a natureza e paisagens originais."
   },
   {
     "slug": "ciudad-del-este",
@@ -6170,7 +8912,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "foz-do-iguacu",
@@ -6206,7 +8951,26 @@
       "Patrimônio histórico",
       "Cafeterias aconchegantes",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Ciudad del Este é ideal para quem quer se perder em ruas de pedra e histórias antigas."
   },
   {
     "slug": "iguacu-national-park",
@@ -6220,7 +8984,10 @@
       "tranquilidade",
       "experiencias-locais",
       "calor",
-      "camping"
+      "camping",
+      "Ecoturismo",
+      "Trilhas",
+      "Fotografia"
     ],
     "similares": [
       "foz-do-iguacu",
@@ -6254,7 +9021,18 @@
     "uniqueReasons": [
       "Natureza preservada",
       "Aventuras ao ar livre"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      }
+    ],
+    "atmosfera": "Parque Nacional do Iguaçu é ideal para quem quer se desconectar e mergulhar em paisagens preservadas."
   },
   {
     "slug": "cascavel",
@@ -6268,7 +9046,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "foz-do-iguacu",
@@ -6304,7 +9085,26 @@
       "Patrimônio histórico",
       "Ambientes charmosos",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🌟"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Cascavel é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "guarapuava",
@@ -6318,7 +9118,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "cascavel",
@@ -6355,7 +9158,30 @@
       "Cultura e arte",
       "Festividades culturais",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Guarapuava é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
   },
   {
     "slug": "pato-branco",
@@ -6369,7 +9195,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "cascavel",
@@ -6405,7 +9234,26 @@
       "Patrimônio histórico",
       "Cafés especiais",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Pato Branco combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "francisco-beltrao",
@@ -6419,7 +9267,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "pato-branco",
@@ -6455,7 +9306,26 @@
       "Arquitetura colonial preservada",
       "Cultura do café",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🔥"
+      }
+    ],
+    "atmosfera": "Francisco Beltrão oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "londrina",
@@ -6469,7 +9339,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "maringa",
@@ -6505,7 +9378,26 @@
       "Arquitetura colonial preservada",
       "Cafeterias aconchegantes",
       "Vibe relax"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🏆"
+      }
+    ],
+    "atmosfera": "Londrina oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "maringa",
@@ -6519,7 +9411,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "londrina",
@@ -6555,7 +9450,26 @@
       "Cultura e arte",
       "Ambientes charmosos",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🎯"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Maringá é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "ponta-grossa",
@@ -6569,7 +9483,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "londrina",
@@ -6605,7 +9522,26 @@
       "Arquitetura colonial preservada",
       "Workation friendly",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Ponta Grossa oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "castro",
@@ -6619,7 +9555,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "ponta-grossa",
@@ -6655,7 +9594,26 @@
       "Patrimônio histórico",
       "Workation friendly",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Castro é ideal para quem quer se perder em ruas de pedra e histórias antigas."
   },
   {
     "slug": "carambei",
@@ -6669,7 +9627,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "castro",
@@ -6705,7 +9666,26 @@
       "Cultura e arte",
       "Workation friendly",
       "Vibe relax"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🎪"
+      }
+    ],
+    "atmosfera": "Carambeí combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "palmeira",
@@ -6719,7 +9699,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "castro",
@@ -6755,7 +9738,26 @@
       "Museus e igrejas",
       "Vibe relax",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🌟"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Palmeira oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "porto-alegre",
@@ -6769,7 +9771,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "gramado",
@@ -6805,7 +9810,26 @@
       "Centro histórico",
       "Vibe relax",
       "Cafeterias aconchegantes"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Museus e igrejas",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🔥"
+      },
+      {
+        "text": "Cafeterias aconchegantes",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Porto Alegre combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "sao-francisco-de-paula",
@@ -6819,7 +9843,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "frio"
+      "frio",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "gramado",
@@ -6856,7 +9883,30 @@
       "Cultura e arte",
       "Festividades culturais",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia de montanha",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Clima serrano romântico",
+        "icon": "⛰️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🎪"
+      }
+    ],
+    "atmosfera": "São Francisco de Paula é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
   },
   {
     "slug": "caxias-do-sul",
@@ -6870,7 +9920,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "bento-goncalves",
@@ -6906,7 +9959,26 @@
       "Cultura e arte",
       "Ambientes charmosos",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🎪"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Caxias do Sul combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "bento-goncalves",
@@ -6920,7 +9992,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "caxias-do-sul",
@@ -6956,7 +10031,26 @@
       "Arquitetura colonial preservada",
       "Brunchs e sobremesas",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🎯"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Bento Gonçalves combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "garibaldi",
@@ -6970,7 +10064,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "bento-goncalves",
@@ -7006,7 +10103,26 @@
       "Arquitetura colonial preservada",
       "Cafés especiais",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Garibaldi oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
   },
   {
     "slug": "flores-da-cunha",
@@ -7020,7 +10136,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "bento-goncalves",
@@ -7056,7 +10175,26 @@
       "Cultura e arte",
       "Brunchs e sobremesas",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🏆"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "Flores da Cunha é para quem ama história, arquitetura preservada e caminhar pelo passado."
   },
   {
     "slug": "pelotas",
@@ -7070,7 +10208,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "rio-grande",
@@ -7106,7 +10247,26 @@
       "Festividades culturais",
       "Ambientes charmosos",
       "Brunchs e sobremesas"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "🔥"
+      },
+      {
+        "text": "Brunchs e sobremesas",
+        "icon": "🎪"
+      }
+    ],
+    "atmosfera": "Pelotas combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "rio-grande",
@@ -7120,7 +10280,10 @@
       "praia",
       "cafes",
       "tranquilidade",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "pelotas",
@@ -7157,7 +10320,30 @@
       "Águas cristalinas",
       "Esportes aquáticos",
       "Ambientes charmosos"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Águas cristalinas",
+        "icon": "💫"
+      },
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Ambientes charmosos",
+        "icon": "✨"
+      }
+    ],
+    "atmosfera": "Rio Grande oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "sao-lourenco-do-sul",
@@ -7171,7 +10357,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "pelotas",
@@ -7207,7 +10396,26 @@
       "Cultura e arte",
       "Vibe relax",
       "Workation friendly"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Arquitetura colonial preservada",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura e arte",
+        "icon": "🏺"
+      },
+      {
+        "text": "Vibe relax",
+        "icon": "🌈"
+      },
+      {
+        "text": "Workation friendly",
+        "icon": "💻"
+      }
+    ],
+    "atmosfera": "São Lourenço do Sul é ideal para quem quer se perder em ruas de pedra e histórias antigas."
   },
   {
     "slug": "cassino",
@@ -7221,7 +10429,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "rio-grande",
@@ -7257,7 +10468,26 @@
       "Pôr do sol inesquecível",
       "Paisagens únicas",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Paisagens únicas",
+        "icon": "🔥"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Cassino é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "torres",
@@ -7271,7 +10501,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "capao-da-canoa",
@@ -7307,7 +10540,26 @@
       "Pôr do sol inesquecível",
       "Ecoturismo",
       "Trilhas e cachoeiras"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      }
+    ],
+    "atmosfera": "Torres oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
   },
   {
     "slug": "capao-da-canoa",
@@ -7321,7 +10573,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "torres",
@@ -7357,7 +10612,26 @@
       "Vida marinha",
       "Aventuras ao ar livre",
       "Observação de fauna"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Esportes aquáticos",
+        "icon": "⚽"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Aventuras ao ar livre",
+        "icon": "🎒"
+      },
+      {
+        "text": "Observação de fauna",
+        "icon": "🔭"
+      }
+    ],
+    "atmosfera": "Capão da Canoa é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "tramandai",
@@ -7371,7 +10645,10 @@
       "cidade-historica",
       "cafes",
       "tranquilidade",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "torres",
@@ -7408,7 +10685,30 @@
       "Gastronomia tradicional",
       "Patrimônio histórico",
       "Cultura do café"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Águas cristalinas",
+        "icon": "🎯"
+      },
+      {
+        "text": "Vida marinha",
+        "icon": "🌊"
+      },
+      {
+        "text": "Gastronomia tradicional",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Patrimônio histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Tramandaí é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "arroio-do-sal",
@@ -7422,7 +10722,10 @@
       "natureza",
       "tranquilidade",
       "calor",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "torres",
@@ -7458,7 +10761,26 @@
       "Águas cristalinas",
       "Trilhas e cachoeiras",
       "Contato com a natureza"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Pôr do sol inesquecível",
+        "icon": "🌅"
+      },
+      {
+        "text": "Águas cristalinas",
+        "icon": "⭐"
+      },
+      {
+        "text": "Trilhas e cachoeiras",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Contato com a natureza",
+        "icon": "🌿"
+      }
+    ],
+    "atmosfera": "Arroio do Sal é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "bom-jardim-da-serra",
@@ -7472,7 +10794,10 @@
       "natureza",
       "tranquilidade",
       "frio",
-      "experiencias-locais"
+      "experiencias-locais",
+      "Romance",
+      "Slow Travel",
+      "Trilhas"
     ],
     "similares": [
       "urubici",
@@ -7508,7 +10833,26 @@
       "Fogueiras e vinho",
       "Natureza preservada",
       "Ecoturismo"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Cafés aconchegantes",
+        "icon": "☕"
+      },
+      {
+        "text": "Fogueiras e vinho",
+        "icon": "🍷"
+      },
+      {
+        "text": "Natureza preservada",
+        "icon": "🌿"
+      },
+      {
+        "text": "Ecoturismo",
+        "icon": "🗺️"
+      }
+    ],
+    "atmosfera": "Bom Jardim da Serra é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
   },
   {
     "slug": "timbo",
@@ -7522,7 +10866,10 @@
       "cafes",
       "tranquilidade",
       "experiencias-locais",
-      "cultura"
+      "cultura",
+      "Cultura Local",
+      "História",
+      "Fotografia"
     ],
     "similares": [
       "blumenau",
@@ -7558,7 +10905,26 @@
       "Festividades culturais",
       "Cultura do café",
       "Cafés especiais"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Centro histórico",
+        "icon": "🏛️"
+      },
+      {
+        "text": "Festividades culturais",
+        "icon": "🏺"
+      },
+      {
+        "text": "Cultura do café",
+        "icon": "☕"
+      },
+      {
+        "text": "Cafés especiais",
+        "icon": "☕"
+      }
+    ],
+    "atmosfera": "Timbó combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
   },
   {
     "slug": "vitoria-es",
@@ -7572,7 +10938,10 @@
       "cidade",
       "gastronomia",
       "ilhas",
-      "tropical"
+      "tropical",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "ilha-grande",
@@ -7608,7 +10977,30 @@
       "Ilhas paradisíacas",
       "Clima tropical",
       "Cidade vibrante"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Orla urbana",
+        "icon": "✨"
+      },
+      {
+        "text": "Gastronomia de frutos do mar",
+        "icon": "🍽️"
+      },
+      {
+        "text": "Ilhas paradisíacas",
+        "icon": "🏝️"
+      },
+      {
+        "text": "Clima tropical",
+        "icon": "🌴"
+      },
+      {
+        "text": "Cidade vibrante",
+        "icon": "🎪"
+      }
+    ],
+    "atmosfera": "Vitória é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   },
   {
     "slug": "itaunas",
@@ -7622,7 +11014,10 @@
       "natureza",
       "dunas",
       "cultura",
-      "rustico"
+      "rustico",
+      "Praia Tranquila",
+      "Fotografia",
+      "Slow Travel"
     ],
     "similares": [
       "arraial-do-cabo",
@@ -7657,6 +11052,29 @@
       "Forró tradicional",
       "Vila de pescadores",
       "Atmosfera rústica"
-    ]
+    ],
+    "uniqueReasonsWithIcons": [
+      {
+        "text": "Dunas gigantes",
+        "icon": "🏜️"
+      },
+      {
+        "text": "Praia selvagem",
+        "icon": "🏖️"
+      },
+      {
+        "text": "Forró tradicional",
+        "icon": "💃"
+      },
+      {
+        "text": "Vila de pescadores",
+        "icon": "🎣"
+      },
+      {
+        "text": "Atmosfera rústica",
+        "icon": "✨"
+      }
+    ],
+    "atmosfera": "Itaúnas é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
   }
 ]

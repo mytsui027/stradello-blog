@@ -47,7 +47,9 @@ const relatedPosts = allPosts
 
 // SEO
 const title = `${destination.nome} — Stradello Match`;
-const description = `${destination.descricao} Descubra mais sobre ${destination.nome}, ${destination.estado}, Brasil. Um destino perfeito para slow travel e experiências autênticas.`;
+const description = destination.atmosfera 
+  ? `${destination.atmosfera} ${destination.descricao}`
+  : `${destination.descricao} Descubra mais sobre ${destination.nome}, ${destination.estado}, Brasil. Um destino perfeito para slow travel e experiências autênticas.`;
 const canonicalUrl = `${SITE.url}/stradello-match/destino/${slug}`;
 
 // Schema.org
@@ -68,6 +70,27 @@ const touristDestinationSchema = {
     addressRegion: destination.estado,
     addressCountry: destination.pais,
   },
+  ...(destination.atmosfera && {
+    additionalProperty: {
+      '@type': 'PropertyValue',
+      name: 'atmosfera',
+      value: destination.atmosfera
+    }
+  }),
+  ...(destination.seasonTitle && {
+    additionalProperty: {
+      '@type': 'PropertyValue',
+      name: 'seasonality',
+      value: `${destination.seasonTitle} - ${destination.seasonPeriod}`
+    }
+  }),
+  ...(destination.uniqueReasons && destination.uniqueReasons.length > 0 && {
+    additionalProperty: {
+      '@type': 'PropertyValue',
+      name: 'travelStyle',
+      value: destination.uniqueReasons.join(', ')
+    }
+  }),
   ...(destination.imagem && {
     image: {
       '@type': 'ImageObject',
@@ -150,6 +173,23 @@ const structuredData = [breadcrumbSchema, touristDestinationSchema];
             {destination.descricao}
           </p>
 
+          <!-- Atmosphere -->
+          {destination.atmosfera && (
+            <div class="mb-8 p-6 rounded-xl border" style="border-color: var(--color-border); background: var(--color-bg-alt);">
+              <div class="flex items-start gap-3">
+                <div class="text-2xl" aria-hidden="true">✨</div>
+                <div>
+                  <p class="text-sm font-medium uppercase tracking-widest mb-2" style="color: var(--color-accent);">
+                    Atmosfera do destino
+                  </p>
+                  <p class="text-base leading-relaxed" style="color: var(--color-text);">
+                    {destination.atmosfera}
+                  </p>
+                </div>
+              </div>
+            </div>
+          )}
+
           <!-- Categories -->
           <div class="mb-8">
             <p class="text-xs font-medium uppercase tracking-widest mb-3" style="color: var(--color-accent);">
@@ -192,7 +232,18 @@ const structuredData = [breadcrumbSchema, touristDestinationSchema];
       </div>
 
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {destination.uniqueReasons && destination.uniqueReasons.length > 0 ? (
+        {destination.uniqueReasonsWithIcons && destination.uniqueReasonsWithIcons.length > 0 ? (
+          destination.uniqueReasonsWithIcons.map((item, index) => (
+            <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
+              <div class="text-2xl mb-3" aria-hidden="true">
+                {item.icon}
+              </div>
+              <h3 class="font-display font-semibold text-base mb-2" style="color: var(--color-heading);">
+                {item.text}
+              </h3>
+            </div>
+          ))
+        ) : destination.uniqueReasons && destination.uniqueReasons.length > 0 ? (
           destination.uniqueReasons.map((reason, index) => (
             <div class="rounded-xl p-6 border" style="border-color: var(--color-border); background: var(--color-bg-card);">
               <div class="text-2xl mb-3" aria-hidden="true">
