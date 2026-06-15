@@ -87,7 +87,7 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Cidade histórica aos pés do Pico do Lobo, com arquitetura preservada, trilhas e clima serrano convidativo.",
-    "imagem": "",
+    "imagem": "/assets/blog/sao-bento-do-sapucai.jpeg",
     "categorias": [
       "serra",
       "cidade-historica",
@@ -333,7 +333,7 @@
     "estado": "Pará",
     "pais": "Brasil",
     "descricao": "Caribe brasileiro na Amazônia, com praias de água doce, ilhas, cultura local e atmosfera paradisíaca.",
-    "imagem": "",
+    "imagem": "/assets/blog/alter-do-chão.jpg",
     "categorias": [
       "praia",
       "natureza",
@@ -497,7 +497,7 @@
     "estado": "São Paulo",
     "pais": "Brasil",
     "descricao": "Vila serrana com cerâmica artesanal, trilhas, clima de montanha e vibe de interior autêntica.",
-    "imagem": "",
+    "imagem": "/assets/blog/cunha-sp.jpg",
     "categorias": [
       "serra",
       "natureza",
@@ -1522,7 +1522,7 @@
     "estado": "Minas Gerais",
     "pais": "Brasil",
     "descricao": "Estância hidromineral com águas, parques, gastronomia e clima serrano relaxante.",
-    "imagem": "",
+    "imagem": "/assets/blog/sao-jose.jpg",
     "categorias": [
       "serra",
       "natureza",
@@ -4146,7 +4146,7 @@
     "estado": "Santa Catarina",
     "pais": "Brasil",
     "descricao": "Cidade litorânea com praias, cultura e acesso a Florianópolis.",
-    "imagem": "",
+    "imagem": "/assets/blog/sao-jose.jpg",
     "categorias": [
       "praia",
       "cidade-historica",
@@ -6188,6 +6188,85 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
+    }
+  },
+  {
+    "slug": "vitoria-es",
+    "nome": "Vitória",
+    "estado": "Espírito Santo",
+    "pais": "Brasil",
+    "descricao": "Capital capixaba com orla urbana, gastronomia de frutos do mar, ilhas paradisíacas e clima tropical vibrante.",
+    "imagem": "/assets/blog/vitoria-es.jpg",
+    "categorias": [
+      "praia",
+      "cidade",
+      "gastronomia",
+      "ilhas",
+      "tropical"
+    ],
+    "similares": [
+      "ilha-grande",
+      "buzios",
+      "cabofrio"
+    ],
+    "alternativas": [
+      "ilha-grande",
+      "buzios"
+    ],
+    "pontuacoes": {
+      "solo": 7,
+      "casal": 9,
+      "familia": 8,
+      "natureza": 7,
+      "praia": 10,
+      "cidade": 9,
+      "gastronomia": 8,
+      "ilhas": 9,
+      "tropical": 10,
+      "calor": 10,
+      "frio": 0,
+      "economico": 7,
+      "medio": 8,
+      "premium": 8
+    }
+  },
+  {
+    "slug": "itaunas",
+    "nome": "Itaúnas",
+    "estado": "Espírito Santo",
+    "pais": "Brasil",
+    "descricao": "Vila de pescadores com dunas gigantes, praia selvagem preservada, forró tradicional e atmosfera de village rústico.",
+    "imagem": "/assets/blog/vila-de-itaunas.jpg",
+    "categorias": [
+      "praia",
+      "natureza",
+      "dunas",
+      "cultura",
+      "rustico"
+    ],
+    "similares": [
+      "arraial-do-cabo",
+      "jericoacoara",
+      "alter-do-chao"
+    ],
+    "alternativas": [
+      "jericoacoara",
+      "arraial-do-cabo"
+    ],
+    "pontuacoes": {
+      "solo": 8,
+      "casal": 9,
+      "familia": 7,
+      "natureza": 10,
+      "praia": 10,
+      "dunas": 10,
+      "cultura": 8,
+      "rustico": 9,
+      "calor": 10,
+      "frio": 0,
+      "economico": 8,
+      "medio": 7,
+      "premium": 6
     }
   }
 ]
