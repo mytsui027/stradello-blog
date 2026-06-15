@@ -17,13 +17,13 @@
       "Trilhas"
     ],
     "similares": [
-      "goncalves",
-      "sao-bento-do-sapucai",
-      "campos-do-jordao"
+      "urubici",
+      "sao-joaquim",
+      "bom-jardim-da-serra"
     ],
     "alternativas": [
-      "campos-do-jordao",
-      "goncalves"
+      "urubici",
+      "sao-joaquim"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -42,9 +42,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica na serra com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "Temporada de frio e gastronomia",
+    "seasonDescription": "Entre maio e agosto, Monte Verde ganha clima frio, festivais gastronômicos e paisagens típicas da Serra da Mantiqueira.",
+    "seasonPeriod": "Mai–Ago",
     "uniqueReasons": [
       "Cafés aconchegantes",
       "Clima serrano romântico",
@@ -63,7 +63,7 @@
       },
       {
         "text": "Trilhas em araucárias",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Hospedagens charmosas",
@@ -74,7 +74,7 @@
         "icon": "🇪🇺"
       }
     ],
-    "atmosfera": "Monte Verde combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
+    "atmosfera": "Entre araucárias, cafés aquecidos pela lareira e ruas tranquilas da Mantiqueira, Monte Verde é um convite para desacelerar."
   },
   {
     "slug": "visconde-de-maua",
@@ -94,13 +94,13 @@
       "Trilhas"
     ],
     "similares": [
-      "penedo",
-      "resende",
-      "itatiaia"
+      "cunha",
+      "vale-europeu",
+      "lages"
     ],
     "alternativas": [
-      "penedo",
-      "campos-do-jordao"
+      "cunha",
+      "vale-europeu"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -119,9 +119,9 @@
       "medio": 8,
       "premium": 9
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e descanso.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Clima serrano romântico",
       "Trilhas com vistas panorâmicas",
@@ -135,18 +135,18 @@
       },
       {
         "text": "Trilhas com vistas panorâmicas",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Ecoturismo",
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Visconde de Mauá combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
+    "atmosfera": "Visconde de Mauá é refúgio serrano com cachoeiras, trilhas e clima ameno na Serra Fluminense."
   },
   {
     "slug": "sao-bento-do-sapucai",
@@ -166,13 +166,13 @@
       "Trilhas"
     ],
     "similares": [
-      "monte-verde",
-      "goncalves",
-      "campos-do-jordao"
+      "serra-da-mantiqueira",
+      "canela",
+      "goncalves"
     ],
     "alternativas": [
-      "monte-verde",
-      "campos-do-jordao"
+      "serra-da-mantiqueira",
+      "canela"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -191,9 +191,9 @@
       "medio": 8,
       "premium": 6
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para trilhas e passeios.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Gastronomia de montanha",
       "Fogueiras e vinho",
@@ -223,7 +223,7 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "São Bento do Sapucaí combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
+    "atmosfera": "São Bento do Sapucaí oferece trilhas, cachoeiras e a autenticidade da Serra da Mantiqueira."
   },
   {
     "slug": "penedo",
@@ -243,13 +243,13 @@
       "Trilhas"
     ],
     "similares": [
+      "petropolis",
       "visconde-de-maua",
-      "resende",
-      "itaperuna"
+      "vale-europeu"
     ],
     "alternativas": [
-      "visconde-de-maua",
-      "campos-do-jordao"
+      "petropolis",
+      "vale-europeu"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -315,13 +315,13 @@
       "Trilhas"
     ],
     "similares": [
-      "sao-joaquim",
-      "lages",
-      "grao-para"
+      "monte-verde",
+      "bom-jardim-da-serra",
+      "sao-joaquim"
     ],
     "alternativas": [
-      "campos-do-jordao",
-      "monte-verde"
+      "monte-verde",
+      "bom-jardim-da-serra"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -364,7 +364,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       }
     ],
     "atmosfera": "Urubici combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
@@ -387,13 +387,13 @@
       "Trilhas"
     ],
     "similares": [
-      "monte-verde",
+      "sao-bento-do-sapucai",
       "goncalves",
       "itamonte"
     ],
     "alternativas": [
-      "campos-do-jordao",
-      "monte-verde"
+      "sao-bento-do-sapucai",
+      "canela"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -424,7 +424,7 @@
     "uniqueReasonsWithIcons": [
       {
         "text": "Trilhas com vistas panorâmicas",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Gastronomia de montanha",
@@ -436,7 +436,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       }
     ],
     "atmosfera": "Serra da Mantiqueira combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
@@ -459,13 +459,13 @@
       "Fotografia"
     ],
     "similares": [
-      "jalapao",
-      "emas-nacional-park",
-      "cavalcante"
+      "capitolio",
+      "lencois-ba",
+      "palmeiras"
     ],
     "alternativas": [
-      "jalapao",
-      "lencois-maranhenses"
+      "capitolio",
+      "lencois-ba"
     ],
     "pontuacoes": {
       "solo": 9,
@@ -521,13 +521,13 @@
       "Fotografia"
     ],
     "similares": [
-      "chapada-dos-veadeiros",
       "lencois-maranhenses",
-      "palmas"
+      "rio-preto-da-eva",
+      "miranda"
     ],
     "alternativas": [
-      "chapada-dos-veadeiros",
-      "lencois-maranhenses"
+      "rio-preto-da-eva",
+      "miranda"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -546,9 +546,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Estação seca",
-    "seasonDescription": "Melhor época para cachoeiras, fervedouros e trilhas com acesso facilitado.",
-    "seasonPeriod": "Mai – Set",
+    "seasonTitle": "Período seco ideal",
+    "seasonDescription": "Período seco ideal para visitar fervedouros e percorrer as estradas do cerrado.",
+    "seasonPeriod": "Mai–Set",
     "uniqueReasons": [
       "Fervedouros naturais",
       "Cachoeiras cristalinas",
@@ -578,7 +578,7 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Jalapão oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
+    "atmosfera": "No Jalapão, a estrada faz parte da experiência: fervedouros, dunas douradas e paisagens selvagens transformam a viagem em aventura."
   },
   {
     "slug": "alter-do-chao",
@@ -598,13 +598,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "santarem",
-      "belem",
-      "marajo"
+      "itacare",
+      "fernando-de-noronha",
+      "maceio"
     ],
     "alternativas": [
-      "fernando-de-noronha",
-      "lencois-maranhenses"
+      "itacare",
+      "fernando-de-noronha"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -623,9 +623,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Temporada das praias de rio",
-    "seasonDescription": "Bancos de areia surgem no verão amazônico criando praias fluviais paradisíacas.",
-    "seasonPeriod": "Ago – Dez",
+    "seasonTitle": "Temporada de praias fluviais",
+    "seasonDescription": "Período de águas baixas permite explorar as praias fluviais da Amazônia.",
+    "seasonPeriod": "Ago–Out",
     "uniqueReasons": [
       "Praias fluviais",
       "Ilha do Amor",
@@ -655,7 +655,7 @@
         "icon": "🎣"
       }
     ],
-    "atmosfera": "Alter do Chão oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Alter do Chão revela uma Amazônia diferente: praias fluviais, ilhas paradisíacas e o ritmo calmo dos rios."
   },
   {
     "slug": "vale-europeu",
@@ -675,13 +675,13 @@
       "Trilhas"
     ],
     "similares": [
-      "gramado",
-      "penha",
-      "blumenau"
+      "lages",
+      "petropolis",
+      "nova-petropolis"
     ],
     "alternativas": [
-      "gramado",
-      "campos-do-jordao"
+      "lages",
+      "petropolis"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -713,7 +713,7 @@
     "uniqueReasonsWithIcons": [
       {
         "text": "Trilhas com vistas panorâmicas",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Clima serrano romântico",
@@ -752,13 +752,13 @@
       "Trilhas"
     ],
     "similares": [
-      "teresopolis",
-      "nova-friburgo",
-      "vassouras"
+      "penedo",
+      "vale-europeu",
+      "cunha"
     ],
     "alternativas": [
-      "campos-do-jordao",
-      "paraty"
+      "penedo",
+      "vale-europeu"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -777,9 +777,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno para passeios e imperiais.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Gastronomia de montanha",
       "Hospedagens charmosas",
@@ -809,7 +809,7 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Petrópolis é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
+    "atmosfera": "Petrópolis preserva o charme imperial com palácios, museus e o clima serrano da Serra."
   },
   {
     "slug": "paraty",
@@ -829,13 +829,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "trindade",
-      "ilha-grande",
-      "anhanguera"
+      "garopaba",
+      "imbituba",
+      "turvo"
     ],
     "alternativas": [
-      "alter-do-chao",
-      "fernando-de-noronha"
+      "garopaba",
+      "imbituba"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -854,9 +854,9 @@
       "medio": 8,
       "premium": 9
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima tropical ameno ideal para explorar centro histórico, praias e ilhas durante todo o ano.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para caminhar pelas ruas de pedra e explorar as praias.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Centro histórico colonial",
       "Passeios de barco",
@@ -886,7 +886,7 @@
         "icon": "🏛️"
       }
     ],
-    "atmosfera": "Paraty é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Paraty mistura história colonial, baías esmeraldas e cultura caiçara em uma cidade onde o tempo parece ter parado."
   },
   {
     "slug": "cunha",
@@ -906,13 +906,13 @@
       "Trilhas"
     ],
     "similares": [
-      "paraty",
-      "sao-luiz-do-paraitinga",
-      "taubate"
+      "visconde-de-maua",
+      "goncalves",
+      "pindamonhangaba"
     ],
     "alternativas": [
-      "monte-verde",
-      "sao-bento-do-sapucai"
+      "visconde-de-maua",
+      "goncalves"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -931,9 +931,9 @@
       "medio": 7,
       "premium": 6
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e trilhas.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Gastronomia de montanha",
       "Hospedagens charmosas",
@@ -958,7 +958,7 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Cunha oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
+    "atmosfera": "Cunha é o portal para a Serra da Mantiqueira com trilhas, cachoeiras e clima serrano."
   },
   {
     "slug": "domingos-martins",
@@ -979,12 +979,12 @@
     ],
     "similares": [
       "venda-nova-do-imigrante",
-      "vargem-alta",
-      "afonso-claudio"
+      "sao-lourenco",
+      "teresopolis"
     ],
     "alternativas": [
-      "vale-europeu",
-      "monte-verde"
+      "sao-lourenco",
+      "teresopolis"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -1020,7 +1020,7 @@
       },
       {
         "text": "Montanhas capixabas",
-        "icon": "🏔️"
+        "icon": "⛰️"
       },
       {
         "text": "Clima ameno",
@@ -1055,13 +1055,13 @@
       "Trilhas"
     ],
     "similares": [
-      "monte-verde",
-      "sao-bento-do-sapucai",
-      "itamonte"
+      "serra-da-mantiqueira",
+      "itamonte",
+      "sao-bento-do-sapucai"
     ],
     "alternativas": [
-      "monte-verde",
-      "campos-do-jordao"
+      "serra-da-mantiqueira",
+      "cunha"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -1080,9 +1080,9 @@
       "medio": 9,
       "premium": 9
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para cafés e passeios.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Hospedagens charmosas",
       "Gastronomia de montanha",
@@ -1112,7 +1112,7 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Gonçalves é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
+    "atmosfera": "Gonçalves é o paraíso dos amantes de café, trilhas e paisagens serranas na Mantiqueira."
   },
   {
     "slug": "gramado",
@@ -1133,12 +1133,12 @@
     ],
     "similares": [
       "canela",
-      "vale-europeu",
-      "carlos-barbosa"
+      "sao-bento-do-sapucai",
+      "serra-da-mantiqueira"
     ],
     "alternativas": [
-      "campos-do-jordao",
-      "monte-verde"
+      "sao-bento-do-sapucai",
+      "serra-da-mantiqueira"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -1157,9 +1157,9 @@
       "medio": 8,
       "premium": 10
     },
-    "seasonTitle": "Inverno com neve",
-    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno e eventos natalinos.",
-    "seasonPeriod": "Jun – Ago",
+    "seasonTitle": "Temporada de frio",
+    "seasonDescription": "Período de temperaturas baixas e alta temporada do clima serrano.",
+    "seasonPeriod": "Jun–Ago",
     "uniqueReasons": [
       "Clima europeu",
       "Neve no inverno",
@@ -1189,7 +1189,7 @@
         "icon": "🍫"
       }
     ],
-    "atmosfera": "Gramado combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
+    "atmosfera": "Gramado combina arquitetura alpina, vinícolas e paisagens serranas com o charme da colonização alemã."
   },
   {
     "slug": "campos-do-jordao",
@@ -1209,13 +1209,13 @@
       "Trilhas"
     ],
     "similares": [
-      "sao-bento-do-sapucai",
-      "monte-verde",
-      "pindamonhangaba"
+      "campos-do-jordao-sp",
+      "sao-francisco-de-paula",
+      "monte-verde"
     ],
     "alternativas": [
-      "monte-verde",
-      "gramado"
+      "campos-do-jordao-sp",
+      "sao-francisco-de-paula"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -1234,9 +1234,9 @@
       "medio": 8,
       "premium": 9
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "Temporada de frio",
+    "seasonDescription": "Período de temperaturas mais baixas e alta temporada do clima serrano.",
+    "seasonPeriod": "Jun–Ago",
     "uniqueReasons": [
       "Hospedagens charmosas",
       "Clima serrano romântico",
@@ -1266,7 +1266,7 @@
         "icon": "🌈"
       }
     ],
-    "atmosfera": "Campos do Jordão oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
+    "atmosfera": "Campos do Jordão une arquitetura europeia, gastronomia refinada e clima serrano na Serra da Mantiqueira."
   },
   {
     "slug": "capitolio",
@@ -1286,13 +1286,13 @@
       "Fotografia"
     ],
     "similares": [
-      "sao-jose-do-barreiro",
-      "passa-quatro",
-      "alfenas"
+      "chapada-dos-veadeiros",
+      "jardim",
+      "bodoquena"
     ],
     "alternativas": [
       "chapada-dos-veadeiros",
-      "jalapao"
+      "jardim"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -1311,9 +1311,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de clima quente",
+    "seasonDescription": "Período de calor ideal para cânions e lagoas.",
+    "seasonPeriod": "Out–Mar",
     "uniqueReasons": [
       "Aventuras ao ar livre",
       "Paisagens únicas"
@@ -1328,7 +1328,7 @@
         "icon": "🏆"
       }
     ],
-    "atmosfera": "Capitólio é para quem busca conexão profunda com a natureza e paisagens originais."
+    "atmosfera": "Capitólio oferece cânions, lagoas e paisagens deslumbrantes na Serra da Canastra."
   },
   {
     "slug": "lencois-maranhenses",
@@ -1349,12 +1349,12 @@
     ],
     "similares": [
       "jalapao",
-      "delta-do-parnaiba",
-      "barreirinhas"
+      "presidente-figueiredo",
+      "rio-preto-da-eva"
     ],
     "alternativas": [
-      "jalapao",
-      "alter-do-chao"
+      "presidente-figueiredo",
+      "rio-preto-da-eva"
     ],
     "pontuacoes": {
       "solo": 9,
@@ -1398,7 +1398,7 @@
       },
       {
         "text": "Passeios em 4x4",
-        "icon": "🚶"
+        "icon": "🚙"
       },
       {
         "text": "Lençóis de areia",
@@ -1425,13 +1425,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "alter-do-chao",
-      "maragogi",
-      "porto-de-galinhas"
+      "ilha-grande",
+      "porto-de-galinhas",
+      "camamu"
     ],
     "alternativas": [
-      "alter-do-chao",
-      "paraty"
+      "ilha-grande",
+      "camamu"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -1450,9 +1450,9 @@
       "medio": 7,
       "premium": 10
     },
-    "seasonTitle": "Temporada de mergulho",
-    "seasonDescription": "Mar cristalino com excelente visibilidade para mergulho e observação da vida marinha.",
-    "seasonPeriod": "Set – Mar",
+    "seasonTitle": "Temporada de mar calmo",
+    "seasonDescription": "Melhor época para mar calmo e mergulho com visibilidade excepcional.",
+    "seasonPeriod": "Ago–Nov",
     "uniqueReasons": [
       "Vida marinha excepcional",
       "Praias preservadas",
@@ -1463,7 +1463,7 @@
     "uniqueReasonsWithIcons": [
       {
         "text": "Vida marinha excepcional",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Praias preservadas",
@@ -1482,7 +1482,7 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Fernando de Noronha oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Fernando de Noronha é santuário marinho onde preservação e mergulho se encontram em praias de águas cristalinas."
   },
   {
     "slug": "itamonte",
@@ -1502,13 +1502,13 @@
       "Trilhas"
     ],
     "similares": [
-      "monte-verde",
-      "goncalves",
-      "baependi"
+      "canela",
+      "serra-da-mantiqueira",
+      "goncalves"
     ],
     "alternativas": [
-      "monte-verde",
-      "sao-bento-do-sapucai"
+      "canela",
+      "serra-da-mantiqueira"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -1574,13 +1574,13 @@
       "Trilhas"
     ],
     "similares": [
-      "gramado",
-      "vale-europeu",
-      "nova-petropolis"
+      "itamonte",
+      "sao-bento-do-sapucai",
+      "serra-da-mantiqueira"
     ],
     "alternativas": [
-      "gramado",
-      "campos-do-jordao"
+      "itamonte",
+      "sao-bento-do-sapucai"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -1599,9 +1599,9 @@
       "medio": 8,
       "premium": 9
     },
-    "seasonTitle": "Inverno com neve",
-    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
-    "seasonPeriod": "Jun – Ago",
+    "seasonTitle": "Temporada de frio",
+    "seasonDescription": "Período de temperaturas baixas e alta temporada do clima serrano.",
+    "seasonPeriod": "Jun–Ago",
     "uniqueReasons": [
       "Clima serrano romântico",
       "Fogueiras e vinho",
@@ -1631,7 +1631,7 @@
         "icon": "🎪"
       }
     ],
-    "atmosfera": "Canela oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
+    "atmosfera": "Canela encanta com cânions, cascatas e o charme da colonização alemã na Serra Gaúcha."
   },
   {
     "slug": "nova-petropolis",
@@ -1651,13 +1651,13 @@
       "Trilhas"
     ],
     "similares": [
-      "gramado",
-      "canela",
+      "vale-europeu",
+      "lages",
       "petropolis"
     ],
     "alternativas": [
-      "gramado",
-      "petropolis"
+      "vale-europeu",
+      "lages"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -1676,9 +1676,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Inverno com neve",
-    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
-    "seasonPeriod": "Jun – Ago",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e cultura.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Clima serrano romântico",
       "Cafés aconchegantes",
@@ -1708,7 +1708,7 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Nova Petrópolis combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
+    "atmosfera": "Nova Petrópolis preserva o charme da colonização alemã com palácios, parques e clima serrano."
   },
   {
     "slug": "sao-joaquim",
@@ -1728,13 +1728,13 @@
       "Trilhas"
     ],
     "similares": [
-      "urubici",
-      "lages",
-      "lauro-muller"
+      "bom-jardim-da-serra",
+      "monte-verde",
+      "urubici"
     ],
     "alternativas": [
-      "urubici",
-      "campos-do-jordao"
+      "bom-jardim-da-serra",
+      "monte-verde"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -1800,13 +1800,13 @@
       "Trilhas"
     ],
     "similares": [
-      "urubici",
-      "sao-joaquim",
-      "correia-pinto"
+      "vale-europeu",
+      "nova-petropolis",
+      "visconde-de-maua"
     ],
     "alternativas": [
-      "urubici",
-      "campos-do-jordao"
+      "vale-europeu",
+      "nova-petropolis"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -1842,7 +1842,7 @@
       },
       {
         "text": "Trilhas com vistas panorâmicas",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Museus e igrejas",
@@ -1877,13 +1877,13 @@
       "Fotografia"
     ],
     "similares": [
-      "vale-europeu",
       "pomerode",
-      "jaragua-do-sul"
+      "caxambu",
+      "lambari"
     ],
     "alternativas": [
-      "vale-europeu",
-      "gramado"
+      "caxambu",
+      "lambari"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -1950,12 +1950,12 @@
     ],
     "similares": [
       "blumenau",
-      "vale-europeu",
-      "timbo"
+      "caxambu",
+      "pocos-de-caldas"
     ],
     "alternativas": [
-      "blumenau",
-      "vale-europeu"
+      "caxambu",
+      "pocos-de-caldas"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -2021,13 +2021,13 @@
       "Trilhas"
     ],
     "similares": [
-      "petropolis",
       "nova-friburgo",
-      "vassouras"
+      "venda-nova-do-imigrante",
+      "areias"
     ],
     "alternativas": [
-      "petropolis",
-      "campos-do-jordao"
+      "venda-nova-do-imigrante",
+      "areias"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -2046,9 +2046,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno para passeios e descanso.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Hospedagens charmosas",
       "Fogueiras e vinho",
@@ -2073,7 +2073,7 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Teresópolis é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
+    "atmosfera": "Teresópolis é refúgio serrano com trilhas, cachoeiras e o clima ameno da Serra."
   },
   {
     "slug": "nova-friburgo",
@@ -2093,13 +2093,13 @@
       "Trilhas"
     ],
     "similares": [
-      "petropolis",
       "teresopolis",
-      "bom-jardim"
+      "pindamonhangaba",
+      "venda-nova-do-imigrante"
     ],
     "alternativas": [
-      "petropolis",
-      "campos-do-jordao"
+      "pindamonhangaba",
+      "venda-nova-do-imigrante"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -2118,9 +2118,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno para trilhas e cachoeiras.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Hospedagens charmosas",
       "Fogueiras e vinho",
@@ -2145,7 +2145,7 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Nova Friburgo oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
+    "atmosfera": "Nova Friburgo oferece trilhas, cachoeiras e o clima ameno da Serra Fluminense."
   },
   {
     "slug": "tiradentes",
@@ -2167,11 +2167,11 @@
     "similares": [
       "sao-joao-del-rei",
       "ouro-preto",
-      "congonhas"
+      "serro"
     ],
     "alternativas": [
-      "sao-joao-del-rei",
-      "ouro-preto"
+      "serro",
+      "sao-bento-do-sul"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -2190,9 +2190,9 @@
       "medio": 8,
       "premium": 10
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e festas.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Festividades culturais",
       "Arquitetura colonial preservada",
@@ -2217,7 +2217,7 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Tiradentes oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Tiradentes mantém viva a época do ouro com ruas de pedra, cachoeiras e arquitetura colonial."
   },
   {
     "slug": "sao-joao-del-rei",
@@ -2239,11 +2239,11 @@
     "similares": [
       "tiradentes",
       "ouro-preto",
-      "congonhas"
+      "mariana"
     ],
     "alternativas": [
-      "tiradentes",
-      "ouro-preto"
+      "mariana",
+      "serro"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -2309,13 +2309,13 @@
       "Fotografia"
     ],
     "similares": [
-      "tiradentes",
       "sao-joao-del-rei",
+      "tiradentes",
       "mariana"
     ],
     "alternativas": [
-      "tiradentes",
-      "sao-joao-del-rei"
+      "serro",
+      "joinville"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -2334,9 +2334,9 @@
       "medio": 8,
       "premium": 9
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e cultura.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Cultura e arte",
       "Centro histórico",
@@ -2361,7 +2361,7 @@
         "icon": "💎"
       }
     ],
-    "atmosfera": "Ouro Preto oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Ouro Preto é um museu a céu aberto com igrejas barrocas, ruas de pedra e a história do Brasil colonial."
   },
   {
     "slug": "mariana",
@@ -2381,13 +2381,13 @@
       "Fotografia"
     ],
     "similares": [
+      "sao-joao-del-rei",
       "ouro-preto",
-      "tiradentes",
-      "sao-joao-del-rei"
+      "serro"
     ],
     "alternativas": [
-      "ouro-preto",
-      "tiradentes"
+      "serro",
+      "diamantina"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -2406,9 +2406,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e trilhas.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Cultura e arte",
       "Gastronomia tradicional",
@@ -2433,7 +2433,7 @@
         "icon": "🌟"
       }
     ],
-    "atmosfera": "Mariana oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Mariana é a primeira capital de Minas, com igrejas barrocas, trilhas e a história do ciclo do ouro."
   },
   {
     "slug": "congonhas",
@@ -2453,13 +2453,13 @@
       "Fotografia"
     ],
     "similares": [
-      "tiradentes",
-      "sao-joao-del-rei",
-      "ouro-preto"
+      "diamantina",
+      "serro",
+      "sao-luiz-do-paraitinga"
     ],
     "alternativas": [
-      "tiradentes",
-      "sao-joao-del-rei"
+      "diamantina",
+      "serro"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -2478,9 +2478,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e religião.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Museus e igrejas",
       "Centro histórico",
@@ -2505,7 +2505,7 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Congonhas é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Congonhas é o berço de Aleijadinho com igrejas barrocas e a história do ciclo do ouro em Minas."
   },
   {
     "slug": "diamantina",
@@ -2525,13 +2525,13 @@
       "Fotografia"
     ],
     "similares": [
-      "tiradentes",
+      "congonhas",
       "serro",
-      "sabara"
+      "jaragua-do-sul"
     ],
     "alternativas": [
-      "tiradentes",
-      "sao-joao-del-rei"
+      "congonhas",
+      "jaragua-do-sul"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -2550,9 +2550,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e paisagens.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Museus e igrejas",
       "Centro histórico",
@@ -2577,7 +2577,7 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Diamantina é ideal para quem quer se perder em ruas de pedra e histórias antigas."
+    "atmosfera": "Diamantina preserva o charme do ciclo do diamante com casarões coloniais, trilhas e paisagens serranas."
   },
   {
     "slug": "serro",
@@ -2597,13 +2597,13 @@
       "Fotografia"
     ],
     "similares": [
+      "congonhas",
       "diamantina",
-      "tiradentes",
-      "conceicao-do-mato-dentro"
+      "pelotas"
     ],
     "alternativas": [
-      "diamantina",
-      "tiradentes"
+      "congonhas",
+      "pelotas"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -2669,13 +2669,13 @@
       "Fotografia"
     ],
     "similares": [
-      "ouro-preto",
-      "mariana",
-      "congonhas"
+      "palmeira",
+      "palhoca",
+      "biguacu"
     ],
     "alternativas": [
-      "ouro-preto",
-      "tiradentes"
+      "palmeira",
+      "palhoca"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -2694,9 +2694,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e gastronomia.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Museus e igrejas",
       "Festividades culturais",
@@ -2721,7 +2721,7 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Sabará é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Sabara preserva o barroco mineiro com igrejas, casarões e a gastronomia tradicional de Minas."
   },
   {
     "slug": "sao-lourenco",
@@ -2741,13 +2741,13 @@
       "Trilhas"
     ],
     "similares": [
-      "caxambu",
-      "lambari",
-      "poços-de-caldas"
+      "venda-nova-do-imigrante",
+      "domingos-martins",
+      "teresopolis"
     ],
     "alternativas": [
-      "caxambu",
-      "campos-do-jordao"
+      "venda-nova-do-imigrante",
+      "domingos-martins"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -2766,9 +2766,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e gastronomia.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Clima serrano romântico",
       "Atmosfera europeia",
@@ -2798,7 +2798,7 @@
         "icon": "✨"
       }
     ],
-    "atmosfera": "São Lourenço oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
+    "atmosfera": "São Lourenço oferece fontes de água mineral, gastronomia serrana e o clima ameno da Serra da Mantiqueira."
   },
   {
     "slug": "caxambu",
@@ -2818,13 +2818,13 @@
       "Trilhas"
     ],
     "similares": [
-      "sao-lourenco",
-      "lambari",
-      "poços-de-caldas"
+      "pocos-de-caldas",
+      "resende",
+      "lambari"
     ],
     "alternativas": [
-      "sao-lourenco",
-      "campos-do-jordao"
+      "pocos-de-caldas",
+      "resende"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -2895,13 +2895,13 @@
       "Trilhas"
     ],
     "similares": [
-      "sao-lourenco",
-      "caxambu",
-      "poços-de-caldas"
+      "vargem-alta",
+      "afonso-claudio",
+      "castelo"
     ],
     "alternativas": [
-      "sao-lourenco",
-      "campos-do-jordao"
+      "vargem-alta",
+      "afonso-claudio"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -2972,13 +2972,13 @@
       "Trilhas"
     ],
     "similares": [
-      "sao-lourenco",
       "caxambu",
-      "lambari"
+      "lambari",
+      "resende"
     ],
     "alternativas": [
-      "sao-lourenco",
-      "campos-do-jordao"
+      "resende",
+      "santa-maria-de-jetiba"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -3049,13 +3049,13 @@
       "Trilhas"
     ],
     "similares": [
-      "sao-bento-do-sapucai",
+      "campos-do-jordao",
       "monte-verde",
-      "pindamonhangaba"
+      "urubici"
     ],
     "alternativas": [
-      "monte-verde",
-      "gramado"
+      "campos-do-jordao",
+      "urubici"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -3126,13 +3126,13 @@
       "Trilhas"
     ],
     "similares": [
-      "campos-do-jordao",
-      "taubate",
-      "sao-bento-do-sapucai"
+      "nova-friburgo",
+      "areias",
+      "domingos-martins"
     ],
     "alternativas": [
-      "campos-do-jordao",
-      "monte-verde"
+      "nova-friburgo",
+      "areias"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -3198,13 +3198,13 @@
       "Fotografia"
     ],
     "similares": [
-      "areias",
-      "pindamonhangaba",
-      "taubate"
+      "tiradentes",
+      "sao-joao-del-rei",
+      "diamantina"
     ],
     "alternativas": [
-      "sao-bento-do-sapucai",
-      "campos-do-jordao"
+      "tiradentes",
+      "sao-joao-del-rei"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -3270,13 +3270,13 @@
       "Trilhas"
     ],
     "similares": [
-      "guaratingueta",
-      "sao-bento-do-sapucai",
+      "venda-nova-do-imigrante",
+      "teresopolis",
       "pindamonhangaba"
     ],
     "alternativas": [
-      "monte-verde",
-      "campos-do-jordao"
+      "venda-nova-do-imigrante",
+      "teresopolis"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -3315,7 +3315,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Natureza preservada",
@@ -3342,13 +3342,13 @@
       "Fotografia"
     ],
     "similares": [
-      "cunha",
-      "paraty",
-      "taubate"
+      "congonhas",
+      "itaperuna",
+      "porto-alegre"
     ],
     "alternativas": [
-      "tiradentes",
-      "sao-joao-del-rei"
+      "congonhas",
+      "itaperuna"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -3414,13 +3414,13 @@
       "Fotografia"
     ],
     "similares": [
-      "petropolis",
-      "valenca",
-      "barra-mansa"
+      "mariana",
+      "serro",
+      "guaratingueta"
     ],
     "alternativas": [
-      "petropolis",
-      "tiradentes"
+      "mariana",
+      "serro"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -3439,9 +3439,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno para passeios e cultura.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Gastronomia tradicional",
       "Arquitetura colonial preservada",
@@ -3466,7 +3466,7 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Vassouras combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Vassouras é vila histórica com casarões imperiais, gastronomia e o charme do Vale do Café."
   },
   {
     "slug": "resende",
@@ -3486,13 +3486,13 @@
       "Trilhas"
     ],
     "similares": [
-      "visconde-de-maua",
-      "penedo",
-      "itaperuna"
+      "caxambu",
+      "santa-maria-de-jetiba",
+      "lambari"
     ],
     "alternativas": [
-      "visconde-de-maua",
-      "campos-do-jordao"
+      "caxambu",
+      "santa-maria-de-jetiba"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -3563,13 +3563,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "paraty",
-      "ilha-grande",
-      "paty-do-alferes"
+      "matinhos",
+      "capao-da-canoa",
+      "buzios"
     ],
     "alternativas": [
-      "paraty",
-      "alter-do-chao"
+      "matinhos",
+      "capao-da-canoa"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -3635,13 +3635,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "paraty",
-      "trindade",
-      "abraao"
+      "camamu",
+      "japaratinga",
+      "santarem"
     ],
     "alternativas": [
-      "fernando-de-noronha",
-      "alter-do-chao"
+      "camamu",
+      "japaratinga"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -3660,9 +3660,9 @@
       "medio": 7,
       "premium": 9
     },
-    "seasonTitle": "Verão litorâneo",
-    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
-    "seasonPeriod": "Dez – Mar",
+    "seasonTitle": "Temporada de sol",
+    "seasonDescription": "Período de sol forte para praias e trilhas.",
+    "seasonPeriod": "Dez–Mar",
     "uniqueReasons": [
       "Surf e mergulho",
       "Vida marinha",
@@ -3676,7 +3676,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Contato com a natureza",
@@ -3687,7 +3687,7 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Ilha Grande oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Ilha Grande é refúgio de praias desertas, trilhas e o ritmo lento da Costa Verde."
   },
   {
     "slug": "buzios",
@@ -3709,11 +3709,11 @@
     "similares": [
       "cabo-frio",
       "arraial-do-cabo",
-      "macae"
+      "cassino"
     ],
     "alternativas": [
-      "paraty",
-      "fernando-de-noronha"
+      "cassino",
+      "trindade"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -3732,9 +3732,9 @@
       "medio": 8,
       "premium": 10
     },
-    "seasonTitle": "Verão litorâneo",
-    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
-    "seasonPeriod": "Dez – Mar",
+    "seasonTitle": "Temporada de sol",
+    "seasonDescription": "Período de sol forte para praias e gastronomia.",
+    "seasonPeriod": "Dez–Mar",
     "uniqueReasons": [
       "Pôr do sol inesquecível",
       "Vida marinha",
@@ -3748,7 +3748,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Paisagens únicas",
@@ -3759,7 +3759,7 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Búzios é para quem ama o mar, brisa salgada e dias inteiros de sol."
+    "atmosfera": "Búzios é paraíso de prata com praias, gastronomia internacional e o charme do litoral."
   },
   {
     "slug": "cabo-frio",
@@ -3779,13 +3779,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "buzios",
       "arraial-do-cabo",
-      "araruama"
+      "buzios",
+      "caioba"
     ],
     "alternativas": [
-      "buzios",
-      "paraty"
+      "caioba",
+      "trindade"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -3804,9 +3804,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Verão litorâneo",
-    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
-    "seasonPeriod": "Dez – Mar",
+    "seasonTitle": "Temporada de sol",
+    "seasonDescription": "Período de sol forte para praias e passeios.",
+    "seasonPeriod": "Dez–Mar",
     "uniqueReasons": [
       "Ilhas e baías",
       "Vida marinha",
@@ -3820,7 +3820,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Paisagens únicas",
@@ -3831,7 +3831,7 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Cabo Frio é para quem ama o mar, brisa salgada e dias inteiros de sol."
+    "atmosfera": "Cabo Frio oferece praias, dunas e a história da colonização no litoral fluminense."
   },
   {
     "slug": "arraial-do-cabo",
@@ -3851,13 +3851,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "buzios",
       "cabo-frio",
-      "macae"
+      "buzios",
+      "caioba"
     ],
     "alternativas": [
-      "buzios",
-      "paraty"
+      "caioba",
+      "trindade"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -3876,9 +3876,9 @@
       "medio": 7,
       "premium": 8
     },
-    "seasonTitle": "Verão litorâneo",
-    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
-    "seasonPeriod": "Dez – Mar",
+    "seasonTitle": "Temporada de sol",
+    "seasonDescription": "Período de sol forte para praias e descanso.",
+    "seasonPeriod": "Dez–Mar",
     "uniqueReasons": [
       "Ilhas e baías",
       "Vida marinha",
@@ -3892,7 +3892,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Observação de fauna",
@@ -3903,7 +3903,7 @@
         "icon": "⭐"
       }
     ],
-    "atmosfera": "Arraial do Cabo é para quem ama o mar, brisa salgada e dias inteiros de sol."
+    "atmosfera": "Arraial do Cabo é vila de pescadores com praias desertas e o ritmo lento do Rio."
   },
   {
     "slug": "venda-nova-do-imigrante",
@@ -3924,12 +3924,12 @@
     ],
     "similares": [
       "domingos-martins",
-      "vargem-alta",
-      "afonso-claudio"
+      "teresopolis",
+      "nova-friburgo"
     ],
     "alternativas": [
-      "domingos-martins",
-      "vale-europeu"
+      "teresopolis",
+      "nova-friburgo"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -4000,13 +4000,13 @@
       "Trilhas"
     ],
     "similares": [
-      "domingos-martins",
-      "venda-nova-do-imigrante",
-      "castelo"
+      "santa-teresa",
+      "lambari",
+      "afonso-claudio"
     ],
     "alternativas": [
-      "domingos-martins",
-      "campos-do-jordao"
+      "santa-teresa",
+      "lambari"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -4045,7 +4045,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Observação de fauna",
@@ -4072,13 +4072,13 @@
       "Trilhas"
     ],
     "similares": [
-      "domingos-martins",
-      "venda-nova-do-imigrante",
-      "venda-nova"
+      "castelo",
+      "santa-teresa",
+      "vargem-alta"
     ],
     "alternativas": [
-      "domingos-martins",
-      "campos-do-jordao"
+      "castelo",
+      "santa-teresa"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -4113,7 +4113,7 @@
       },
       {
         "text": "Trilhas com vistas panorâmicas",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Paisagens únicas",
@@ -4144,13 +4144,13 @@
       "Trilhas"
     ],
     "similares": [
+      "afonso-claudio",
       "vargem-alta",
-      "domingos-martins",
-      "venda-nova-do-imigrante"
+      "santa-teresa"
     ],
     "alternativas": [
-      "domingos-martins",
-      "campos-do-jordao"
+      "afonso-claudio",
+      "santa-teresa"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -4185,7 +4185,7 @@
       },
       {
         "text": "Trilhas com vistas panorâmicas",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Paisagens únicas",
@@ -4216,13 +4216,13 @@
       "Trilhas"
     ],
     "similares": [
-      "venda-nova-do-imigrante",
-      "domingos-martins",
-      "afonso-claudio"
+      "resende",
+      "caxambu",
+      "pocos-de-caldas"
     ],
     "alternativas": [
-      "domingos-martins",
-      "vale-europeu"
+      "resende",
+      "caxambu"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -4293,13 +4293,13 @@
       "Fotografia"
     ],
     "similares": [
-      "santa-teresa",
-      "venda-nova-do-imigrante",
-      "domingos-martins"
+      "joinville",
+      "jaragua-do-sul",
+      "pelotas"
     ],
     "alternativas": [
-      "tiradentes",
-      "sao-joao-del-rei"
+      "joinville",
+      "jaragua-do-sul"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -4365,13 +4365,13 @@
       "Trilhas"
     ],
     "similares": [
-      "santa-leopoldina",
-      "domingos-martins",
-      "venda-nova-do-imigrante"
+      "vargem-alta",
+      "afonso-claudio",
+      "castelo"
     ],
     "alternativas": [
-      "domingos-martins",
-      "campos-do-jordao"
+      "vargem-alta",
+      "afonso-claudio"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -4402,7 +4402,7 @@
     "uniqueReasonsWithIcons": [
       {
         "text": "Trilhas com vistas panorâmicas",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Fogueiras e vinho",
@@ -4437,13 +4437,13 @@
       "Fotografia"
     ],
     "similares": [
-      "penedo",
-      "resende",
-      "campos-dos-goytacazes"
+      "sao-luiz-do-paraitinga",
+      "sao-jose-dos-pinhais",
+      "tiradentes"
     ],
     "alternativas": [
-      "penedo",
-      "visconde-de-maua"
+      "sao-luiz-do-paraitinga",
+      "sao-jose-dos-pinhais"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -4509,13 +4509,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "porto-de-galinhas",
-      "maceio",
-      "japaratinga"
+      "japaratinga",
+      "prado",
+      "porto-de-galinhas"
     ],
     "alternativas": [
-      "fernando-de-noronha",
-      "alter-do-chao"
+      "prado",
+      "corumbau"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -4582,12 +4582,12 @@
     ],
     "similares": [
       "maragogi",
-      "recife",
-      "olinda"
+      "ilha-grande",
+      "japaratinga"
     ],
     "alternativas": [
-      "fernando-de-noronha",
-      "maragogi"
+      "ilha-grande",
+      "japaratinga"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -4654,12 +4654,12 @@
     ],
     "similares": [
       "recife",
-      "porto-de-galinhas",
-      "igarassu"
+      "paraty",
+      "ciudad-del-este"
     ],
     "alternativas": [
-      "tiradentes",
-      "sao-joao-del-rei"
+      "paraty",
+      "ciudad-del-este"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -4726,12 +4726,12 @@
     ],
     "similares": [
       "olinda",
-      "porto-de-galinhas",
-      "boa-viagem"
+      "tramandai",
+      "trindade"
     ],
     "alternativas": [
-      "olinda",
-      "maceio"
+      "tramandai",
+      "trindade"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -4797,13 +4797,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "maragogi",
-      "porto-de-galinhas",
-      "japaratinga"
+      "japaratinga",
+      "corumbau",
+      "maragogi"
     ],
     "alternativas": [
-      "porto-de-galinhas",
-      "fernando-de-noronha"
+      "corumbau",
+      "santarem"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -4846,7 +4846,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       }
     ],
     "atmosfera": "Maceió é para quem ama o mar, brisa salgada e dias inteiros de sol."
@@ -4869,13 +4869,13 @@
       "Slow Travel"
     ],
     "similares": [
+      "maceio",
       "maragogi",
-      "porto-de-galinhas",
-      "maragogi"
+      "corumbau"
     ],
     "alternativas": [
-      "alter-do-chao",
-      "trindade"
+      "maceio",
+      "corumbau"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -4941,13 +4941,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "alter-do-chao",
-      "belem",
-      "obidos"
+      "boipeba",
+      "ilha-grande",
+      "porto-de-galinhas"
     ],
     "alternativas": [
-      "alter-do-chao",
-      "manaus"
+      "boipeba",
+      "ilha-grande"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -4966,9 +4966,9 @@
       "medio": 7,
       "premium": 7
     },
-    "seasonTitle": "Verão litorâneo",
-    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
-    "seasonPeriod": "Dez – Mar",
+    "seasonTitle": "Temporada de águas baixas",
+    "seasonDescription": "Período de águas baixas ideal para passeios fluviais.",
+    "seasonPeriod": "Jul–Out",
     "uniqueReasons": [
       "Surf e mergulho",
       "Águas cristalinas",
@@ -4993,7 +4993,7 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Santarém combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
+    "atmosfera": "Santarém une praias fluviais, gastronomia regional e a cultura do Amazonas."
   },
   {
     "slug": "belem",
@@ -5013,13 +5013,13 @@
       "Fotografia"
     ],
     "similares": [
-      "santarem",
-      "alter-do-chao",
-      "marajo"
+      "manaus",
+      "parintins",
+      "alter-do-chao"
     ],
     "alternativas": [
-      "santarem",
-      "manaus"
+      "manaus",
+      "parintins"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -5038,9 +5038,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de chuvas",
+    "seasonDescription": "Período de chuvas intensas na Amazônia.",
+    "seasonPeriod": "Jan–Mai",
     "uniqueReasons": [
       "Museus e igrejas",
       "Centro histórico",
@@ -5065,7 +5065,7 @@
         "icon": "🎯"
       }
     ],
-    "atmosfera": "Belém oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Belém é o portal da Amazônia com gastronomia paraense, mercados e a cultura ribeirinha."
   },
   {
     "slug": "manaus",
@@ -5087,11 +5087,11 @@
     "similares": [
       "parintins",
       "itacoatiara",
-      "presidente-figueiredo"
+      "belem"
     ],
     "alternativas": [
       "belem",
-      "santarem"
+      "rio-preto-da-eva"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -5110,9 +5110,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Temporada de chuvas",
+    "seasonDescription": "Período de chuvas intensas na Amazônia.",
+    "seasonPeriod": "Fev–Mai",
     "uniqueReasons": [
       "Museus e igrejas",
       "Patrimônio histórico",
@@ -5137,7 +5137,7 @@
         "icon": "💫"
       }
     ],
-    "atmosfera": "Manaus é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Manaus é metrópole amazônica com encontro das águas, teatro e a cultura da floresta."
   },
   {
     "slug": "parintins",
@@ -5159,11 +5159,11 @@
     "similares": [
       "manaus",
       "itacoatiara",
-      "coari"
+      "belem"
     ],
     "alternativas": [
-      "manaus",
-      "belem"
+      "belem",
+      "trancoso"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -5229,13 +5229,13 @@
       "Fotografia"
     ],
     "similares": [
-      "manaus",
-      "itacoatiara",
-      "rio-preto-da-eva"
+      "rio-preto-da-eva",
+      "jalapao",
+      "lencois-maranhenses"
     ],
     "alternativas": [
       "jalapao",
-      "chapada-dos-veadeiros"
+      "lencois-maranhenses"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -5292,12 +5292,12 @@
     ],
     "similares": [
       "presidente-figueiredo",
-      "manaus",
-      "itacoatiara"
+      "jalapao",
+      "lencois-maranhenses"
     ],
     "alternativas": [
-      "presidente-figueiredo",
-      "jalapao"
+      "jalapao",
+      "lencois-maranhenses"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -5330,7 +5330,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       }
     ],
     "atmosfera": "Rio Preto da Eva combina trilhas, cachoeiras e a beleza crua do ambiente natural."
@@ -5355,11 +5355,11 @@
     "similares": [
       "manaus",
       "parintins",
-      "presidente-figueiredo"
+      "morro-de-sao-paulo"
     ],
     "alternativas": [
-      "manaus",
-      "belem"
+      "morro-de-sao-paulo",
+      "alter-do-chao"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -5427,11 +5427,11 @@
     "similares": [
       "jardim",
       "bodoquena",
-      "miranda"
+      "chapada-diamantina"
     ],
     "alternativas": [
-      "jalapao",
-      "chapada-dos-veadeiros"
+      "chapada-diamantina",
+      "iguacu-national-park"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -5487,13 +5487,13 @@
       "Fotografia"
     ],
     "similares": [
-      "bonito",
       "bodoquena",
-      "miranda"
+      "puerto-iguazu",
+      "bonito"
     ],
     "alternativas": [
-      "bonito",
-      "jalapao"
+      "puerto-iguazu",
+      "chapada-diamantina"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -5526,7 +5526,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       }
     ],
     "atmosfera": "Jardim oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
@@ -5549,13 +5549,13 @@
       "Fotografia"
     ],
     "similares": [
-      "bonito",
       "jardim",
-      "miranda"
+      "puerto-iguazu",
+      "bonito"
     ],
     "alternativas": [
-      "bonito",
-      "jalapao"
+      "puerto-iguazu",
+      "chapada-diamantina"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -5588,7 +5588,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       }
     ],
     "atmosfera": "Bodoquena é para quem busca conexão profunda com a natureza e paisagens originais."
@@ -5611,13 +5611,13 @@
       "Fotografia"
     ],
     "similares": [
-      "bonito",
       "corumba",
-      "aquidauana"
+      "aquidauana",
+      "jalapao"
     ],
     "alternativas": [
-      "bonito",
-      "jalapao"
+      "jalapao",
+      "lencois-maranhenses"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -5675,11 +5675,11 @@
     "similares": [
       "miranda",
       "aquidauana",
-      "ladario"
+      "jalapao"
     ],
     "alternativas": [
-      "bonito",
-      "jalapao"
+      "jalapao",
+      "lencois-maranhenses"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -5735,13 +5735,13 @@
       "Fotografia"
     ],
     "similares": [
-      "corumba",
       "miranda",
-      "ladario"
+      "corumba",
+      "jalapao"
     ],
     "alternativas": [
-      "bonito",
-      "jalapao"
+      "jalapao",
+      "lencois-maranhenses"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -5797,13 +5797,13 @@
       "Fotografia"
     ],
     "similares": [
-      "lençóis",
-      "mucuge",
-      "palmeiras"
+      "foz-do-iguacu",
+      "bonito",
+      "jardim"
     ],
     "alternativas": [
-      "chapada-dos-veadeiros",
-      "jalapao"
+      "foz-do-iguacu",
+      "bonito"
     ],
     "pontuacoes": {
       "solo": 9,
@@ -5822,9 +5822,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Temporada seca",
-    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
-    "seasonPeriod": "Set – Mar",
+    "seasonTitle": "Temporada de clima ameno",
+    "seasonDescription": "Período de clima ameno ideal para passeios e cachoeiras.",
+    "seasonPeriod": "Abr–Out",
     "uniqueReasons": [
       "Contato com a natureza",
       "Observação de fauna"
@@ -5839,7 +5839,7 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Chapada Diamantina é para quem busca conexão profunda com a natureza e paisagens originais."
+    "atmosfera": "Chapada Diamantina oferece cachoeiras, cânions e trilhas em um cenário de serras e vales."
   },
   {
     "slug": "lencois-ba",
@@ -5859,13 +5859,13 @@
       "Fotografia"
     ],
     "similares": [
-      "chapada-diamantina",
-      "mucuge",
-      "palmeiras"
+      "palmeiras",
+      "chapada-dos-veadeiros",
+      "mucuge"
     ],
     "alternativas": [
-      "tiradentes",
-      "chapada-diamantina"
+      "chapada-dos-veadeiros",
+      "sao-felix"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -5931,13 +5931,13 @@
       "Fotografia"
     ],
     "similares": [
-      "lençóis",
-      "chapada-diamantina",
-      "palmeiras"
+      "lencois-ba",
+      "palmeiras",
+      "chapada-dos-veadeiros"
     ],
     "alternativas": [
-      "tiradentes",
-      "chapada-diamantina"
+      "lencois-ba",
+      "chapada-dos-veadeiros"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -5980,7 +5980,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       }
     ],
     "atmosfera": "Mucugê oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
@@ -6003,13 +6003,13 @@
       "Fotografia"
     ],
     "similares": [
-      "lençóis",
-      "chapada-diamantina",
+      "lencois-ba",
+      "chapada-dos-veadeiros",
       "mucuge"
     ],
     "alternativas": [
-      "tiradentes",
-      "chapada-diamantina"
+      "lencois-ba",
+      "chapada-dos-veadeiros"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -6075,13 +6075,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "prado",
       "camamu",
-      "ilheus"
+      "caraiva",
+      "boipeba"
     ],
     "alternativas": [
-      "trindade",
-      "paraty"
+      "caraiva",
+      "boipeba"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -6100,9 +6100,9 @@
       "medio": 8,
       "premium": 9
     },
-    "seasonTitle": "Temporada de sol e mar",
-    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
-    "seasonPeriod": "Set – Mar",
+    "seasonTitle": "Temporada de calor",
+    "seasonDescription": "Período de calor ideal para praias e passeios.",
+    "seasonPeriod": "Dez–Mar",
     "uniqueReasons": [
       "Ilhas e baías",
       "Praias paradisíacas",
@@ -6127,7 +6127,7 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Itacaré oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Itacaré une praias paradisíacas, cachoeiras e cultura caiçara no litoral sul da Bahia."
   },
   {
     "slug": "prado",
@@ -6147,13 +6147,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "itacare",
-      "camamu",
-      "cumuruxatiba"
+      "maragogi",
+      "corumbau",
+      "boipeba"
     ],
     "alternativas": [
-      "itacare",
-      "trindade"
+      "maragogi",
+      "corumbau"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -6219,13 +6219,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "itacare",
-      "prado",
-      "ilheus"
+      "boipeba",
+      "ilha-grande",
+      "itacare"
     ],
     "alternativas": [
-      "itacare",
-      "trindade"
+      "boipeba",
+      "ilha-grande"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -6260,7 +6260,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Aventuras ao ar livre",
@@ -6292,11 +6292,11 @@
     ],
     "similares": [
       "itacare",
-      "camamu",
-      "itabuna"
+      "prado",
+      "porto-seguro"
     ],
     "alternativas": [
-      "itacare",
+      "prado",
       "porto-seguro"
     ],
     "pontuacoes": {
@@ -6368,13 +6368,13 @@
       "Slow Travel"
     ],
     "similares": [
+      "itacare",
       "trancoso",
-      "arraial-dajuda",
-      "corumbau"
+      "alter-do-chao"
     ],
     "alternativas": [
       "itacare",
-      "paraty"
+      "alter-do-chao"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -6445,13 +6445,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "porto-seguro",
       "arraial-dajuda",
-      "corumbau"
+      "porto-seguro",
+      "fernando-de-noronha"
     ],
     "alternativas": [
-      "paraty",
-      "fernando-de-noronha"
+      "fernando-de-noronha",
+      "camamu"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -6470,9 +6470,9 @@
       "medio": 8,
       "premium": 10
     },
-    "seasonTitle": "Temporada de sol e mar",
-    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
-    "seasonPeriod": "Set – Mar",
+    "seasonTitle": "Temporada de calor",
+    "seasonDescription": "Período de calor ideal para praias e descanso.",
+    "seasonPeriod": "Dez–Mar",
     "uniqueReasons": [
       "Vida marinha",
       "Pôr do sol inesquecível",
@@ -6483,7 +6483,7 @@
     "uniqueReasonsWithIcons": [
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Pôr do sol inesquecível",
@@ -6502,7 +6502,7 @@
         "icon": "💎"
       }
     ],
-    "atmosfera": "Trancoso é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Trancoso preserva o charme da vila de pescadores com praias desertas e clima descontraído."
   },
   {
     "slug": "arraial-dajuda",
@@ -6523,12 +6523,12 @@
     ],
     "similares": [
       "trancoso",
-      "porto-seguro",
-      "corumbau"
+      "fernando-de-noronha",
+      "camamu"
     ],
     "alternativas": [
-      "trancoso",
-      "itacare"
+      "fernando-de-noronha",
+      "camamu"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -6560,7 +6560,7 @@
     "uniqueReasonsWithIcons": [
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Pôr do sol inesquecível",
@@ -6599,13 +6599,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "trancoso",
-      "porto-seguro",
-      "caraiva"
+      "maceio",
+      "japaratinga",
+      "prado"
     ],
     "alternativas": [
-      "trancoso",
-      "alter-do-chao"
+      "maceio",
+      "japaratinga"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -6671,13 +6671,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "corumbau",
-      "trancoso",
-      "porto-seguro"
+      "itacare",
+      "maceio",
+      "prado"
     ],
     "alternativas": [
-      "trancoso",
-      "alter-do-chao"
+      "itacare",
+      "maceio"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -6743,13 +6743,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "boipeba",
-      "valença",
-      "salvador"
+      "prado",
+      "camamu",
+      "trancoso"
     ],
     "alternativas": [
-      "itacare",
-      "trancoso"
+      "prado",
+      "camamu"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -6768,9 +6768,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Temporada de sol e mar",
-    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
-    "seasonPeriod": "Set – Mar",
+    "seasonTitle": "Temporada de calor",
+    "seasonDescription": "Período de calor ideal para praias e passeios.",
+    "seasonPeriod": "Dez–Mar",
     "uniqueReasons": [
       "Vida marinha",
       "Águas cristalinas",
@@ -6781,7 +6781,7 @@
     "uniqueReasonsWithIcons": [
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Águas cristalinas",
@@ -6800,7 +6800,7 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Morro de São Paulo oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Morro de São Paulo é vila de pescadores com praias desertas, trilhas e o ritmo lento da Bahia."
   },
   {
     "slug": "boipeba",
@@ -6820,13 +6820,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "morro-de-sao-paulo",
-      "valença",
-      "salvador"
+      "camamu",
+      "japaratinga",
+      "santarem"
     ],
     "alternativas": [
-      "itacare",
-      "alter-do-chao"
+      "camamu",
+      "japaratinga"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -6845,9 +6845,9 @@
       "medio": 7,
       "premium": 8
     },
-    "seasonTitle": "Temporada de sol e mar",
-    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
-    "seasonPeriod": "Set – Mar",
+    "seasonTitle": "Temporada de calor",
+    "seasonDescription": "Período de calor ideal para praias e passeios.",
+    "seasonPeriod": "Dez–Mar",
     "uniqueReasons": [
       "Surf e mergulho",
       "Águas cristalinas",
@@ -6872,7 +6872,7 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Boipeba combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
+    "atmosfera": "Boipeba é ilha paradisíaca com praias desertas, manguezais e a cultura da Bahia."
   },
   {
     "slug": "salvador",
@@ -6892,13 +6892,13 @@
       "Fotografia"
     ],
     "similares": [
-      "morro-de-sao-paulo",
-      "boipeba",
-      "cachoeira"
+      "recife",
+      "tramandai",
+      "olinda"
     ],
     "alternativas": [
-      "olinda",
-      "recife"
+      "recife",
+      "tramandai"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -6964,13 +6964,13 @@
       "Fotografia"
     ],
     "similares": [
-      "sao-felix",
-      "salvador",
-      "feira-de-santana"
+      "feira-de-santana",
+      "lencois-ba",
+      "palmeiras"
     ],
     "alternativas": [
-      "tiradentes",
-      "sao-joao-del-rei"
+      "lencois-ba",
+      "palmeiras"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -7036,13 +7036,13 @@
       "Fotografia"
     ],
     "similares": [
-      "cachoeira",
-      "salvador",
+      "lencois-ba",
+      "palmeiras",
       "feira-de-santana"
     ],
     "alternativas": [
-      "tiradentes",
-      "cachoeira"
+      "lencois-ba",
+      "palmeiras"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -7108,13 +7108,13 @@
       "Fotografia"
     ],
     "similares": [
-      "cachoeira",
-      "salvador",
-      "alagoinhas"
+      "lencois-ba",
+      "mucuge",
+      "palmeiras"
     ],
     "alternativas": [
-      "salvador",
-      "cachoeira"
+      "lencois-ba",
+      "mucuge"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -7181,12 +7181,12 @@
     ],
     "similares": [
       "palhoca",
-      "sao-jose",
-      "biguacu"
+      "sao-jose-sc",
+      "paranagua"
     ],
     "alternativas": [
-      "paraty",
-      "ilha-grande"
+      "sao-jose-sc",
+      "paranagua"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -7222,7 +7222,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Museus e igrejas",
@@ -7258,12 +7258,12 @@
     ],
     "similares": [
       "florianopolis",
-      "sao-jose",
+      "sao-jose-sc",
       "biguacu"
     ],
     "alternativas": [
-      "florianopolis",
-      "ilha-grande"
+      "sao-jose-sc",
+      "paranagua"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -7299,7 +7299,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Festividades culturais",
@@ -7336,11 +7336,11 @@
     "similares": [
       "florianopolis",
       "palhoca",
-      "biguacu"
+      "paranagua"
     ],
     "alternativas": [
-      "florianopolis",
-      "ilha-grande"
+      "paranagua",
+      "rio-grande"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -7376,7 +7376,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Centro histórico",
@@ -7411,13 +7411,13 @@
       "Fotografia"
     ],
     "similares": [
-      "florianopolis",
       "palhoca",
-      "sao-jose"
+      "antonina",
+      "carambei"
     ],
     "alternativas": [
-      "florianopolis",
-      "blumenau"
+      "antonina",
+      "carambei"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -7483,13 +7483,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "florianopolis",
       "imbituba",
-      "laguna"
+      "turvo",
+      "arroio-do-sal"
     ],
     "alternativas": [
-      "itacare",
-      "ilha-grande"
+      "turvo",
+      "arroio-do-sal"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -7556,12 +7556,12 @@
     ],
     "similares": [
       "garopaba",
-      "florianopolis",
-      "laguna"
+      "turvo",
+      "torres"
     ],
     "alternativas": [
-      "itacare",
-      "trindade"
+      "turvo",
+      "torres"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -7600,7 +7600,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Ecoturismo",
@@ -7627,13 +7627,13 @@
       "Fotografia"
     ],
     "similares": [
-      "garopaba",
-      "imbituba",
+      "sao-felix",
+      "florianopolis",
       "turvo"
     ],
     "alternativas": [
-      "paraty",
-      "ilha-grande"
+      "sao-felix",
+      "florianopolis"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -7677,7 +7677,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Workation friendly",
@@ -7704,13 +7704,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "laguna",
       "garopaba",
-      "imbituba"
+      "imbituba",
+      "buzios"
     ],
     "alternativas": [
-      "trindade",
-      "itacare"
+      "buzios",
+      "cabo-frio"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -7745,7 +7745,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Contato com a natureza",
@@ -7776,13 +7776,13 @@
       "Fotografia"
     ],
     "similares": [
-      "jaragua-do-sul",
-      "blumenau",
-      "sao-francisco-do-sul"
+      "ouro-preto",
+      "santa-leopoldina",
+      "jaragua-do-sul"
     ],
     "alternativas": [
-      "blumenau",
-      "curitiba"
+      "ouro-preto",
+      "santa-leopoldina"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -7848,13 +7848,13 @@
       "Fotografia"
     ],
     "similares": [
-      "joinville",
-      "blumenau",
-      "sao-bento-do-sul"
+      "diamantina",
+      "santa-leopoldina",
+      "joinville"
     ],
     "alternativas": [
-      "blumenau",
-      "joinville"
+      "diamantina",
+      "santa-leopoldina"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -7920,13 +7920,13 @@
       "Fotografia"
     ],
     "similares": [
-      "jaragua-do-sul",
-      "blumenau",
-      "rio-negrinho"
+      "tiradentes",
+      "sao-joao-del-rei",
+      "sao-jose-dos-pinhais"
     ],
     "alternativas": [
-      "blumenau",
-      "vale-europeu"
+      "tiradentes",
+      "sao-joao-del-rei"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -7992,13 +7992,13 @@
       "Trilhas"
     ],
     "similares": [
-      "sao-bento-do-sul",
-      "jaragua-do-sul",
-      "blumenau"
+      "guarapuava",
+      "lambari",
+      "pocos-de-caldas"
     ],
     "alternativas": [
-      "blumenau",
-      "vale-europeu"
+      "guarapuava",
+      "lambari"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -8069,13 +8069,13 @@
       "Fotografia"
     ],
     "similares": [
-      "joinville",
       "sao-jose-dos-pinhais",
-      "colombo"
+      "pelotas",
+      "tiradentes"
     ],
     "alternativas": [
-      "blumenau",
-      "florianopolis"
+      "pelotas",
+      "tiradentes"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -8142,12 +8142,12 @@
     ],
     "similares": [
       "curitiba",
-      "colombo",
-      "araucaria"
+      "tiradentes",
+      "sao-joao-del-rei"
     ],
     "alternativas": [
-      "curitiba",
-      "joinville"
+      "tiradentes",
+      "sao-joao-del-rei"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -8213,13 +8213,13 @@
       "Fotografia"
     ],
     "similares": [
-      "curitiba",
-      "sao-jose-dos-pinhais",
-      "araucaria"
+      "araucaria",
+      "bento-goncalves",
+      "tiradentes"
     ],
     "alternativas": [
-      "curitiba",
-      "blumenau"
+      "bento-goncalves",
+      "tiradentes"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -8285,13 +8285,13 @@
       "Fotografia"
     ],
     "similares": [
+      "sao-bento-do-sul",
       "curitiba",
-      "colombo",
       "sao-jose-dos-pinhais"
     ],
     "alternativas": [
-      "curitiba",
-      "joinville"
+      "sao-bento-do-sul",
+      "tiradentes"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -8357,13 +8357,13 @@
       "Fotografia"
     ],
     "similares": [
-      "curitiba",
+      "maringa",
       "paranagua",
       "antonina"
     ],
     "alternativas": [
-      "tiradentes",
-      "sao-joao-del-rei"
+      "maringa",
+      "cascavel"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -8429,13 +8429,13 @@
       "Fotografia"
     ],
     "similares": [
-      "morretes",
-      "antonina",
-      "matinhos"
+      "florianopolis",
+      "rio-grande",
+      "palhoca"
     ],
     "alternativas": [
-      "paraty",
-      "ilha-grande"
+      "florianopolis",
+      "rio-grande"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -8506,13 +8506,13 @@
       "Fotografia"
     ],
     "similares": [
+      "biguacu",
       "morretes",
-      "paranagua",
-      "guaratuba"
+      "cascavel"
     ],
     "alternativas": [
-      "tiradentes",
-      "paranagua"
+      "biguacu",
+      "cascavel"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -8578,13 +8578,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "paranagua",
+      "trindade",
       "guaratuba",
-      "caioba"
+      "capao-da-canoa"
     ],
     "alternativas": [
-      "itacare",
-      "trindade"
+      "trindade",
+      "capao-da-canoa"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -8651,12 +8651,12 @@
     ],
     "similares": [
       "matinhos",
-      "paranagua",
-      "antonina"
+      "trindade",
+      "caioba"
     ],
     "alternativas": [
-      "itacare",
-      "trindade"
+      "trindade",
+      "caioba"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -8687,7 +8687,7 @@
     "uniqueReasonsWithIcons": [
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Surf e mergulho",
@@ -8722,13 +8722,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "matinhos",
-      "guaratuba",
-      "paranagua"
+      "buzios",
+      "cabo-frio",
+      "arraial-do-cabo"
     ],
     "alternativas": [
-      "trindade",
-      "alter-do-chao"
+      "buzios",
+      "cabo-frio"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -8763,7 +8763,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Paisagens únicas",
@@ -8771,7 +8771,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       }
     ],
     "atmosfera": "Caioba é para quem ama o mar, brisa salgada e dias inteiros de sol."
@@ -8794,13 +8794,13 @@
       "Fotografia"
     ],
     "similares": [
-      "puerto-iguazu",
-      "ciudad-del-este",
-      "iguacu-national-park"
+      "iguacu-national-park",
+      "chapada-diamantina",
+      "bonito"
     ],
     "alternativas": [
-      "jalapao",
-      "chapada-dos-veadeiros"
+      "chapada-diamantina",
+      "bonito"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -8856,13 +8856,13 @@
       "Fotografia"
     ],
     "similares": [
-      "foz-do-iguacu",
-      "ciudad-del-este",
-      "iguazu-national-park"
+      "jardim",
+      "bodoquena",
+      "bonito"
     ],
     "alternativas": [
-      "foz-do-iguacu",
-      "jalapao"
+      "jardim",
+      "bodoquena"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -8895,7 +8895,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       }
     ],
     "atmosfera": "Puerto Iguazú é para quem busca conexão profunda com a natureza e paisagens originais."
@@ -8918,13 +8918,13 @@
       "Fotografia"
     ],
     "similares": [
-      "foz-do-iguacu",
-      "puerto-iguazu",
-      "iguazu-national-park"
+      "paraty",
+      "olinda",
+      "bonito"
     ],
     "alternativas": [
-      "foz-do-iguacu",
-      "curitiba"
+      "paraty",
+      "olinda"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -8991,12 +8991,12 @@
     ],
     "similares": [
       "foz-do-iguacu",
-      "puerto-iguazu",
-      "ciudad-del-este"
+      "bonito",
+      "chapada-diamantina"
     ],
     "alternativas": [
-      "jalapao",
-      "chapada-dos-veadeiros"
+      "bonito",
+      "chapada-diamantina"
     ],
     "pontuacoes": {
       "solo": 9,
@@ -9052,13 +9052,13 @@
       "Fotografia"
     ],
     "similares": [
-      "foz-do-iguacu",
-      "guarapuava",
-      "pato-branco"
+      "pato-branco",
+      "maringa",
+      "castro"
     ],
     "alternativas": [
-      "foz-do-iguacu",
-      "curitiba"
+      "maringa",
+      "castro"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -9124,13 +9124,13 @@
       "Trilhas"
     ],
     "similares": [
-      "cascavel",
-      "pato-branco",
-      "laranjal"
+      "rio-negrinho",
+      "lambari",
+      "pocos-de-caldas"
     ],
     "alternativas": [
-      "palmas",
-      "lages"
+      "rio-negrinho",
+      "lambari"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -9202,12 +9202,12 @@
     ],
     "similares": [
       "cascavel",
-      "guarapuava",
-      "francisco-beltrao"
+      "ponta-grossa",
+      "castro"
     ],
     "alternativas": [
-      "guarapuava",
-      "cascavel"
+      "ponta-grossa",
+      "castro"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -9273,13 +9273,13 @@
       "Fotografia"
     ],
     "similares": [
-      "pato-branco",
-      "guarapuava",
-      "cascavel"
+      "antonina",
+      "londrina",
+      "ponta-grossa"
     ],
     "alternativas": [
-      "guarapuava",
-      "cascavel"
+      "antonina",
+      "londrina"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -9345,13 +9345,13 @@
       "Fotografia"
     ],
     "similares": [
-      "maringa",
       "ponta-grossa",
-      "apucarana"
+      "antonina",
+      "francisco-beltrao"
     ],
     "alternativas": [
-      "curitiba",
-      "maringa"
+      "antonina",
+      "francisco-beltrao"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -9417,13 +9417,13 @@
       "Fotografia"
     ],
     "similares": [
-      "londrina",
-      "ponta-grossa",
-      "apucarana"
+      "morretes",
+      "cascavel",
+      "antonina"
     ],
     "alternativas": [
-      "curitiba",
-      "londrina"
+      "morretes",
+      "cascavel"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -9490,12 +9490,12 @@
     ],
     "similares": [
       "londrina",
-      "maringa",
-      "castro"
+      "antonina",
+      "pato-branco"
     ],
     "alternativas": [
-      "curitiba",
-      "londrina"
+      "antonina",
+      "pato-branco"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -9561,13 +9561,13 @@
       "Fotografia"
     ],
     "similares": [
-      "ponta-grossa",
-      "carambei",
-      "palmeira"
+      "cascavel",
+      "maringa",
+      "carambei"
     ],
     "alternativas": [
-      "tiradentes",
-      "sao-joao-del-rei"
+      "cascavel",
+      "maringa"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -9633,13 +9633,13 @@
       "Fotografia"
     ],
     "similares": [
-      "castro",
-      "ponta-grossa",
-      "palmeira"
+      "palmeira",
+      "cascavel",
+      "biguacu"
     ],
     "alternativas": [
-      "tiradentes",
-      "castro"
+      "cascavel",
+      "biguacu"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -9705,13 +9705,13 @@
       "Fotografia"
     ],
     "similares": [
-      "castro",
       "carambei",
-      "ponta-grossa"
+      "cascavel",
+      "sabara"
     ],
     "alternativas": [
-      "castro",
-      "tiradentes"
+      "cascavel",
+      "sabara"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -9777,13 +9777,13 @@
       "Fotografia"
     ],
     "similares": [
-      "gramado",
-      "canela",
-      "nova-petropolis"
+      "congonhas",
+      "sao-luiz-do-paraitinga",
+      "ouro-preto"
     ],
     "alternativas": [
-      "curitiba",
-      "florianopolis"
+      "congonhas",
+      "sao-luiz-do-paraitinga"
     ],
     "pontuacoes": {
       "solo": 5,
@@ -9849,13 +9849,13 @@
       "Trilhas"
     ],
     "similares": [
-      "gramado",
-      "canela",
-      "nova-petropolis"
+      "campos-do-jordao",
+      "urubici",
+      "campos-do-jordao-sp"
     ],
     "alternativas": [
       "campos-do-jordao",
-      "lages"
+      "urubici"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -9874,9 +9874,9 @@
       "medio": 7,
       "premium": 8
     },
-    "seasonTitle": "Inverno com neve",
-    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
-    "seasonPeriod": "Jun – Ago",
+    "seasonTitle": "Temporada de frio",
+    "seasonDescription": "Período de temperaturas baixas e alta temporada do clima gaúcho.",
+    "seasonPeriod": "Jun–Ago",
     "uniqueReasons": [
       "Gastronomia de montanha",
       "Clima serrano romântico",
@@ -9906,7 +9906,7 @@
         "icon": "🎪"
       }
     ],
-    "atmosfera": "São Francisco de Paula é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
+    "atmosfera": "São Francisco de Paula preserva o charme gaúcho com trilhas, cânions e clima serrano."
   },
   {
     "slug": "caxias-do-sul",
@@ -9926,13 +9926,13 @@
       "Fotografia"
     ],
     "similares": [
-      "bento-goncalves",
-      "garibaldi",
-      "flores-da-cunha"
+      "pelotas",
+      "diamantina",
+      "serro"
     ],
     "alternativas": [
-      "vale-europeu",
-      "blumenau"
+      "pelotas",
+      "diamantina"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -9998,13 +9998,13 @@
       "Fotografia"
     ],
     "similares": [
-      "caxias-do-sul",
       "garibaldi",
-      "flores-da-cunha"
+      "colombo",
+      "tiradentes"
     ],
     "alternativas": [
-      "vale-europeu",
-      "blumenau"
+      "colombo",
+      "tiradentes"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -10071,12 +10071,12 @@
     ],
     "similares": [
       "bento-goncalves",
-      "caxias-do-sul",
-      "flores-da-cunha"
+      "sao-lourenco-do-sul",
+      "vassouras"
     ],
     "alternativas": [
-      "vale-europeu",
-      "blumenau"
+      "sao-lourenco-do-sul",
+      "vassouras"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -10142,13 +10142,13 @@
       "Fotografia"
     ],
     "similares": [
-      "bento-goncalves",
-      "caxias-do-sul",
-      "garibaldi"
+      "pelotas",
+      "sao-lourenco-do-sul",
+      "tiradentes"
     ],
     "alternativas": [
-      "vale-europeu",
-      "blumenau"
+      "pelotas",
+      "sao-lourenco-do-sul"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -10214,13 +10214,13 @@
       "Fotografia"
     ],
     "similares": [
-      "rio-grande",
-      "bagé",
-      "sao-lourenco-do-sul"
+      "serro",
+      "santa-leopoldina",
+      "curitiba"
     ],
     "alternativas": [
-      "tiradentes",
-      "sao-joao-del-rei"
+      "serro",
+      "santa-leopoldina"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -10286,13 +10286,13 @@
       "Fotografia"
     ],
     "similares": [
-      "pelotas",
-      "sao-lourenco-do-sul",
-      "cassino"
+      "paranagua",
+      "palhoca",
+      "florianopolis"
     ],
     "alternativas": [
-      "paraty",
-      "ilha-grande"
+      "paranagua",
+      "palhoca"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -10363,13 +10363,13 @@
       "Fotografia"
     ],
     "similares": [
-      "pelotas",
-      "rio-grande",
-      "camaqua"
+      "sao-joao-del-rei",
+      "garibaldi",
+      "flores-da-cunha"
     ],
     "alternativas": [
-      "tiradentes",
-      "paranagua"
+      "sao-joao-del-rei",
+      "garibaldi"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -10435,13 +10435,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "rio-grande",
-      "pelotas",
-      "sao-lourenco-do-sul"
+      "buzios",
+      "torres",
+      "capao-da-canoa"
     ],
     "alternativas": [
-      "itacare",
-      "trindade"
+      "buzios",
+      "torres"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -10507,12 +10507,12 @@
       "Slow Travel"
     ],
     "similares": [
-      "capao-da-canoa",
-      "tramandai",
-      "arroio-do-sal"
+      "cassino",
+      "arroio-do-sal",
+      "capao-da-canoa"
     ],
     "alternativas": [
-      "itacare",
+      "cassino",
       "trindade"
     ],
     "pontuacoes": {
@@ -10556,7 +10556,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       }
     ],
     "atmosfera": "Torres oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
@@ -10579,13 +10579,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "torres",
-      "tramandai",
-      "arroio-do-sal"
+      "trindade",
+      "matinhos",
+      "cassino"
     ],
     "alternativas": [
       "trindade",
-      "itacare"
+      "matinhos"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -10620,7 +10620,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Aventuras ao ar livre",
@@ -10651,13 +10651,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "torres",
       "capao-da-canoa",
-      "arroio-do-sal"
+      "arroio-do-sal",
+      "buzios"
     ],
     "alternativas": [
-      "itacare",
-      "ilha-grande"
+      "buzios",
+      "cabo-frio"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -10693,7 +10693,7 @@
       },
       {
         "text": "Vida marinha",
-        "icon": "🌊"
+        "icon": "🐠"
       },
       {
         "text": "Gastronomia tradicional",
@@ -10729,12 +10729,12 @@
     ],
     "similares": [
       "torres",
-      "capao-da-canoa",
-      "tramandai"
+      "cassino",
+      "buzios"
     ],
     "alternativas": [
-      "trindade",
-      "alter-do-chao"
+      "cassino",
+      "buzios"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -10773,7 +10773,7 @@
       },
       {
         "text": "Trilhas e cachoeiras",
-        "icon": "🏝️"
+        "icon": "🥾"
       },
       {
         "text": "Contato com a natureza",
@@ -10802,11 +10802,11 @@
     "similares": [
       "urubici",
       "sao-joaquim",
-      "lages"
+      "monte-verde"
     ],
     "alternativas": [
-      "campos-do-jordao",
-      "palmas"
+      "monte-verde",
+      "sao-bento-do-sapucai"
     ],
     "pontuacoes": {
       "solo": 8,
@@ -10872,13 +10872,13 @@
       "Fotografia"
     ],
     "similares": [
-      "blumenau",
-      "pomerode",
-      "gaspar"
+      "serro",
+      "jaragua-do-sul",
+      "curitiba"
     ],
     "alternativas": [
-      "blumenau",
-      "vale-europeu"
+      "serro",
+      "jaragua-do-sul"
     ],
     "pontuacoes": {
       "solo": 6,
@@ -10944,13 +10944,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "ilha-grande",
-      "buzios",
-      "cabofrio"
+      "maceio",
+      "itacare",
+      "ilheus"
     ],
     "alternativas": [
-      "ilha-grande",
-      "buzios"
+      "maceio",
+      "itacare"
     ],
     "pontuacoes": {
       "solo": 7,
@@ -11020,13 +11020,13 @@
       "Slow Travel"
     ],
     "similares": [
-      "arraial-do-cabo",
-      "jericoacoara",
-      "alter-do-chao"
+      "alter-do-chao",
+      "fernando-de-noronha",
+      "itacare"
     ],
     "alternativas": [
-      "jericoacoara",
-      "arraial-do-cabo"
+      "fernando-de-noronha",
+      "itacare"
     ],
     "pontuacoes": {
       "solo": 8,

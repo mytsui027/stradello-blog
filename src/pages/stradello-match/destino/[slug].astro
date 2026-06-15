@@ -35,15 +35,51 @@ const similarDestinations = getAllDestinations().filter((d) =>
   destination.similares?.includes(d.slug)
 ).slice(0, 3);
 
-// Get related blog posts
+// Get related blog posts with improved relevance (exact destination > category > semantic)
 const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 const relatedPosts = allPosts
-  .filter((post) => {
+  .map((post) => {
+    let score = 0;
+    const postTitle = post.data.title?.toLowerCase() || '';
     const postCategory = post.data.category?.toLowerCase() || '';
+    const destinationName = destination.nome.toLowerCase();
+    const destinationState = destination.estado.toLowerCase();
     const destinationCategories = destination.categorias.map((c) => c.toLowerCase());
-    return destinationCategories.some((cat) => postCategory.includes(cat));
+
+    // Priority 1: Exact destination match in title
+    if (postTitle.includes(destinationName)) {
+      score += 10;
+    }
+    // Priority 1: Exact destination slug match
+    if (post.slug.includes(destination.slug)) {
+      score += 10;
+    }
+    // Priority 2: State match in title
+    if (postTitle.includes(destinationState)) {
+      score += 5;
+    }
+    // Priority 3: Category match
+    if (destinationCategories.some((cat) => postCategory.includes(cat))) {
+      score += 3;
+    }
+    // Priority 4: Semantic matches (keywords from uniqueReasons)
+    if (destination.uniqueReasons) {
+      destination.uniqueReasons.forEach((reason) => {
+        const keywords = reason.toLowerCase().split(' ');
+        keywords.forEach((keyword) => {
+          if (postTitle.includes(keyword) && keyword.length > 3) {
+            score += 1;
+          }
+        });
+      });
+    }
+
+    return { post, score };
   })
-  .slice(0, 3);
+  .filter(({ score }) => score > 0)
+  .sort((a, b) => b.score - a.score)
+  .slice(0, 3)
+  .map(({ post }) => post);
 
 // SEO
 const title = `${destination.nome} — Stradello Match`;
