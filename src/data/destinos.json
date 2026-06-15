@@ -4,7 +4,7 @@
     "nome": "Monte Verde",
     "estado": "Minas Gerais",
     "pais": "Brasil",
-    "descricao": "Vila serrana com clima europeu, cafeterias aconchegantes, trilhas tranquilas e atmosfera perfeita para desacelerar.",
+    "descricao": "Vila serrana romântica, cercada por araucárias, cafés aconchegantes e clima europeu.",
     "imagem": "/assets/blog/monteverde.jpg",
     "categorias": [
       "serra",
@@ -42,46 +42,55 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Temporada de frio e gastronomia",
-    "seasonDescription": "Entre maio e agosto, Monte Verde ganha clima frio, festivais gastronômicos e paisagens típicas da Serra da Mantiqueira.",
-    "seasonPeriod": "Mai–Ago",
+    "seasonTitle": "Abril a Agosto",
+    "seasonDescription": "Temperaturas amenas e clima perfeito para caminhadas, fondue e hospedagens charmosas.",
+    "seasonPeriod": "Abr–Ago",
     "uniqueReasons": [
-      "Cafés aconchegantes",
-      "Clima serrano romântico",
-      "Trilhas em araucárias",
-      "Hospedagens charmosas",
-      "Vibe europeia"
+      "🌲 Natureza exuberante",
+      "☕ Cafés aconchegantes",
+      "🥾 Trilhas leves",
+      "🧘 Ambiente tranquilo"
     ],
     "uniqueReasonsWithIcons": [
+      {
+        "text": "Natureza exuberante",
+        "icon": "🌲"
+      },
       {
         "text": "Cafés aconchegantes",
         "icon": "☕"
       },
       {
-        "text": "Clima serrano romântico",
-        "icon": "⛰️"
-      },
-      {
-        "text": "Trilhas em araucárias",
+        "text": "Trilhas leves",
         "icon": "🥾"
       },
       {
-        "text": "Hospedagens charmosas",
-        "icon": "🏆"
-      },
-      {
-        "text": "Vibe europeia",
-        "icon": "🇪🇺"
+        "text": "Ambiente tranquilo",
+        "icon": "🧘"
       }
     ],
-    "atmosfera": "Entre araucárias, cafés aquecidos pela lareira e ruas tranquilas da Mantiqueira, Monte Verde é um convite para desacelerar."
+    "atmosfera": "Vila serrana charmosa cercada por araucárias, clima fresco e cafés acolhedores.",
+    "whyVisit": "🌲 Natureza exuberante\n☕ Cafés aconchegantes\n🥾 Trilhas leves\n🧘 Ambiente tranquilo",
+    "bestSeason": "Abril a Agosto",
+    "attractions": "Avenida Monte Verde, Pedra Redonda, Pedra Partida, Parque Oschin, Orquidário MV",
+    "restaurants": "Villa Donna Bistrô, Paulo das Trutas",
+    "cafes": "Café Platô, Café Pinhão",
+    "viewpoints": "Pedra Redonda, Pedra Partida",
+    "trails": "Trilha do Pinheiro Velho, Trilha da Pedra Redonda",
+    "localTips": "Visite durante a semana para evitar movimento intenso.",
+    "alternativeExperiences": "Observação de aves, Caminhadas ao amanhecer, Fotografia de montanha",
+    "similarDestinations": "Campos do Jordão, Gonçalves, São Bento do Sapucaí",
+    "hiddenAlternatives": "Itamonte, Aiuruoca, Marmelópolis",
+    "porqueCombina": "Você busca tranquilidade, cafés charmosos e contato com a natureza em um ambiente romântico.",
+    "experienciasAutenticas": "Café da manhã com pão de queijo, Trilhas ao amanhecer nas araucárias, Fondue em noite fria",
+    "dicaStradello": "Reserve com antecedência, especialmente em feriados e alta temporada."
   },
   {
     "slug": "visconde-de-maua",
     "nome": "Visconde de Mauá",
     "estado": "Rio de Janeiro",
     "pais": "Brasil",
-    "descricao": "Refúgio na serra com cachoeiras, pousadas rústicas, gastronomia artesanal e vibe de montanha autêntica.",
+    "descricao": "Refúgio serrano com cachoeiras cristalinas e clima de montanha autêntico.",
     "imagem": "/assets/blog/visconde-de-maua.jpg",
     "categorias": [
       "serra",
@@ -119,41 +128,55 @@
       "medio": 8,
       "premium": 9
     },
-    "seasonTitle": "Temporada de clima ameno",
-    "seasonDescription": "Período de clima ameno ideal para passeios e descanso.",
-    "seasonPeriod": "Abr–Out",
+    "seasonTitle": "Maio a Setembro",
+    "seasonDescription": "Dias secos e temperaturas agradáveis para trilhas.",
+    "seasonPeriod": "Mai–Set",
     "uniqueReasons": [
-      "Clima serrano romântico",
-      "Trilhas com vistas panorâmicas",
-      "Trilhas e cachoeiras",
-      "Ecoturismo"
+      "💦 Cachoeiras",
+      "🏔️ Serra da Mantiqueira",
+      "🍲 Gastronomia artesanal",
+      "🌿 Contato com a natureza"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Clima serrano romântico",
-        "icon": "⛰️"
+        "text": "Cachoeiras",
+        "icon": "💦"
       },
       {
-        "text": "Trilhas com vistas panorâmicas",
-        "icon": "🥾"
+        "text": "Serra da Mantiqueira",
+        "icon": "🏔️"
       },
       {
-        "text": "Trilhas e cachoeiras",
-        "icon": "🥾"
+        "text": "Gastronomia artesanal",
+        "icon": "🍲"
       },
       {
-        "text": "Ecoturismo",
-        "icon": "🗺️"
+        "text": "Contato com a natureza",
+        "icon": "🌿"
       }
     ],
-    "atmosfera": "Visconde de Mauá é refúgio serrano com cachoeiras, trilhas e clima ameno na Serra Fluminense."
+    "atmosfera": "Refúgio de montanha com cachoeiras cristalinas e forte conexão com a natureza.",
+    "whyVisit": "💦 Cachoeiras\n🏔️ Serra da Mantiqueira\n🍲 Gastronomia artesanal\n🌿 Contato com a natureza",
+    "bestSeason": "Maio a Setembro",
+    "attractions": "Cachoeira do Escorrega, Vale do Alcantilado, Maringá, Maromba",
+    "restaurants": "Rosmarinus, Babel Restaurante, Gosto com Gosto",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "Pico das Agulhas Negras (região), Alcantilado",
+    "localTips": "Leve dinheiro em espécie para pequenos estabelecimentos.",
+    "alternativeExperiences": "Banho de rio ao amanhecer, Roteiro gastronômico rural",
+    "similarDestinations": "Gonçalves, Itamonte, São Bento do Sapucaí",
+    "hiddenAlternatives": "Bocaina de Minas, Serrinha do Alambari",
+    "porqueCombina": "Você ama cachoeiras, trilhas e a autenticidade da vida serrana.",
+    "experienciasAutenticas": "Banho em cachoeira cristalina, Jantar em pousada rústica, Trilha ao nascer do sol",
+    "dicaStradello": "Use calçados antiderrapantes para as trilhas e acessos às cachoeiras."
   },
   {
     "slug": "sao-bento-do-sapucai",
     "nome": "São Bento do Sapucaí",
     "estado": "São Paulo",
     "pais": "Brasil",
-    "descricao": "Cidade histórica aos pés do Pico do Lobo, com arquitetura preservada, trilhas e clima serrano convidativo.",
+    "descricao": "Cidade artística aos pés da Pedra do Baú, perfeita para desacelerar.",
     "imagem": "/assets/blog/sao-bento-do-sapucai.jpeg",
     "categorias": [
       "serra",
@@ -191,39 +214,48 @@
       "medio": 8,
       "premium": 6
     },
-    "seasonTitle": "Temporada de clima ameno",
-    "seasonDescription": "Período de clima ameno ideal para trilhas e passeios.",
-    "seasonPeriod": "Abr–Out",
+    "seasonTitle": "Abril a Setembro",
+    "seasonDescription": "Céu limpo e temperaturas agradáveis.",
+    "seasonPeriod": "Abr–Set",
     "uniqueReasons": [
-      "Gastronomia de montanha",
-      "Fogueiras e vinho",
-      "Museus e igrejas",
-      "Patrimônio histórico",
-      "Natureza preservada"
+      "🧗 Pedra do Baú",
+      "🎨 Arte local",
+      "🌲 Mantiqueira",
+      "☕ Cafés charmosos"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Gastronomia de montanha",
-        "icon": "🍽️"
+        "text": "Pedra do Baú",
+        "icon": "🧗"
       },
       {
-        "text": "Fogueiras e vinho",
-        "icon": "🍷"
+        "text": "Arte local",
+        "icon": "🎨"
       },
       {
-        "text": "Museus e igrejas",
-        "icon": "🏛️"
+        "text": "Mantiqueira",
+        "icon": "🌲"
       },
       {
-        "text": "Patrimônio histórico",
-        "icon": "🏛️"
-      },
-      {
-        "text": "Natureza preservada",
-        "icon": "🌿"
+        "text": "Cafés charmosos",
+        "icon": "☕"
       }
     ],
-    "atmosfera": "São Bento do Sapucaí oferece trilhas, cachoeiras e a autenticidade da Serra da Mantiqueira."
+    "atmosfera": "Cidade artística aos pés da Pedra do Baú, perfeita para desacelerar.",
+    "whyVisit": "🧗 Pedra do Baú\n🎨 Arte local\n🌲 Mantiqueira\n☕ Cafés charmosos",
+    "bestSeason": "Abril a Setembro",
+    "attractions": "Pedra do Baú, Bauzinho, Ateliês locais, Centro histórico",
+    "restaurants": "Trincheira, Sabor da Serra",
+    "cafes": "",
+    "viewpoints": "Complexo Pedra do Baú",
+    "trails": "Pedra do Baú, Bauzinho",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Sapucaí-Mirim, Gonçalves",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você gosta de escalada, arte local e paisagens dramáticas.",
+    "experienciasAutenticas": "Visita a ateliês de arte, Subida ao Pedra do Baú ao amanhecer, Café com vista panorâmica",
+    "dicaStradello": "Verifique as condições do tempo antes de escalar o Pedra do Baú."
   },
   {
     "slug": "penedo",
@@ -302,7 +334,7 @@
     "nome": "Urubici",
     "estado": "Santa Catarina",
     "pais": "Brasil",
-    "descricao": "A cidade mais fria do Brasil, com cânions, cachoeiras congeladas, gastronomia e paisagens de tirar o fôlego.",
+    "descricao": "Serra catarinense com cânions, araucárias e paisagens dramáticas.",
     "imagem": "/assets/blog/urubici.jpg",
     "categorias": [
       "serra",
@@ -340,41 +372,55 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Inverno com neve",
-    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
-    "seasonPeriod": "Jun – Ago",
+    "seasonTitle": "Maio a Agosto",
+    "seasonDescription": "Chance de geada e temperaturas baixas.",
+    "seasonPeriod": "Mai–Ago",
     "uniqueReasons": [
-      "Clima serrano romântico",
-      "Gastronomia de montanha",
-      "Natureza preservada",
-      "Trilhas e cachoeiras"
+      "❄️ Frio intenso",
+      "🏞️ Cânions",
+      "🌄 Mirantes",
+      "🚗 Estradas cênicas"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Clima serrano romântico",
-        "icon": "⛰️"
+        "text": "Frio intenso",
+        "icon": "❄️"
       },
       {
-        "text": "Gastronomia de montanha",
-        "icon": "🍽️"
+        "text": "Cânions",
+        "icon": "🏞️"
       },
       {
-        "text": "Natureza preservada",
-        "icon": "🌿"
+        "text": "Mirantes",
+        "icon": "🌄"
       },
       {
-        "text": "Trilhas e cachoeiras",
-        "icon": "🥾"
+        "text": "Estradas cênicas",
+        "icon": "🚗"
       }
     ],
-    "atmosfera": "Urubici combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
+    "atmosfera": "Paisagens dramáticas da Serra Catarinense.",
+    "whyVisit": "❄️ Frio intenso\n🏞️ Cânions\n🌄 Mirantes\n🚗 Estradas cênicas",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Morro da Igreja, Pedra Furada, Cascata Véu da Noiva",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "Serra do Corvo Branco",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Bom Jardim da Serra, São Joaquim",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca frio intenso, paisagens dramáticas e estradas cênicas.",
+    "experienciasAutenticas": "Observação de geada, Estrada pela Serra do Corvo Branco, Visita ao Morro da Igreja",
+    "dicaStradello": "Não garanta neve - geada é mais comum. Leve roupas térmicas."
   },
   {
     "slug": "serra-da-mantiqueira",
     "nome": "Serra da Mantiqueira",
     "estado": "Minas Gerais",
     "pais": "Brasil",
-    "descricao": "Região serrana com vilas charmosas, trilhas, pico mais alto de Minas e atmosfera de montanha autêntica.",
+    "descricao": "Uma das regiões montanhosas mais bonitas do Brasil.",
     "imagem": "/assets/blog/serra-da-mantiqueira.jpg",
     "categorias": [
       "serra",
@@ -412,34 +458,48 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "",
+    "seasonDescription": "",
+    "seasonPeriod": "",
     "uniqueReasons": [
-      "Trilhas com vistas panorâmicas",
-      "Gastronomia de montanha",
-      "Natureza preservada",
-      "Trilhas e cachoeiras"
+      "🏔️ Montanhas",
+      "🌲 Araucárias",
+      "☕ Gastronomia regional",
+      "🧘 Desaceleração"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Trilhas com vistas panorâmicas",
-        "icon": "🥾"
+        "text": "Montanhas",
+        "icon": "🏔️"
       },
       {
-        "text": "Gastronomia de montanha",
-        "icon": "🍽️"
+        "text": "Araucárias",
+        "icon": "🌲"
       },
       {
-        "text": "Natureza preservada",
-        "icon": "🌿"
+        "text": "Gastronomia regional",
+        "icon": "☕"
       },
       {
-        "text": "Trilhas e cachoeiras",
-        "icon": "🥾"
+        "text": "Desaceleração",
+        "icon": "🧘"
       }
     ],
-    "atmosfera": "Serra da Mantiqueira combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
+    "atmosfera": "Uma das regiões montanhosas mais bonitas do Brasil.",
+    "whyVisit": "🏔️ Montanhas\n🌲 Araucárias\n☕ Gastronomia regional\n🧘 Desaceleração",
+    "bestSeason": "",
+    "attractions": "Mirantes naturais, Pequenas vilas, Trilhas panorâmicas",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca montanhas imponentes, natureza preservada e gastronomia regional autêntica.",
+    "experienciasAutenticas": "Trilhas panorâmicas, Visita a vilas serranas, Gastronomia regional em pousadas familiares",
+    "dicaStradello": "Explore várias vilas da região - cada uma tem personalidade única."
   },
   {
     "slug": "chapada-dos-veadeiros",
@@ -662,7 +722,7 @@
     "nome": "Vale Europeu",
     "estado": "Santa Catarina",
     "pais": "Brasil",
-    "descricao": "Região com influência europeia, vilas charmosas, gastronomia, vinícolas e paisagens de conto de fadas.",
+    "descricao": "Pequenas cidades com influência europeia.",
     "imagem": "/assets/blog/vale-europeu.jpg",
     "categorias": [
       "serra",
@@ -700,39 +760,43 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Inverno com neve",
-    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
-    "seasonPeriod": "Jun – Ago",
+    "seasonTitle": "",
+    "seasonDescription": "",
+    "seasonPeriod": "",
     "uniqueReasons": [
-      "Trilhas com vistas panorâmicas",
-      "Clima serrano romântico",
-      "Cultura e arte",
-      "Patrimônio histórico",
-      "Workation friendly"
+      "🚴 Rotas de cicloturismo",
+      "🍷 Vinícolas",
+      "☕ Cafés coloniais"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Trilhas com vistas panorâmicas",
-        "icon": "🥾"
+        "text": "Rotas de cicloturismo",
+        "icon": "🚴"
       },
       {
-        "text": "Clima serrano romântico",
-        "icon": "⛰️"
+        "text": "Vinícolas",
+        "icon": "🍷"
       },
       {
-        "text": "Cultura e arte",
-        "icon": "🏺"
-      },
-      {
-        "text": "Patrimônio histórico",
-        "icon": "🏛️"
-      },
-      {
-        "text": "Workation friendly",
-        "icon": "💻"
+        "text": "Cafés coloniais",
+        "icon": "☕"
       }
     ],
-    "atmosfera": "Vale Europeu é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
+    "atmosfera": "Pequenas cidades com influência europeia e paisagens rurais.",
+    "whyVisit": "🚴 Rotas de cicloturismo\n🍷 Vinícolas\n☕ Cafés coloniais",
+    "bestSeason": "",
+    "attractions": "Rotas de cicloturismo, Vinícolas, Cafés coloniais",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você gosta de cicloturismo, vinhos e paisagens rurais europeias.",
+    "experienciasAutenticas": "Cicloturismo pelas vilas, Degustação em vinícolas, Café colonial típico",
+    "dicaStradello": "Alugue uma bicicleta para explorar as vilas e fazendas da região."
   },
   {
     "slug": "petropolis",
@@ -965,7 +1029,7 @@
     "nome": "Domingos Martins",
     "estado": "Espírito Santo",
     "pais": "Brasil",
-    "descricao": "Vila serrana com influência alemã, gastronomia, trilhas, clima ameno e paisagens de montanha.",
+    "descricao": "Cidade serrana capixaba com forte influência alemã.",
     "imagem": "/assets/blog/domingos-martins.jpg",
     "categorias": [
       "serra",
@@ -1003,46 +1067,50 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Clima ameno",
-    "seasonDescription": "Temperaturas agradáveis durante todo o ano perfeitas para turismo rural e gastronômico.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "",
+    "seasonDescription": "",
+    "seasonPeriod": "",
     "uniqueReasons": [
-      "Gastronomia regional",
-      "Montanhas capixabas",
-      "Clima ameno",
-      "Turismo tranquilo",
-      "Produtos locais"
+      "🇩🇪 Cultura alemã",
+      "🍺 Gastronomia",
+      "🌲 Montanhas"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Gastronomia regional",
-        "icon": "🍽️"
+        "text": "Cultura alemã",
+        "icon": "🇩🇪"
       },
       {
-        "text": "Montanhas capixabas",
-        "icon": "⛰️"
+        "text": "Gastronomia",
+        "icon": "🍺"
       },
       {
-        "text": "Clima ameno",
-        "icon": "💎"
-      },
-      {
-        "text": "Turismo tranquilo",
-        "icon": "🧘"
-      },
-      {
-        "text": "Produtos locais",
-        "icon": "⚓"
+        "text": "Montanhas",
+        "icon": "🌲"
       }
     ],
-    "atmosfera": "Domingos Martins combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
+    "atmosfera": "Serra capixaba com influência alemã.",
+    "whyVisit": "🇩🇪 Cultura alemã\n🍺 Gastronomia\n🌲 Montanhas",
+    "bestSeason": "",
+    "attractions": "Rua do Lazer, Pedra Azul (região)",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Santa Teresa, Venda Nova do Imigrante",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você gosta de cultura alemã, gastronomia e montanhas.",
+    "experienciasAutenticas": "Visita a propriedades rurais, Degustação de culinária alemã, Passeio pela Pedra Azul",
+    "dicaStradello": "Experimente os produtos coloniais locais - queijos, embutidos e cervejas artesanais."
   },
   {
     "slug": "goncalves",
     "nome": "Gonçalves",
     "estado": "Minas Gerais",
     "pais": "Brasil",
-    "descricao": "Vila serrana com pousadas de charme, trilhas, gastronomia e vista para o Pico dos Príncipes.",
+    "descricao": "Pequena vila de montanha com pousadas charmosas e clima intimista.",
     "imagem": "/assets/blog/gonçalves.jpg",
     "categorias": [
       "serra",
@@ -1080,39 +1148,48 @@
       "medio": 9,
       "premium": 9
     },
-    "seasonTitle": "Temporada de clima ameno",
-    "seasonDescription": "Período de clima ameno ideal para cafés e passeios.",
-    "seasonPeriod": "Abr–Out",
+    "seasonTitle": "Maio a Agosto",
+    "seasonDescription": "",
+    "seasonPeriod": "Mai–Ago",
     "uniqueReasons": [
-      "Hospedagens charmosas",
-      "Gastronomia de montanha",
-      "Ecoturismo",
-      "Observação de fauna",
-      "Cultura do café"
+      "🏡 Pousadas charmosas",
+      "🌄 Vistas panorâmicas",
+      "🥾 Trilhas",
+      "🍷 Gastronomia"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Hospedagens charmosas",
-        "icon": "🌈"
+        "text": "Pousadas charmosas",
+        "icon": "🏡"
       },
       {
-        "text": "Gastronomia de montanha",
-        "icon": "🍽️"
+        "text": "Vistas panorâmicas",
+        "icon": "🌄"
       },
       {
-        "text": "Ecoturismo",
-        "icon": "🗺️"
+        "text": "Trilhas",
+        "icon": "🥾"
       },
       {
-        "text": "Observação de fauna",
-        "icon": "🔭"
-      },
-      {
-        "text": "Cultura do café",
-        "icon": "☕"
+        "text": "Gastronomia",
+        "icon": "🍷"
       }
     ],
-    "atmosfera": "Gonçalves é o paraíso dos amantes de café, trilhas e paisagens serranas na Mantiqueira."
+    "atmosfera": "Vila intimista da Mantiqueira com pousadas e natureza exuberante.",
+    "whyVisit": "🏡 Pousadas charmosas\n🌄 Vistas panorâmicas\n🥾 Trilhas\n🍷 Gastronomia",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Pedra Chanfrada, Cachoeira Simão, Centro rural",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Itamonte, Marmelópolis",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca intimidade, pousadas de charme e tranquilidade absoluta.",
+    "experienciasAutenticas": "Pernoite em pousada de charme, Trilha pela Mantiqueira, Jantar com vista para as montanhas",
+    "dicaStradello": "Escolha pousadas com lareira para as noites frias."
   },
   {
     "slug": "gramado",
@@ -1196,7 +1273,7 @@
     "nome": "Campos do Jordão",
     "estado": "São Paulo",
     "pais": "Brasil",
-    "descricao": "Estância suíça brasileira com clima frio, gastronomia, arquitetura alpina e vibe de montanha sofisticada.",
+    "descricao": "Destino sofisticado de montanha com arquitetura alpina.",
     "imagem": "/assets/blog/campos do jordão.jpg",
     "categorias": [
       "serra",
@@ -1209,12 +1286,10 @@
       "Trilhas"
     ],
     "similares": [
-      "campos-do-jordao-sp",
       "sao-francisco-de-paula",
       "monte-verde"
     ],
     "alternativas": [
-      "campos-do-jordao-sp",
       "sao-francisco-de-paula"
     ],
     "pontuacoes": {
@@ -1234,39 +1309,48 @@
       "medio": 8,
       "premium": 9
     },
-    "seasonTitle": "Temporada de frio",
-    "seasonDescription": "Período de temperaturas mais baixas e alta temporada do clima serrano.",
-    "seasonPeriod": "Jun–Ago",
+    "seasonTitle": "Maio a Agosto",
+    "seasonDescription": "",
+    "seasonPeriod": "Mai–Ago",
     "uniqueReasons": [
-      "Hospedagens charmosas",
-      "Clima serrano romântico",
-      "Cultura e arte",
-      "Patrimônio histórico",
-      "Ambientes charmosos"
+      "🏔️ Clima serrano",
+      "☕ Cafés elegantes",
+      "🍫 Chocolates artesanais",
+      "🚞 Passeios históricos"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Hospedagens charmosas",
-        "icon": "💫"
+        "text": "Clima serrano",
+        "icon": "🏔️"
       },
       {
-        "text": "Clima serrano romântico",
-        "icon": "⛰️"
+        "text": "Cafés elegantes",
+        "icon": "☕"
       },
       {
-        "text": "Cultura e arte",
-        "icon": "🏺"
+        "text": "Chocolates artesanais",
+        "icon": "🍫"
       },
       {
-        "text": "Patrimônio histórico",
-        "icon": "🏛️"
-      },
-      {
-        "text": "Ambientes charmosos",
-        "icon": "🌈"
+        "text": "Passeios históricos",
+        "icon": "🚞"
       }
     ],
-    "atmosfera": "Campos do Jordão une arquitetura europeia, gastronomia refinada e clima serrano na Serra da Mantiqueira."
+    "atmosfera": "Elegância serrana, arquitetura alpina e gastronomia sofisticada.",
+    "whyVisit": "🏔️ Clima serrano\n☕ Cafés elegantes\n🍫 Chocolates artesanais\n🚞 Passeios históricos",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Vila Capivari, Horto Florestal, Morro do Elefante, Parque Amantikir",
+    "restaurants": "Ludwig, Matterhorn, Sans Souci",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Santo Antônio do Pinhal, São Bento do Sapucaí",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você aprecia sofisticação, gastronomia refinada e o charme da arquitetura alpina.",
+    "experienciasAutenticas": "Passeio de teleférico, Degustação de chocolates, Visita ao Horto Florestal",
+    "dicaStradello": "Evite a alta temporada (julho) para uma experiência mais tranquila."
   },
   {
     "slug": "capitolio",
@@ -1489,7 +1573,7 @@
     "nome": "Itamonte",
     "estado": "Minas Gerais",
     "pais": "Brasil",
-    "descricao": "Vila serrana tranquila próxima ao Pico da Bandeira, com pousadas de charme, trilhas e gastronomia mineira.",
+    "descricao": "Pequena vila serrana aos pés do Parque Nacional do Itatiaia.",
     "imagem": "/assets/blog/Itamonte.jpeg",
     "categorias": [
       "serra",
@@ -1527,41 +1611,50 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "",
+    "seasonDescription": "",
+    "seasonPeriod": "",
     "uniqueReasons": [
-      "Hospedagens charmosas",
-      "Clima serrano romântico",
-      "Natureza preservada",
-      "Paisagens únicas"
+      "🏔️ Pico das Agulhas Negras",
+      "🌲 Natureza preservada",
+      "🧘 Silêncio e introspecção"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Hospedagens charmosas",
-        "icon": "🌈"
-      },
-      {
-        "text": "Clima serrano romântico",
-        "icon": "⛰️"
+        "text": "Pico das Agulhas Negras",
+        "icon": "🏔️"
       },
       {
         "text": "Natureza preservada",
-        "icon": "🌿"
+        "icon": "🌲"
       },
       {
-        "text": "Paisagens únicas",
-        "icon": "💎"
+        "text": "Silêncio e introspecção",
+        "icon": "🧘"
       }
     ],
-    "atmosfera": "Itamonte é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
+    "atmosfera": "Pequena vila serrana aos pés do Parque Nacional do Itatiaia.",
+    "whyVisit": "🏔️ Pico das Agulhas Negras\n🌲 Natureza preservada\n🧘 Silêncio e introspecção",
+    "bestSeason": "",
+    "attractions": "Parque Nacional do Itatiaia, Agulhas Negras",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca silêncio, natureza preservada e contato com montanhas imponentes.",
+    "experienciasAutenticas": "Trilha no Parque Nacional do Itatiaia, Observação das Agulhas Negras, Pernoite em pousada rústica",
+    "dicaStradello": "Verifique as condições do parque antes de visitar - algumas trilhas exigem autorização prévia."
   },
   {
     "slug": "canela",
     "nome": "Canela",
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
-    "descricao": "Cidade serrana com cachoeiras, arquitetura alemã, chocolates e paisagens da serra gaúcha.",
+    "descricao": "Mais tranquila que Gramado, cercada por natureza.",
     "imagem": "/assets/blog/canela.jpg",
     "categorias": [
       "serra",
@@ -1599,46 +1692,50 @@
       "medio": 8,
       "premium": 9
     },
-    "seasonTitle": "Temporada de frio",
-    "seasonDescription": "Período de temperaturas baixas e alta temporada do clima serrano.",
-    "seasonPeriod": "Jun–Ago",
+    "seasonTitle": "",
+    "seasonDescription": "",
+    "seasonPeriod": "",
     "uniqueReasons": [
-      "Clima serrano romântico",
-      "Fogueiras e vinho",
-      "Natureza preservada",
-      "Paisagens únicas",
-      "Vibe relax"
+      "⛪ Catedral de Pedra",
+      "🌲 Parques naturais",
+      "🍫 Gastronomia"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Clima serrano romântico",
-        "icon": "⛰️"
+        "text": "Catedral de Pedra",
+        "icon": "⛪"
       },
       {
-        "text": "Fogueiras e vinho",
-        "icon": "🍷"
+        "text": "Parques naturais",
+        "icon": "🌲"
       },
       {
-        "text": "Natureza preservada",
-        "icon": "🌿"
-      },
-      {
-        "text": "Paisagens únicas",
-        "icon": "🌈"
-      },
-      {
-        "text": "Vibe relax",
-        "icon": "🎪"
+        "text": "Gastronomia",
+        "icon": "🍫"
       }
     ],
-    "atmosfera": "Canela encanta com cânions, cascatas e o charme da colonização alemã na Serra Gaúcha."
+    "atmosfera": "Cidade charmosa da Serra Gaúcha, mais tranquila que Gramado.",
+    "whyVisit": "⛪ Catedral de Pedra\n🌲 Parques naturais\n🍫 Gastronomia",
+    "bestSeason": "",
+    "attractions": "Catedral de Pedra, Parque do Caracol",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca tranquilidade, natureza e o charme da Serra Gaúcha sem o movimento excessivo.",
+    "experienciasAutenticas": "Visita à Catedral de Pedra, Trilha no Parque do Caracol, Degustação de chocolates locais",
+    "dicaStradello": "Combine com Gramado para um roteiro completo da Serra Gaúcha."
   },
   {
     "slug": "nova-petropolis",
     "nome": "Nova Petrópolis",
     "estado": "Rio Grande do Sul",
     "pais": "Brasil",
-    "descricao": "Cidade imperial com influência alemã, jardins, cultura e clima serrano acolhedor.",
+    "descricao": "Jardins floridos e forte herança alemã.",
     "imagem": "/assets/blog/nova-petropolis.jpg",
     "categorias": [
       "serra",
@@ -1676,46 +1773,45 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Temporada de clima ameno",
-    "seasonDescription": "Período de clima ameno ideal para passeios e cultura.",
-    "seasonPeriod": "Abr–Out",
+    "seasonTitle": "",
+    "seasonDescription": "",
+    "seasonPeriod": "",
     "uniqueReasons": [
-      "Clima serrano romântico",
-      "Cafés aconchegantes",
-      "Patrimônio histórico",
-      "Arquitetura colonial preservada",
-      "Workation friendly"
+      "🌸 Jardins floridos",
+      "🇩🇪 Herança alemã"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Clima serrano romântico",
-        "icon": "⛰️"
+        "text": "Jardins floridos",
+        "icon": "🌸"
       },
       {
-        "text": "Cafés aconchegantes",
-        "icon": "☕"
-      },
-      {
-        "text": "Patrimônio histórico",
-        "icon": "🏛️"
-      },
-      {
-        "text": "Arquitetura colonial preservada",
-        "icon": "🏛️"
-      },
-      {
-        "text": "Workation friendly",
-        "icon": "💻"
+        "text": "Herança alemã",
+        "icon": "🇩🇪"
       }
     ],
-    "atmosfera": "Nova Petrópolis preserva o charme da colonização alemã com palácios, parques e clima serrano."
+    "atmosfera": "Jardins floridos e forte herança alemã.",
+    "whyVisit": "🌸 Jardins floridos\n🇩🇪 Herança alemã",
+    "bestSeason": "",
+    "attractions": "Labirinto Verde, Praça das Flores",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você aprecia jardins, flores e a cultura alemã.",
+    "experienciasAutenticas": "Passeio pelo Labirinto Verde, Visita a jardins floridos, Degustação de culinária alemã",
+    "dicaStradello": "Visite na primavera para ver os jardins em plena floração."
   },
   {
     "slug": "sao-joaquim",
     "nome": "São Joaquim",
     "estado": "Santa Catarina",
     "pais": "Brasil",
-    "descricao": "Cidade mais fria de Santa Catarina, com neve no inverno, vinícolas e paisagens serranas.",
+    "descricao": "Capital brasileira dos vinhos de altitude.",
     "imagem": "/assets/blog/São Joaquim.jpg",
     "categorias": [
       "serra",
@@ -1753,34 +1849,43 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Inverno com neve",
-    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
-    "seasonPeriod": "Jun – Ago",
+    "seasonTitle": "Junho a Agosto",
+    "seasonDescription": "",
+    "seasonPeriod": "Jun–Ago",
     "uniqueReasons": [
-      "Fogueiras e vinho",
-      "Hospedagens charmosas",
-      "Observação de fauna",
-      "Aventuras ao ar livre"
+      "🍷 Vinícolas",
+      "❄️ Frio intenso",
+      "🌄 Serra catarinense"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Fogueiras e vinho",
+        "text": "Vinícolas",
         "icon": "🍷"
       },
       {
-        "text": "Hospedagens charmosas",
-        "icon": "🔥"
+        "text": "Frio intenso",
+        "icon": "❄️"
       },
       {
-        "text": "Observação de fauna",
-        "icon": "🔭"
-      },
-      {
-        "text": "Aventuras ao ar livre",
-        "icon": "🎒"
+        "text": "Serra catarinense",
+        "icon": "🌄"
       }
     ],
-    "atmosfera": "São Joaquim combina clima serrano, gastronomia aconchegante e paisagens que convidam a desacelerar."
+    "atmosfera": "Capital brasileira dos vinhos de altitude.",
+    "whyVisit": "🍷 Vinícolas\n❄️ Frio intenso\n🌄 Serra catarinense",
+    "bestSeason": "Junho a Agosto",
+    "attractions": "Vinícola Villa Francioni, Vinícola Leone di Venezia, Mirante dos Pinheiros",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "Mirante dos Pinheiros",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você é apreciador de vinhos e gosta de frio intenso.",
+    "experienciasAutenticas": "Degustação de vinhos de altitude, Visita a vinícolas familiares, Passeio pelos mirantes serranos",
+    "dicaStradello": "Agende visitas às vinícolas com antecedência, especialmente em alta temporada."
   },
   {
     "slug": "lages",
@@ -3032,83 +3137,6 @@
     "atmosfera": "Poços de Caldas é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
   },
   {
-    "slug": "campos-do-jordao-sp",
-    "nome": "Campos do Jordão",
-    "estado": "São Paulo",
-    "pais": "Brasil",
-    "descricao": "Estância suíça brasileira com clima frio, gastronomia, arquitetura alpina e vibe de montanha sofisticada.",
-    "imagem": "/assets/blog/campos do jordão.jpg",
-    "categorias": [
-      "serra",
-      "cidade-historica",
-      "cafes",
-      "tranquilidade",
-      "frio",
-      "Romance",
-      "Slow Travel",
-      "Trilhas"
-    ],
-    "similares": [
-      "campos-do-jordao",
-      "monte-verde",
-      "urubici"
-    ],
-    "alternativas": [
-      "campos-do-jordao",
-      "urubici"
-    ],
-    "pontuacoes": {
-      "solo": 7,
-      "casal": 10,
-      "familia": 8,
-      "natureza": 7,
-      "cafes": 10,
-      "tranquilidade": 7,
-      "frio": 10,
-      "calor": 0,
-      "glamping": 7,
-      "camping": 5,
-      "experienciasLocais": 8,
-      "workation": 7,
-      "economico": 5,
-      "medio": 8,
-      "premium": 9
-    },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
-    "uniqueReasons": [
-      "Clima serrano romântico",
-      "Gastronomia de montanha",
-      "Patrimônio histórico",
-      "Museus e igrejas",
-      "Cafés especiais"
-    ],
-    "uniqueReasonsWithIcons": [
-      {
-        "text": "Clima serrano romântico",
-        "icon": "⛰️"
-      },
-      {
-        "text": "Gastronomia de montanha",
-        "icon": "🍽️"
-      },
-      {
-        "text": "Patrimônio histórico",
-        "icon": "🏛️"
-      },
-      {
-        "text": "Museus e igrejas",
-        "icon": "🏛️"
-      },
-      {
-        "text": "Cafés especiais",
-        "icon": "☕"
-      }
-    ],
-    "atmosfera": "Campos do Jordão é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
-  },
-  {
     "slug": "pindamonhangaba",
     "nome": "Pindamonhangaba",
     "estado": "São Paulo",
@@ -4352,7 +4380,7 @@
     "nome": "Santa Teresa",
     "estado": "Espírito Santo",
     "pais": "Brasil",
-    "descricao": "Vila serrana com trilhas, cachoeiras, cultura e vibe de interior autêntica.",
+    "descricao": "Berço da imigração italiana no Espírito Santo.",
     "imagem": "/assets/blog/Santa Teresa.jpg",
     "categorias": [
       "serra",
@@ -4390,34 +4418,43 @@
       "medio": 7,
       "premium": 7
     },
-    "seasonTitle": "Inverno serrano",
-    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
-    "seasonPeriod": "Mai – Ago",
+    "seasonTitle": "",
+    "seasonDescription": "",
+    "seasonPeriod": "",
     "uniqueReasons": [
-      "Trilhas com vistas panorâmicas",
-      "Fogueiras e vinho",
-      "Contato com a natureza",
-      "Observação de fauna"
+      "🍷 Vinhos",
+      "☕ Cafés",
+      "🌳 Mata Atlântica"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Trilhas com vistas panorâmicas",
-        "icon": "🥾"
-      },
-      {
-        "text": "Fogueiras e vinho",
+        "text": "Vinhos",
         "icon": "🍷"
       },
       {
-        "text": "Contato com a natureza",
-        "icon": "🌿"
+        "text": "Cafés",
+        "icon": "☕"
       },
       {
-        "text": "Observação de fauna",
-        "icon": "🔭"
+        "text": "Mata Atlântica",
+        "icon": "🌳"
       }
     ],
-    "atmosfera": "Santa Teresa é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
+    "atmosfera": "Berço da imigração italiana no Espírito Santo.",
+    "whyVisit": "🍷 Vinhos\n☕ Cafés\n🌳 Mata Atlântica",
+    "bestSeason": "",
+    "attractions": "Museu Mello Leitão, Centro histórico, Cafeterias artesanais",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você aprecia cultura italiana, cafeterias artesanais e natureza preservada.",
+    "experienciasAutenticas": "Visita ao Museu Mello Leitão, Degustação de vinhos locais, Trilhas na Mata Atlântica",
+    "dicaStradello": "Combine com visita a Domingos Martins para um roteiro completo da serra capixaba."
   },
   {
     "slug": "itaperuna",
@@ -10787,7 +10824,7 @@
     "nome": "Bom Jardim da Serra",
     "estado": "Santa Catarina",
     "pais": "Brasil",
-    "descricao": "Vila serrana com trilhas, cachoeiras, neve e natureza.",
+    "descricao": "Porta de entrada para a Serra do Rio do Rastro.",
     "imagem": "/assets/blog/Bom Jardim da Serra.jpg",
     "categorias": [
       "serra",
@@ -10825,34 +10862,43 @@
       "medio": 7,
       "premium": 7
     },
-    "seasonTitle": "Inverno com neve",
-    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
-    "seasonPeriod": "Jun – Ago",
+    "seasonTitle": "",
+    "seasonDescription": "",
+    "seasonPeriod": "",
     "uniqueReasons": [
-      "Cafés aconchegantes",
-      "Fogueiras e vinho",
-      "Natureza preservada",
-      "Ecoturismo"
+      "🛣️ Serra do Rio do Rastro",
+      "🌄 Mirantes",
+      "❄️ Frio serrano"
     ],
     "uniqueReasonsWithIcons": [
       {
-        "text": "Cafés aconchegantes",
-        "icon": "☕"
+        "text": "Serra do Rio do Rastro",
+        "icon": "🛣️"
       },
       {
-        "text": "Fogueiras e vinho",
-        "icon": "🍷"
+        "text": "Mirantes",
+        "icon": "🌄"
       },
       {
-        "text": "Natureza preservada",
-        "icon": "🌿"
-      },
-      {
-        "text": "Ecoturismo",
-        "icon": "🗺️"
+        "text": "Frio serrano",
+        "icon": "❄️"
       }
     ],
-    "atmosfera": "Bom Jardim da Serra é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
+    "atmosfera": "Estradas cênicas e cânions impressionantes.",
+    "whyVisit": "🛣️ Serra do Rio do Rastro\n🌄 Mirantes\n❄️ Frio serrano",
+    "bestSeason": "",
+    "attractions": "Serra do Rio do Rastro, Cânion das Laranjeiras",
+    "restaurants": "",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você ama road trips, estradas cênicas e paisagens dramáticas.",
+    "experienciasAutenticas": "Estrada pela Serra do Rio do Rastro, Visita ao Cânion das Laranjeiras, Fotografia dos mirantes",
+    "dicaStradello": "Dirija com cuidado na Serra do Rio do Rastro - muitas curvas e aclives."
   },
   {
     "slug": "timbo",
