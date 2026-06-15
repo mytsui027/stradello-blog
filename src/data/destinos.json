@@ -38,7 +38,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica na serra com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Cafés aconchegantes",
+      "Clima serrano romântico",
+      "Trilhas em araucárias",
+      "Hospedagens charmosas",
+      "Vibe europeia"
+    ]
   },
   {
     "slug": "visconde-de-maua",
@@ -79,7 +89,16 @@
       "economico": 5,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Clima serrano romântico",
+      "Trilhas com vistas panorâmicas",
+      "Trilhas e cachoeiras",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "sao-bento-do-sapucai",
@@ -120,7 +139,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 6
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Gastronomia de montanha",
+      "Fogueiras e vinho",
+      "Museus e igrejas",
+      "Patrimônio histórico",
+      "Natureza preservada"
+    ]
   },
   {
     "slug": "penedo",
@@ -161,7 +190,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Cafés aconchegantes",
+      "Hospedagens charmosas",
+      "Festividades culturais",
+      "Cultura e arte"
+    ]
   },
   {
     "slug": "urubici",
@@ -202,7 +240,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Clima serrano romântico",
+      "Gastronomia de montanha",
+      "Natureza preservada",
+      "Trilhas e cachoeiras"
+    ]
   },
   {
     "slug": "serra-da-mantiqueira",
@@ -243,7 +290,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Trilhas com vistas panorâmicas",
+      "Gastronomia de montanha",
+      "Natureza preservada",
+      "Trilhas e cachoeiras"
+    ]
   },
   {
     "slug": "chapada-dos-veadeiros",
@@ -284,7 +340,14 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada das cachoeiras",
+    "seasonDescription": "Cachoeiras em plena atividade e paisagens verdes vibrantes.",
+    "seasonPeriod": "Mai – Set",
+    "uniqueReasons": [
+      "Paisagens únicas",
+      "Contato com a natureza"
+    ]
   },
   {
     "slug": "jalapao",
@@ -325,7 +388,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Estação seca",
+    "seasonDescription": "Melhor época para cachoeiras, fervedouros e trilhas com acesso facilitado.",
+    "seasonPeriod": "Mai – Set",
+    "uniqueReasons": [
+      "Fervedouros naturais",
+      "Cachoeiras cristalinas",
+      "Dunas e formações rochosas",
+      "Aventuras off-road",
+      "Cerrado preservado"
+    ]
   },
   {
     "slug": "alter-do-chao",
@@ -366,7 +439,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada das praias de rio",
+    "seasonDescription": "Bancos de areia surgem no verão amazônico criando praias fluviais paradisíacas.",
+    "seasonPeriod": "Ago – Dez",
+    "uniqueReasons": [
+      "Praias fluviais",
+      "Ilha do Amor",
+      "Cultura amazônica",
+      "Tapajós cristalino",
+      "Vila de pescadores"
+    ]
   },
   {
     "slug": "vale-europeu",
@@ -407,7 +490,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Trilhas com vistas panorâmicas",
+      "Clima serrano romântico",
+      "Cultura e arte",
+      "Patrimônio histórico",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "petropolis",
@@ -448,7 +541,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Gastronomia de montanha",
+      "Hospedagens charmosas",
+      "Cultura e arte",
+      "Patrimônio histórico",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "paraty",
@@ -489,7 +592,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima tropical ameno ideal para explorar centro histórico, praias e ilhas durante todo o ano.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Centro histórico colonial",
+      "Passeios de barco",
+      "Praias escondidas",
+      "Cultura e arte",
+      "Arquitetura preservada"
+    ]
   },
   {
     "slug": "cunha",
@@ -530,7 +643,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 6
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Gastronomia de montanha",
+      "Hospedagens charmosas",
+      "Ecoturismo",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "domingos-martins",
@@ -571,7 +693,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Clima ameno",
+    "seasonDescription": "Temperaturas agradáveis durante todo o ano perfeitas para turismo rural e gastronômico.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Gastronomia regional",
+      "Montanhas capixabas",
+      "Clima ameno",
+      "Turismo tranquilo",
+      "Produtos locais"
+    ]
   },
   {
     "slug": "goncalves",
@@ -612,7 +744,17 @@
       "economico": 6,
       "medio": 9,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Hospedagens charmosas",
+      "Gastronomia de montanha",
+      "Ecoturismo",
+      "Observação de fauna",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "gramado",
@@ -653,7 +795,17 @@
       "economico": 5,
       "medio": 8,
       "premium": 10
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno e eventos natalinos.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Clima europeu",
+      "Neve no inverno",
+      "Gastronomia italiana",
+      "Eventos natalinos",
+      "Hidromel e chocolates"
+    ]
   },
   {
     "slug": "campos-do-jordao",
@@ -694,7 +846,17 @@
       "economico": 5,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Hospedagens charmosas",
+      "Clima serrano romântico",
+      "Cultura e arte",
+      "Patrimônio histórico",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "capitolio",
@@ -735,7 +897,14 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Aventuras ao ar livre",
+      "Paisagens únicas"
+    ]
   },
   {
     "slug": "lencois-maranhenses",
@@ -776,7 +945,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada dos lagos",
+    "seasonDescription": "Lagoas cheias após o período chuvoso criando paisagens únicas no mundo.",
+    "seasonPeriod": "Jun – Set",
+    "uniqueReasons": [
+      "Lagoas cristalinas",
+      "Dunas brancas",
+      "Paisagens cinematográficas",
+      "Passeios em 4x4",
+      "Lençóis de areia"
+    ]
   },
   {
     "slug": "fernando-de-noronha",
@@ -817,7 +996,17 @@
       "economico": 4,
       "medio": 7,
       "premium": 10
-    }
+    },
+    "seasonTitle": "Temporada de mergulho",
+    "seasonDescription": "Mar cristalino com excelente visibilidade para mergulho e observação da vida marinha.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Vida marinha excepcional",
+      "Praias preservadas",
+      "Pôr do sol inesquecível",
+      "Mergulho e snorkeling",
+      "Reserva ambiental"
+    ]
   },
   {
     "slug": "itamonte",
@@ -858,7 +1047,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Hospedagens charmosas",
+      "Clima serrano romântico",
+      "Natureza preservada",
+      "Paisagens únicas"
+    ]
   },
   {
     "slug": "canela",
@@ -899,7 +1097,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Clima serrano romântico",
+      "Fogueiras e vinho",
+      "Natureza preservada",
+      "Paisagens únicas",
+      "Vibe relax"
+    ]
   },
   {
     "slug": "nova-petropolis",
@@ -940,7 +1148,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Clima serrano romântico",
+      "Cafés aconchegantes",
+      "Patrimônio histórico",
+      "Arquitetura colonial preservada",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "sao-joaquim",
@@ -981,7 +1199,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Fogueiras e vinho",
+      "Hospedagens charmosas",
+      "Observação de fauna",
+      "Aventuras ao ar livre"
+    ]
   },
   {
     "slug": "lages",
@@ -1022,7 +1249,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Clima serrano romântico",
+      "Trilhas com vistas panorâmicas",
+      "Museus e igrejas",
+      "Arquitetura colonial preservada",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "blumenau",
@@ -1063,7 +1300,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Patrimônio histórico",
+      "Museus e igrejas",
+      "Vibe relax",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "pomerode",
@@ -1104,7 +1350,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Gastronomia tradicional",
+      "Brunchs e sobremesas",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "teresopolis",
@@ -1145,7 +1400,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Hospedagens charmosas",
+      "Fogueiras e vinho",
+      "Ecoturismo",
+      "Natureza preservada"
+    ]
   },
   {
     "slug": "nova-friburgo",
@@ -1186,7 +1450,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Hospedagens charmosas",
+      "Fogueiras e vinho",
+      "Ecoturismo",
+      "Aventuras ao ar livre"
+    ]
   },
   {
     "slug": "tiradentes",
@@ -1227,7 +1500,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 10
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Arquitetura colonial preservada",
+      "Brunchs e sobremesas",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "sao-joao-del-rei",
@@ -1268,7 +1550,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Arquitetura colonial preservada",
+      "Vibe relax",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "ouro-preto",
@@ -1309,7 +1600,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Cultura e arte",
+      "Centro histórico",
+      "Vibe relax",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "mariana",
@@ -1350,7 +1650,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Cultura e arte",
+      "Gastronomia tradicional",
+      "Ambientes charmosos",
+      "Vibe relax"
+    ]
   },
   {
     "slug": "congonhas",
@@ -1391,7 +1700,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Centro histórico",
+      "Workation friendly",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "diamantina",
@@ -1432,7 +1750,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Centro histórico",
+      "Ambientes charmosos",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "serro",
@@ -1473,7 +1800,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Centro histórico",
+      "Workation friendly",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "sabara",
@@ -1514,7 +1850,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Festividades culturais",
+      "Brunchs e sobremesas",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "sao-lourenco",
@@ -1555,7 +1900,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Clima serrano romântico",
+      "Atmosfera europeia",
+      "Observação de fauna",
+      "Ecoturismo",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "caxambu",
@@ -1596,7 +1951,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Cafés aconchegantes",
+      "Hospedagens charmosas",
+      "Gastronomia tradicional",
+      "Museus e igrejas",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "lambari",
@@ -1637,7 +2002,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Clima serrano romântico",
+      "Cafés aconchegantes",
+      "Observação de fauna",
+      "Paisagens únicas",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "pocos-de-caldas",
@@ -1678,7 +2053,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Cafés aconchegantes",
+      "Clima serrano romântico",
+      "Arquitetura colonial preservada",
+      "Gastronomia tradicional",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "campos-do-jordao-sp",
@@ -1719,7 +2104,17 @@
       "economico": 5,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Clima serrano romântico",
+      "Gastronomia de montanha",
+      "Patrimônio histórico",
+      "Museus e igrejas",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "pindamonhangaba",
@@ -1760,7 +2155,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Gastronomia de montanha",
+      "Hospedagens charmosas",
+      "Observação de fauna",
+      "Aventuras ao ar livre"
+    ]
   },
   {
     "slug": "guaratingueta",
@@ -1801,7 +2205,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Arquitetura colonial preservada",
+      "Ambientes charmosos",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "areias",
@@ -1842,7 +2255,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Hospedagens charmosas",
+      "Clima serrano romântico",
+      "Trilhas e cachoeiras",
+      "Natureza preservada"
+    ]
   },
   {
     "slug": "sao-luiz-do-paraitinga",
@@ -1883,7 +2305,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Centro histórico",
+      "Cultura do café",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "vassouras",
@@ -1924,7 +2355,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Gastronomia tradicional",
+      "Arquitetura colonial preservada",
+      "Ambientes charmosos",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "resende",
@@ -1965,7 +2405,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Hospedagens charmosas",
+      "Fogueiras e vinho",
+      "Gastronomia tradicional",
+      "Cultura e arte",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "trindade",
@@ -2006,7 +2456,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão litorâneo",
+    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
+    "seasonPeriod": "Dez – Mar",
+    "uniqueReasons": [
+      "Surf e mergulho",
+      "Esportes aquáticos",
+      "Observação de fauna",
+      "Aventuras ao ar livre"
+    ]
   },
   {
     "slug": "ilha-grande",
@@ -2047,7 +2506,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Verão litorâneo",
+    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
+    "seasonPeriod": "Dez – Mar",
+    "uniqueReasons": [
+      "Surf e mergulho",
+      "Vida marinha",
+      "Contato com a natureza",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "buzios",
@@ -2088,7 +2556,16 @@
       "economico": 5,
       "medio": 8,
       "premium": 10
-    }
+    },
+    "seasonTitle": "Verão litorâneo",
+    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
+    "seasonPeriod": "Dez – Mar",
+    "uniqueReasons": [
+      "Pôr do sol inesquecível",
+      "Vida marinha",
+      "Paisagens únicas",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "cabo-frio",
@@ -2129,7 +2606,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão litorâneo",
+    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
+    "seasonPeriod": "Dez – Mar",
+    "uniqueReasons": [
+      "Ilhas e baías",
+      "Vida marinha",
+      "Paisagens únicas",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "arraial-do-cabo",
@@ -2170,7 +2656,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão litorâneo",
+    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
+    "seasonPeriod": "Dez – Mar",
+    "uniqueReasons": [
+      "Ilhas e baías",
+      "Vida marinha",
+      "Observação de fauna",
+      "Paisagens únicas"
+    ]
   },
   {
     "slug": "venda-nova-do-imigrante",
@@ -2211,7 +2706,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Clima serrano romântico",
+      "Hospedagens charmosas",
+      "Ecoturismo",
+      "Contato com a natureza",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "vargem-alta",
@@ -2252,7 +2757,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 6
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Cafés aconchegantes",
+      "Fogueiras e vinho",
+      "Trilhas e cachoeiras",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "afonso-claudio",
@@ -2293,7 +2807,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 6
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Atmosfera europeia",
+      "Trilhas com vistas panorâmicas",
+      "Paisagens únicas",
+      "Natureza preservada"
+    ]
   },
   {
     "slug": "castelo",
@@ -2334,7 +2857,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 6
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Atmosfera europeia",
+      "Trilhas com vistas panorâmicas",
+      "Paisagens únicas",
+      "Aventuras ao ar livre"
+    ]
   },
   {
     "slug": "santa-maria-de-jetiba",
@@ -2375,7 +2907,17 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Gastronomia de montanha",
+      "Cafés aconchegantes",
+      "Gastronomia tradicional",
+      "Cultura e arte",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "santa-leopoldina",
@@ -2416,7 +2958,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Centro histórico",
+      "Gastronomia tradicional",
+      "Brunchs e sobremesas",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "santa-teresa",
@@ -2457,7 +3008,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno serrano",
+    "seasonDescription": "Clima frio e atmosfera romântica com fogueiras e gastronomia de montanha.",
+    "seasonPeriod": "Mai – Ago",
+    "uniqueReasons": [
+      "Trilhas com vistas panorâmicas",
+      "Fogueiras e vinho",
+      "Contato com a natureza",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "itaperuna",
@@ -2498,7 +3058,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Museus e igrejas",
+      "Cultura do café",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "maragogi",
@@ -2539,7 +3108,16 @@
       "economico": 5,
       "medio": 8,
       "premium": 10
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Águas cristalinas",
+      "Esportes aquáticos",
+      "Contato com a natureza",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "porto-de-galinhas",
@@ -2580,7 +3158,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Águas cristalinas",
+      "Esportes aquáticos",
+      "Natureza preservada",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "olinda",
@@ -2621,7 +3208,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Gastronomia tradicional",
+      "Cultura e arte",
+      "Brunchs e sobremesas",
+      "Vibe relax"
+    ]
   },
   {
     "slug": "recife",
@@ -2662,7 +3258,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Gastronomia tradicional",
+      "Museus e igrejas",
+      "Brunchs e sobremesas",
+      "Vibe relax"
+    ]
   },
   {
     "slug": "maceio",
@@ -2703,7 +3308,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Águas cristalinas",
+      "Surf e mergulho",
+      "Paisagens únicas",
+      "Trilhas e cachoeiras"
+    ]
   },
   {
     "slug": "japaratinga",
@@ -2744,7 +3358,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Águas cristalinas",
+      "Surf e mergulho",
+      "Paisagens únicas",
+      "Contato com a natureza"
+    ]
   },
   {
     "slug": "santarem",
@@ -2785,7 +3408,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão litorâneo",
+    "seasonDescription": "Temperaturas agradáveis perfeitas para banho de mar e atividades ao ar livre.",
+    "seasonPeriod": "Dez – Mar",
+    "uniqueReasons": [
+      "Surf e mergulho",
+      "Águas cristalinas",
+      "Aventuras ao ar livre",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "belem",
@@ -2826,7 +3458,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Centro histórico",
+      "Vibe relax",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "manaus",
@@ -2867,7 +3508,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Patrimônio histórico",
+      "Workation friendly",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "parintins",
@@ -2908,7 +3558,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Patrimônio histórico",
+      "Vibe relax",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "presidente-figueiredo",
@@ -2949,7 +3608,14 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Estação seca",
+    "seasonDescription": "Melhor época para explorar trilhas, cachoeiras e observar fauna.",
+    "seasonPeriod": "Jun – Nov",
+    "uniqueReasons": [
+      "Contato com a natureza",
+      "Natureza preservada"
+    ]
   },
   {
     "slug": "rio-preto-da-eva",
@@ -2990,7 +3656,14 @@
       "economico": 6,
       "medio": 7,
       "premium": 6
-    }
+    },
+    "seasonTitle": "Estação seca",
+    "seasonDescription": "Melhor época para explorar trilhas, cachoeiras e observar fauna.",
+    "seasonPeriod": "Jun – Nov",
+    "uniqueReasons": [
+      "Natureza preservada",
+      "Trilhas e cachoeiras"
+    ]
   },
   {
     "slug": "itacoatiara",
@@ -3031,7 +3704,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Patrimônio histórico",
+      "Cultura do café",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "bonito",
@@ -3072,7 +3754,14 @@
       "economico": 6,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Melhor época para observação de fauna e acesso a áreas remotas.",
+    "seasonPeriod": "Mai – Set",
+    "uniqueReasons": [
+      "Natureza preservada",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "jardim",
@@ -3113,7 +3802,14 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Melhor época para observação de fauna e acesso a áreas remotas.",
+    "seasonPeriod": "Mai – Set",
+    "uniqueReasons": [
+      "Paisagens únicas",
+      "Trilhas e cachoeiras"
+    ]
   },
   {
     "slug": "bodoquena",
@@ -3154,7 +3850,14 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Melhor época para observação de fauna e acesso a áreas remotas.",
+    "seasonPeriod": "Mai – Set",
+    "uniqueReasons": [
+      "Paisagens únicas",
+      "Trilhas e cachoeiras"
+    ]
   },
   {
     "slug": "miranda",
@@ -3195,7 +3898,14 @@
       "economico": 6,
       "medio": 7,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Melhor época para observação de fauna e acesso a áreas remotas.",
+    "seasonPeriod": "Mai – Set",
+    "uniqueReasons": [
+      "Ecoturismo",
+      "Aventuras ao ar livre"
+    ]
   },
   {
     "slug": "corumba",
@@ -3236,7 +3946,14 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Melhor época para observação de fauna e acesso a áreas remotas.",
+    "seasonPeriod": "Mai – Set",
+    "uniqueReasons": [
+      "Aventuras ao ar livre",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "aquidauana",
@@ -3277,7 +3994,14 @@
       "economico": 6,
       "medio": 7,
       "premium": 6
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Melhor época para observação de fauna e acesso a áreas remotas.",
+    "seasonPeriod": "Mai – Set",
+    "uniqueReasons": [
+      "Aventuras ao ar livre",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "chapada-diamantina",
@@ -3318,7 +4042,14 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Contato com a natureza",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "lencois-ba",
@@ -3359,7 +4090,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Cultura e arte",
+      "Festividades culturais",
+      "Ecoturismo",
+      "Contato com a natureza"
+    ]
   },
   {
     "slug": "mucuge",
@@ -3400,7 +4140,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Arquitetura colonial preservada",
+      "Patrimônio histórico",
+      "Observação de fauna",
+      "Trilhas e cachoeiras"
+    ]
   },
   {
     "slug": "palmeiras",
@@ -3441,7 +4190,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Cultura e arte",
+      "Contato com a natureza",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "itacare",
@@ -3482,7 +4240,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Ilhas e baías",
+      "Praias paradisíacas",
+      "Contato com a natureza",
+      "Aventuras ao ar livre"
+    ]
   },
   {
     "slug": "prado",
@@ -3523,7 +4290,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Esportes aquáticos",
+      "Águas cristalinas",
+      "Aventuras ao ar livre",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "camamu",
@@ -3564,7 +4340,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Surf e mergulho",
+      "Vida marinha",
+      "Aventuras ao ar livre",
+      "Contato com a natureza"
+    ]
   },
   {
     "slug": "ilheus",
@@ -3605,7 +4390,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Esportes aquáticos",
+      "Praias paradisíacas",
+      "Centro histórico",
+      "Gastronomia tradicional",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "porto-seguro",
@@ -3646,7 +4441,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Praias paradisíacas",
+      "Ilhas e baías",
+      "Arquitetura colonial preservada",
+      "Cultura e arte",
+      "Vibe relax"
+    ]
   },
   {
     "slug": "trancoso",
@@ -3687,7 +4492,17 @@
       "economico": 5,
       "medio": 8,
       "premium": 10
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Vida marinha",
+      "Pôr do sol inesquecível",
+      "Patrimônio histórico",
+      "Arquitetura colonial preservada",
+      "Vibe relax"
+    ]
   },
   {
     "slug": "arraial-dajuda",
@@ -3728,7 +4543,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Vida marinha",
+      "Pôr do sol inesquecível",
+      "Arquitetura colonial preservada",
+      "Gastronomia tradicional",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "corumbau",
@@ -3769,7 +4594,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Águas cristalinas",
+      "Surf e mergulho",
+      "Paisagens únicas",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "caraiva",
@@ -3810,7 +4644,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Ilhas e baías",
+      "Pôr do sol inesquecível",
+      "Aventuras ao ar livre",
+      "Paisagens únicas"
+    ]
   },
   {
     "slug": "morro-de-sao-paulo",
@@ -3851,7 +4694,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Vida marinha",
+      "Águas cristalinas",
+      "Museus e igrejas",
+      "Festividades culturais",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "boipeba",
@@ -3892,7 +4745,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada de sol e mar",
+    "seasonDescription": "Clima ensolarado ideal para aproveitar praias e águas cristalinas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Surf e mergulho",
+      "Águas cristalinas",
+      "Contato com a natureza",
+      "Aventuras ao ar livre"
+    ]
   },
   {
     "slug": "salvador",
@@ -3933,7 +4795,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Cultura e arte",
+      "Gastronomia tradicional",
+      "Workation friendly",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "cachoeira",
@@ -3974,7 +4845,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Cultura e arte",
+      "Gastronomia tradicional",
+      "Vibe relax",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "sao-felix",
@@ -4015,7 +4895,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Centro histórico",
+      "Festividades culturais",
+      "Workation friendly",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "feira-de-santana",
@@ -4056,7 +4945,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada seca",
+    "seasonDescription": "Clima agradável ideal para explorar praias e atrações turísticas.",
+    "seasonPeriod": "Set – Mar",
+    "uniqueReasons": [
+      "Patrimônio histórico",
+      "Festividades culturais",
+      "Vibe relax",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "florianopolis",
@@ -4097,7 +4995,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Pôr do sol inesquecível",
+      "Vida marinha",
+      "Museus e igrejas",
+      "Centro histórico",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "palhoca",
@@ -4138,7 +5046,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Pôr do sol inesquecível",
+      "Vida marinha",
+      "Festividades culturais",
+      "Centro histórico",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "sao-jose-sc",
@@ -4179,7 +5097,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Pôr do sol inesquecível",
+      "Vida marinha",
+      "Centro histórico",
+      "Patrimônio histórico",
+      "Vibe relax"
+    ]
   },
   {
     "slug": "biguacu",
@@ -4220,7 +5148,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Arquitetura colonial preservada",
+      "Festividades culturais",
+      "Vibe relax",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "garopaba",
@@ -4261,7 +5198,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Ilhas e baías",
+      "Águas cristalinas",
+      "Natureza preservada",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "imbituba",
@@ -4302,7 +5248,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Surf e mergulho",
+      "Águas cristalinas",
+      "Trilhas e cachoeiras",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "laguna",
@@ -4343,7 +5298,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Arquitetura colonial preservada",
+      "Águas cristalinas",
+      "Vida marinha",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "turvo",
@@ -4384,7 +5349,16 @@
       "economico": 6,
       "medio": 6,
       "premium": 6
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Águas cristalinas",
+      "Vida marinha",
+      "Contato com a natureza",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "joinville",
@@ -4425,7 +5399,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Centro histórico",
+      "Gastronomia tradicional",
+      "Vibe relax",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "jaragua-do-sul",
@@ -4466,7 +5449,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Centro histórico",
+      "Gastronomia tradicional",
+      "Cafés especiais",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "sao-bento-do-sul",
@@ -4507,7 +5499,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Arquitetura colonial preservada",
+      "Cultura e arte",
+      "Cafeterias aconchegantes",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "rio-negrinho",
@@ -4548,7 +5549,17 @@
       "economico": 7,
       "medio": 7,
       "premium": 6
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Cafés aconchegantes",
+      "Clima serrano romântico",
+      "Arquitetura colonial preservada",
+      "Cultura e arte",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "curitiba",
@@ -4589,7 +5600,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Centro histórico",
+      "Brunchs e sobremesas",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "sao-jose-dos-pinhais",
@@ -4630,7 +5650,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Cultura e arte",
+      "Brunchs e sobremesas",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "colombo",
@@ -4671,7 +5700,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Arquitetura colonial preservada",
+      "Gastronomia tradicional",
+      "Brunchs e sobremesas",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "araucaria",
@@ -4712,7 +5750,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Arquitetura colonial preservada",
+      "Centro histórico",
+      "Cafeterias aconchegantes",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "morretes",
@@ -4753,7 +5800,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Cultura e arte",
+      "Centro histórico",
+      "Cafeterias aconchegantes",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "paranagua",
@@ -4794,7 +5850,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Centro histórico",
+      "Museus e igrejas",
+      "Ilhas e baías",
+      "Esportes aquáticos",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "antonina",
@@ -4835,7 +5901,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Arquitetura colonial preservada",
+      "Cafeterias aconchegantes",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "matinhos",
@@ -4876,7 +5951,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Surf e mergulho",
+      "Esportes aquáticos",
+      "Aventuras ao ar livre",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "guaratuba",
@@ -4917,7 +6001,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Vida marinha",
+      "Surf e mergulho",
+      "Contato com a natureza",
+      "Aventuras ao ar livre"
+    ]
   },
   {
     "slug": "caioba",
@@ -4958,7 +6051,16 @@
       "economico": 6,
       "medio": 6,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Praias paradisíacas",
+      "Vida marinha",
+      "Paisagens únicas",
+      "Trilhas e cachoeiras"
+    ]
   },
   {
     "slug": "foz-do-iguacu",
@@ -4999,7 +6101,14 @@
       "economico": 6,
       "medio": 8,
       "premium": 10
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Aventuras ao ar livre",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "puerto-iguazu",
@@ -5040,7 +6149,14 @@
       "economico": 6,
       "medio": 8,
       "premium": 10
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Paisagens únicas",
+      "Trilhas e cachoeiras"
+    ]
   },
   {
     "slug": "ciudad-del-este",
@@ -5081,7 +6197,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Ano todo",
+    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
+    "seasonPeriod": "Jan – Dez",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Patrimônio histórico",
+      "Cafeterias aconchegantes",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "iguacu-national-park",
@@ -5122,7 +6247,14 @@
       "economico": 6,
       "medio": 7,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Natureza preservada",
+      "Aventuras ao ar livre"
+    ]
   },
   {
     "slug": "cascavel",
@@ -5163,7 +6295,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Patrimônio histórico",
+      "Ambientes charmosos",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "guarapuava",
@@ -5204,7 +6345,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Gastronomia de montanha",
+      "Clima serrano romântico",
+      "Cultura e arte",
+      "Festividades culturais",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "pato-branco",
@@ -5245,7 +6396,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Arquitetura colonial preservada",
+      "Patrimônio histórico",
+      "Cafés especiais",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "francisco-beltrao",
@@ -5286,7 +6446,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Gastronomia tradicional",
+      "Arquitetura colonial preservada",
+      "Cultura do café",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "londrina",
@@ -5327,7 +6496,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Gastronomia tradicional",
+      "Arquitetura colonial preservada",
+      "Cafeterias aconchegantes",
+      "Vibe relax"
+    ]
   },
   {
     "slug": "maringa",
@@ -5368,7 +6546,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Patrimônio histórico",
+      "Cultura e arte",
+      "Ambientes charmosos",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "ponta-grossa",
@@ -5409,7 +6596,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Gastronomia tradicional",
+      "Arquitetura colonial preservada",
+      "Workation friendly",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "castro",
@@ -5450,7 +6646,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Cultura e arte",
+      "Patrimônio histórico",
+      "Workation friendly",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "carambei",
@@ -5491,7 +6696,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Cultura e arte",
+      "Workation friendly",
+      "Vibe relax"
+    ]
   },
   {
     "slug": "palmeira",
@@ -5532,7 +6746,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Festividades culturais",
+      "Museus e igrejas",
+      "Vibe relax",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "porto-alegre",
@@ -5573,7 +6796,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Museus e igrejas",
+      "Centro histórico",
+      "Vibe relax",
+      "Cafeterias aconchegantes"
+    ]
   },
   {
     "slug": "sao-francisco-de-paula",
@@ -5614,7 +6846,17 @@
       "economico": 6,
       "medio": 7,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Gastronomia de montanha",
+      "Clima serrano romântico",
+      "Cultura e arte",
+      "Festividades culturais",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "caxias-do-sul",
@@ -5655,7 +6897,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Centro histórico",
+      "Cultura e arte",
+      "Ambientes charmosos",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "bento-goncalves",
@@ -5696,7 +6947,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 10
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Patrimônio histórico",
+      "Arquitetura colonial preservada",
+      "Brunchs e sobremesas",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "garibaldi",
@@ -5737,7 +6997,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 9
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Patrimônio histórico",
+      "Arquitetura colonial preservada",
+      "Cafés especiais",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "flores-da-cunha",
@@ -5778,7 +7047,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Gastronomia tradicional",
+      "Cultura e arte",
+      "Brunchs e sobremesas",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "pelotas",
@@ -5819,7 +7097,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Centro histórico",
+      "Festividades culturais",
+      "Ambientes charmosos",
+      "Brunchs e sobremesas"
+    ]
   },
   {
     "slug": "rio-grande",
@@ -5860,7 +7147,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Arquitetura colonial preservada",
+      "Cultura e arte",
+      "Águas cristalinas",
+      "Esportes aquáticos",
+      "Ambientes charmosos"
+    ]
   },
   {
     "slug": "sao-lourenco-do-sul",
@@ -5901,7 +7198,16 @@
       "economico": 7,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Arquitetura colonial preservada",
+      "Cultura e arte",
+      "Vibe relax",
+      "Workation friendly"
+    ]
   },
   {
     "slug": "cassino",
@@ -5942,7 +7248,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Esportes aquáticos",
+      "Pôr do sol inesquecível",
+      "Paisagens únicas",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "torres",
@@ -5983,7 +7298,16 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Esportes aquáticos",
+      "Pôr do sol inesquecível",
+      "Ecoturismo",
+      "Trilhas e cachoeiras"
+    ]
   },
   {
     "slug": "capao-da-canoa",
@@ -6024,7 +7348,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Esportes aquáticos",
+      "Vida marinha",
+      "Aventuras ao ar livre",
+      "Observação de fauna"
+    ]
   },
   {
     "slug": "tramandai",
@@ -6065,7 +7398,17 @@
       "economico": 6,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Águas cristalinas",
+      "Vida marinha",
+      "Gastronomia tradicional",
+      "Patrimônio histórico",
+      "Cultura do café"
+    ]
   },
   {
     "slug": "arroio-do-sal",
@@ -6106,7 +7449,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Temporada de verão",
+    "seasonDescription": "Dias quentes e noites frescas ideais para praias e ilhas.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Pôr do sol inesquecível",
+      "Águas cristalinas",
+      "Trilhas e cachoeiras",
+      "Contato com a natureza"
+    ]
   },
   {
     "slug": "bom-jardim-da-serra",
@@ -6147,7 +7499,16 @@
       "economico": 6,
       "medio": 7,
       "premium": 7
-    }
+    },
+    "seasonTitle": "Inverno com neve",
+    "seasonDescription": "Paisagens nevadas e clima europeu perfeito para turismo de inverno.",
+    "seasonPeriod": "Jun – Ago",
+    "uniqueReasons": [
+      "Cafés aconchegantes",
+      "Fogueiras e vinho",
+      "Natureza preservada",
+      "Ecoturismo"
+    ]
   },
   {
     "slug": "timbo",
@@ -6188,7 +7549,16 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes perfeitos para atividades ao ar livre e turismo.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Centro histórico",
+      "Festividades culturais",
+      "Cultura do café",
+      "Cafés especiais"
+    ]
   },
   {
     "slug": "vitoria-es",
@@ -6228,7 +7598,17 @@
       "economico": 7,
       "medio": 8,
       "premium": 8
-    }
+    },
+    "seasonTitle": "Verão litorâneo",
+    "seasonDescription": "Temperaturas agradáveis perfeitas para orla urbana, ilhas e gastronomia de frutos do mar.",
+    "seasonPeriod": "Dez – Mar",
+    "uniqueReasons": [
+      "Orla urbana",
+      "Gastronomia de frutos do mar",
+      "Ilhas paradisíacas",
+      "Clima tropical",
+      "Cidade vibrante"
+    ]
   },
   {
     "slug": "itaunas",
@@ -6267,6 +7647,16 @@
       "economico": 8,
       "medio": 7,
       "premium": 6
-    }
+    },
+    "seasonTitle": "Verão",
+    "seasonDescription": "Dias quentes ideais para aproveitar dunas, praia selvagem e cultura de forró tradicional.",
+    "seasonPeriod": "Dez – Fev",
+    "uniqueReasons": [
+      "Dunas gigantes",
+      "Praia selvagem",
+      "Forró tradicional",
+      "Vila de pescadores",
+      "Atmosfera rústica"
+    ]
   }
 ]
