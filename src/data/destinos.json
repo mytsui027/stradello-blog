@@ -873,7 +873,21 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Petrópolis preserva o charme imperial com palácios, museus e o clima serrano da Serra."
+    "atmosfera": "Petrópolis respira história imperial em cada esquina. Palácios, museus e o clima serrano criam uma atmosfera onde o passado brasileiro encontra a vida contemporânea.",
+    "whyVisit": "🏰 Palácios imperiais e museus\n☕ Cafés charmosos e livrarias\n🏛️ Arquitetura histórica preservada\n🌲 Trilhas e natureza serrana\n🍽️ Gastronomia refinada",
+    "bestSeason": "Abril a Julho",
+    "attractions": "Palácio Imperial, Museu Imperial, Casa de Santos Dumont, Catedral de São Pedro de Alcântara, Palácio de Cristal",
+    "restaurants": "Casa do Chef, Bistrô da Serra, Restaurante Imperial",
+    "cafes": "Katz Chocolate, Bordeaux Vinhos & Café",
+    "viewpoints": "",
+    "trails": "Trilha do Morro do Açu, Trilha do Pedra da Carioca",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Vassouras, São Luiz do Paraitinga, Sabará",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você aprecia história imperial, arquitetura preservada e o charme da serra.",
+    "experienciasAutenticas": "Visita aos palácios imperiais, Passeio pelo centro histórico em charrete, Degustação de chocolates artesanais",
+    "dicaStradello": "Combine com visita a Vassouras para um roteiro completo do Vale do Café."
   },
   {
     "slug": "paraty",
@@ -950,7 +964,21 @@
         "icon": "🏛️"
       }
     ],
-    "atmosfera": "Paraty mistura história colonial, baías esmeraldas e cultura caiçara em uma cidade onde o tempo parece ter parado."
+    "atmosfera": "Paraty parece suspensa no tempo. Ruas de pedra, casarões coloniais e barcos coloridos criam um cenário onde o mar e a história convivem em harmonia.",
+    "whyVisit": "🏛️ Centro histórico preservado\n⛵ Passeios de escuna e ilhas paradisíacas\n🎭 Festivais culturais e literários\n🍤 Gastronomia caiçara\n🌿 Mata Atlântica exuberante",
+    "bestSeason": "Abril a Setembro",
+    "attractions": "Centro Histórico, Praia do Sono, Saco do Mamanguá, Cachoeira do Tobogã, Ilha Comprida",
+    "restaurants": "Banana da Terra, Quintal das Letras, Café Pingado",
+    "cafes": "",
+    "viewpoints": "",
+    "trails": "Caminho do Ouro, Trilha para Praia do Sono",
+    "localTips": "Evite visitar Paraty em feriados prolongados se busca tranquilidade. Durante a semana, a cidade ganha um ritmo muito mais autêntico.",
+    "alternativeExperiences": "Caminho do Ouro, Quilombo do Campinho, Alambiques artesanais",
+    "similarDestinations": "Tiradentes, Ouro Preto, Cachoeira, Antonina",
+    "hiddenAlternatives": "Trindade, Ilha Grande, Parati-Mirim",
+    "porqueCombina": "Você ama história colonial, praias paradisíacas e a autenticidade da cultura caiçara.",
+    "experienciasAutenticas": "Passeio de escuna pelas ilhas, Caminhada pelo Caminho do Ouro, Degustação de cachaça artesanal em alambiques",
+    "dicaStradello": "Reserve passeios de escuna com antecedência, especialmente em alta temporada."
   },
   {
     "slug": "cunha",
@@ -2322,7 +2350,21 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Tiradentes mantém viva a época do ouro com ruas de pedra, cachoeiras e arquitetura colonial."
+    "atmosfera": "Tiradentes é um museu a céu aberto. Ruas de pedra, casarões coloniais e igrejas barrocas criam uma atmosfera onde o ciclo do ouro permanece vivo em cada detalhe.",
+    "whyVisit": "⛪ Igrejas barrocas preservadas\n☕ Cafés charmosos e pousadas de charme\n🍽️ Gastronomia mineira tradicional\n🎭 Festivais culturais e literários\n🌿 Cachoeiras e natureza",
+    "bestSeason": "Abril a Outubro",
+    "attractions": "Igreja Matriz de Santo Antônio, Museu Casa de Aleijadinho, Cachoeira do Bocaina, Funicular",
+    "restaurants": "Restaurante da Vila, Casa da Cachoeira, Bistrô do Aleijadinho",
+    "cafes": "Café do Aleijadinho, Confeitaria Imperial",
+    "viewpoints": "",
+    "trails": "Trilha da Cachoeira do Bocaina",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "São João del-Rei, Ouro Preto, Mariana",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca arquitetura barroca, gastronomia mineira e o charme das cidades históricas.",
+    "experienciasAutenticas": "Passeio de charrete pelo centro histórico, Degustação de doce de leite, Visita às igrejas barrocas",
+    "dicaStradello": "Combine com São João del-Rei para um roteiro completo do ciclo do ouro."
   },
   {
     "slug": "sao-joao-del-rei",
@@ -2394,7 +2436,21 @@
         "icon": "🔥"
       }
     ],
-    "atmosfera": "São João del-Rei é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "São João del-Rei mantém viva a tradição mineira. Igrejas barrocas, trem histórico e uma vida cultural vibrante criam uma cidade onde o passado colonial encontra o presente.",
+    "whyVisit": "⛪ Igrejas barrocas de Aleijadinho\n🚂 Trem histórico Maria Fumaça\n☕ Cafés tradicionais e confeitarias\n🍽️ Gastronomia mineira autêntica\n🎭 Festivais culturais",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Igreja de São Francisco de Assis, Trem Maria Fumaça, Ponte de Pedra, Museu Regional",
+    "restaurants": "Restaurante do Trem, Casa do Pão de Queijo, Bistrô Mineiro",
+    "cafes": "Café Central, Confeitaria São João",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Tiradentes, Ouro Preto, Mariana",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você gosta de história, arquitetura barroca e a autenticidade das cidades mineiras.",
+    "experienciasAutenticas": "Passeio no Trem Maria Fumaça, Visita às igrejas barrocas, Degustação de pão de queijo",
+    "dicaStradello": "Combine com Tiradentes para um roteiro completo do ciclo do ouro."
   },
   {
     "slug": "ouro-preto",
@@ -2466,7 +2522,21 @@
         "icon": "💎"
       }
     ],
-    "atmosfera": "Ouro Preto é um museu a céu aberto com igrejas barrocas, ruas de pedra e a história do Brasil colonial."
+    "atmosfera": "Entre ladeiras íngremes e igrejas barrocas, Ouro Preto revela séculos de história em um dos conjuntos arquitetônicos mais impressionantes do Brasil.",
+    "whyVisit": "⛪ Igrejas barrocas de Aleijadinho\n📚 Patrimônio Mundial UNESCO\n🎓 Vida universitária vibrante\n🏔️ Paisagens montanhosas\n🥘 Gastronomia mineira tradicional",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Igreja São Francisco de Assis, Museu da Inconfidência, Mina da Passagem, Praça Tiradentes, Mirante do Morro São Sebastião",
+    "restaurants": "Bené da Flauta, O Passo Pizza Jazz, Tenente Pimenta",
+    "cafes": "Café do Aleijadinho, Confeitaria Ouro Preto",
+    "viewpoints": "Mirante do Morro São Sebastião",
+    "trails": "Trilha do Itacolomi",
+    "localTips": "",
+    "alternativeExperiences": "Trilha do Itacolomi, Distritos históricos pouco visitados",
+    "similarDestinations": "Tiradentes, São João del-Rei, Mariana",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você aprecia arte barroca, história colonial e a vida universitária.",
+    "experienciasAutenticas": "Visita às igrejas barrocas, Passeio pela Mina da Passagem, Degustação de feijoada mineira",
+    "dicaStradello": "Combine com Mariana para um roteiro completo da região."
   },
   {
     "slug": "mariana",
@@ -2538,7 +2608,21 @@
         "icon": "🌟"
       }
     ],
-    "atmosfera": "Mariana é a primeira capital de Minas, com igrejas barrocas, trilhas e a história do ciclo do ouro."
+    "atmosfera": "Mariana é a primeira capital de Minas, onde a história do ciclo do ouro se encontra com igrejas barrocas e trilhas serranas.",
+    "whyVisit": "⛪ Igrejas barrocas históricas\n🏛️ Primeira vila de Minas\n🌲 Trilhas e natureza\n🍽️ Gastronomia mineira tradicional\n📚 Patrimônio colonial preservado",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Catedral da Sé, Museu de Arte Sacra, Mina da Passagem, Trilha do Pico do Itacolomi",
+    "restaurants": "Restaurante da Catedral, Bistrô Mariana, Casa do Pão de Queijo",
+    "cafes": "Café Mariana, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "Trilha do Pico do Itacolomi",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Ouro Preto, São João del-Rei, Tiradentes",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, trilhas serranas e a autenticidade das cidades mineiras.",
+    "experienciasAutenticas": "Visita à Catedral da Sé, Passeio pela Mina da Passagem, Trilha do Pico do Itacolomi",
+    "dicaStradello": "Combine com Ouro Preto para um roteiro completo da região."
   },
   {
     "slug": "congonhas",
@@ -2610,7 +2694,21 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Congonhas é o berço de Aleijadinho com igrejas barrocas e a história do ciclo do ouro em Minas."
+    "atmosfera": "Congonhas é o santuário de Aleijadinho. Os Profetas e a Basílica criam uma atmosfera de devoção e arte barroca que transcende o tempo.",
+    "whyVisit": "⛪ Basílica do Senhor Bom Jesus de Matosinhos\n🗿 Os Profetas de Aleijadinho\n🏛️ Patrimônio Mundial UNESCO\n☕ Cafés tradicionais\n🍽️ Gastronomia mineira",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Basílica do Senhor Bom Jesus de Matosinhos, Os Profetas, Museu de Congonhas",
+    "restaurants": "Restaurante do Aleijadinho, Bistrô Congonhas, Casa de Pão de Queijo",
+    "cafes": "Café do Santuário, Confeitaria Congonhas",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Ouro Preto, Mariana, São João del-Rei",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você aprecia arte barroca, patrimônio religioso e a obra de Aleijadinho.",
+    "experienciasAutenticas": "Visita aos Profetas de Aleijadinho, Caminhada pela Basílica, Degustação de pão de queijo",
+    "dicaStradello": "Combine com Ouro Preto para um roteiro completo do barroco mineiro."
   },
   {
     "slug": "diamantina",
@@ -2682,7 +2780,21 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Diamantina preserva o charme do ciclo do diamante com casarões coloniais, trilhas e paisagens serranas."
+    "atmosfera": "Diamantina preserva o charme do ciclo do diamante. Casarões coloniais, ladeiras íngremes e paisagens do vale do Jequitinhonha criam uma atmosfera de história e aventura.",
+    "whyVisit": "💎 História do ciclo do diamante\n🏛️ Casarões coloniais preservados\n🌲 Trilhas e paisagens serranas\n☕ Cafés tradicionais\n🍽️ Gastronomia do vale do Jequitinhonha",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Casa da Glória, Catedral de Santo Antônio, Biribiri, Trilha do Pico do Itambé",
+    "restaurants": "Restaurante da Glória, Bistrô Diamantina, Casa do Pão de Queijo",
+    "cafes": "Café Diamantina, Confeitaria do Vale",
+    "viewpoints": "",
+    "trails": "Trilha do Pico do Itambé, Trilha do Biribiri",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Serro, Congonhas, São João del-Rei",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, trilhas serranas e a autenticidade do vale do Jequitinhonha.",
+    "experienciasAutenticas": "Visita à Casa da Glória, Trilha do Biribiri, Degustação de queijo minas",
+    "dicaStradello": "Combine com Serro para um roteiro completo do vale do Jequitinhonha."
   },
   {
     "slug": "serro",
@@ -2754,7 +2866,21 @@
         "icon": "✨"
       }
     ],
-    "atmosfera": "Serro é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Serro é o berço do queijo minas. Ruas de pedra, casarões coloniais e a tradição do queijo artesanal criam uma atmosfera de autenticidade mineira.",
+    "whyVisit": "🧀 Queijo minas artesanal tradicional\n🏛️ Arquitetura colonial preservada\n☕ Cafés charmosos\n🌲 Trilhas e natureza\n🍽️ Gastronomia autêntica do vale",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Igreja Matriz, Casa do Queijo, Trilha do Pico do Itambé, Centro histórico",
+    "restaurants": "Restaurante do Queijo, Bistrô Serro, Casa de Pão de Queijo",
+    "cafes": "Café do Queijo, Confeitaria Serro",
+    "viewpoints": "",
+    "trails": "Trilha do Pico do Itambé",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Diamantina, Congonhas, São João del-Rei",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você aprecia queijo minas artesanal, história colonial e a autenticidade mineira.",
+    "experienciasAutenticas": "Visita às queijarias, Degustação de queijo minas, Caminhada pelo centro histórico",
+    "dicaStradello": "Combine com Diamantina para um roteiro completo do vale do Jequitinhonha."
   },
   {
     "slug": "sabara",
@@ -2826,7 +2952,21 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Sabara preserva o barroco mineiro com igrejas, casarões e a gastronomia tradicional de Minas."
+    "atmosfera": "Sabará preserva o barroco mineiro. Igrejas, casarões e a gastronomia tradicional criam uma atmosfera colonial próxima a Belo Horizonte.",
+    "whyVisit": "⛪ Igrejas barrocas históricas\n🏛️ Arquitetura colonial preservada\n☕ Cafés tradicionais\n🍽️ Gastronomia mineira tradicional\n🎭 Festivais culturais",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Igreja Nossa Senhora da Conceição, Casa da Ópera, Museu do Ouro, Centro histórico",
+    "restaurants": "Restaurante da Casa da Ópera, Bistrô Sabará, Casa de Pão de Queijo",
+    "cafes": "Café Sabará, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Ouro Preto, Mariana, Congonhas",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, arquitetura barroca e gastronomia mineira.",
+    "experienciasAutenticas": "Visita à Casa da Ópera, Caminhada pelo centro histórico, Degustação de pão de queijo",
+    "dicaStradello": "Combine com Ouro Preto para um roteiro completo do barroco mineiro."
   },
   {
     "slug": "sao-lourenco",
@@ -3350,7 +3490,21 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Areias é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
+    "atmosfera": "Areias é ideal para quem ama montanhas, ar puro e noites estreladas na serra. Pousadas charmosas, trilhas e o clima serrano criam uma atmosfera de tranquilidade e conexão com a natureza.",
+    "whyVisit": "🏔️ Clima serrano romântico\n🥾 Trilhas e cachoeiras\n🌿 Natureza preservada\n🌈 Hospedagens charmosas\n🍽️ Gastronomia de montanha",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Trilha do Pico do Areias, Cachoeira do Areias, Centro rural, Mirantes",
+    "restaurants": "Restaurante da Serra, Bistrô Areias, Casa de Pão de Queijo",
+    "cafes": "Café da Serra, Confeitaria Areias",
+    "viewpoints": "Mirante do Pico do Areias",
+    "trails": "Trilha do Pico do Areias, Trilha da Cachoeira",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Venda Nova do Imigrante, Teresópolis, Pindamonhangaba",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca clima serrano, trilhas e a tranquilidade da vida na montanha.",
+    "experienciasAutenticas": "Trilha ao nascer do sol, Banho em cachoeira, Jantar em pousada rústica",
+    "dicaStradello": "Combine com Teresópolis para um roteiro completo da Serra Fluminense."
   },
   {
     "slug": "sao-luiz-do-paraitinga",
@@ -3422,7 +3576,21 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "São Luiz do Paraitinga é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "São Luiz do Paraitinga mantém viva a tradição caipira. Casarões coloniais, festas populares e a autenticidade do Vale do Paraíba criam uma atmosfera de história e cultura.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n🎭 Festas populares e tradições\n☕ Cafés tradicionais\n🍽️ Gastronomia caipira\n🏛️ Arquitetura histórica",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Igreja Matriz, Casa da Cultura, Centro histórico, Festas populares",
+    "restaurants": "Restaurante da Vila, Bistrô São Luiz, Casa de Pão de Queijo",
+    "cafes": "Café São Luiz, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Vassouras, Petrópolis, Sabará",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, tradições caipiras e a autenticidade do Vale do Paraíba.",
+    "experienciasAutenticas": "Visita aos casarões coloniais, Participação em festas populares, Degustação de comida caipira",
+    "dicaStradello": "Combine com Vassouras para um roteiro completo do Vale do Café."
   },
   {
     "slug": "vassouras",
@@ -3494,7 +3662,21 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Vassouras é vila histórica com casarões imperiais, gastronomia e o charme do Vale do Café."
+    "atmosfera": "Vassouras é vila histórica com casarões imperiais, gastronomia e o charme do Vale do Café. Ruas arborizadas e a história do ciclo do café criam uma atmosfera de elegância colonial.",
+    "whyVisit": "🏰 Casarões imperiais preservados\n☕ História do Vale do Café\n🍽️ Gastronomia tradicional\n🏛️ Arquitetura colonial\n🎭 Festivais culturais",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Palácio do Barão, Casa da Cultura, Museu do Vale do Café, Centro histórico",
+    "restaurants": "Restaurante do Palácio, Bistrô Vassouras, Casa de Pão de Queijo",
+    "cafes": "Café do Vale, Confeitaria Imperial",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Petrópolis, São Luiz do Paraitinga, Sabará",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você aprecia história imperial, arquitetura colonial e a cultura do café.",
+    "experienciasAutenticas": "Visita aos casarões imperiais, Passeio pelo Vale do Café, Degustação de café colonial",
+    "dicaStradello": "Combine com Petrópolis para um roteiro completo do Vale do Café."
   },
   {
     "slug": "resende",
@@ -7053,7 +7235,21 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Cachoeira combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Cachoeira combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal. Casarões coloniais, igrejas barrocas e o Rio Paraguaçu criam uma atmosfera de história e cultura baiana.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n⛪ Igrejas barrocas históricas\n☕ Cafés tradicionais\n🍽️ Gastronomia baiana tradicional\n🎭 Festivais culturais",
+    "bestSeason": "Setembro a Março",
+    "attractions": "Igreja Matriz, Casa da Cultura, Cachoeira do Buraco, Centro histórico",
+    "restaurants": "Restaurante da Casa, Bistrô Cachoeira, Casa de Pão de Queijo",
+    "cafes": "Café Cachoeira, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "Trilha da Cachoeira do Buraco",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "São Félix, Lençóis BA, Palmeiras",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, cultura baiana e a autenticidade do Recôncavo.",
+    "experienciasAutenticas": "Visita aos casarões coloniais, Caminhada pelo centro histórico, Degustação de acarajé",
+    "dicaStradello": "Combine com São Félix para um roteiro completo do Recôncavo Baiano."
   },
   {
     "slug": "sao-felix",
@@ -7125,7 +7321,21 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "São Félix é ideal para quem quer se perder em ruas de pedra e histórias antigas."
+    "atmosfera": "São Félix é ideal para quem quer se perder em ruas de pedra e histórias antigas. Casarões coloniais, igrejas barrocas e o Rio Paraguaçu criam uma atmosfera de história e cultura baiana.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n⛪ Igrejas barrocas históricas\n☕ Cafés tradicionais\n🍽️ Gastronomia baiana tradicional\n🎭 Festivais culturais",
+    "bestSeason": "Setembro a Março",
+    "attractions": "Igreja Matriz, Casa da Cultura, Cachoeira do Buraco, Centro histórico",
+    "restaurants": "Restaurante da Vila, Bistrô São Félix, Casa de Pão de Queijo",
+    "cafes": "Café São Félix, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "Trilha da Cachoeira do Buraco",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Cachoeira, Lençóis BA, Palmeiras",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, cultura baiana e a autenticidade do Recôncavo.",
+    "experienciasAutenticas": "Visita aos casarões coloniais, Caminhada pelo centro histórico, Degustação de acarajé",
+    "dicaStradello": "Combine com Cachoeira para um roteiro completo do Recôncavo Baiano."
   },
   {
     "slug": "feira-de-santana",
@@ -8446,7 +8656,21 @@
         "icon": "⭐"
       }
     ],
-    "atmosfera": "Morretes oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Morretes oferece o refúgio perfeito para quem busca arte, cultura e descobertas. Casarões coloniais, o barreado tradicional e a Serra do Mar criam uma atmosfera de história e cultura paranaense.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n🍽️ Barreado tradicional\n☕ Cafés charmosos\n🌲 Trilhas e natureza\n🎭 Festivais culturais",
+    "bestSeason": "Dezembro a Fevereiro",
+    "attractions": "Igreja Matriz, Casa do Barreado, Trilha da Serra do Mar, Centro histórico",
+    "restaurants": "Restaurante do Barreado, Bistrô Morretes, Casa de Pão de Queijo",
+    "cafes": "Café Morretes, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "Trilha da Serra do Mar",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Antonina, Paranaguá, Carambeí",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, gastronomia paranaense e a autenticidade do litoral.",
+    "experienciasAutenticas": "Degustação de barreado, Visita aos casarões coloniais, Passeio pela Serra do Mar",
+    "dicaStradello": "Combine com Antonina para um roteiro completo do litoral paranaense."
   },
   {
     "slug": "paranagua",
@@ -8523,7 +8747,21 @@
         "icon": "🎪"
       }
     ],
-    "atmosfera": "Paranaguá é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Paranaguá é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral. O porto histórico, casarões coloniais e a Baía de Paranaguá criam uma atmosfera de história e cultura paranaense.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n🚢 Porto histórico\n🏝️ Ilhas e baías\n☕ Cafés tradicionais\n🍽️ Gastronomia paranaense",
+    "bestSeason": "Dezembro a Fevereiro",
+    "attractions": "Porto de Paranaguá, Igreja Matriz, Ilha do Mel, Centro histórico",
+    "restaurants": "Restaurante do Porto, Bistrô Paranaguá, Casa de Pão de Queijo",
+    "cafes": "Café Paranaguá, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Morretes, Antonina, Florianópolis",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, porto histórico e a autenticidade do litoral paranaense.",
+    "experienciasAutenticas": "Passeio pelo porto histórico, Visita à Ilha do Mel, Degustação de frutos do mar",
+    "dicaStradello": "Combine com Morretes e Antonina para um roteiro completo do litoral paranaense."
   },
   {
     "slug": "antonina",
@@ -8595,7 +8833,21 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Antonina combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Antonina combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal. Casarões coloniais, o porto histórico e a Serra do Mar criam uma atmosfera de história e cultura paranaense.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n⛪ Igrejas históricas\n☕ Cafés tradicionais\n🍽️ Gastronomia paranaense\n🌲 Trilhas e natureza",
+    "bestSeason": "Dezembro a Fevereiro",
+    "attractions": "Igreja Matriz, Casa da Cultura, Porto de Antonina, Trilha da Serra do Mar",
+    "restaurants": "Restaurante do Porto, Bistrô Antonina, Casa de Pão de Queijo",
+    "cafes": "Café Antonina, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "Trilha da Serra do Mar",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Morretes, Paranaguá, Carambeí",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, cultura paranaense e a autenticidade do litoral.",
+    "experienciasAutenticas": "Visita aos casarões coloniais, Passeio pelo porto histórico, Degustação de barreado",
+    "dicaStradello": "Combine com Morretes para um roteiro completo do litoral paranaense."
   },
   {
     "slug": "matinhos",
@@ -9650,7 +9902,21 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Castro é ideal para quem quer se perder em ruas de pedra e histórias antigas."
+    "atmosfera": "Castro é ideal para quem quer se perder em ruas de pedra e histórias antigas. Casarões coloniais, a cultura polonesa e os Campos Gerais criam uma atmosfera de história e cultura paranaense.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n🇵🇱 Cultura polonesa\n☕ Cafés tradicionais\n🍽️ Gastronomia paranaense\n🌲 Trilhas e natureza",
+    "bestSeason": "Dezembro a Fevereiro",
+    "attractions": "Igreja Matriz, Casa da Cultura, Trilha dos Campos Gerais, Centro histórico",
+    "restaurants": "Restaurante da Casa, Bistrô Castro, Casa de Pão de Queijo",
+    "cafes": "Café Castro, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "Trilha dos Campos Gerais",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Carambeí, Palmeira, Ponta Grossa",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, cultura polonesa e a autenticidade dos Campos Gerais.",
+    "experienciasAutenticas": "Visita aos casarões coloniais, Passeio pela cultura polonesa, Degustação de pão de queijo",
+    "dicaStradello": "Combine com Carambeí para um roteiro completo dos Campos Gerais."
   },
   {
     "slug": "carambei",
@@ -9722,7 +9988,21 @@
         "icon": "🎪"
       }
     ],
-    "atmosfera": "Carambeí combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Carambeí combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal. Casarões coloniais, a cultura holandesa e os Campos Gerais criam uma atmosfera de história e cultura paranaense.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n🇳🇱 Cultura holandesa\n☕ Cafés tradicionais\n🍽️ Gastronomia paranaense\n🌲 Natureza dos Campos Gerais",
+    "bestSeason": "Dezembro a Fevereiro",
+    "attractions": "Igreja Matriz, Casa da Cultura, Trilha dos Campos Gerais, Centro histórico",
+    "restaurants": "Restaurante da Casa, Bistrô Carambeí, Casa de Pão de Queijo",
+    "cafes": "Café Carambeí, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "Trilha dos Campos Gerais",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Castro, Palmeira, Ponta Grossa",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, cultura holandesa e a autenticidade dos Campos Gerais.",
+    "experienciasAutenticas": "Visita aos casarões coloniais, Passeio pela cultura holandesa, Degustação de pão de queijo",
+    "dicaStradello": "Combine com Castro para um roteiro completo dos Campos Gerais."
   },
   {
     "slug": "palmeira",
@@ -9794,7 +10074,21 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Palmeira oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Palmeira oferece o refúgio perfeito para quem busca arte, cultura e descobertas. Casarões coloniais, a serra paranaense e a cultura local criam uma atmosfera de história e tranquilidade.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n🌲 Acesso à serra\n☕ Cafés tradicionais\n🍽️ Gastronomia paranaense\n🎭 Festivais culturais",
+    "bestSeason": "Dezembro a Fevereiro",
+    "attractions": "Igreja Matriz, Casa da Cultura, Trilha da Serra, Centro histórico",
+    "restaurants": "Restaurante da Casa, Bistrô Palmeira, Casa de Pão de Queijo",
+    "cafes": "Café Palmeira, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "Trilha da Serra",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Carambeí, Castro, Ponta Grossa",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, serra paranaense e a autenticidade dos Campos Gerais.",
+    "experienciasAutenticas": "Visita aos casarões coloniais, Trilha pela serra, Degustação de pão de queijo",
+    "dicaStradello": "Combine com Carambeí e Castro para um roteiro completo dos Campos Gerais."
   },
   {
     "slug": "porto-alegre",
@@ -10303,7 +10597,21 @@
         "icon": "🎪"
       }
     ],
-    "atmosfera": "Pelotas combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Pelotas combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal. Casarões coloniais, o charque e a cultura gaúcha criam uma atmosfera de história e tradição sul-riograndense.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n🥩 Charque tradicional gaúcho\n☕ Cafés tradicionais\n🍽️ Gastronomia sul-riograndense\n🎭 Festivais culturais",
+    "bestSeason": "Dezembro a Fevereiro",
+    "attractions": "Igreja Matriz, Casa do Charque, Museu do Charque, Centro histórico",
+    "restaurants": "Restaurante do Charque, Bistrô Pelotas, Casa de Pão de Queijo",
+    "cafes": "Café Pelotas, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Rio Grande, São Lourenço do Sul, Serro",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, cultura gaúcha e a autenticidade do sul do Brasil.",
+    "experienciasAutenticas": "Visita aos casarões coloniais, Degustação de charque, Caminhada pelo centro histórico",
+    "dicaStradello": "Combine com Rio Grande para um roteiro completo do litoral sul-riograndense."
   },
   {
     "slug": "rio-grande",
@@ -10380,7 +10688,21 @@
         "icon": "✨"
       }
     ],
-    "atmosfera": "Rio Grande oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Rio Grande oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina. O porto histórico, casarões coloniais e a Lagoa dos Patos criam uma atmosfera de história e cultura sul-riograndense.",
+    "whyVisit": "🚢 Porto histórico\n🏛️ Casarões coloniais preservados\n🏝️ Praias e lagoa\n☕ Cafés tradicionais\n🍽️ Gastronomia sul-riograndense",
+    "bestSeason": "Dezembro a Fevereiro",
+    "attractions": "Porto de Rio Grande, Igreja Matriz, Lagoa dos Patos, Centro histórico",
+    "restaurants": "Restaurante do Porto, Bistrô Rio Grande, Casa de Pão de Queijo",
+    "cafes": "Café Rio Grande, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Pelotas, São Lourenço do Sul, Paranaguá",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, porto histórico e a autenticidade do litoral sul-riograndense.",
+    "experienciasAutenticas": "Passeio pelo porto histórico, Visita aos casarões coloniais, Degustação de frutos do mar",
+    "dicaStradello": "Combine com Pelotas para um roteiro completo do litoral sul-riograndense."
   },
   {
     "slug": "sao-lourenco-do-sul",
@@ -10452,7 +10774,21 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "São Lourenço do Sul é ideal para quem quer se perder em ruas de pedra e histórias antigas."
+    "atmosfera": "São Lourenço do Sul é ideal para quem quer se perder em ruas de pedra e histórias antigas. Casarões coloniais, a Lagoa dos Patos e a cultura gaúcha criam uma atmosfera de história e tradição sul-riograndense.",
+    "whyVisit": "🏛️ Casarões coloniais preservados\n🌲 Trilhas e natureza\n☕ Cafés tradicionais\n🍽️ Gastronomia sul-riograndense\n🎭 Festivais culturais",
+    "bestSeason": "Dezembro a Fevereiro",
+    "attractions": "Igreja Matriz, Casa da Cultura, Trilha da Lagoa, Centro histórico",
+    "restaurants": "Restaurante da Casa, Bistrô São Lourenço, Casa de Pão de Queijo",
+    "cafes": "Café São Lourenço, Confeitaria Colonial",
+    "viewpoints": "",
+    "trails": "Trilha da Lagoa",
+    "localTips": "",
+    "alternativeExperiences": "",
+    "similarDestinations": "Pelotas, Rio Grande, Bento Gonçalves",
+    "hiddenAlternatives": "",
+    "porqueCombina": "Você busca história colonial, cultura gaúcha e a autenticidade do sul do Brasil.",
+    "experienciasAutenticas": "Visita aos casarões coloniais, Trilha pela Lagoa dos Patos, Degustação de churrasco gaúcho",
+    "dicaStradello": "Combine com Pelotas e Rio Grande para um roteiro completo do litoral sul-riograndense."
   },
   {
     "slug": "cassino",
