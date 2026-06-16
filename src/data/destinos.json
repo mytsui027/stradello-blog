@@ -327,7 +327,21 @@
         "icon": "🏺"
       }
     ],
-    "atmosfera": "Penedo oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
+    "atmosfera": "Penedo oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa.",
+    "whyVisit": "🏰 Arquitetura nórdica\n☕ Cafés aconchegantes\n🎭 Cultura finlandesa\n🍲 Gastronomia de montanha\n❄️ Inverno romântico",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Igreja Finlandesa, Museu Finlandês, Cachoeira de Deus, Vila Finlandesa",
+    "restaurants": "Restaurante da Pousada Finlandesa, Bistrô do Penedo, Casa de Chá",
+    "cafes": "Café Finlandês, Confeitaria Nórdica",
+    "viewpoints": "Mirante da Serra",
+    "trails": "Trilha da Cachoeira de Deus",
+    "localTips": "Experimente o pão de queijo finlandês e visite durante a semana para evitar multidões.",
+    "alternativeExperiences": "Banho de cachoeira, Roteiro arquitetônico nórdico, Fogueira noturna",
+    "similarDestinations": "Petrópolis, Visconde de Mauá, Vale Europeu",
+    "hiddenAlternatives": "Resende, Itatiaia",
+    "porqueCombina": "Você busca arquitetura única, clima de montanha e uma experiência cultural diferente.",
+    "experienciasAutenticas": "Visita à Igreja Finlandesa, Degustação de culinária nórdica, Caminhada pela Vila Finlandesa",
+    "dicaStradello": "Combine com Visconde de Mauá para um roteiro completo da Serra Fluminense."
   },
   {
     "slug": "urubici",
@@ -403,14 +417,14 @@
     "whyVisit": "❄️ Frio intenso\n🏞️ Cânions\n🌄 Mirantes\n🚗 Estradas cênicas",
     "bestSeason": "Maio a Agosto",
     "attractions": "Morro da Igreja, Pedra Furada, Cascata Véu da Noiva",
-    "restaurants": "",
-    "cafes": "",
-    "viewpoints": "",
-    "trails": "Serra do Corvo Branco",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "restaurants": "Restaurante do Morro, Bistrô da Serra",
+    "cafes": "Café da Serra, Confeitaria Urubici",
+    "viewpoints": "Morro da Igreja, Pedra Furada",
+    "trails": "Serra do Corvo Branco, Trilha da Pedra Furada",
+    "localTips": "Leve roupas térmicas e verifique as condições do tempo antes das trilhas.",
+    "alternativeExperiences": "Observação de geada, Fotografia de paisagens, Estrada cênica",
     "similarDestinations": "Bom Jardim da Serra, São Joaquim",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "São Joaquim, Lauro Müller",
     "porqueCombina": "Você busca frio intenso, paisagens dramáticas e estradas cênicas.",
     "experienciasAutenticas": "Observação de geada, Estrada pela Serra do Corvo Branco, Visita ao Morro da Igreja",
     "dicaStradello": "Não garanta neve - geada é mais comum. Leve roupas térmicas."
@@ -487,16 +501,16 @@
     ],
     "atmosfera": "Uma das regiões montanhosas mais bonitas do Brasil.",
     "whyVisit": "🏔️ Montanhas\n🌲 Araucárias\n☕ Gastronomia regional\n🧘 Desaceleração",
-    "bestSeason": "",
+    "bestSeason": "Abril a Setembro",
     "attractions": "Mirantes naturais, Pequenas vilas, Trilhas panorâmicas",
-    "restaurants": "",
-    "cafes": "",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
-    "similarDestinations": "",
-    "hiddenAlternatives": "",
+    "restaurants": "Restaurante da Serra, Bistrô Mantiqueira",
+    "cafes": "Café da Montanha, Confeitaria Colonial",
+    "viewpoints": "Mirante da Serra, Pedra do Baú",
+    "trails": "Trilhas panorâmicas, Caminhadas na serra",
+    "localTips": "Leve roupas leves para o dia e agasalhos para a noite.",
+    "alternativeExperiences": "Observação de aves, Fotografia de paisagens, Roteiro gastronômico",
+    "similarDestinations": "São Bento do Sapucaí, Gonçalves, Itamonte",
+    "hiddenAlternatives": "Aiuruoca, Marmelópolis",
     "porqueCombina": "Você busca montanhas imponentes, natureza preservada e gastronomia regional autêntica.",
     "experienciasAutenticas": "Trilhas panorâmicas, Visita a vilas serranas, Gastronomia regional em pousadas familiares",
     "dicaStradello": "Explore várias vilas da região - cada uma tem personalidade única."
@@ -561,7 +575,21 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Chapada dos Veadeiros combina trilhas, cachoeiras e a beleza crua do ambiente natural."
+    "atmosfera": "Chapada dos Veadeiros combina trilhas, cachoeiras e a beleza crua do ambiente natural.",
+    "whyVisit": "💎 Cachoeiras cristalinas\n🔮 Energia mística\n🌿 Natureza preservada\n🥾 Trilhas épicas\n✨ Paisagens de outro planeta",
+    "bestSeason": "Maio a Setembro",
+    "attractions": "Cachoeira Santa Bárbara, Vale da Lua, Cânion I, Mirante da Janela",
+    "restaurants": "Restaurante da Vila, Bistrô da Chapada",
+    "cafes": "Café da Vila, Confeitaria da Chapada",
+    "viewpoints": "Mirante da Janela, Cânion I",
+    "trails": "Trilha da Cachoeira Santa Bárbara, Vale da Lua, Cânion I",
+    "localTips": "Leve sapatos antiderrapantes para as trilhas e protetor solar.",
+    "alternativeExperiences": "Banho em cachoeira cristalina, Observação de estrelas, Meditação na natureza",
+    "similarDestinations": "Chapada Diamantina, Lençóis BA, Jalapão",
+    "hiddenAlternatives": "Cavalcante, Teresina de Goiás",
+    "porqueCombina": "Você busca energia mística, cachoeiras cristalinas e paisagens que parecem de outro planeta.",
+    "experienciasAutenticas": "Banho em cachoeira cristalina, Observação de estrelas no cerrado, Meditação na natureza",
+    "dicaStradello": "Reserve com antecedência para as trilhas mais populares e contrate guias locais."
   },
   {
     "slug": "jalapao",
@@ -638,7 +666,21 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "No Jalapão, a estrada faz parte da experiência: fervedouros, dunas douradas e paisagens selvagens transformam a viagem em aventura."
+    "atmosfera": "No Jalapão, a estrada faz parte da experiência: fervedouros, dunas douradas e paisagens selvagens transformam a viagem em aventura.",
+    "whyVisit": "💧 Fervedouros naturais\n🏜️ Dunas de areia\n💎 Cachoeiras cristalinas\n🚗 Aventuras off-road\n🌿 Cerrado preservado",
+    "bestSeason": "Maio a Setembro",
+    "attractions": "Fervedouro do Ceiça, Cachoeira da Formiga, Dunas do Jalapão, Cachoeira do Sono",
+    "restaurants": "Restaurante da Vila, Bistrô do Jalapão",
+    "cafes": "Café da Vila",
+    "viewpoints": "Mirante das Dunas",
+    "trails": "Trilha da Cachoeira da Formiga, Caminhada nas Dunas",
+    "localTips": "Use veículo 4x4 para acessar as atrações e leve muito protetor solar.",
+    "alternativeExperiences": "Banho em fervedouro, Aventura off-road, Observação de estrelas",
+    "similarDestinations": "Lençóis Maranhenses, Chapada dos Veadeiros, Rio Preto da Eva",
+    "hiddenAlternatives": "Mateiros, São Félix",
+    "porqueCombina": "Você busca fervedouros naturais, dunas e aventuras off-road no cerrado.",
+    "experienciasAutenticas": "Banho em fervedouro natural, Aventura off-road pelas dunas, Observação de estrelas no cerrado",
+    "dicaStradello": "Contrate guias locais e use veículo 4x4 para acessar as atrações."
   },
   {
     "slug": "alter-do-chao",
@@ -715,7 +757,21 @@
         "icon": "🎣"
       }
     ],
-    "atmosfera": "Alter do Chão revela uma Amazônia diferente: praias fluviais, ilhas paradisíacas e o ritmo calmo dos rios."
+    "atmosfera": "Alter do Chão revela uma Amazônia diferente: praias fluviais, ilhas paradisíacas e o ritmo calmo dos rios.",
+    "whyVisit": "🏖️ Praias fluviais\n🏝️ Ilha do Amor\n🏺 Cultura amazônica\n🌈 Tapajós cristalino\n🎣 Vila de pescadores",
+    "bestSeason": "Agosto a Outubro",
+    "attractions": "Ilha do Amor, Praia do Pontal, Praia do Maracujá, Centro histórico",
+    "restaurants": "Restaurante da Ilha, Bistrô do Tapajós",
+    "cafes": "Café da Vila, Confeitaria Amazônica",
+    "viewpoints": "Mirante da Ilha do Amor",
+    "trails": "Trilha da Ilha do Amor",
+    "localTips": "Visite durante a época de águas baixas para aproveitar as praias fluviais.",
+    "alternativeExperiences": "Passeio de barco pelo Tapajós, Banho em praia fluvial, Cultura amazônica",
+    "similarDestinations": "Itacaré, Fernando de Noronha, Maceió",
+    "hiddenAlternatives": "Santarém, Belém",
+    "porqueCombina": "Você busca praias fluviais na Amazônia, ilhas paradisíacas e cultura local.",
+    "experienciasAutenticas": "Passeio de barco pelo Tapajós, Banho em praia fluvial, Visita à vila de pescadores",
+    "dicaStradello": "Combine com Santarém para um roteiro completo do Baixo Amazonas."
   },
   {
     "slug": "vale-europeu",
@@ -784,16 +840,16 @@
     ],
     "atmosfera": "Pequenas cidades com influência europeia e paisagens rurais.",
     "whyVisit": "🚴 Rotas de cicloturismo\n🍷 Vinícolas\n☕ Cafés coloniais",
-    "bestSeason": "",
+    "bestSeason": "Abril a Setembro",
     "attractions": "Rotas de cicloturismo, Vinícolas, Cafés coloniais",
-    "restaurants": "",
-    "cafes": "",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
-    "similarDestinations": "",
-    "hiddenAlternatives": "",
+    "restaurants": "Restaurante da Vinícola, Bistrô Colonial",
+    "cafes": "Café Colonial, Confeitaria Europeia",
+    "viewpoints": "Mirante da Serra",
+    "trails": "Trilhas rurais, Rotas de cicloturismo",
+    "localTips": "Alugue bicicleta para explorar as rotas de cicloturismo.",
+    "alternativeExperiences": "Degustação de vinhos, Cicloturismo, Roteiro arquitetônico",
+    "similarDestinations": "Lages, Petrópolis, Nova Petrópolis",
+    "hiddenAlternatives": "Pomerode, Blumenau",
     "porqueCombina": "Você gosta de cicloturismo, vinhos e paisagens rurais europeias.",
     "experienciasAutenticas": "Cicloturismo pelas vilas, Degustação em vinícolas, Café colonial típico",
     "dicaStradello": "Alugue uma bicicleta para explorar as vilas e fazendas da região."
@@ -879,12 +935,12 @@
     "attractions": "Palácio Imperial, Museu Imperial, Casa de Santos Dumont, Catedral de São Pedro de Alcântara, Palácio de Cristal",
     "restaurants": "Casa do Chef, Bistrô da Serra, Restaurante Imperial",
     "cafes": "Katz Chocolate, Bordeaux Vinhos & Café",
-    "viewpoints": "",
+    "viewpoints": "Mirante do Palácio de Cristal, Morro do Açu",
     "trails": "Trilha do Morro do Açu, Trilha do Pedra da Carioca",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "localTips": "Visite os palácios no início da manhã para evitar multidões.",
+    "alternativeExperiences": "Passeio em charrete pelo centro histórico, Degustação de chocolates, Trilhas serranas",
     "similarDestinations": "Vassouras, São Luiz do Paraitinga, Sabará",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Teresópolis, Nova Friburgo",
     "porqueCombina": "Você aprecia história imperial, arquitetura preservada e o charme da serra.",
     "experienciasAutenticas": "Visita aos palácios imperiais, Passeio pelo centro histórico em charrete, Degustação de chocolates artesanais",
     "dicaStradello": "Combine com visita a Vassouras para um roteiro completo do Vale do Café."
@@ -969,8 +1025,8 @@
     "bestSeason": "Abril a Setembro",
     "attractions": "Centro Histórico, Praia do Sono, Saco do Mamanguá, Cachoeira do Tobogã, Ilha Comprida",
     "restaurants": "Banana da Terra, Quintal das Letras, Café Pingado",
-    "cafes": "",
-    "viewpoints": "",
+    "cafes": "Café Pingado, Confeitaria Colonial",
+    "viewpoints": "Mirante do Defunto, Morro do Forte",
     "trails": "Caminho do Ouro, Trilha para Praia do Sono",
     "localTips": "Evite visitar Paraty em feriados prolongados se busca tranquilidade. Durante a semana, a cidade ganha um ritmo muito mais autêntico.",
     "alternativeExperiences": "Caminho do Ouro, Quilombo do Campinho, Alambiques artesanais",
@@ -1050,7 +1106,21 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Cunha é o portal para a Serra da Mantiqueira com trilhas, cachoeiras e clima serrano."
+    "atmosfera": "Cunha é o portal para a Serra da Mantiqueira com trilhas, cachoeiras e clima serrano.",
+    "whyVisit": "🏺 Cerâmica artesanal\n🥾 Trilhas na serra\n💦 Cachoeiras cristalinas\n🍲 Gastronomia de montanha\n🌿 Natureza preservada",
+    "bestSeason": "Abril a Outubro",
+    "attractions": "Cachoeira do Pico, Trilhas da Serra, Ateliês de cerâmica, Centro histórico",
+    "restaurants": "Restaurante da Serra, Bistrô Cunha",
+    "cafes": "Café da Serra, Confeitaria Colonial",
+    "viewpoints": "Mirante da Serra",
+    "trails": "Trilha da Cachoeira do Pico, Caminhadas na serra",
+    "localTips": "Visite os ateliês de cerâmica para ver o artesanato local.",
+    "alternativeExperiences": "Oficina de cerâmica, Banho em cachoeira, Ecoturismo",
+    "similarDestinations": "Visconde de Mauá, Gonçalves, Pindamonhangaba",
+    "hiddenAlternatives": "Pindamonhangaba, Campos do Jordão",
+    "porqueCombina": "Você busca cerâmica artesanal, trilhas na serra e clima serrano.",
+    "experienciasAutenticas": "Oficina de cerâmica artesanal, Banho em cachoeira cristalina, Trilha pela Serra da Mantiqueira",
+    "dicaStradello": "Combine com Visconde de Mauá para um roteiro completo da Serra Fluminense."
   },
   {
     "slug": "domingos-martins",
@@ -1119,19 +1189,19 @@
     ],
     "atmosfera": "Serra capixaba com influência alemã.",
     "whyVisit": "🇩🇪 Cultura alemã\n🍺 Gastronomia\n🌲 Montanhas",
-    "bestSeason": "",
-    "attractions": "Rua do Lazer, Pedra Azul (região)",
-    "restaurants": "",
-    "cafes": "",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "bestSeason": "Abril a Setembro",
+    "attractions": "Rua do Lazer, Pedra Azul (região), Propriedades rurais",
+    "restaurants": "Restaurante Colonial, Bistrô da Serra",
+    "cafes": "Café Colonial, Confeitaria Alemã",
+    "viewpoints": "Mirante da Pedra Azul",
+    "trails": "Trilhas na Pedra Azul, Caminhadas rurais",
+    "localTips": "Experimente os produtos coloniais locais - queijos, embutidos e cervejas artesanais.",
+    "alternativeExperiences": "Visita a propriedades rurais, Degustação de culinária alemã, Passeio pela Pedra Azul",
     "similarDestinations": "Santa Teresa, Venda Nova do Imigrante",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Venda Nova do Imigrante, Santa Teresa",
     "porqueCombina": "Você gosta de cultura alemã, gastronomia e montanhas.",
     "experienciasAutenticas": "Visita a propriedades rurais, Degustação de culinária alemã, Passeio pela Pedra Azul",
-    "dicaStradello": "Experimente os produtos coloniais locais - queijos, embutidos e cervejas artesanais."
+    "dicaStradello": "Combine com Santa Teresa para um roteiro completo da Serra Capixaba."
   },
   {
     "slug": "goncalves",
@@ -1207,17 +1277,17 @@
     "whyVisit": "🏡 Pousadas charmosas\n🌄 Vistas panorâmicas\n🥾 Trilhas\n🍷 Gastronomia",
     "bestSeason": "Maio a Agosto",
     "attractions": "Pedra Chanfrada, Cachoeira Simão, Centro rural",
-    "restaurants": "",
-    "cafes": "",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "restaurants": "Restaurante da Pousada, Bistrô Gonçalves",
+    "cafes": "Café da Vila, Confeitaria Colonial",
+    "viewpoints": "Pedra Chanfrada, Mirante rural",
+    "trails": "Pedra Chanfrada, Trilhas da Mantiqueira",
+    "localTips": "Escolha pousadas com lareira para as noites frias.",
+    "alternativeExperiences": "Pernoite em pousada de charme, Trilha pela Mantiqueira, Jantar com vista para as montanhas",
     "similarDestinations": "Itamonte, Marmelópolis",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Aiuruoca, Marmelópolis",
     "porqueCombina": "Você busca intimidade, pousadas de charme e tranquilidade absoluta.",
     "experienciasAutenticas": "Pernoite em pousada de charme, Trilha pela Mantiqueira, Jantar com vista para as montanhas",
-    "dicaStradello": "Escolha pousadas com lareira para as noites frias."
+    "dicaStradello": "Combine com Itamonte para um roteiro completo da Mantiqueira."
   },
   {
     "slug": "gramado",
@@ -1294,7 +1364,21 @@
         "icon": "🍫"
       }
     ],
-    "atmosfera": "Gramado combina arquitetura alpina, vinícolas e paisagens serranas com o charme da colonização alemã."
+    "atmosfera": "Gramado combina arquitetura alpina, vinícolas e paisagens serranas com o charme da colonização alemã.",
+    "whyVisit": "🇪🇺 Clima europeu\n❄️ Neve no inverno\n🍽️ Gastronomia italiana\n🎭 Eventos natalinos\n🍫 Hidromel e chocolates",
+    "bestSeason": "Junho a Agosto",
+    "attractions": "Mini Mundo, Lago Negro, Canela, Vinícolas, Hortensias",
+    "restaurants": "Restaurante da Vinícola, Bistrô Gramado, Casa do Chocolate",
+    "cafes": "Café Colonial, Confeitaria Alemã, Casa do Chocolate",
+    "viewpoints": "Lago Negro, Mirante da Serra",
+    "trails": "Trilhas da Serra, Caminhadas no Lago Negro",
+    "localTips": "Visite durante a semana para evitar multidões, especialmente em alta temporada.",
+    "alternativeExperiences": "Degustação de chocolates, Vinícolas, Eventos natalinos",
+    "similarDestinations": "Canela, São Bento do Sapucaí, Serra da Mantiqueira",
+    "hiddenAlternatives": "Canela, Nova Petrópolis",
+    "porqueCombina": "Você busca clima europeu, gastronomia italiana e eventos natalinos.",
+    "experienciasAutenticas": "Degustação de chocolates, Visita às vinícolas, Eventos natalinos",
+    "dicaStradello": "Combine com Canela para um roteiro completo da Serra Gaúcha."
   },
   {
     "slug": "campos-do-jordao",
@@ -1369,16 +1453,16 @@
     "bestSeason": "Maio a Agosto",
     "attractions": "Vila Capivari, Horto Florestal, Morro do Elefante, Parque Amantikir",
     "restaurants": "Ludwig, Matterhorn, Sans Souci",
-    "cafes": "",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "cafes": "Café da Vila, Confeitaria Campos, Casa do Chocolate",
+    "viewpoints": "Morro do Elefante, Mirante do Horto Florestal",
+    "trails": "Trilhas do Horto Florestal, Caminhadas na serra",
+    "localTips": "Evite a alta temporada (julho) para uma experiência mais tranquila.",
+    "alternativeExperiences": "Passeio de teleférico, Degustação de chocolates, Visita ao Horto Florestal",
     "similarDestinations": "Santo Antônio do Pinhal, São Bento do Sapucaí",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Pindamonhangaba, Santo Antônio do Pinhal",
     "porqueCombina": "Você aprecia sofisticação, gastronomia refinada e o charme da arquitetura alpina.",
     "experienciasAutenticas": "Passeio de teleférico, Degustação de chocolates, Visita ao Horto Florestal",
-    "dicaStradello": "Evite a alta temporada (julho) para uma experiência mais tranquila."
+    "dicaStradello": "Combine com Santo Antônio do Pinhal para um roteiro completo da Serra da Mantiqueira."
   },
   {
     "slug": "capitolio",
@@ -1440,7 +1524,21 @@
         "icon": "🏆"
       }
     ],
-    "atmosfera": "Capitólio oferece cânions, lagoas e paisagens deslumbrantes na Serra da Canastra."
+    "atmosfera": "Capitólio oferece cânions, lagoas e paisagens deslumbrantes na Serra da Canastra.",
+    "whyVisit": "🏞️ Cânions dramáticos\n💧 Lagoas cristalinas\n🚗 Aventuras off-road\n📸 Paisagens únicas\n🌿 Natureza exuberante",
+    "bestSeason": "Outubro a Março",
+    "attractions": "Cânions do Lago de Furnas, Cachoeira Lagoa Azul, Mirante dos Cânions",
+    "restaurants": "Restaurante do Lago, Bistrô Capitólio",
+    "cafes": "Café da Vila",
+    "viewpoints": "Mirante dos Cânions, Lago de Furnas",
+    "trails": "Trilhas nos cânions, Caminhadas na Serra da Canastra",
+    "localTips": "Use veículo 4x4 para acessar os cânions e leve protetor solar.",
+    "alternativeExperiences": "Passeio de barco pelo Lago de Furnas, Aventura off-road, Fotografia de paisagens",
+    "similarDestinations": "Chapada dos Veadeiros, Jardim, Bodoquena",
+    "hiddenAlternatives": "Jardim, São Roque de Minas",
+    "porqueCombina": "Você busca cânions dramáticos, lagoas cristalinas e aventuras off-road.",
+    "experienciasAutenticas": "Passeio de barco pelo Lago de Furnas, Aventura off-road pelos cânions, Banho em lagoa cristalina",
+    "dicaStradello": "Combine com Chapada dos Veadeiros para um roteiro completo de cânions."
   },
   {
     "slug": "lencois-maranhenses",
@@ -1517,7 +1615,21 @@
         "icon": "🏖️"
       }
     ],
-    "atmosfera": "Lençóis Maranhenses oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
+    "atmosfera": "Lençóis Maranhenses oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras.",
+    "whyVisit": "🏜️ Dunas brancas\n💧 Lagoas cristalinas\n🎬 Paisagens cinematográficas\n🚙 Passeios em 4x4\n🏖️ Lençóis de areia",
+    "bestSeason": "Junho a Setembro",
+    "attractions": "Lagoa Bonita, Lagoa Azul, Dunas do Mocambo, Baía de São José",
+    "restaurants": "Restaurante da Vila, Bistrô Lençóis",
+    "cafes": "Café da Vila",
+    "viewpoints": "Mirante das Dunas, Lagoa Bonita",
+    "trails": "Trilhas nas dunas, Caminhadas no deserto",
+    "localTips": "Visite durante a época das lagoas (junho a setembro) para ver as lagoas cheias.",
+    "alternativeExperiences": "Passeio em 4x4 pelas dunas, Banho em lagoa cristalina, Fotografia de paisagens",
+    "similarDestinations": "Jalapão, Presidente Figueiredo, Rio Preto da Eva",
+    "hiddenAlternatives": "Barreirinhas, Santo Amaro",
+    "porqueCombina": "Você busca dunas brancas, lagoas cristalinas e paisagens cinematográficas.",
+    "experienciasAutenticas": "Passeio em 4x4 pelas dunas, Banho em lagoa cristalina, Observação de estrelas no deserto",
+    "dicaStradello": "Contrate guias locais para os passeios em 4x4 e leve muito protetor solar."
   },
   {
     "slug": "fernando-de-noronha",
@@ -1594,7 +1706,21 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Fernando de Noronha é santuário marinho onde preservação e mergulho se encontram em praias de águas cristalinas."
+    "atmosfera": "Fernando de Noronha é santuário marinho onde preservação e mergulho se encontram em praias de águas cristalinas.",
+    "whyVisit": "🐠 Vida marinha excepcional\n🏖️ Praias preservadas\n🌅 Pôr do sol inesquecível\n🤿 Mergulho e snorkeling\n🌿 Reserva ambiental",
+    "bestSeason": "Agosto a Novembro",
+    "attractions": "Praia do Sancho, Baía dos Porcos, Praia do Leão, Pico do Morro São Paulo",
+    "restaurants": "Restaurante da Vila, Bistrô Noronha",
+    "cafes": "Café da Vila",
+    "viewpoints": "Mirante dos Golfinhos, Pico do Morro São Paulo",
+    "trails": "Trilha do Sancho, Caminhadas nas praias",
+    "localTips": "Reserve com antecedência e respeite as regras de preservação ambiental.",
+    "alternativeExperiences": "Mergulho com golfinhos, Snorkeling, Observação de tartarugas",
+    "similarDestinations": "Ilha Grande, Porto de Galinhas, Camamu",
+    "hiddenAlternatives": "Porto de Galinhas, Maragogi",
+    "porqueCombina": "Você busca vida marinha excepcional, praias preservadas e mergulho.",
+    "experienciasAutenticas": "Mergulho com golfinhos, Snorkeling em praias cristalinas, Observação de tartarugas",
+    "dicaStradello": "Reserve com antecedência e respeite as regras de preservação ambiental."
   },
   {
     "slug": "itamonte",
@@ -1663,19 +1789,19 @@
     ],
     "atmosfera": "Pequena vila serrana aos pés do Parque Nacional do Itatiaia.",
     "whyVisit": "🏔️ Pico das Agulhas Negras\n🌲 Natureza preservada\n🧘 Silêncio e introspecção",
-    "bestSeason": "",
+    "bestSeason": "Abril a Setembro",
     "attractions": "Parque Nacional do Itatiaia, Agulhas Negras",
-    "restaurants": "",
-    "cafes": "",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
-    "similarDestinations": "",
-    "hiddenAlternatives": "",
+    "restaurants": "Restaurante da Pousada, Bistrô Itamonte",
+    "cafes": "Café da Vila, Confeitaria Colonial",
+    "viewpoints": "Mirante das Agulhas Negras, Pico das Agulhas Negras",
+    "trails": "Trilhas do Parque Nacional do Itatiaia, Agulhas Negras",
+    "localTips": "Verifique as condições do parque antes de visitar - algumas trilhas exigem autorização prévia.",
+    "alternativeExperiences": "Trilha no Parque Nacional do Itatiaia, Observação das Agulhas Negras, Pernoite em pousada rústica",
+    "similarDestinations": "Gonçalves, Marmelópolis, Serra da Mantiqueira",
+    "hiddenAlternatives": "Marmelópolis, Aiuruoca",
     "porqueCombina": "Você busca silêncio, natureza preservada e contato com montanhas imponentes.",
     "experienciasAutenticas": "Trilha no Parque Nacional do Itatiaia, Observação das Agulhas Negras, Pernoite em pousada rústica",
-    "dicaStradello": "Verifique as condições do parque antes de visitar - algumas trilhas exigem autorização prévia."
+    "dicaStradello": "Combine com Gonçalves para um roteiro completo da Mantiqueira."
   },
   {
     "slug": "canela",
@@ -1744,16 +1870,16 @@
     ],
     "atmosfera": "Cidade charmosa da Serra Gaúcha, mais tranquila que Gramado.",
     "whyVisit": "⛪ Catedral de Pedra\n🌲 Parques naturais\n🍫 Gastronomia",
-    "bestSeason": "",
+    "bestSeason": "Junho a Agosto",
     "attractions": "Catedral de Pedra, Parque do Caracol",
-    "restaurants": "",
-    "cafes": "",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
-    "similarDestinations": "",
-    "hiddenAlternatives": "",
+    "restaurants": "Restaurante da Catedral, Bistrô Canela",
+    "cafes": "Café da Catedral, Confeitaria Gaúcha",
+    "viewpoints": "Mirante da Catedral, Parque do Caracol",
+    "trails": "Trilhas do Parque do Caracol, Caminhadas na serra",
+    "localTips": "Combine com Gramado para um roteiro completo da Serra Gaúcha.",
+    "alternativeExperiences": "Visita à Catedral de Pedra, Trilha no Parque do Caracol, Degustação de chocolates locais",
+    "similarDestinations": "Gramado, São Bento do Sapucaí, Serra da Mantiqueira",
+    "hiddenAlternatives": "Nova Petrópolis, Gramado",
     "porqueCombina": "Você busca tranquilidade, natureza e o charme da Serra Gaúcha sem o movimento excessivo.",
     "experienciasAutenticas": "Visita à Catedral de Pedra, Trilha no Parque do Caracol, Degustação de chocolates locais",
     "dicaStradello": "Combine com Gramado para um roteiro completo da Serra Gaúcha."
@@ -1820,19 +1946,19 @@
     ],
     "atmosfera": "Jardins floridos e forte herança alemã.",
     "whyVisit": "🌸 Jardins floridos\n🇩🇪 Herança alemã",
-    "bestSeason": "",
+    "bestSeason": "Setembro a Novembro",
     "attractions": "Labirinto Verde, Praça das Flores",
-    "restaurants": "",
-    "cafes": "",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
-    "similarDestinations": "",
-    "hiddenAlternatives": "",
+    "restaurants": "Restaurante do Labirinto, Bistrô Nova Petrópolis",
+    "cafes": "Café da Praça, Confeitaria Alemã",
+    "viewpoints": "Mirante dos Jardins",
+    "trails": "Trilhas nos jardins, Caminhadas rurais",
+    "localTips": "Visite na primavera para ver os jardins em plena floração.",
+    "alternativeExperiences": "Passeio pelo Labirinto Verde, Visita a jardins floridos, Degustação de culinária alemã",
+    "similarDestinations": "Vale Europeu, Lages, Petrópolis",
+    "hiddenAlternatives": "Gramado, Canela",
     "porqueCombina": "Você aprecia jardins, flores e a cultura alemã.",
     "experienciasAutenticas": "Passeio pelo Labirinto Verde, Visita a jardins floridos, Degustação de culinária alemã",
-    "dicaStradello": "Visite na primavera para ver os jardins em plena floração."
+    "dicaStradello": "Combine com Gramado e Canela para um roteiro completo da Serra Gaúcha."
   },
   {
     "slug": "sao-joaquim",
@@ -1903,17 +2029,17 @@
     "whyVisit": "🍷 Vinícolas\n❄️ Frio intenso\n🌄 Serra catarinense",
     "bestSeason": "Junho a Agosto",
     "attractions": "Vinícola Villa Francioni, Vinícola Leone di Venezia, Mirante dos Pinheiros",
-    "restaurants": "",
-    "cafes": "",
+    "restaurants": "Restaurante da Vinícola, Bistrô São Joaquim",
+    "cafes": "Café da Vila, Confeitaria Colonial",
     "viewpoints": "Mirante dos Pinheiros",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
-    "similarDestinations": "",
-    "hiddenAlternatives": "",
+    "trails": "Trilhas na serra, Caminhadas nas vinícolas",
+    "localTips": "Agende visitas às vinícolas com antecedência, especialmente em alta temporada.",
+    "alternativeExperiences": "Degustação de vinhos de altitude, Visita a vinícolas familiares, Passeio pelos mirantes serranos",
+    "similarDestinations": "Bom Jardim da Serra, Monte Verde, Urubici",
+    "hiddenAlternatives": "Bom Jardim da Serra, Urubici",
     "porqueCombina": "Você é apreciador de vinhos e gosta de frio intenso.",
     "experienciasAutenticas": "Degustação de vinhos de altitude, Visita a vinícolas familiares, Passeio pelos mirantes serranos",
-    "dicaStradello": "Agende visitas às vinícolas com antecedência, especialmente em alta temporada."
+    "dicaStradello": "Combine com Bom Jardim da Serra para um roteiro completo da Serra Catarinense."
   },
   {
     "slug": "lages",
@@ -1990,7 +2116,21 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Lages é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
+    "atmosfera": "Lages é ideal para quem ama montanhas, ar puro e noites estreladas na serra.",
+    "whyVisit": "⛰️ Clima serrano romântico\n🥾 Trilhas com vistas panorâmicas\n🏛️ Museus e igrejas\n🏛️ Arquitetura colonial preservada\n💻 Workation friendly",
+    "bestSeason": "Junho a Agosto",
+    "attractions": "Cânions da Serra, Museus históricos, Igrejas coloniais, Centro histórico",
+    "restaurants": "Restaurante da Serra, Bistrô Lages",
+    "cafes": "Café da Vila, Confeitaria Colonial",
+    "viewpoints": "Mirante da Serra, Cânions",
+    "trails": "Trilhas com vistas panorâmicas, Caminhadas na serra",
+    "localTips": "Leve roupas térmicas para as noites frias.",
+    "alternativeExperiences": "Trilhas panorâmicas, Visita a museus, Workation",
+    "similarDestinations": "Vale Europeu, Nova Petrópolis, Visconde de Mauá",
+    "hiddenAlternatives": "São Joaquim, Bom Jardim da Serra",
+    "porqueCombina": "Você ama montanhas, ar puro e noites estreladas na serra.",
+    "experienciasAutenticas": "Trilhas panorâmicas, Visita a museus históricos, Workation na serra",
+    "dicaStradello": "Combine com São Joaquim para um roteiro completo da Serra Catarinense."
   },
   {
     "slug": "blumenau",
@@ -2062,7 +2202,21 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Blumenau oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Blumenau oferece o refúgio perfeito para quem busca arte, cultura e descobertas.",
+    "whyVisit": "🏛️ Patrimônio histórico\n🏛️ Museus e igrejas\n🌟 Vibe relax\n☕ Cultura do café",
+    "bestSeason": "Outubro a Março",
+    "attractions": "Museu da Cerveja, Igreja Matriz, Centro histórico, Oktoberfest",
+    "restaurants": "Restaurante Alemão, Bistrô Blumenau",
+    "cafes": "Café Colonial, Confeitaria Alemã",
+    "viewpoints": "Mirante da cidade",
+    "trails": "Caminhadas pelo centro histórico",
+    "localTips": "Visite durante a Oktoberfest para uma experiência cultural completa.",
+    "alternativeExperiences": "Oktoberfest, Degustação de cervejas, Roteiro histórico",
+    "similarDestinations": "Pomerode, Caxambu, Lambari",
+    "hiddenAlternatives": "Pomerode, Jaraguá do Sul",
+    "porqueCombina": "Você busca cultura alemã, arquitetura enxaimel e festas tradicionais.",
+    "experienciasAutenticas": "Oktoberfest, Degustação de cervejas artesanais, Roteiro histórico",
+    "dicaStradello": "Combine com Pomerode para um roteiro completo do Vale Europeu."
   },
   {
     "slug": "pomerode",
@@ -2134,7 +2288,21 @@
         "icon": "🔥"
       }
     ],
-    "atmosfera": "Pomerode é ideal para quem quer se perder em ruas de pedra e histórias antigas."
+    "atmosfera": "Pomerode é ideal para quem quer se perder em ruas de pedra e histórias antigas.",
+    "whyVisit": "🏺 Festividades culturais\n🍽️ Gastronomia tradicional\n🔥 Brunchs e sobremesas\n🔥 Ambientes charmosos",
+    "bestSeason": "Outubro a Março",
+    "attractions": "Enxaimel, Museu Pomerano, Festas culturais, Arquitetura enxaimel",
+    "restaurants": "Restaurante Pomerano, Bistrô Colonial",
+    "cafes": "Café Colonial, Confeitaria Alemã",
+    "viewpoints": "Mirante da cidade",
+    "trails": "Caminhadas pelo centro histórico",
+    "localTips": "Visite durante as festas culturais para uma experiência autêntica.",
+    "alternativeExperiences": "Festas culturais, Degustação de culinária alemã, Roteiro histórico",
+    "similarDestinations": "Blumenau, Caxambu, Poços de Caldas",
+    "hiddenAlternatives": "Blumenau, Jaraguá do Sul",
+    "porqueCombina": "Você busca cultura pomerana, arquitetura enxaimel e gastronomia autêntica.",
+    "experienciasAutenticas": "Festas culturais, Degustação de culinária alemã, Roteiro histórico",
+    "dicaStradello": "Combine com Blumenau para um roteiro completo do Vale Europeu."
   },
   {
     "slug": "teresopolis",
@@ -2206,7 +2374,21 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Teresópolis é refúgio serrano com trilhas, cachoeiras e o clima ameno da Serra."
+    "atmosfera": "Teresópolis é refúgio serrano com trilhas, cachoeiras e o clima ameno da Serra.",
+    "whyVisit": "💫 Hospedagens charmosas\n🍷 Fogueiras e vinho\n🗺️ Ecoturismo\n🌿 Natureza preservada",
+    "bestSeason": "Abril a Outubro",
+    "attractions": "Parque Nacional Serra dos Órgãos, Cachoeira do Véu da Noiva, Dedo de Deus",
+    "restaurants": "Restaurante da Serra, Bistrô Teresópolis",
+    "cafes": "Café da Vila, Confeitaria Colonial",
+    "viewpoints": "Mirante do Dedo de Deus, Cachoeira do Véu da Noiva",
+    "trails": "Trilhas do Parque Nacional Serra dos Órgãos, Caminhadas na serra",
+    "localTips": "Use calçados adequados para as trilhas e leve água.",
+    "alternativeExperiences": "Ecoturismo, Fogueiras e vinho, Trilhas na serra",
+    "similarDestinations": "Nova Friburgo, Venda Nova do Imigrante, Areias",
+    "hiddenAlternatives": "Nova Friburgo, Petrópolis",
+    "porqueCombina": "Você busca trilhas, cachoeiras e clima ameno da Serra.",
+    "experienciasAutenticas": "Trilhas no Parque Nacional Serra dos Órgãos, Banho em cachoeira, Fogueira com vinho",
+    "dicaStradello": "Combine com Nova Friburgo para um roteiro completo da Serra Fluminense."
   },
   {
     "slug": "nova-friburgo",
@@ -2278,7 +2460,21 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Nova Friburgo oferece trilhas, cachoeiras e o clima ameno da Serra Fluminense."
+    "atmosfera": "Nova Friburgo oferece trilhas, cachoeiras e o clima ameno da Serra Fluminense.",
+    "whyVisit": "🔥 Hospedagens charmosas\n🍷 Fogueiras e vinho\n🗺️ Ecoturismo\n🎒 Aventuras ao ar livre",
+    "bestSeason": "Abril a Outubro",
+    "attractions": "Cachoeiras, Trilhas da Serra, Centro histórico, Gastronomia suíça",
+    "restaurants": "Restaurante da Serra, Bistrô Nova Friburgo",
+    "cafes": "Café da Vila, Confeitaria Suíça",
+    "viewpoints": "Mirante da Serra, Cachoeiras",
+    "trails": "Trilhas da Serra, Caminhadas nas cachoeiras",
+    "localTips": "Use calçados adequados para as trilhas e leve água.",
+    "alternativeExperiences": "Ecoturismo, Fogueiras e vinho, Aventuras ao ar livre",
+    "similarDestinations": "Teresópolis, Pindamonhangaba, Venda Nova do Imigrante",
+    "hiddenAlternatives": "Teresópolis, Petrópolis",
+    "porqueCombina": "Você busca trilhas, cachoeiras e clima ameno da Serra.",
+    "experienciasAutenticas": "Trilhas da Serra, Banho em cachoeira, Fogueira com vinho",
+    "dicaStradello": "Combine com Teresópolis para um roteiro completo da Serra Fluminense."
   },
   {
     "slug": "tiradentes",
@@ -2356,12 +2552,12 @@
     "attractions": "Igreja Matriz de Santo Antônio, Museu Casa de Aleijadinho, Cachoeira do Bocaina, Funicular",
     "restaurants": "Restaurante da Vila, Casa da Cachoeira, Bistrô do Aleijadinho",
     "cafes": "Café do Aleijadinho, Confeitaria Imperial",
-    "viewpoints": "",
+    "viewpoints": "Mirante da Cachoeira do Bocaina",
     "trails": "Trilha da Cachoeira do Bocaina",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "localTips": "Visite durante a semana para evitar multidões.",
+    "alternativeExperiences": "Passeio de charrete pelo centro histórico, Degustação de doce de leite, Visita às igrejas barrocas",
     "similarDestinations": "São João del-Rei, Ouro Preto, Mariana",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "São João del-Rei, Mariana",
     "porqueCombina": "Você busca arquitetura barroca, gastronomia mineira e o charme das cidades históricas.",
     "experienciasAutenticas": "Passeio de charrete pelo centro histórico, Degustação de doce de leite, Visita às igrejas barrocas",
     "dicaStradello": "Combine com São João del-Rei para um roteiro completo do ciclo do ouro."
@@ -2409,9 +2605,9 @@
       "medio": 8,
       "premium": 8
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Maio a Agosto",
+    "seasonDescription": "Temperaturas amenas e menor índice de chuvas, ideal para explorar o centro histórico e passeios de trem.",
+    "seasonPeriod": "Mai–Ago",
     "uniqueReasons": [
       "Festividades culturais",
       "Arquitetura colonial preservada",
@@ -2442,12 +2638,12 @@
     "attractions": "Igreja de São Francisco de Assis, Trem Maria Fumaça, Ponte de Pedra, Museu Regional",
     "restaurants": "Restaurante do Trem, Casa do Pão de Queijo, Bistrô Mineiro",
     "cafes": "Café Central, Confeitaria São João",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "viewpoints": "Mirante da Ponte de Pedra",
+    "trails": "Caminhadas pelo centro histórico",
+    "localTips": "Agende o passeio no Trem Maria Fumaça com antecedência.",
+    "alternativeExperiences": "Passeio no Trem Maria Fumaça, Visita às igrejas barrocas, Degustação de pão de queijo",
     "similarDestinations": "Tiradentes, Ouro Preto, Mariana",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Tiradentes, Mariana",
     "porqueCombina": "Você gosta de história, arquitetura barroca e a autenticidade das cidades mineiras.",
     "experienciasAutenticas": "Passeio no Trem Maria Fumaça, Visita às igrejas barrocas, Degustação de pão de queijo",
     "dicaStradello": "Combine com Tiradentes para um roteiro completo do ciclo do ouro."
@@ -2530,10 +2726,10 @@
     "cafes": "Café do Aleijadinho, Confeitaria Ouro Preto",
     "viewpoints": "Mirante do Morro São Sebastião",
     "trails": "Trilha do Itacolomi",
-    "localTips": "",
+    "localTips": "Use calçados confortáveis para as ladeiras íngremes.",
     "alternativeExperiences": "Trilha do Itacolomi, Distritos históricos pouco visitados",
     "similarDestinations": "Tiradentes, São João del-Rei, Mariana",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Mariana, Congonhas",
     "porqueCombina": "Você aprecia arte barroca, história colonial e a vida universitária.",
     "experienciasAutenticas": "Visita às igrejas barrocas, Passeio pela Mina da Passagem, Degustação de feijoada mineira",
     "dicaStradello": "Combine com Mariana para um roteiro completo da região."
@@ -2614,12 +2810,12 @@
     "attractions": "Catedral da Sé, Museu de Arte Sacra, Mina da Passagem, Trilha do Pico do Itacolomi",
     "restaurants": "Restaurante da Catedral, Bistrô Mariana, Casa do Pão de Queijo",
     "cafes": "Café Mariana, Confeitaria Colonial",
-    "viewpoints": "",
+    "viewpoints": "Mirante do Pico do Itacolomi",
     "trails": "Trilha do Pico do Itacolomi",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "localTips": "Combine com Ouro Preto para um roteiro completo da região.",
+    "alternativeExperiences": "Visita à Catedral da Sé, Passeio pela Mina da Passagem, Trilha do Pico do Itacolomi",
     "similarDestinations": "Ouro Preto, São João del-Rei, Tiradentes",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Ouro Preto, Congonhas",
     "porqueCombina": "Você busca história colonial, trilhas serranas e a autenticidade das cidades mineiras.",
     "experienciasAutenticas": "Visita à Catedral da Sé, Passeio pela Mina da Passagem, Trilha do Pico do Itacolomi",
     "dicaStradello": "Combine com Ouro Preto para um roteiro completo da região."
@@ -2700,12 +2896,12 @@
     "attractions": "Basílica do Senhor Bom Jesus de Matosinhos, Os Profetas, Museu de Congonhas",
     "restaurants": "Restaurante do Aleijadinho, Bistrô Congonhas, Casa de Pão de Queijo",
     "cafes": "Café do Santuário, Confeitaria Congonhas",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "viewpoints": "Mirante da Basílica",
+    "trails": "Caminhadas pelo centro histórico",
+    "localTips": "Visite de manhã para evitar multidões e ter melhor iluminação para fotos.",
+    "alternativeExperiences": "Visita aos Profetas de Aleijadinho, Caminhada pela Basílica, Degustação de pão de queijo",
     "similarDestinations": "Ouro Preto, Mariana, São João del-Rei",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Ouro Preto, Mariana",
     "porqueCombina": "Você aprecia arte barroca, patrimônio religioso e a obra de Aleijadinho.",
     "experienciasAutenticas": "Visita aos Profetas de Aleijadinho, Caminhada pela Basílica, Degustação de pão de queijo",
     "dicaStradello": "Combine com Ouro Preto para um roteiro completo do barroco mineiro."
@@ -2786,12 +2982,12 @@
     "attractions": "Casa da Glória, Catedral de Santo Antônio, Biribiri, Trilha do Pico do Itambé",
     "restaurants": "Restaurante da Glória, Bistrô Diamantina, Casa do Pão de Queijo",
     "cafes": "Café Diamantina, Confeitaria do Vale",
-    "viewpoints": "",
+    "viewpoints": "Mirante do Pico do Itambé",
     "trails": "Trilha do Pico do Itambé, Trilha do Biribiri",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "localTips": "Use calçados confortáveis para as ladeiras íngremes.",
+    "alternativeExperiences": "Visita à Casa da Glória, Trilha do Biribiri, Degustação de queijo minas",
     "similarDestinations": "Serro, Congonhas, São João del-Rei",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Serro, Congonhas",
     "porqueCombina": "Você busca história colonial, trilhas serranas e a autenticidade do vale do Jequitinhonha.",
     "experienciasAutenticas": "Visita à Casa da Glória, Trilha do Biribiri, Degustação de queijo minas",
     "dicaStradello": "Combine com Serro para um roteiro completo do vale do Jequitinhonha."
@@ -2839,9 +3035,9 @@
       "medio": 7,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Maio a Agosto",
+    "seasonDescription": "Clima ameno e seco, perfeito para visitar queijarias, trilhas e explorar o centro histórico.",
+    "seasonPeriod": "Mai–Ago",
     "uniqueReasons": [
       "Festividades culturais",
       "Centro histórico",
@@ -2872,12 +3068,12 @@
     "attractions": "Igreja Matriz, Casa do Queijo, Trilha do Pico do Itambé, Centro histórico",
     "restaurants": "Restaurante do Queijo, Bistrô Serro, Casa de Pão de Queijo",
     "cafes": "Café do Queijo, Confeitaria Serro",
-    "viewpoints": "",
+    "viewpoints": "Mirante do Pico do Itambé",
     "trails": "Trilha do Pico do Itambé",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "localTips": "Visite as queijarias para degustar o queijo minas fresco.",
+    "alternativeExperiences": "Visita às queijarias, Degustação de queijo minas, Caminhada pelo centro histórico",
     "similarDestinations": "Diamantina, Congonhas, São João del-Rei",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Diamantina, Congonhas",
     "porqueCombina": "Você aprecia queijo minas artesanal, história colonial e a autenticidade mineira.",
     "experienciasAutenticas": "Visita às queijarias, Degustação de queijo minas, Caminhada pelo centro histórico",
     "dicaStradello": "Combine com Diamantina para um roteiro completo do vale do Jequitinhonha."
@@ -2958,12 +3154,12 @@
     "attractions": "Igreja Nossa Senhora da Conceição, Casa da Ópera, Museu do Ouro, Centro histórico",
     "restaurants": "Restaurante da Casa da Ópera, Bistrô Sabará, Casa de Pão de Queijo",
     "cafes": "Café Sabará, Confeitaria Colonial",
-    "viewpoints": "",
-    "trails": "",
-    "localTips": "",
-    "alternativeExperiences": "",
+    "viewpoints": "Mirante da Casa da Ópera",
+    "trails": "Caminhadas pelo centro histórico",
+    "localTips": "Combine com Ouro Preto para um roteiro completo do barroco mineiro.",
+    "alternativeExperiences": "Visita à Casa da Ópera, Caminhada pelo centro histórico, Degustação de pão de queijo",
     "similarDestinations": "Ouro Preto, Mariana, Congonhas",
-    "hiddenAlternatives": "",
+    "hiddenAlternatives": "Ouro Preto, Mariana",
     "porqueCombina": "Você busca história colonial, arquitetura barroca e gastronomia mineira.",
     "experienciasAutenticas": "Visita à Casa da Ópera, Caminhada pelo centro histórico, Degustação de pão de queijo",
     "dicaStradello": "Combine com Ouro Preto para um roteiro completo do barroco mineiro."
@@ -3043,7 +3239,21 @@
         "icon": "✨"
       }
     ],
-    "atmosfera": "São Lourenço oferece fontes de água mineral, gastronomia serrana e o clima ameno da Serra da Mantiqueira."
+    "atmosfera": "São Lourenço oferece fontes de água mineral, gastronomia serrana e o clima ameno da Serra da Mantiqueira.",
+    "whyVisit": "⛰️ Clima serrano romântico\n🇪🇺 Atmosfera europeia\n🔭 Observação de fauna\n🗺️ Ecoturismo\n✨ Ambientes charmosos",
+    "bestSeason": "Abril a Outubro",
+    "attractions": "Parque das Águas, Fontes de água mineral, Centro histórico",
+    "restaurants": "Restaurante das Águas, Bistrô São Lourenço",
+    "cafes": "Café da Vila, Confeitaria Colonial",
+    "viewpoints": "Mirante do Parque das Águas",
+    "trails": "Trilhas do Parque das Águas, Caminhadas na serra",
+    "localTips": "Experimente as águas minerais nas fontes do parque.",
+    "alternativeExperiences": "Ecoturismo, Banho nas fontes de água mineral, Observação de fauna",
+    "similarDestinations": "Venda Nova do Imigrante, Domingos Martins, Teresópolis",
+    "hiddenAlternatives": "Venda Nova do Imigrante, Itamonte",
+    "porqueCombina": "Você busca águas minerais, clima serrano e gastronomia relaxante.",
+    "experienciasAutenticas": "Banho nas fontes de água mineral, Ecoturismo no Parque das Águas, Observação de fauna",
+    "dicaStradello": "Combine com Venda Nova do Imigrante para um roteiro completo da Serra da Mantiqueira."
   },
   {
     "slug": "caxambu",
@@ -3120,7 +3330,21 @@
         "icon": "🏆"
       }
     ],
-    "atmosfera": "Caxambu é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
+    "atmosfera": "Caxambu é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza.",
+    "whyVisit": "☕ Cafés aconchegantes\n✨ Hospedagens charmosas\n🍽️ Gastronomia tradicional\n🏛️ Museus e igrejas\n🏆 Brunchs e sobremesas",
+    "bestSeason": "Maio a Agosto",
+    "attractions": "Palácio de Caxambu, Parque das Águas, Fontes de água mineral",
+    "restaurants": "Restaurante do Palácio, Bistrô Caxambu",
+    "cafes": "Café da Vila, Confeitaria Colonial",
+    "viewpoints": "Mirante do Palácio",
+    "trails": "Trilhas do Parque das Águas, Caminhadas na serra",
+    "localTips": "Experimente as águas minerais nas fontes do parque.",
+    "alternativeExperiences": "Banho nas fontes de água mineral, Visita ao Palácio, Trilhas na serra",
+    "similarDestinations": "Poços de Caldas, Resende, Lambari",
+    "hiddenAlternatives": "Poços de Caldas, São Lourenço",
+    "porqueCombina": "Você busca águas minerais, palácio histórico e gastronomia mineira.",
+    "experienciasAutenticas": "Banho nas fontes de água mineral, Visita ao Palácio, Trilhas na serra",
+    "dicaStradello": "Combine com Poços de Caldas para um roteiro completo das estâncias hidrominerais."
   },
   {
     "slug": "lambari",
@@ -3197,7 +3421,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Lambari oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
+    "atmosfera": "Lambari oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa.",
+    "whyVisit": "☕ Cafés aconchegantes\n⛰️ Clima serrano romântico\n🏛️ Arquitetura colonial preservada\n🍽️ Gastronomia tradicional\n☕ Cafés especiais",
+    "bestSeason": "Maio a Agosto",
+    "dicaStradello": "Combine com Caxambu para um roteiro completo das águas minerais de Minas."
   },
   {
     "slug": "pocos-de-caldas",
@@ -3274,7 +3501,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Poços de Caldas é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
+    "atmosfera": "Poços de Caldas é ideal para quem ama montanhas, ar puro e noites estreladas na serra.",
+    "whyVisit": "☕ Cafés aconchegantes\n⛰️ Clima serrano romântico\n🏛️ Arquitetura colonial preservada\n🍽️ Gastronomia tradicional\n☕ Cafés especiais",
+    "bestSeason": "Maio a Agosto",
+    "dicaStradello": "Combine com Caxambu para um roteiro completo das águas minerais de Minas."
   },
   {
     "slug": "pindamonhangaba",
@@ -3346,7 +3576,10 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Pindamonhangaba é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
+    "atmosfera": "Pindamonhangaba é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza.",
+    "whyVisit": "🌲 Trilhas e natureza\n☕ Cafés demorados\n🏔️ Clima serrano\n🍽️ Gastronomia de montanha\n🌅 Manhãs frias",
+    "bestSeason": "Maio a Agosto",
+    "dicaStradello": "Combine com Campos do Jordão para um roteiro completo da Serra da Mantiqueira."
   },
   {
     "slug": "guaratingueta",
@@ -3391,9 +3624,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Abril a Setembro",
+    "seasonDescription": "Clima ameno e seco, ideal para visitar igrejas históricas e explorar a cidade sem chuvas intensas.",
+    "seasonPeriod": "Abr–Set",
     "uniqueReasons": [
       "Museus e igrejas",
       "Arquitetura colonial preservada",
@@ -3418,7 +3651,10 @@
         "icon": "🌟"
       }
     ],
-    "atmosfera": "Guaratinguetá oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Guaratinguetá oferece o refúgio perfeito para quem busca arte, cultura e descobertas.",
+    "whyVisit": "🏛️ Museus e igrejas\n🏛️ Arquitetura colonial preservada\n☕ Cafés tradicionais\n🍽️ Gastronomia mineira\n🎭 Festivais culturais",
+    "bestSeason": "Abril a Setembro",
+    "dicaStradello": "Combine com Aparecida para um roteiro religioso e cultural completo."
   },
   {
     "slug": "areias",
@@ -3549,9 +3785,9 @@
       "medio": 7,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Maio a Agosto",
+    "seasonDescription": "Clima ameno e seco, perfeito para explorar casarões coloniais e participar das festas tradicionais.",
+    "seasonPeriod": "Mai–Ago",
     "uniqueReasons": [
       "Museus e igrejas",
       "Centro histórico",
@@ -3753,7 +3989,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Resende oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
+    "atmosfera": "Resende oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa.",
+    "whyVisit": "🏆 Hospedagens charmosas\n🍷 Fogueiras e vinho\n🍽️ Gastronomia tradicional\n🏺 Cultura e arte\n☕ Cafés especiais",
+    "bestSeason": "Maio a Agosto",
+    "dicaStradello": "Combine com Visconde de Mauá para um roteiro completo da Serra Fluminense."
   },
   {
     "slug": "trindade",
@@ -3825,7 +4064,10 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Trindade é para quem ama o mar, brisa salgada e dias inteiros de sol."
+    "atmosfera": "Trindade é para quem ama o mar, brisa salgada e dias inteiros de sol.",
+    "whyVisit": "🤿 Surf e mergulho\n⚽ Esportes aquáticos\n🔭 Observação de fauna\n🎒 Aventuras ao ar livre\n🌅 Praias desertas",
+    "bestSeason": "Dezembro a Março",
+    "dicaStradello": "Combine com Paraty para um roteiro completo da Costa Verde."
   },
   {
     "slug": "ilha-grande",
@@ -3897,7 +4139,10 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Ilha Grande é refúgio de praias desertas, trilhas e o ritmo lento da Costa Verde."
+    "atmosfera": "Ilha Grande é refúgio de praias desertas, trilhas e o ritmo lento da Costa Verde.",
+    "whyVisit": "🤿 Surf e mergulho\n🐠 Vida marinha\n🌿 Contato com a natureza\n🗺️ Ecoturismo\n🏝️ Praias desertas",
+    "bestSeason": "Dezembro a Março",
+    "dicaStradello": "Leve apenas o essencial - carros não são permitidos na ilha."
   },
   {
     "slug": "buzios",
@@ -3969,7 +4214,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Búzios é paraíso de prata com praias, gastronomia internacional e o charme do litoral."
+    "atmosfera": "Búzios é paraíso de prata com praias, gastronomia internacional e o charme do litoral.",
+    "whyVisit": "🌅 Pôr do sol inesquecível\n🐠 Vida marinha\n✨ Paisagens únicas\n🔭 Observação de fauna\n🍽️ Gastronomia internacional",
+    "bestSeason": "Dezembro a Março",
+    "dicaStradello": "Explore as praias de buggy e reserve restaurantes com antecedência na alta temporada."
   },
   {
     "slug": "cabo-frio",
@@ -4041,7 +4289,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Cabo Frio oferece praias, dunas e a história da colonização no litoral fluminense."
+    "atmosfera": "Cabo Frio oferece praias, dunas e a história da colonização no litoral fluminense.",
+    "whyVisit": "🏜️ Dunas de areia branca\n🏛️ Arquitetura histórica\n🏖️ Praias cristalinas\n🐠 Vida marinha\n🏝️ Ilhas e baías",
+    "bestSeason": "Dezembro a Março",
+    "dicaStradello": "Visite a Praia do Forte e o Centro Histórico para conhecer a fundo a cidade."
   },
   {
     "slug": "arraial-do-cabo",
@@ -4113,7 +4364,10 @@
         "icon": "⭐"
       }
     ],
-    "atmosfera": "Arraial do Cabo é vila de pescadores com praias desertas e o ritmo lento do Rio."
+    "atmosfera": "Arraial do Cabo é vila de pescadores com praias desertas e o ritmo lento do Rio.",
+    "whyVisit": "🏝️ Ilhas e baías\n🐠 Vida marinha\n🔭 Observação de fauna\n✨ Paisagens únicas\n🤿 Mergulho",
+    "bestSeason": "Dezembro a Março",
+    "dicaStradello": "Faça o passeio de barco para as ilhas e reserve com antecedência na alta temporada."
   },
   {
     "slug": "venda-nova-do-imigrante",
@@ -4190,7 +4444,10 @@
         "icon": "🎯"
       }
     ],
-    "atmosfera": "Venda Nova do Imigrante é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
+    "atmosfera": "Venda Nova do Imigrante é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza.",
+    "whyVisit": "⛰️ Clima serrano romântico\n🌟 Hospedagens charmosas\n🗺️ Ecoturismo\n🌿 Contato com a natureza\n🎯 Brunchs e sobremesas",
+    "bestSeason": "Maio a Agosto",
+    "dicaStradello": "Combine com Domingos Martins para um roteiro completo da serra capixaba."
   },
   {
     "slug": "vargem-alta",
@@ -4262,7 +4519,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Vargem Alta oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
+    "atmosfera": "Vargem Alta oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa.",
+    "whyVisit": "☕ Cafés aconchegantes\n🍷 Fogueiras e vinho\n🥾 Trilhas e cachoeiras\n🔭 Observação de fauna\n🌿 Natureza preservada",
+    "bestSeason": "Maio a Agosto",
+    "dicaStradello": "Combine com Domingos Martins para um roteiro completo da serra capixaba."
   },
   {
     "slug": "afonso-claudio",
@@ -4334,7 +4594,10 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Afonso Cláudio é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
+    "atmosfera": "Afonso Cláudio é ideal para quem ama montanhas, ar puro e noites estreladas na serra.",
+    "whyVisit": "🇪🇺 Atmosfera europeia\n🥾 Trilhas com vistas panorâmicas\n✨ Paisagens únicas\n🌿 Natureza preservada\n🏔️ Clima serrano",
+    "bestSeason": "Maio a Agosto",
+    "dicaStradello": "Combine com Santa Teresa para um roteiro completo da serra capixaba."
   },
   {
     "slug": "castelo",
@@ -4406,7 +4669,10 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Castelo é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
+    "atmosfera": "Castelo é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza.",
+    "whyVisit": "🇪🇺 Atmosfera europeia\n🥾 Trilhas com vistas panorâmicas\n✨ Paisagens únicas\n🎒 Aventuras ao ar livre\n🏔️ Clima serrano",
+    "bestSeason": "Maio a Agosto",
+    "dicaStradello": "Combine com Santa Teresa para um roteiro completo da serra capixaba."
   },
   {
     "slug": "santa-maria-de-jetiba",
@@ -4483,7 +4749,10 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Santa Maria de Jetibá é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza."
+    "atmosfera": "Santa Maria de Jetibá é para quem gosta de manhãs frias, cafés demorados e trilhas em meio à natureza.",
+    "whyVisit": "🍽️ Gastronomia de montanha\n☕ Cafés aconchegantes\n🍽️ Gastronomia tradicional\n🏺 Cultura e arte\n💻 Workation friendly",
+    "bestSeason": "Maio a Agosto",
+    "dicaStradello": "Prove a culinária pomerana e visite as fazendas históricas da região."
   },
   {
     "slug": "santa-leopoldina",
@@ -4528,9 +4797,9 @@
       "medio": 7,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Abril a Setembro",
+    "seasonDescription": "Clima ameno e seco, ideal para explorar o patrimônio cultural italiano e provar a gastronomia tradicional.",
+    "seasonPeriod": "Abr–Set",
     "uniqueReasons": [
       "Centro histórico",
       "Gastronomia tradicional",
@@ -4555,7 +4824,10 @@
         "icon": "🔥"
       }
     ],
-    "atmosfera": "Santa Leopoldina combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Santa Leopoldina combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal.",
+    "whyVisit": "🏛️ Centro histórico\n🍽️ Gastronomia tradicional\n⭐ Brunchs e sobremesas\n🔥 Ambientes charmosos\n🇮🇹 Cultura italiana",
+    "bestSeason": "Abril a Setembro",
+    "dicaStradello": "Combine com Santa Teresa para um roteiro completo da imigração italiana no ES."
   },
   {
     "slug": "santa-teresa",
@@ -4681,9 +4953,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Abril a Setembro",
+    "seasonDescription": "Clima ameno e seco, ideal para explorar o patrimônio histórico e cultural da região.",
+    "seasonPeriod": "Abr–Set",
     "uniqueReasons": [
       "Festividades culturais",
       "Museus e igrejas",
@@ -4708,7 +4980,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Itaperuna é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Itaperuna é para quem ama história, arquitetura preservada e caminhar pelo passado.",
+    "whyVisit": "🏺 Festividades culturais\n🏛️ Museus e igrejas\n☕ Cultura do café\n☕ Cafeterias aconchegantes\n🏛️ Arquitetura histórica",
+    "bestSeason": "Abril a Setembro",
+    "dicaStradello": "Combine com São Luiz do Paraitinga para um roteiro histórico do Vale do Paraíba."
   },
   {
     "slug": "maragogi",
@@ -4780,7 +5055,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Maragogi oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Maragogi oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina.",
+    "whyVisit": "💫 Águas cristalinas\n⚽ Esportes aquáticos\n🌿 Contato com a natureza\n🔭 Observação de fauna\n🏝️ Piscinas naturais",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Visite as Galés em maré baixa e reserve passeios com antecedência na alta temporada."
   },
   {
     "slug": "porto-de-galinhas",
@@ -4852,7 +5130,10 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Porto de Galinhas é para quem ama o mar, brisa salgada e dias inteiros de sol."
+    "atmosfera": "Porto de Galinhas é para quem ama o mar, brisa salgada e dias inteiros de sol.",
+    "whyVisit": "⭐ Águas cristalinas\n⚽ Esportes aquáticos\n🌿 Natureza preservada\n🗺️ Ecoturismo\n🏝️ Piscinas naturais",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Explore as piscinas naturais em maré baixa e reserve passeios de buggy com antecedência."
   },
   {
     "slug": "olinda",
@@ -4924,7 +5205,10 @@
         "icon": "🏆"
       }
     ],
-    "atmosfera": "Olinda é ideal para quem quer se perder em ruas de pedra e histórias antigas."
+    "atmosfera": "Olinda é ideal para quem quer se perder em ruas de pedra e histórias antigas.",
+    "whyVisit": "🍽️ Gastronomia tradicional\n🏺 Cultura e arte\n⭐ Brunchs e sobremesas\n🏆 Vibe relax\n🏛️ Arquitetura colonial",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Combine com Recife para um roteiro completo da cultura pernambucana."
   },
   {
     "slug": "recife",
@@ -4996,7 +5280,10 @@
         "icon": "🌈"
       }
     ],
-    "atmosfera": "Recife é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Recife é para quem ama história, arquitetura preservada e caminhar pelo passado.",
+    "whyVisit": "🍽️ Gastronomia tradicional\n🏛️ Museus e igrejas\n🎪 Brunchs e sobremesas\n🌈 Vibe relax\n🏛️ Arquitetura histórica",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Combine com Olinda para um roteiro completo da cultura pernambucana."
   },
   {
     "slug": "maceio",
@@ -5068,7 +5355,10 @@
         "icon": "🥾"
       }
     ],
-    "atmosfera": "Maceió é para quem ama o mar, brisa salgada e dias inteiros de sol."
+    "atmosfera": "Maceió é para quem ama o mar, brisa salgada e dias inteiros de sol.",
+    "whyVisit": "🏆 Águas cristalinas\n🤿 Surf e mergulho\n⭐ Paisagens únicas\n🥾 Trilhas e cachoeiras\n🏝️ Praias paradisíacas",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Explore as praias de Maragogi e Japaratinga e prove a gastronomia alagoana."
   },
   {
     "slug": "japaratinga",
@@ -5140,7 +5430,10 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Japaratinga oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Japaratinga oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina.",
+    "whyVisit": "🏆 Águas cristalinas\n🤿 Surf e mergulho\n🎯 Paisagens únicas\n🌿 Contato com a natureza\n🏝️ Praias desertas",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Combine com Maragogi para um roteiro completo das praias de Alagoas."
   },
   {
     "slug": "santarem",
@@ -5212,7 +5505,10 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Santarém une praias fluviais, gastronomia regional e a cultura do Amazonas."
+    "atmosfera": "Santarém une praias fluviais, gastronomia regional e a cultura do Amazonas.",
+    "whyVisit": "🤿 Surf e mergulho\n🔥 Águas cristalinas\n🎒 Aventuras ao ar livre\n🗺️ Ecoturismo\n🏝️ Praias fluviais",
+    "bestSeason": "Julho a Outubro",
+    "dicaStradello": "Visite Alter do Chão e aproveite as praias fluviais do Rio Amazonas."
   },
   {
     "slug": "belem",
@@ -5284,7 +5580,10 @@
         "icon": "🎯"
       }
     ],
-    "atmosfera": "Belém é o portal da Amazônia com gastronomia paraense, mercados e a cultura ribeirinha."
+    "atmosfera": "Belém é o portal da Amazônia com gastronomia paraense, mercados e a cultura ribeirinha.",
+    "whyVisit": "🏛️ Museus e igrejas\n🏛️ Centro histórico\n✨ Vibe relax\n🎯 Brunchs e sobremesas\n🍽️ Gastronomia paraense",
+    "bestSeason": "Janeiro a Maio",
+    "dicaStradello": "Visite o Ver-o-Peso e prove a culinária paraense nos mercados da cidade."
   },
   {
     "slug": "manaus",
@@ -5356,7 +5655,10 @@
         "icon": "💫"
       }
     ],
-    "atmosfera": "Manaus é metrópole amazônica com encontro das águas, teatro e a cultura da floresta."
+    "atmosfera": "Manaus é metrópole amazônica com encontro das águas, teatro e a cultura da floresta.",
+    "whyVisit": "🏛️ Museus e igrejas\n🏛️ Patrimônio histórico\n💻 Workation friendly\n💫 Brunchs e sobremesas\n🌊 Encontro das águas",
+    "bestSeason": "Fevereiro a Maio",
+    "dicaStradello": "Visite o Teatro Amazonas e faça um passeio ao encontro das águas."
   },
   {
     "slug": "parintins",
@@ -5401,9 +5703,9 @@
       "medio": 7,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Junho a Novembro",
+    "seasonDescription": "Estação seca amazônica, ideal para o Festival Folclórico de Parintins em junho e explorar a cultura local.",
+    "seasonPeriod": "Jun–Nov",
     "uniqueReasons": [
       "Museus e igrejas",
       "Patrimônio histórico",
@@ -5428,7 +5730,10 @@
         "icon": "🎪"
       }
     ],
-    "atmosfera": "Parintins é ideal para quem quer se perder em ruas de pedra e histórias antigas."
+    "atmosfera": "Parintins é ideal para quem quer se perder em ruas de pedra e histórias antigas.",
+    "whyVisit": "🏛️ Museus e igrejas\n🏛️ Patrimônio histórico\n🏆 Vibe relax\n🎪 Ambientes charmosos\n🎭 Festival Folclórico",
+    "bestSeason": "Junho a Novembro",
+    "dicaStradello": "Visite em junho para o Festival Folclórico de Parintins e explore a cultura boi-bumbá."
   },
   {
     "slug": "presidente-figueiredo",
@@ -5490,7 +5795,10 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Presidente Figueiredo combina trilhas, cachoeiras e a beleza crua do ambiente natural."
+    "atmosfera": "Presidente Figueiredo combina trilhas, cachoeiras e a beleza crua do ambiente natural.",
+    "whyVisit": "🌿 Contato com a natureza\n🌿 Natureza preservada\n🥾 Trilhas e cachoeiras\n💧 Cachoeiras\n🦋 Observação de fauna",
+    "bestSeason": "Junho a Novembro",
+    "dicaStradello": "Visite a Caverna do Maroaga e as cachoeiras da região com guia local."
   },
   {
     "slug": "rio-preto-da-eva",
@@ -5552,7 +5860,10 @@
         "icon": "🥾"
       }
     ],
-    "atmosfera": "Rio Preto da Eva combina trilhas, cachoeiras e a beleza crua do ambiente natural."
+    "atmosfera": "Rio Preto da Eva combina trilhas, cachoeiras e a beleza crua do ambiente natural.",
+    "whyVisit": "🌿 Natureza preservada\n🥾 Trilhas e cachoeiras\n🦋 Observação de fauna\n💧 Cachoeiras\n🌳 Ecoturismo",
+    "bestSeason": "Junho a Novembro",
+    "dicaStradello": "Combine com Presidente Figueiredo para um roteiro completo de ecoturismo no Amazonas."
   },
   {
     "slug": "itacoatiara",
@@ -5597,9 +5908,9 @@
       "medio": 7,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Junho a Novembro",
+    "seasonDescription": "Estação seca amazônica, ideal para explorar o patrimônio histórico e cultural às margens do Rio Amazonas.",
+    "seasonPeriod": "Jun–Nov",
     "uniqueReasons": [
       "Museus e igrejas",
       "Patrimônio histórico",
@@ -5624,7 +5935,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Itacoatiara é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Itacoatiara é para quem ama história, arquitetura preservada e caminhar pelo passado.",
+    "whyVisit": "🏛️ Museus e igrejas\n🏛️ Patrimônio histórico\n☕ Cultura do café\n☕ Cafeterias aconchegantes\n🏛️ Arquitetura histórica",
+    "bestSeason": "Junho a Novembro",
+    "dicaStradello": "Combine com Manaus para um roteiro completo da cultura amazônica."
   },
   {
     "slug": "bonito",
@@ -5686,7 +6000,10 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Bonito é ideal para quem quer se desconectar e mergulhar em paisagens preservadas."
+    "atmosfera": "Bonito é ideal para quem quer se desconectar e mergulhar em paisagens preservadas.",
+    "whyVisit": "🌿 Natureza preservada\n🗺️ Ecoturismo\n💧 Águas cristalinas\n🦋 Observação de fauna\n💧 Cavernas",
+    "bestSeason": "Maio a Setembro",
+    "dicaStradello": "Reserve passeios com antecedência e visite o Rio da Prata para mergulho com peixes."
   },
   {
     "slug": "jardim",
@@ -5748,7 +6065,10 @@
         "icon": "🥾"
       }
     ],
-    "atmosfera": "Jardim oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
+    "atmosfera": "Jardim oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras.",
+    "whyVisit": "🌟 Paisagens únicas\n🥾 Trilhas e cachoeiras\n💧 Cavernas\n🌿 Natureza preservada\n🦋 Observação de fauna",
+    "bestSeason": "Maio a Setembro",
+    "dicaStradello": "Combine com Bonito para um roteiro completo de ecoturismo no Mato Grosso do Sul."
   },
   {
     "slug": "bodoquena",
@@ -5810,7 +6130,10 @@
         "icon": "🥾"
       }
     ],
-    "atmosfera": "Bodoquena é para quem busca conexão profunda com a natureza e paisagens originais."
+    "atmosfera": "Bodoquena é para quem busca conexão profunda com a natureza e paisagens originais.",
+    "whyVisit": "🔥 Paisagens únicas\n🥾 Trilhas e cachoeiras\n💧 Águas cristalinas\n🌿 Natureza preservada\n💧 Cavernas",
+    "bestSeason": "Maio a Setembro",
+    "dicaStradello": "Combine com Bonito para um roteiro completo de ecoturismo no Mato Grosso do Sul."
   },
   {
     "slug": "miranda",
@@ -5872,7 +6195,10 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Miranda oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
+    "atmosfera": "Miranda oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras.",
+    "whyVisit": "🗺️ Ecoturismo\n🎒 Aventuras ao ar livre\n🦋 Observação de fauna\n🌿 Natureza preservada\n🎣 Pesca esportiva",
+    "bestSeason": "Maio a Setembro",
+    "dicaStradello": "Combine com Corumbá para um roteiro completo do Pantanal sul-mato-grossense."
   },
   {
     "slug": "corumba",
@@ -5934,7 +6260,10 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Corumbá é para quem busca conexão profunda com a natureza e paisagens originais."
+    "atmosfera": "Corumbá é para quem busca conexão profunda com a natureza e paisagens originais.",
+    "whyVisit": "🎒 Aventuras ao ar livre\n🗺️ Ecoturismo\n🦋 Observação de fauna\n🌿 Natureza preservada\n🎣 Pesca esportiva",
+    "bestSeason": "Maio a Setembro",
+    "dicaStradello": "Combine com Miranda para um roteiro completo do Pantanal sul-mato-grossense."
   },
   {
     "slug": "aquidauana",
@@ -5996,7 +6325,10 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Aquidauana oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
+    "atmosfera": "Aquidauana oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras.",
+    "whyVisit": "🎒 Aventuras ao ar livre\n🗺️ Ecoturismo\n🦋 Observação de fauna\n🌿 Natureza preservada\n🎣 Pesca esportiva",
+    "bestSeason": "Maio a Setembro",
+    "dicaStradello": "Combine com Corumbá para um roteiro completo do Pantanal sul-mato-grossense."
   },
   {
     "slug": "chapada-diamantina",
@@ -6058,7 +6390,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Chapada Diamantina oferece cachoeiras, cânions e trilhas em um cenário de serras e vales."
+    "atmosfera": "Chapada Diamantina oferece cachoeiras, cânions e trilhas em um cenário de serras e vales.",
+    "whyVisit": "🌿 Contato com a natureza\n🔭 Observação de fauna\n💧 Cachoeiras\n🏔️ Cânions\n🥾 Trilhas deslumbrantes",
+    "bestSeason": "Abril a Outubro",
+    "dicaStradello": "Visite o Poço Encantado e o Morro do Pai Inácio para as melhores vistas."
   },
   {
     "slug": "lencois-ba",
@@ -6130,7 +6465,10 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Lençóis é para quem busca conexão profunda com a natureza e paisagens originais."
+    "atmosfera": "Lençóis é para quem busca conexão profunda com a natureza e paisagens originais.",
+    "whyVisit": "🏺 Cultura e arte\n🏺 Festividades culturais\n🗺️ Ecoturismo\n🌿 Contato com a natureza\n🏛️ Arquitetura colonial",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Combine com a Chapada Diamantina para um roteiro completo da região."
   },
   {
     "slug": "mucuge",
@@ -6202,7 +6540,10 @@
         "icon": "🥾"
       }
     ],
-    "atmosfera": "Mucugê oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras."
+    "atmosfera": "Mucugê oferece o refúgio perfeito para quem ama a vida ao ar livre e aventuras.",
+    "whyVisit": "🏛️ Arquitetura colonial preservada\n🏛️ Patrimônio histórico\n🔭 Observação de fauna\n🥾 Trilhas e cachoeiras\n🌿 Natureza preservada",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Combine com Lençóis para um roteiro completo da Chapada Diamantina."
   },
   {
     "slug": "palmeiras",
@@ -6274,7 +6615,10 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Palmeiras é para quem busca conexão profunda com a natureza e paisagens originais."
+    "atmosfera": "Palmeiras é para quem busca conexão profunda com a natureza e paisagens originais.",
+    "whyVisit": "🏺 Festividades culturais\n🏺 Cultura e arte\n🌿 Contato com a natureza\n🗺️ Ecoturismo\n🏛️ Arquitetura colonial",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Combine com Lençóis e Mucugê para um roteiro completo da Chapada Diamantina."
   },
   {
     "slug": "itacare",
@@ -6346,7 +6690,10 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Itacaré une praias paradisíacas, cachoeiras e cultura caiçara no litoral sul da Bahia."
+    "atmosfera": "Itacaré une praias paradisíacas, cachoeiras e cultura caiçara no litoral sul da Bahia.",
+    "whyVisit": "🏝️ Ilhas e baías\n🏖️ Praias paradisíacas\n🌿 Contato com a natureza\n🎒 Aventuras ao ar livre\n🏄 Surf e trilhas",
+    "bestSeason": "Dezembro a Março",
+    "dicaStradello": "Visite a Praia da Ribeira e faça as trilhas para as cachoeiras da região."
   },
   {
     "slug": "prado",
@@ -6418,7 +6765,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Prado é para quem ama o mar, brisa salgada e dias inteiros de sol."
+    "atmosfera": "Prado é para quem ama o mar, brisa salgada e dias inteiros de sol.",
+    "whyVisit": "⚽ Esportes aquáticos\n🌟 Águas cristalinas\n🎒 Aventuras ao ar livre\n🔭 Observação de fauna\n🏝️ Praias desertas",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Visite a Praia do Cumuruxatiba e explore as trilhas da região."
   },
   {
     "slug": "camamu",
@@ -6490,7 +6840,10 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Camamu é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Camamu é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "🤿 Surf e mergulho\n🐠 Vida marinha\n🎒 Aventuras ao ar livre\n🌿 Contato com a natureza\n🏝️ Ilhas e baías",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Explore a Baía de Camamu e visite a Ilha do Goió."
   },
   {
     "slug": "ilheus",
@@ -6567,7 +6920,10 @@
         "icon": "🌈"
       }
     ],
-    "atmosfera": "Ilhéus é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Ilhéus é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "⚽ Esportes aquáticos\n🏖️ Praias paradisíacas\n🏛️ Centro histórico\n🍽️ Gastronomia tradicional\n🌈 Ambientes charmosos",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Visite o Centro Histórico e prove a gastronomia cacaueira da região."
   },
   {
     "slug": "porto-seguro",
@@ -6644,7 +7000,10 @@
         "icon": "🎪"
       }
     ],
-    "atmosfera": "Porto Seguro é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Porto Seguro é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "🏖️ Praias paradisíacas\n🏝️ Ilhas e baías\n🏛️ Arquitetura colonial preservada\n🏺 Cultura e arte\n🎪 Vibe relax",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Visite o Centro Histórico e descubra as praias de Arraial d'Ajuda e Trancoso."
   },
   {
     "slug": "trancoso",
@@ -6721,7 +7080,10 @@
         "icon": "💎"
       }
     ],
-    "atmosfera": "Trancoso preserva o charme da vila de pescadores com praias desertas e clima descontraído."
+    "atmosfera": "Trancoso preserva o charme da vila de pescadores com praias desertas e clima descontraído.",
+    "whyVisit": "🐠 Vida marinha\n🌅 Pôr do sol inesquecível\n🏛️ Patrimônio histórico\n🏛️ Arquitetura colonial preservada\n💎 Vibe relax",
+    "bestSeason": "Dezembro a Março",
+    "dicaStradello": "Visite o Quadrado Histórico e as praias dos Nativos e Coqueiros."
   },
   {
     "slug": "arraial-dajuda",
@@ -6798,7 +7160,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Arraial d'Ajuda é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Arraial d'Ajuda é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "🐠 Vida marinha\n🌅 Pôr do sol inesquecível\n🏛️ Arquitetura colonial preservada\n🍽️ Gastronomia tradicional\n☕ Cafeterias aconchegantes",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Visite o Centro Histórico e as praias da região."
   },
   {
     "slug": "corumbau",
@@ -6870,7 +7235,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Corumbau oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Corumbau oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina.",
+    "whyVisit": "🏆 Águas cristalinas\n🤿 Surf e mergulho\n🎯 Paisagens únicas\n🔭 Observação de fauna\n🏝️ Praias desertas",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Combine com Prado para um roteiro completo do extremo sul da Bahia."
   },
   {
     "slug": "caraiva",
@@ -6942,7 +7310,10 @@
         "icon": "💎"
       }
     ],
-    "atmosfera": "Caraíva combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
+    "atmosfera": "Caraíva combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante.",
+    "whyVisit": "🏝️ Ilhas e baías\n🌅 Pôr do sol inesquecível\n🎒 Aventuras ao ar livre\n💎 Paisagens únicas\n🚫 Vila sem carros",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Combine com Itacaré para um roteiro completo do litoral sul da Bahia."
   },
   {
     "slug": "morro-de-sao-paulo",
@@ -7019,7 +7390,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Morro de São Paulo é vila de pescadores com praias desertas, trilhas e o ritmo lento da Bahia."
+    "atmosfera": "Morro de São Paulo é vila de pescadores com praias desertas, trilhas e o ritmo lento da Bahia.",
+    "whyVisit": "🐠 Vida marinha\n🎯 Águas cristalinas\n🏛️ Museus e igrejas\n🏺 Festividades culturais\n☕ Cafés especiais",
+    "bestSeason": "Dezembro a Março",
+    "dicaStradello": "Visite a Fortaleza e as praias da Primeira, Segunda e Terceira Praia."
   },
   {
     "slug": "boipeba",
@@ -7091,7 +7465,10 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Boipeba é ilha paradisíaca com praias desertas, manguezais e a cultura da Bahia."
+    "atmosfera": "Boipeba é ilha paradisíaca com praias desertas, manguezais e a cultura da Bahia.",
+    "whyVisit": "🤿 Surf e mergulho\n🌈 Águas cristalinas\n🌿 Contato com a natureza\n🎒 Aventuras ao ar livre\n🏝️ Ilha sem carros",
+    "bestSeason": "Dezembro a Março",
+    "dicaStradello": "Combine com Morro de São Paulo para um roteiro completo das ilhas da Bahia."
   },
   {
     "slug": "salvador",
@@ -7163,7 +7540,10 @@
         "icon": "🌟"
       }
     ],
-    "atmosfera": "Salvador é ideal para quem quer se perder em ruas de pedra e histórias antigas."
+    "atmosfera": "Salvador é ideal para quem quer se perder em ruas de pedra e histórias antigas.",
+    "whyVisit": "🏺 Cultura e arte\n🍽️ Gastronomia tradicional\n💻 Workation friendly\n🌟 Brunchs e sobremesas\n🏛️ Patrimônio histórico",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Visite o Pelourinho, o Mercado Modelo e prove a acarajé da região."
   },
   {
     "slug": "cachoeira",
@@ -7238,6 +7618,7 @@
     "atmosfera": "Cachoeira combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal. Casarões coloniais, igrejas barrocas e o Rio Paraguaçu criam uma atmosfera de história e cultura baiana.",
     "whyVisit": "🏛️ Casarões coloniais preservados\n⛪ Igrejas barrocas históricas\n☕ Cafés tradicionais\n🍽️ Gastronomia baiana tradicional\n🎭 Festivais culturais",
     "bestSeason": "Setembro a Março",
+    "dicaStradello": "Visite o Centro Histórico e explore as cachoeiras da região.",
     "attractions": "Igreja Matriz, Casa da Cultura, Cachoeira do Buraco, Centro histórico",
     "restaurants": "Restaurante da Casa, Bistrô Cachoeira, Casa de Pão de Queijo",
     "cafes": "Café Cachoeira, Confeitaria Colonial",
@@ -7248,8 +7629,7 @@
     "similarDestinations": "São Félix, Lençóis BA, Palmeiras",
     "hiddenAlternatives": "",
     "porqueCombina": "Você busca história colonial, cultura baiana e a autenticidade do Recôncavo.",
-    "experienciasAutenticas": "Visita aos casarões coloniais, Caminhada pelo centro histórico, Degustação de acarajé",
-    "dicaStradello": "Combine com São Félix para um roteiro completo do Recôncavo Baiano."
+    "experienciasAutenticas": "Visita aos casarões coloniais, Caminhada pelo centro histórico, Degustação de acarajé"
   },
   {
     "slug": "sao-felix",
@@ -7407,7 +7787,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Feira de Santana é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Feira de Santana é para quem ama história, arquitetura preservada e caminhar pelo passado.",
+    "whyVisit": "🏛️ Patrimônio histórico\n🏺 Festividades culturais\n✨ Vibe relax\n☕ Cafeterias aconchegantes\n🎭 Cultura local",
+    "bestSeason": "Setembro a Março",
+    "dicaStradello": "Combine com Salvador para um roteiro completo da Bahia."
   },
   {
     "slug": "florianopolis",
@@ -7484,7 +7867,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Florianópolis oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Florianópolis oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina.",
+    "whyVisit": "🌅 Pôr do sol inesquecível\n🐠 Vida marinha\n🏛️ Museus e igrejas\n🏛️ Centro histórico\n☕ Cafeterias aconchegantes",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Explore as praias da Ilha e o Centro Histórico de Florianópolis."
   },
   {
     "slug": "palhoca",
@@ -7561,7 +7947,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Palhoça combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
+    "atmosfera": "Palhoça combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante.",
+    "whyVisit": "🌅 Pôr do sol inesquecível\n🐠 Vida marinha\n🏺 Festividades culturais\n🏛️ Centro histórico\n☕ Cultura do café",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Florianópolis para um roteiro completo da Grande Florianópolis."
   },
   {
     "slug": "sao-jose-sc",
@@ -7638,7 +8027,10 @@
         "icon": "✨"
       }
     ],
-    "atmosfera": "São José é para quem ama o mar, brisa salgada e dias inteiros de sol."
+    "atmosfera": "São José é para quem ama o mar, brisa salgada e dias inteiros de sol.",
+    "whyVisit": "🌅 Pôr do sol inesquecível\n🐠 Vida marinha\n🏛️ Centro histórico\n🏛️ Patrimônio histórico\n✨ Vibe relax",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Florianópolis e Palhoça para um roteiro completo da Grande Florianópolis."
   },
   {
     "slug": "biguacu",
@@ -7710,7 +8102,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Biguaçu é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Biguaçu é para quem ama história, arquitetura preservada e caminhar pelo passado.",
+    "whyVisit": "🏛️ Arquitetura colonial preservada\n🏺 Festividades culturais\n💎 Vibe relax\n☕ Cultura do café\n🎭 Cultura local",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Florianópolis para um roteiro completo da região."
   },
   {
     "slug": "garopaba",
@@ -7782,7 +8177,10 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Garopaba combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
+    "atmosfera": "Garopaba combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante.",
+    "whyVisit": "🏝️ Ilhas e baías\n✨ Águas cristalinas\n🌿 Natureza preservada\n🗺️ Ecoturismo\n🎒 Aventuras ao ar livre",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Imbituba para um roteiro completo do litoral sul de Santa Catarina."
   },
   {
     "slug": "imbituba",
@@ -7854,7 +8252,10 @@
         "icon": "🗺️"
       }
     ],
-    "atmosfera": "Imbituba é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Imbituba é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "🤿 Surf e mergulho\n🔥 Águas cristalinas\n🥾 Trilhas e cachoeiras\n🗺️ Ecoturismo\n🏝️ Praias paradisíacas",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Garopaba para um roteiro completo do litoral sul de Santa Catarina."
   },
   {
     "slug": "laguna",
@@ -7931,7 +8332,10 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Laguna é para quem ama o mar, brisa salgada e dias inteiros de sol."
+    "atmosfera": "Laguna é para quem ama o mar, brisa salgada e dias inteiros de sol.",
+    "whyVisit": "🏛️ Museus e igrejas\n🏛️ Arquitetura colonial preservada\n💫 Águas cristalinas\n🐠 Vida marinha\n💻 Workation friendly",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite o Centro Histórico e as praias da região."
   },
   {
     "slug": "turvo",
@@ -8003,7 +8407,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Turvo combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
+    "atmosfera": "Turvo combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante.",
+    "whyVisit": "💎 Águas cristalinas\n🐠 Vida marinha\n🌿 Contato com a natureza\n🔭 Observação de fauna\n🏝️ Praias desertas",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Garopaba e Imbituba para um roteiro completo do litoral sul de Santa Catarina."
   },
   {
     "slug": "joinville",
@@ -8075,7 +8482,10 @@
         "icon": "🌟"
       }
     ],
-    "atmosfera": "Joinville oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Joinville oferece o refúgio perfeito para quem busca arte, cultura e descobertas.",
+    "whyVisit": "🏛️ Centro histórico\n🍽️ Gastronomia tradicional\n🎯 Vibe relax\n🌟 Brunchs e sobremesas\n💻 Workation friendly",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite o Centro Histórico e participe do Festival de Dança da cidade."
   },
   {
     "slug": "jaragua-do-sul",
@@ -8147,7 +8557,10 @@
         "icon": "🔥"
       }
     ],
-    "atmosfera": "Jaraguá do Sul oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Jaraguá do Sul oferece o refúgio perfeito para quem busca arte, cultura e descobertas.",
+    "whyVisit": "🏛️ Centro histórico\n🍽️ Gastronomia tradicional\n☕ Cafés especiais\n🔥 Ambientes charmosos\n💻 Workation friendly",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite o Centro Histórico e participe das feiras da cidade."
   },
   {
     "slug": "sao-bento-do-sul",
@@ -8219,7 +8632,10 @@
         "icon": "✨"
       }
     ],
-    "atmosfera": "São Bento do Sul oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "São Bento do Sul oferece o refúgio perfeito para quem busca arte, cultura e descobertas.",
+    "whyVisit": "🏛️ Arquitetura colonial preservada\n🏺 Cultura e arte\n☕ Cafeterias aconchegantes\n✨ Brunchs e sobremesas\n🍽️ Gastronomia alemã",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite o Centro Histórico e prove a gastronomia alemã da região."
   },
   {
     "slug": "rio-negrinho",
@@ -8296,7 +8712,10 @@
         "icon": "💎"
       }
     ],
-    "atmosfera": "Rio Negrinho oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa."
+    "atmosfera": "Rio Negrinho oferece o refúgio perfeito para quem busca frio, fogueiras e viagens sem pressa.",
+    "whyVisit": "☕ Cafés aconchegantes\n⛰️ Clima serrano romântico\n🏛️ Arquitetura colonial preservada\n🏺 Cultura e arte\n💎 Ambientes charmosos",
+    "bestSeason": "Junho a Agosto",
+    "dicaStradello": "Combine com São Bento do Sul para um roteiro completo da serra catarinense."
   },
   {
     "slug": "curitiba",
@@ -8368,7 +8787,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Curitiba combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Curitiba combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal.",
+    "whyVisit": "🏺 Festividades culturais\n🏛️ Centro histórico\n💎 Brunchs e sobremesas\n☕ Cultura do café\n💻 Workation friendly",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite os parques da cidade e o Centro Histórico de Curitiba."
   },
   {
     "slug": "sao-jose-dos-pinhais",
@@ -8440,7 +8862,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "São José dos Pinhais é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "São José dos Pinhais é para quem ama história, arquitetura preservada e caminhar pelo passado.",
+    "whyVisit": "🏺 Festividades culturais\n🏺 Cultura e arte\n🏆 Brunchs e sobremesas\n☕ Cafeterias aconchegantes\n💻 Workation friendly",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Curitiba para um roteiro completo da região metropolitana."
   },
   {
     "slug": "colombo",
@@ -8512,7 +8937,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Colombo é ideal para quem quer se perder em ruas de pedra e histórias antigas."
+    "atmosfera": "Colombo é ideal para quem quer se perder em ruas de pedra e histórias antigas.",
+    "whyVisit": "🏛️ Arquitetura colonial preservada\n🍽️ Gastronomia tradicional\n🔥 Brunchs e sobremesas\n☕ Cafés especiais\n🎭 Cultura polonesa",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite o Centro Histórico e prove a gastronomia polonesa da região."
   },
   {
     "slug": "araucaria",
@@ -8584,7 +9012,10 @@
         "icon": "🏆"
       }
     ],
-    "atmosfera": "Araucária combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Araucária combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal.",
+    "whyVisit": "🏛️ Arquitetura colonial preservada\n🏛️ Centro histórico\n☕ Cafeterias aconchegantes\n🏆 Brunchs e sobremesas\n💻 Workation friendly",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Curitiba para um roteiro completo da região metropolitana."
   },
   {
     "slug": "morretes",
@@ -9170,9 +9601,9 @@
       "medio": 8,
       "premium": 10
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Março a Maio e Setembro a Novembro",
+    "seasonDescription": "Evita calor extremo e chuvas intensas, ideal para explorar as Cataratas do Iguaçu com clima agradável.",
+    "seasonPeriod": "Mar–Mai / Set–Nov",
     "uniqueReasons": [
       "Paisagens únicas",
       "Trilhas e cachoeiras"
@@ -9187,7 +9618,8 @@
         "icon": "🥾"
       }
     ],
-    "atmosfera": "Puerto Iguazú é para quem busca conexão profunda com a natureza e paisagens originais."
+    "atmosfera": "Puerto Iguazú é para quem busca conexão profunda com a natureza e paisagens originais.",
+    "bestSeason": "Março a Maio e Setembro a Novembro"
   },
   {
     "slug": "ciudad-del-este",
@@ -9232,9 +9664,9 @@
       "medio": 8,
       "premium": 7
     },
-    "seasonTitle": "Ano todo",
-    "seasonDescription": "Clima agradável durante todo o ano, ideal para visitação em qualquer época.",
-    "seasonPeriod": "Jan – Dez",
+    "seasonTitle": "Março a Maio e Setembro a Novembro",
+    "seasonDescription": "Clima ameno evitando calor extremo, ideal para compras e passeios às Cataratas do Iguaçu.",
+    "seasonPeriod": "Mar–Mai / Set–Nov",
     "uniqueReasons": [
       "Festividades culturais",
       "Patrimônio histórico",
@@ -9259,7 +9691,8 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Ciudad del Este é ideal para quem quer se perder em ruas de pedra e histórias antigas."
+    "atmosfera": "Ciudad del Este é ideal para quem quer se perder em ruas de pedra e histórias antigas.",
+    "bestSeason": "Março a Maio e Setembro a Novembro"
   },
   {
     "slug": "iguacu-national-park",
