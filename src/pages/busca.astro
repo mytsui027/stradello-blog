@@ -16,6 +16,8 @@ const searchIndex = sorted.map((post) => ({
   category: post.data.category,
   tags: post.data.tags,
   pubDate: post.data.pubDate.toISOString(),
+  heroImage: post.data.heroImage,
+  heroImageAlt: post.data.heroImageAlt,
 }));
 ---
 
@@ -104,11 +106,14 @@ const searchIndex = sorted.map((post) => ({
   function renderCard(post) {
     return `
       <article class="card group flex flex-col">
-        <div class="card-image-wrap flex items-center justify-center" style="background: var(--color-bg-alt); aspect-ratio: 16/10;">
-          <svg width="40" height="40" viewBox="0 0 28 28" fill="none" aria-hidden="true">
-            <path d="M14 3C14 3 6 8 6 16C6 20.4183 9.58172 24 14 24C18.4183 24 22 20.4183 22 16C22 8 14 3 14 3Z" fill="var(--color-accent-light)" opacity="0.5" />
-          </svg>
-        </div>
+        <div class="card-image-wrap overflow-hidden" style="aspect-ratio: 16/10;">
+  <img
+    src="${post.heroImage}"
+    alt="${post.heroImageAlt || post.title}"
+    class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+    loading="lazy"
+  />
+</div>
         <div class="flex flex-col flex-1 p-5">
           <div class="mb-3">
             <span class="badge-sage">${post.category}</span>
