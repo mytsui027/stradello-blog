@@ -9350,7 +9350,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Matinhos combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante."
+    "atmosfera": "Matinhos combina praias paradisíacas, pôr do sol inesquecível e ritmo litorâneo relaxante.",
+    "whyVisit": "🤿 Surf e mergulho\n⚽ Esportes aquáticos\n🎒 Aventuras ao ar livre\n🔭 Observação de fauna\n🏝️ Praias paradisíacas",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Guaratuba para um roteiro completo do litoral paranaense."
   },
   {
     "slug": "guaratuba",
@@ -9422,7 +9425,10 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Guaratuba é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Guaratuba é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "🐠 Vida marinha\n🤿 Surf e mergulho\n🌿 Contato com a natureza\n🎒 Aventuras ao ar livre\n🏝️ Praias paradisíacas",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Matinhos para um roteiro completo do litoral paranaense."
   },
   {
     "slug": "caioba",
@@ -9494,7 +9500,10 @@
         "icon": "🥾"
       }
     ],
-    "atmosfera": "Caioba é para quem ama o mar, brisa salgada e dias inteiros de sol."
+    "atmosfera": "Caioba é para quem ama o mar, brisa salgada e dias inteiros de sol.",
+    "whyVisit": "🏖️ Praias paradisíacas\n🐠 Vida marinha\n🏆 Paisagens únicas\n🥾 Trilhas e cachoeiras\n🏝️ Praias desertas",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Guaratuba e Matinhos para um roteiro completo do litoral paranaense."
   },
   {
     "slug": "foz-do-iguacu",
@@ -9556,7 +9565,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Foz do Iguaçu combina trilhas, cachoeiras e a beleza crua do ambiente natural."
+    "atmosfera": "Foz do Iguaçu combina trilhas, cachoeiras e a beleza crua do ambiente natural.",
+    "whyVisit": "🎒 Aventuras ao ar livre\n🔭 Observação de fauna\n💦 Cataratas do Iguaçu\n🌿 Natureza preservada\n🗺️ Ecoturismo",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite as Cataratas do Iguaçu e o Parque Nacional do Iguaçu."
   },
   {
     "slug": "puerto-iguazu",
@@ -9619,7 +9631,9 @@
       }
     ],
     "atmosfera": "Puerto Iguazú é para quem busca conexão profunda com a natureza e paisagens originais.",
-    "bestSeason": "Março a Maio e Setembro a Novembro"
+    "whyVisit": "🌟 Paisagens únicas\n🥾 Trilhas e cachoeiras\n💦 Cataratas do Iguaçu\n🌿 Natureza preservada\n🗺️ Ecoturismo",
+    "bestSeason": "Março a Maio e Setembro a Novembro",
+    "dicaStradello": "Combine com Foz do Iguaçu para um roteiro completo das Cataratas."
   },
   {
     "slug": "ciudad-del-este",
@@ -9692,7 +9706,9 @@
       }
     ],
     "atmosfera": "Ciudad del Este é ideal para quem quer se perder em ruas de pedra e histórias antigas.",
-    "bestSeason": "Março a Maio e Setembro a Novembro"
+    "whyVisit": "🏺 Festividades culturais\n🏛️ Patrimônio histórico\n☕ Cafeterias aconchegantes\n💻 Workation friendly\n🛍️ Compras e comércio",
+    "bestSeason": "Março a Maio e Setembro a Novembro",
+    "dicaStradello": "Combine com Foz do Iguaçu e Puerto Iguazú para um roteiro completo da tríplice fronteira."
   },
   {
     "slug": "iguacu-national-park",
@@ -9754,7 +9770,10 @@
         "icon": "🎒"
       }
     ],
-    "atmosfera": "Parque Nacional do Iguaçu é ideal para quem quer se desconectar e mergulhar em paisagens preservadas."
+    "atmosfera": "Parque Nacional do Iguaçu é ideal para quem quer se desconectar e mergulhar em paisagens preservadas.",
+    "whyVisit": "🌿 Natureza preservada\n🎒 Aventuras ao ar livre\n💦 Cataratas do Iguaçu\n🗺️ Ecoturismo\n🔭 Observação de fauna",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Foz do Iguaçu para um roteiro completo das Cataratas."
   },
   {
     "slug": "cascavel",
@@ -9826,7 +9845,10 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Cascavel é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Cascavel é para quem ama história, arquitetura preservada e caminhar pelo passado.",
+    "whyVisit": "🏺 Festividades culturais\n🏛️ Patrimônio histórico\n🌟 Ambientes charmosos\n💻 Workation friendly\n🍽️ Gastronomia local",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Foz do Iguaçu para um roteiro completo do oeste paranaense."
   },
   {
     "slug": "guarapuava",
@@ -9903,7 +9925,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Guarapuava é ideal para quem ama montanhas, ar puro e noites estreladas na serra."
+    "atmosfera": "Guarapuava é ideal para quem ama montanhas, ar puro e noites estreladas na serra.",
+    "whyVisit": "🍽️ Gastronomia de montanha\n⛰️ Clima serrano romântico\n🏺 Cultura e arte\n🏺 Festividades culturais\n☕ Cafés especiais",
+    "bestSeason": "Junho a Agosto",
+    "dicaStradello": "Combine com Rio Negrinho para um roteiro completo da serra paranaense."
   },
   {
     "slug": "pato-branco",
@@ -9975,7 +10000,10 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Pato Branco combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Pato Branco combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal.",
+    "whyVisit": "🏛️ Arquitetura colonial preservada\n🏛️ Patrimônio histórico\n☕ Cafés especiais\n💻 Workation friendly\n🍽️ Gastronomia local",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Cascavel para um roteiro completo do sudoeste paranaense."
   },
   {
     "slug": "francisco-beltrao",
@@ -10047,7 +10075,10 @@
         "icon": "🔥"
       }
     ],
-    "atmosfera": "Francisco Beltrão oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Francisco Beltrão oferece o refúgio perfeito para quem busca arte, cultura e descobertas.",
+    "whyVisit": "🍽️ Gastronomia tradicional\n🏛️ Arquitetura colonial preservada\n☕ Cultura do café\n🔥 Brunchs e sobremesas\n💻 Workation friendly",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Pato Branco para um roteiro completo do sudoeste paranaense."
   },
   {
     "slug": "londrina",
@@ -10119,7 +10150,10 @@
         "icon": "🏆"
       }
     ],
-    "atmosfera": "Londrina oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Londrina oferece o refúgio perfeito para quem busca arte, cultura e descobertas.",
+    "whyVisit": "🍽️ Gastronomia tradicional\n🏛️ Arquitetura colonial preservada\n☕ Cafeterias aconchegantes\n🏆 Vibe relax\n💻 Workation friendly",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite os parques da cidade e o Centro Histórico de Londrina."
   },
   {
     "slug": "maringa",
@@ -10191,7 +10225,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Maringá é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Maringá é para quem ama história, arquitetura preservada e caminhar pelo passado.",
+    "whyVisit": "🏛️ Patrimônio histórico\n🏺 Cultura e arte\n🎯 Ambientes charmosos\n☕ Cafeterias aconchegantes\n💻 Workation friendly",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite o Centro Histórico e os parques da cidade."
   },
   {
     "slug": "ponta-grossa",
@@ -10263,7 +10300,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Ponta Grossa oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Ponta Grossa oferece o refúgio perfeito para quem busca arte, cultura e descobertas.",
+    "whyVisit": "🍽️ Gastronomia tradicional\n🏛️ Arquitetura colonial preservada\n💻 Workation friendly\n☕ Cafeterias aconchegantes\n🌿 Acesso à serra",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Guarapuava para um roteiro completo da serra paranaense."
   },
   {
     "slug": "castro",
@@ -10593,7 +10633,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Porto Alegre combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Porto Alegre combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal.",
+    "whyVisit": "🏛️ Museus e igrejas\n🏛️ Centro histórico\n🔥 Vibe relax\n☕ Cafeterias aconchegantes\n💻 Workation friendly",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite o Centro Histórico e os parques da cidade."
   },
   {
     "slug": "sao-francisco-de-paula",
@@ -10670,7 +10713,10 @@
         "icon": "🎪"
       }
     ],
-    "atmosfera": "São Francisco de Paula preserva o charme gaúcho com trilhas, cânions e clima serrano."
+    "atmosfera": "São Francisco de Paula preserva o charme gaúcho com trilhas, cânions e clima serrano.",
+    "whyVisit": "🍽️ Gastronomia de montanha\n⛰️ Clima serrano romântico\n🏺 Cultura e arte\n🏺 Festividades culturais\n🎪 Ambientes charmosos",
+    "bestSeason": "Junho a Agosto",
+    "dicaStradello": "Combine com Gramado e Canela para um roteiro completo da serra gaúcha."
   },
   {
     "slug": "caxias-do-sul",
@@ -10742,7 +10788,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Caxias do Sul combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Caxias do Sul combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal.",
+    "whyVisit": "🏛️ Centro histórico\n🏺 Cultura e arte\n🎪 Ambientes charmosos\n☕ Cafés especiais\n🍷 Cultura italiana e vinícolas",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Bento Gonçalves para um roteiro completo da serra gaúcha."
   },
   {
     "slug": "bento-goncalves",
@@ -10814,7 +10863,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Bento Gonçalves combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Bento Gonçalves combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal.",
+    "whyVisit": "🏛️ Patrimônio histórico\n🏛️ Arquitetura colonial preservada\n🎯 Brunchs e sobremesas\n☕ Cafés especiais\n🍷 Vinícolas e cultura italiana",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite as vinícolas e o Centro Histórico de Bento Gonçalves."
   },
   {
     "slug": "garibaldi",
@@ -10886,7 +10938,10 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Garibaldi oferece o refúgio perfeito para quem busca arte, cultura e descobertas."
+    "atmosfera": "Garibaldi oferece o refúgio perfeito para quem busca arte, cultura e descobertas.",
+    "whyVisit": "🏛️ Patrimônio histórico\n🏛️ Arquitetura colonial preservada\n☕ Cafés especiais\n💻 Workation friendly\n🍷 Vinícolas e cultura italiana",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Bento Gonçalves para um roteiro completo da serra gaúcha."
   },
   {
     "slug": "flores-da-cunha",
@@ -10958,7 +11013,10 @@
         "icon": "💻"
       }
     ],
-    "atmosfera": "Flores da Cunha é para quem ama história, arquitetura preservada e caminhar pelo passado."
+    "atmosfera": "Flores da Cunha é para quem ama história, arquitetura preservada e caminhar pelo passado.",
+    "whyVisit": "🍽️ Gastronomia tradicional\n🏺 Cultura e arte\n🏆 Brunchs e sobremesas\n💻 Workation friendly\n🍷 Vinícolas e cultura italiana",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Bento Gonçalves e Garibaldi para um roteiro completo da serra gaúcha."
   },
   {
     "slug": "pelotas",
@@ -11293,7 +11351,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Cassino é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Cassino é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "⚽ Esportes aquáticos\n🌅 Pôr do sol inesquecível\n🔥 Paisagens únicas\n🔭 Observação de fauna\n🏖️ Praia mais longa do mundo",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Rio Grande para um roteiro completo do litoral sul-riograndense."
   },
   {
     "slug": "torres",
@@ -11365,7 +11426,10 @@
         "icon": "🥾"
       }
     ],
-    "atmosfera": "Torres oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina."
+    "atmosfera": "Torres oferece o refúgio perfeito para quem busca areia, mar e desconexão da rotina.",
+    "whyVisit": "⚽ Esportes aquáticos\n🌅 Pôr do sol inesquecível\n🗺️ Ecoturismo\n🥾 Trilhas e cachoeiras\n🏖️ Falésias e praias",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Capão da Canoa para um roteiro completo do litoral norte gaúcho."
   },
   {
     "slug": "capao-da-canoa",
@@ -11437,7 +11501,10 @@
         "icon": "🔭"
       }
     ],
-    "atmosfera": "Capão da Canoa é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Capão da Canoa é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "⚽ Esportes aquáticos\n🐠 Vida marinha\n🎒 Aventuras ao ar livre\n🔭 Observação de fauna\n🏖️ Praias paradisíacas",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Torres para um roteiro completo do litoral norte gaúcho."
   },
   {
     "slug": "tramandai",
@@ -11514,7 +11581,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Tramandaí é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Tramandaí é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "🎯 Águas cristalinas\n🐠 Vida marinha\n🍽️ Gastronomia tradicional\n🏛️ Patrimônio histórico\n☕ Cultura do café",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Capão da Canoa para um roteiro completo do litoral norte gaúcho."
   },
   {
     "slug": "arroio-do-sal",
@@ -11586,7 +11656,10 @@
         "icon": "🌿"
       }
     ],
-    "atmosfera": "Arroio do Sal é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Arroio do Sal é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "🌅 Pôr do sol inesquecível\n⭐ Águas cristalinas\n🥾 Trilhas e cachoeiras\n🌿 Contato com a natureza\n🏖️ Praias desertas",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Torres para um roteiro completo do litoral norte gaúcho."
   },
   {
     "slug": "bom-jardim-da-serra",
@@ -11739,7 +11812,10 @@
         "icon": "☕"
       }
     ],
-    "atmosfera": "Timbó combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal."
+    "atmosfera": "Timbó combina patrimônio cultural, gastronomia tradicional e uma vibe atemporal.",
+    "whyVisit": "🏛️ Centro histórico\n🏺 Festividades culturais\n☕ Cultura do café\n☕ Cafés especiais\n🇩🇪 Cultura alemã",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Combine com Jaraguá do Sul para um roteiro completo do vale do Itajaí."
   },
   {
     "slug": "vitoria-es",
@@ -11815,7 +11891,10 @@
         "icon": "🎪"
       }
     ],
-    "atmosfera": "Vitória é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Vitória é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "✨ Orla urbana\n🍽️ Gastronomia de frutos do mar\n🏝️ Ilhas paradisíacas\n🌴 Clima tropical\n🎪 Cidade vibrante",
+    "bestSeason": "Dezembro a Março",
+    "dicaStradello": "Visite as ilhas próximas e aproveite a orla urbana de Vitória."
   },
   {
     "slug": "itaunas",
@@ -11890,6 +11969,9 @@
         "icon": "✨"
       }
     ],
-    "atmosfera": "Itaúnas é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral."
+    "atmosfera": "Itaúnas é ideal para quem ama águas cristalinas, ilhas e a vibe do litoral.",
+    "whyVisit": "🏜️ Dunas gigantes\n🏖️ Praia selvagem\n💃 Forró tradicional\n🎣 Vila de pescadores\n✨ Atmosfera rústica",
+    "bestSeason": "Dezembro a Fevereiro",
+    "dicaStradello": "Visite as dunas ao pôr do sol e aproveite o forró tradicional na vila."
   }
 ]
