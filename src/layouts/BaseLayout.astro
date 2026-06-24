@@ -145,14 +145,9 @@ const ogImg = ogImage ?? `${SITE.url}/og-default.jpg`;
       </>
     )}
 
-    <!-- Google AdSense (only when enabled) -->
-    {SITE.adsense.enabled && SITE.adsense.publisherId && (
-      <script
-        async
-        src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${SITE.adsense.publisherId}`}
-        crossorigin="anonymous"
-      />
-    )}
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1107904476897323"
+     crossorigin="anonymous"></script>
 
     <!-- Meta Pixel -->
     <script define:vars={{ pixelId: '1044315851253030' }}>
