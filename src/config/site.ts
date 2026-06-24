@@ -6,7 +6,7 @@ export const SITE = {
   name: 'Stradello',
   tagline: 'Viajar devagar. Sentir de verdade.',
   description: 'Blog sobre slow travel, viagens solo, natureza, destinos tranquilos, experiências locais e formas mais conscientes de explorar o mundo.',
-  url: import.meta.env.PUBLIC_SITE_URL || 'https://www.stradello.com.br',
+  url: import.meta.env.PUBLIC_SITE_URL || 'https://stradello.com.br',
   locale: 'pt-BR',
   language: 'pt',
   author: {
