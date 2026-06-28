@@ -1,7 +1,7 @@
 ---
-title: "América do Sul com RG: 10 Destinos Incríveis"
+title: "10 Destinos Incríveis da América do Sul Para Conhecer Apenas com o RG"
 slug: "10-destinos-america-do-sul-apenas-com-rg"
-description: "Conheça 10 destinos surpreendentes da América do Sul que brasileiros podem visitar apenas com o RG e viver experiências autênticas e inesquecíveis."
+description: "Conheça 10 destinos surpreendentes da América do Sul que brasileiros podem visitar apenas com o RG e viver experiências autênticas e inesquecíveis, Muito Além do Turismo Tradicional."
 pubDate: 2026-06-27
 category: "Guias de Destinos"
 author: "Cléber Lima | Stradello"
