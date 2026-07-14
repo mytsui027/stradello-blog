@@ -2,7 +2,7 @@
 title: "Por Que Cada Vez Mais Jovens Estão Escolhendo Cidades Pequenas Para Viajar"
 slug: "por-que-jovens-estao-escolhendo-cidades-pequenas-para-viajar"
 description: "Descubra por que uma nova geração está trocando grandes centros por cidades pequenas, tranquilas e autênticas para viver experiências mais significativas."
-pubDate: 2026-07-13
+pubDate: 2026-07-14
 category: "Slow Travel"
 author: "Cléber Lima | Stradello"
 tags:
