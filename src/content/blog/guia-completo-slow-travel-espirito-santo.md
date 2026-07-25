@@ -295,7 +295,7 @@ E a vista para as montanhas torna o passeio ainda mais especial.
 
 Sem perceber.
 
-## Aracruz: praiastranquilas e cultura indígena
+## Aracruz: praias tranquilas e cultura indígena
 
 Outra excelente extensão para quem está em Santa Teresa é Aracruz.
 
