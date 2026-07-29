@@ -13,7 +13,7 @@ tags:
   - Gastronomia
   - Brasil
   - Lugares para Desacelerar
-heroImage: "/assets/blog/feiras-livres-brasil.jpg"
+heroImage: "/assets/blog/feiras-livres-brasil2.jpg"
 heroImageAlt: "Barracas coloridas de uma feira livre brasileira com frutas, verduras e moradores circulando."
 featured: false
 draft: false
