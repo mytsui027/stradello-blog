@@ -15,7 +15,7 @@ tags:
   - ilha de páscoa
   - cabo polonio
   - quilotoa
-heroImage: "/assets/blog/destinos-america-do-sul-com-rg.jpg.jpg"
+heroImage: "/assets/blog/destinos-para-viajar-com-rg.jpg"
 heroImageAlt: "Viajante contemplando paisagens naturais da América do Sul durante uma viagem feita apenas com o RG"
 featured: false
 draft: false
