@@ -4,7 +4,7 @@ slug: "gramado-fugir-turismo-de-massa"
 description: "Um guia para conhecer Gramado além dos pontos turísticos mais disputados, com lugares tranquilos, experiências locais e um ritmo mais lento."
 pubDate: 2026-08-19
 author: "Cléber Lima | Stradello"
-category: "Slow Travel"
+category: "Guia de Destinos"
 tags:
   - Gramado
   - Rio Grande do Sul
