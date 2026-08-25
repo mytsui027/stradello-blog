@@ -425,7 +425,7 @@ E talvez seja esse o verdadeiro papel de uma cafeteria tranquila durante uma via
 
 ---
 
-# Como encontrar cafeterias tranquilas em uma cidade que você não conhece
+## Como encontrar cafeterias tranquilas em uma cidade que você não conhece
 
 Depois de entender que uma cafeteria tranquila não precisa ser necessariamente a mais famosa ou a mais bonita da cidade, surge uma pergunta prática: como encontrar esse tipo de lugar quando você está viajando?
 
@@ -919,7 +919,7 @@ O slow travel não depende de encontrar o lugar perfeito.
 Depende muito mais de permitir que o lugar onde você está seja suficiente.
 
 
-# FAQ: cafeterias tranquilas para trabalhar e desacelerar
+## FAQ: cafeterias tranquilas para trabalhar e desacelerar
 
 ## É possível trabalhar em qualquer cafeteria durante uma viagem?
 

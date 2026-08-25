@@ -76,7 +76,7 @@ export const CATEGORIES = [
     color: 'terra',
   },
   {
-    slug: 'cafeterias-e-livrarias',
+    slug: 'cafeterias-livrarias',
     name: 'Cafeterias & Livrarias',
     description: 'Os melhores recantos com uma boa xícara, boa leitura e silêncio suficiente para pensar.',
     emoji: '☕',
