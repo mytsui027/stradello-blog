@@ -3,7 +3,7 @@ title: "As Livrarias Mais Bonitas do Brasil Para Passar uma Tarde Inteira"
 slug: "livrarias-mais-bonitas-brasil"
 description: "Descubra livrarias encantadoras espalhadas pelo Brasil onde livros, cafés, arquitetura e silêncio transformam uma simples visita em uma experiência inesquecível."
 pubDate: 2026-07-16
-category: "Cafeterias e Livrarias"
+category: "Cafeterias & Livrarias"
 author: "Cléber Lima | Stradello"
 tags:
   - livrarias do Brasil

@@ -3,7 +3,7 @@ title: "Melhores Cidades Brasileiras Para Quem Ama Cafés e Livrarias"
 slug: "melhores-cidades-brasileiras-para-quem-ama-cafes-e-livrarias"
 description: "Descubra cidades brasileiras perfeitas para quem gosta de passar horas entre cafeterias acolhedoras, livrarias independentes e experiências culturais tranquilas."
 pubDate: 2026-06-11
-category: "Cafeterias e Livrarias"
+category: "Cafeterias & Livrarias"
 author: "Cléber Lima | Stradello"
 tags:
   - cafeterias
